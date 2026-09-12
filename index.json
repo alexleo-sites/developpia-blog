@@ -1,0 +1,40 @@
+{
+ "articles": [
+  {
+   "slug": "publicite-interdite-dentistes-leviers-autorises",
+   "titre": "Publicité interdite aux dentistes : les leviers de visibilité qui restent autorisés",
+   "description": "Publicité interdite aux dentistes : les sept leviers de visibilité qu'un cabinet dentaire garde le droit d'utiliser, et l'erreur à éviter pour chacun.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "visibilité"
+   ],
+   "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter."
+  },
+  {
+   "slug": "honoraires-site-cabinet-dentaire-obligation-presentation",
+   "titre": "Honoraires sur le site du cabinet dentaire : ce que la loi impose et comment les présenter",
+   "description": "L'affichage des honoraires du dentiste sur le site internet du cabinet : l'obligation du code de déontologie, les actes à montrer et une page claire.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "site du cabinet"
+   ],
+   "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté."
+  },
+  {
+   "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
+   "titre": "Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier",
+   "description": "Dentiste, ChatGPT, recommandation : votre cabinet dentaire est-il visible dans les IA ? La méthode en dix minutes pour le vérifier, sans outil payant.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "les IA",
+    "mesurer"
+   ],
+   "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity."
+  }
+ ]
+}

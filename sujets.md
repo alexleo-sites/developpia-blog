@@ -9,8 +9,8 @@ Format : `- [ ] Titre de travail | recherche visée | angle en une phrase`
 
 ## A. Le cadre de l'Ordre
 
-- [ ] Publicité interdite aux dentistes : les leviers de visibilité qui restent autorisés | publicité dentiste interdite | ce que le décret de 2020 ouvre, levier par levier
-- [ ] Honoraires sur le site du cabinet : ce que la loi impose et comment les présenter | affichage honoraires dentiste site internet | l'obligation, les cinq actes, la façon claire de les montrer
+- [x] Publicité interdite aux dentistes : les leviers de visibilité qui restent autorisés | publicité dentiste interdite | ce que le décret de 2020 ouvre, levier par levier (publié le 2026-09-12, publicite-interdite-dentistes-leviers-autorises)
+- [x] Honoraires sur le site du cabinet : ce que la loi impose et comment les présenter | affichage honoraires dentiste site internet | l'obligation, les cinq actes, la façon claire de les montrer (publié le 2026-09-12, honoraires-site-cabinet-dentaire-obligation-presentation)
 - [ ] Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie | avis google dentiste ordre | ce qui est écrit, ce que l'Ordre demande, la conduite prudente
 - [ ] « Spécialiste » ou pas : les mentions que vous avez le droit d'afficher | dentiste spécialiste mention site | les trois spécialités, les DU, la formulation juste
 - [ ] Photos avant et après sur un site de dentiste : pourquoi l'Ordre les juge trompeuses | photos avant après dentiste | ce qu'on montre à la place
@@ -39,7 +39,7 @@ Format : `- [ ] Titre de travail | recherche visée | angle en une phrase`
 
 ## D. Les IA
 
-- [ ] Votre cabinet apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier | dentiste chatgpt recommandation | les questions à poser, la grille de lecture
+- [x] Votre cabinet apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier | dentiste chatgpt recommandation | les questions à poser, la grille de lecture (publié le 2026-09-12, cabinet-dentaire-chatgpt-verifier-en-dix-minutes)
 - [ ] Aperçus IA de Google : ce qui change quand un patient cherche un dentiste | aperçus ia google dentiste | ce qui s'affiche, ce qui est cité
 - [ ] Comment les IA lisent un site de dentiste, et pourquoi le vôtre est peut-être invisible | site dentiste ia invisible | JavaScript, robots, Cloudflare
 - [ ] Cloudflare, robots.txt et robots des IA : le réglage qui rend un cabinet invisible | robots.txt ia cabinet dentaire | vérifier en deux minutes
