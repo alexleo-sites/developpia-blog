@@ -16,22 +16,28 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 ## Ce que doit contenir un article
 
 - Entre 1 200 et 1 600 mots (hors questions fréquentes).
-- Un titre qui contient la recherche visée, en français naturel (pas de « : guide complet 2026 »).
+- Un titre qui reprend la recherche visée dès le début, dans ses 70 premiers caractères (ce que
+  Google affiche), en français naturel (pas de « : guide complet 2026 »).
+- La recherche visée aussi dans la description, dans l'accroche et dans le nom du fichier.
 - Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
   « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
   « agence SEO dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
   IA dentiste », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
   renvoie vers la page.
+- Au moins un élément que les premiers résultats de Google sur cette recherche n'ont pas : un
+  exemple chiffré avec sa source, un tableau, une marche à suivre, une vérification que le
+  dentiste peut faire lui-même.
 - Un chapô de deux ou trois phrases (champ `accroche`) qui dit ce que le lecteur va gagner.
 - 5 à 8 titres de niveau 2 (`##`), un toutes les 150 à 250 mots.
 - Exactement un encart (citation dont la première ligne est en gras) : la phrase à retenir.
-- Au moins une liste à puces.
+- Au moins une liste à puces, et un tableau ou une liste numérotée (étapes, comparaison, liste
+  de contrôle).
 - Trois questions fréquentes à la fin, sous un `## Questions fréquentes`, chaque
   question en `###` suivie d'une réponse de 2 à 4 phrases. Elles deviennent des
   données structurées FAQ.
-- Au moins trois liens internes vers nos pages (liste plus bas) et un ou deux liens
-  vers une source officielle (Légifrance, ordre-chirurgiens-dentistes.fr, aide Google,
-  ameli.fr, Eurostat, Arcom).
+- Au moins trois liens internes vers nos pages (liste plus bas), dont la page d'offre la plus
+  proche du sujet, et un ou deux liens vers une source officielle (Légifrance,
+  ordre-chirurgiens-dentistes.fr, aide Google, ameli.fr, Eurostat, Arcom).
 - Au moins deux liens, dans le texte, vers des articles déjà publiés du blog, les plus
   proches du sujet (`python3 outils/publier.py --liens "vos sujets"` les liste). Le lexique
   ne compte pas dans ces deux liens.
@@ -171,5 +177,7 @@ Le corps utilise seulement :
    une page de « Nos pages à lier » ou un article publié, écrit `https://developpia.fr/...`
    avec la barre finale, ancre comprise. Une nouvelle page du site doit donc être ajoutée à
    « Nos pages à lier » avant qu'un article puisse la citer.
-10. Avec `--sujet`, le titre reprend les mots de la recherche visée : au plus un tiers
-    manquant, pluriels, formes proches et « dentaire » pour « dentiste » acceptés.
+10. Avec `--sujet`, les 70 premiers caractères du titre reprennent la recherche visée (au plus un
+    tiers des mots manquant) ; la description, l'accroche et le nom du fichier en reprennent au
+    moins la moitié (pluriels, formes proches et « dentaire » pour « dentiste » acceptés).
+11. Au moins un lien vers une page d'offre, et un tableau ou une liste numérotée.

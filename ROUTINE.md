@@ -34,13 +34,21 @@ article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
    mots déjà employés dans `index.json` (« site du cabinet », « les IA »…), et lance
    `python3 outils/publier.py --liens "<tes sujets, séparés par des virgules>"` : il liste
    les articles déjà publiés, les plus proches d'abord et, à égalité, les moins reliés.
+4 bis. Regarde ce que Google montre déjà : cherche la recherche visée avec WebSearch, ouvre
+   avec WebFetch les trois premiers résultats qui sont de vrais articles (ni annuaire, ni
+   publicité, ni page de developpia.fr) et note en une ligne ce que chacun couvre. Ton article
+   couvre ces points et apporte au moins une chose qu'aucun des trois n'a : un exemple chiffré
+   avec sa source, un tableau, une marche à suivre, une vérification que le dentiste peut faire
+   lui-même. Ne reprends aucune phrase de ces pages.
 5. Écris l'article dans `articles/<slug>.md` en respectant `CONSIGNES.md` à la lettre :
    en-tête complet, 1 200 à 1 600 mots, 5 à 8 titres `##`, exactement un encart, au moins
-   une liste, trois questions fréquentes, au moins trois liens vers developpia.fr, au moins
-   deux liens vers des articles de la liste de l'étape 4, un ou deux liens vers une source
-   officielle, aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin,
-   aucune promesse de position, aucun prix, aucun témoignage, aucun mot anglais non
-   expliqué. La date est celle d'aujourd'hui.
+   une liste et un tableau ou une liste numérotée, trois questions fréquentes, au moins trois
+   liens vers developpia.fr dont la page d'offre la plus proche du sujet, au moins deux liens
+   vers des articles de la liste de l'étape 4, un ou deux liens vers une source officielle,
+   aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin, aucune promesse
+   de position, aucun prix, aucun témoignage, aucun mot anglais non expliqué. La recherche
+   visée figure au début du titre, dans la description, dans l'accroche et dans le nom du
+   fichier. La date est celle d'aujourd'hui.
 5 bis. Relie ton article aux anciens : dans les deux premiers articles de la liste de
    l'étape 4, ajoute UN lien vers `https://developpia.fr/blog/<slug>/`, en suivant la
    partie « Relier le nouvel article aux anciens » de `CONSIGNES.md`. Ne change rien

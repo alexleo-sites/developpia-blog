@@ -343,10 +343,23 @@ def main():
                        "sinon les liens vers lui mèneraient à une page introuvable jusqu'à cette date")
     if sujet and sujet.count("|") >= 1 and meta.get("titre"):
         recherche = sujet.split("|")[1].strip()
-        attendus, absents = mots_cles(recherche), mots_absents_du_titre(recherche, meta["titre"])
+        attendus = mots_cles(recherche)
+        absents = mots_absents_du_titre(recherche, meta["titre"][:70])
         if attendus and len(absents) * 3 > len(attendus):
-            erreurs.append(f"le titre doit reprendre la recherche visée « {recherche} » : il manque {', '.join(absents)}")
+            erreurs.append(f"le début du titre (les 70 premiers caractères, ce que Google affiche) doit reprendre la "
+                           f"recherche visée « {recherche} » : il manque {', '.join(absents)}")
+        for nom, champ in (("la description", meta.get("description", "")), ("l'accroche", meta.get("accroche", "")),
+                           ("le nom du fichier", slug.replace("-", " "))):
+            manquants = mots_absents_du_titre(recherche, champ)
+            if attendus and len(manquants) * 2 > len(attendus):
+                erreurs.append(f"{nom} doit reprendre au moins la moitié des mots de « {recherche} » : il manque {', '.join(manquants)}")
     texte = open(chemin, encoding="utf-8").read()
+    if meta.get("genre") != "lexique":
+        if not re.search(r"(?:developpia\.fr|\]\()/(?:referencement-dentiste|site-internet-cabinet-dentaire|fiche-google-dentiste|referencement-ia-dentiste)/", texte):
+            erreurs.append("aucun lien vers une page d'offre (référencement dentiste, site internet, fiche Google ou référencement IA)")
+        corps_article = separer_en_tete(texte)[1]
+        if not (re.search(r"^\|.*\|\s*$", corps_article, re.M) or re.search(r"^\d+\.\s", corps_article, re.M)):
+            erreurs.append("ni tableau ni liste numérotée : en ajouter un (étapes, comparaison ou liste de contrôle)")
     avec_nouveau = articles + [{"slug": slug, "date": aujourdhui(), "titre": meta.get("titre", "")}]
     erreurs += controler_liens(texte, avec_nouveau)
     publies = [a["slug"] for a in articles if a.get("genre") != "lexique" and visible(a)]
