@@ -1,7 +1,7 @@
 # La routine « un article de blog » (texte exact de la tâche automatique)
 
 Tâche planifiée sur le Mac de Léo (application Claude ouverte) : `blog-developpia-article`,
-le mardi et le vendredi à 7 h 30. Le même texte peut être collé dans une routine cloud
+du lundi au vendredi à 7 h 30. Le même texte peut être collé dans une routine cloud
 (claude.ai/code/routines) le jour où le dépôt GitHub `alexleo-sites/developpia-blog` y est
 rattaché : rien d'autre ne change.
 

@@ -2,7 +2,7 @@
 titre: Délai de référencement d'un cabinet dentaire : combien de temps avant un résultat sur Google
 description: Délai de référencement pour un dentiste : combien de temps avant que votre cabinet apparaisse sur Google, ce qui va vite, ce qui prend des mois.
 accroche: Vous voulez une date. Personne ne peut vous la donner honnêtement, et cet article vous explique pourquoi. Vous y trouverez ce qui va vite, ce qui prend des mois, ce qui ne dépend de personne, et les bons repères pour suivre l'avancement sans attendre une position.
-date: 2026-09-16
+date: 2026-09-12
 lecture: 7 min
 sujets: décider, mesurer
 resume: Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.

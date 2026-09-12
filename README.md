@@ -23,7 +23,7 @@ Pour vérifier sans publier : `--sans-push`.
 - `sujets.md` : le calendrier éditorial. La routine prend le premier sujet non coché.
   Léo ou Alex peuvent ajouter, réordonner ou écarter des sujets à tout moment.
 - `CONSIGNES.md` : les règles d'écriture, la liste des faits que l'on peut citer, les interdits.
-- `ROUTINE.md` : le texte de la routine automatique (deux articles par semaine).
+- `ROUTINE.md` : le texte de la routine automatique (un article par jour ouvré).
 - `outils/publier.py` : le script de publication.
 
 ## Comment le site lit ce dépôt

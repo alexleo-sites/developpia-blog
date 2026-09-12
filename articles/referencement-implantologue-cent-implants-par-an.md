@@ -2,7 +2,7 @@
 titre: Implantologue : le référencement d'un cabinet qui pose cent implants par an
 description: Référencement implantologue : le patient d'un implant vient de loin, compare et interroge les IA. Ce que le site, la fiche Google et Doctolib doivent dire.
 accroche: Un patient qui cherche un implant ne cherche pas comme un patient qui a mal. Il accepte de faire de la route, il compare plusieurs cabinets et il pose des questions précises, souvent à une IA. Cet article vous montre ce que cela change pour votre site, votre fiche Google et votre place dans les IA, dans le cadre fixé par l'Ordre.
-date: 2026-09-19
+date: 2026-09-12
 lecture: 7 min
 sujets: par type de cabinet, site du cabinet
 resume: Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.
