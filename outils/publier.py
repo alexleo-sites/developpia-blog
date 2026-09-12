@@ -2,16 +2,24 @@
 """Publie un article du blog DeveloppIA.
 
     python3 outils/publier.py articles/<slug>.md [--sujet "ligne du calendrier"] [--sans-push]
+    python3 outils/publier.py --liens "sujet 1, sujet 2"
 
 Ce que fait le script, dans l'ordre :
-1. Vérifie l'article contre CONSIGNES.md (en-tête, longueur, interdits, liens, FAQ, encart).
+1. Vérifie l'article contre CONSIGNES.md (en-tête, longueur, interdits, liens, FAQ, encart),
+   ses liens vers au moins deux articles déjà publiés, et les anciens articles modifiés pour
+   renvoyer vers lui : au moins deux, un lien ajouté et rien d'autre.
    La moindre erreur arrête tout : rien n'est publié.
 2. Ajoute l'article à index.json (la liste que le site lit).
 3. Coche la ligne du calendrier éditorial (sujets.md) si --sujet est donné.
-4. git add / commit / push (trois commandes séparées). Le site developpia.fr lit le dépôt
-   à chaque visite (cache de dix minutes) : l'article est en ligne sans mise en ligne du site.
-5. Prévient Bing, Yandex et les autres moteurs IndexNow de la nouvelle adresse.
+4. git add / commit / push (trois commandes séparées), anciens articles modifiés compris.
+   Le site developpia.fr lit le dépôt à chaque visite (cache de dix minutes) : l'article est
+   en ligne sans mise en ligne du site.
+5. Prévient Bing, Yandex et les autres moteurs IndexNow des adresses changées.
 6. Vérifie que l'adresse répond, et affiche le lien.
+
+--liens "sujets" liste les articles déjà publiés : ceux qui partagent le plus de sujets d'abord
+et, à égalité, ceux qui reçoivent le moins de liens des autres articles. Ce sont les articles
+à relier au nouveau (CONSIGNES.md, « Relier le nouvel article aux anciens »).
 
 Le script ne lit aucun secret : la clé IndexNow est publique par construction (elle est
 servie par le site) et le push utilise l'identité git déjà configurée sur la machine.
@@ -28,6 +36,7 @@ RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://developpia.fr/"
 CLE_INDEXNOW = "6f6ba1667f13c0ba36df6c17605d8c2f"  # même valeur que le fichier <clé>.txt à la racine du site
 MOTS_INTERDITS = [r"meilleur dentiste", r"pas cher", r"\bpromotion\b", r"\bspécialiste\b", "—", "–"]
+LIGNES_MAX_ANCIEN = 6  # un ancien article ne reçoit qu'un lien vers le nouveau : quelques lignes au plus
 
 
 def separer_en_tete(texte):
@@ -70,6 +79,12 @@ def texte_brut(t):
 def compter_mots(principal):
     sans_titres = re.sub(r"^#+\s.*$", "", principal, flags=re.M)
     return len(texte_brut(sans_titres).split())
+
+
+def lien_vers(texte, slug):
+    """Vrai si le texte contient un lien Markdown vers l'article `slug` du blog."""
+    motif = r"\]\((?:https://developpia\.fr)?/blog/" + re.escape(slug) + r"/?(?:#[^)]*)?\)"
+    return re.search(motif, texte) is not None
 
 
 def verifier(chemin):
@@ -137,6 +152,56 @@ def enregistrer_index(articles):
         f.write("\n")
 
 
+def lire_article(slug):
+    p = os.path.join(RACINE, "articles", slug + ".md")
+    return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
+
+
+def proposer_liens(sujets_texte):
+    """Articles à relier au nouveau : le plus de sujets en commun d'abord, puis les moins reliés."""
+    voulus = {s.strip().lower() for s in sujets_texte.split(",") if s.strip()}
+    articles = [a for a in charger_index() if a.get("genre") != "lexique"]
+    textes = {a["slug"]: lire_article(a["slug"]) for a in articles}
+    lignes = []
+    for a in articles:
+        communs = [s for s in a.get("sujets", []) if s.lower() in voulus]
+        recus = sum(1 for s, t in textes.items() if s != a["slug"] and lien_vers(t, a["slug"]))
+        lignes.append((-len(communs), recus, a["slug"], communs, a["titre"]))
+    lignes.sort()
+    print("Articles déjà publiés, du plus proche au moins proche (à égalité, le moins relié d'abord) :")
+    for _, recus, slug, communs, titre in lignes:
+        print(f"- {slug} | sujets en commun : {', '.join(communs) or 'aucun'} | reçoit {recus} lien(s) | {titre}")
+    print(f"Adresse d'un article : {SITE}blog/<slug>/")
+
+
+def anciens_modifies(chemin_nouveau):
+    """Articles déjà enregistrés dans git et modifiés dans le dossier, hors nouvel article."""
+    r = subprocess.run(["git", "status", "--porcelain", "--", "articles"], cwd=RACINE, capture_output=True, text=True)
+    noms = []
+    for ligne in r.stdout.splitlines():
+        etat, nom = ligne[:2], ligne[3:].strip()
+        if "M" in etat and os.path.abspath(os.path.join(RACINE, nom)) != os.path.abspath(chemin_nouveau):
+            noms.append(nom)
+    return noms
+
+
+def controler_ancien(nom, slug_nouveau):
+    """Un ancien article ne change que par un lien vers le nouveau."""
+    chemin = os.path.join(RACINE, nom)
+    texte = open(chemin, encoding="utf-8").read()
+    erreurs = []
+    if not lien_vers(texte, slug_nouveau):
+        erreurs.append(f"{nom} est modifié mais ne renvoie pas vers le nouvel article")
+    avant = subprocess.run(["git", "show", f"HEAD:{nom}"], cwd=RACINE, capture_output=True, text=True).stdout
+    if separer_en_tete(avant)[0] != separer_en_tete(texte)[0]:
+        erreurs.append(f"{nom} : l'en-tête a changé, seul le texte peut recevoir le lien")
+    stat = subprocess.run(["git", "diff", "--numstat", "HEAD", "--", nom], cwd=RACINE, capture_output=True, text=True).stdout.split()
+    if len(stat) >= 2 and stat[0].isdigit() and stat[1].isdigit() and int(stat[0]) + int(stat[1]) > LIGNES_MAX_ANCIEN:
+        erreurs.append(f"{nom} : {int(stat[0]) + int(stat[1])} lignes changées, au plus {LIGNES_MAX_ANCIEN}")
+    erreurs += [f"{nom} : {e}" for e in verifier(chemin)[3]]
+    return erreurs
+
+
 def cocher_sujet(ligne_sujet, slug):
     p = os.path.join(RACINE, "sujets.md")
     s = open(p, encoding="utf-8").read()
@@ -177,6 +242,9 @@ def main():
     if not args:
         print(__doc__)
         sys.exit(2)
+    if args[0] == "--liens":
+        proposer_liens(args[1] if len(args) > 1 else "")
+        return
     chemin = os.path.join(RACINE, args[0]) if not os.path.isabs(args[0]) else args[0]
     sujet = args[args.index("--sujet") + 1] if "--sujet" in args else None
     sans_push = "--sans-push" in args
@@ -185,12 +253,27 @@ def main():
     articles = charger_index()
     if any(a["slug"] == slug for a in articles):
         erreurs.append("ce slug est déjà dans index.json (article déjà publié)")
+    publies = [a["slug"] for a in articles if a.get("genre") != "lexique"]
+    anciens = anciens_modifies(chemin)
+    if meta.get("genre") != "lexique" and len(publies) >= 2:
+        texte = open(chemin, encoding="utf-8").read()
+        sortants = [s for s in publies if lien_vers(texte, s)]
+        if len(sortants) < 2:
+            erreurs.append(f"{len(sortants)} lien(s) vers des articles déjà publiés, attendu au moins 2 (voir --liens)")
+        entrants = [n for n in anciens if lien_vers(open(os.path.join(RACINE, n), encoding="utf-8").read(), slug)]
+        if len(entrants) < 2:
+            erreurs.append(f"{len(entrants)} ancien(s) article(s) renvoient vers le nouveau, attendu au moins 2 "
+                           "(CONSIGNES.md, « Relier le nouvel article aux anciens »)")
+    for nom in anciens:
+        erreurs += controler_ancien(nom, slug)
     if erreurs:
         print(f"✗ {slug} : {len(erreurs)} problème(s), rien n'est publié.")
         for e in erreurs:
             print("  -", e)
         sys.exit(1)
     print(f"✓ {slug} : {mots} mots, en-tête complet, règles respectées.")
+    if anciens:
+        print(f"✓ liens vers le nouvel article ajoutés dans : {', '.join(anciens)}")
 
     entree = {"slug": slug, "titre": meta["titre"], "description": meta["description"], "date": meta["date"],
               "lecture": meta["lecture"], "sujets": [s.strip() for s in meta["sujets"].split(",") if s.strip()],
@@ -208,12 +291,16 @@ def main():
     if sans_push:
         print("(--sans-push : pas de git, pas d'IndexNow)")
         return
-    git("add", os.path.relpath(chemin, RACINE), "index.json", "sujets.md")
-    git("commit", "-m", f"Article : {meta['titre']}")
+    git("add", os.path.relpath(chemin, RACINE), "index.json", "sujets.md", *anciens)
+    message = f"Article : {meta['titre']}"
+    if anciens:
+        message += f" (relié depuis {len(anciens)} article{'s' if len(anciens) > 1 else ''})"
+    git("commit", "-m", message)
     git("push")
     print("✓ envoyé sur GitHub.")
     url = f"{SITE}blog/{slug}/"
-    print("IndexNow :", indexnow([url, f"{SITE}blog/", f"{SITE}sitemap-blog.xml"]))
+    adresses = [url, f"{SITE}blog/", f"{SITE}sitemap-blog.xml"] + [f"{SITE}blog/{os.path.basename(n)[:-3]}/" for n in anciens]
+    print("IndexNow :", indexnow(adresses))
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (publier.py)"}), timeout=20) as r:
             print(f"✓ {url} répond {r.status}.")

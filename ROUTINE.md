@@ -27,23 +27,34 @@ article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
 4. Pour ne pas te répéter, lis les trois derniers articles publiés (les trois premiers
    slugs de `index.json`, fichiers dans `articles/`). Lis aussi, avec WebFetch, la page de
    developpia.fr la plus proche du sujet (une page de service ou un guide) : ton article
-   la complète, il ne la recopie pas.
+   la complète, il ne la recopie pas. Choisis ensuite les sujets de ton article, avec les
+   mots déjà employés dans `index.json` (« site du cabinet », « les IA »…), et lance
+   `python3 outils/publier.py --liens "<tes sujets, séparés par des virgules>"` : il liste
+   les articles déjà publiés, les plus proches d'abord et, à égalité, les moins reliés.
 5. Écris l'article dans `articles/<slug>.md` en respectant `CONSIGNES.md` à la lettre :
    en-tête complet, 1 200 à 1 600 mots, 5 à 8 titres `##`, exactement un encart, au moins
-   une liste, trois questions fréquentes, au moins trois liens vers developpia.fr, un ou
-   deux liens vers une source officielle, aucun chiffre hors de la liste des faits
-   autorisés, aucun tiret cadratin, aucune promesse de position, aucun prix, aucun
-   témoignage, aucun mot anglais non expliqué. La date est celle d'aujourd'hui.
+   une liste, trois questions fréquentes, au moins trois liens vers developpia.fr, au moins
+   deux liens vers des articles de la liste de l'étape 4, un ou deux liens vers une source
+   officielle, aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin,
+   aucune promesse de position, aucun prix, aucun témoignage, aucun mot anglais non
+   expliqué. La date est celle d'aujourd'hui.
+5 bis. Relie ton article aux anciens : dans les deux premiers articles de la liste de
+   l'étape 4, ajoute UN lien vers `https://developpia.fr/blog/<slug>/`, en suivant la
+   partie « Relier le nouvel article aux anciens » de `CONSIGNES.md`. Ne change rien
+   d'autre dans ces deux fichiers.
 6. Lance `python3 outils/publier.py articles/<slug>.md --sujet "<la ligne du sujet, sans le - [ ]>"`
-   depuis le dossier du dépôt. S'il refuse, corrige l'article et relance, trois
-   tentatives au maximum. S'il refuse encore : supprime le fichier, ne publie rien, et
-   dis pourquoi dans ta réponse et sur Slack.
+   depuis le dossier du dépôt. Il vérifie aussi les liens de l'étape 5 bis et envoie les
+   deux anciens articles avec le tien. S'il refuse, corrige et relance, trois tentatives au
+   maximum. S'il refuse encore : supprime le fichier, annule tes changements dans les
+   anciens articles (`git checkout -- articles/<ancien>.md` pour chacun), ne publie rien,
+   et dis pourquoi dans ta réponse et sur Slack.
 7. Vérifie avec WebFetch que https://developpia.fr/blog/<slug>/ affiche bien le titre.
    Si la page ne répond pas, attends deux minutes et réessaie une fois.
 8. Envoie sur Slack #direction (C0BKPKZHC2D) un message de trois lignes au plus :
    « 📝 Nouvel article sur le blog DeveloppIA : <titre> », puis « À lire : <adresse> (le blog) »,
    puis le nombre total d'articles publiés. Une adresse ne termine jamais une ligne.
 
-INTERDITS : modifier un autre fichier que l'article, `index.json` et `sujets.md` ; toucher
-au dossier developpia-site ; lancer une mise en ligne Vercel ; publier deux articles dans
-le même passage ; inventer un chiffre ; écrire un prix ou une promesse de résultat.
+INTERDITS : modifier un autre fichier que l'article, `index.json`, `sujets.md` et les deux
+anciens articles de l'étape 5 bis (un lien ajouté, rien d'autre) ; toucher au dossier
+developpia-site ; lancer une mise en ligne Vercel ; publier deux articles dans le même
+passage ; inventer un chiffre ; écrire un prix ou une promesse de résultat.

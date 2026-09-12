@@ -27,9 +27,27 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - Au moins trois liens internes vers nos pages (liste plus bas) et un ou deux liens
   vers une source officielle (Légifrance, ordre-chirurgiens-dentistes.fr, aide Google,
   ameli.fr, Eurostat, Arcom).
+- Au moins deux liens, dans le texte, vers des articles déjà publiés du blog, les plus
+  proches du sujet (`python3 outils/publier.py --liens "vos sujets"` les liste). Le lexique
+  ne compte pas dans ces deux liens.
 - Une phrase de fin qui ouvre sur la suite, jamais « En conclusion ».
 - Pas d'appel à l'action dans le texte : le gabarit ajoute le bouton « Demander mon
   diagnostic » sous chaque article.
+
+## Relier le nouvel article aux anciens (obligatoire)
+
+Une page vers laquelle aucune autre ne renvoie reste isolée : Google la trouve par la liste
+du blog, mais la juge moins importante. À chaque publication :
+
+- Prendre les deux premiers articles que donne `python3 outils/publier.py --liens "vos sujets"`
+  (le plus de sujets en commun d'abord, puis ceux qui reçoivent le moins de liens).
+- Dans chacun, ajouter UN lien vers le nouvel article, dans le texte principal (jamais dans
+  l'encart ni dans les questions fréquentes) : quelques mots d'une phrase existante deviennent
+  le lien, ou une phrase courte s'ajoute à la fin d'un paragraphe qui parle du même thème.
+- Le texte du lien dit ce que le lecteur va trouver, avec les mots d'une recherche (« le délai
+  d'un référencement dentaire »), jamais « cliquez ici » ni « cet article ».
+- Rien d'autre ne change dans ces deux articles : ni l'en-tête, ni les dates, ni le reste du
+  texte (six lignes modifiées au plus, `publier.py` refuse au-delà).
 
 ## Ton et style
 
@@ -141,3 +159,6 @@ Le corps utilise seulement :
 4. Au moins trois liens vers developpia.fr et au moins un lien externe.
 5. Une section « Questions fréquentes » avec trois questions.
 6. Le slug n'existe pas déjà dans `index.json`.
+7. Au moins deux liens vers des articles déjà publiés (le lexique ne compte pas).
+8. Au moins deux anciens articles renvoient vers le nouveau ; chacun ne change que par ce
+   lien (en-tête identique, six lignes au plus) et respecte toujours ces règles.
