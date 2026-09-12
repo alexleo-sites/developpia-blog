@@ -12,7 +12,7 @@ Format : `- [ ] Titre de travail | recherche visée | angle en une phrase`
 - [x] Publicité interdite aux dentistes : les leviers de visibilité qui restent autorisés | publicité dentiste interdite | ce que le décret de 2020 ouvre, levier par levier (publié le 2026-09-12, publicite-interdite-dentistes-leviers-autorises)
 - [x] Honoraires sur le site du cabinet : ce que la loi impose et comment les présenter | affichage honoraires dentiste site internet | l'obligation, les cinq actes, la façon claire de les montrer (publié le 2026-09-12, honoraires-site-cabinet-dentaire-obligation-presentation)
 - [x] Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie | avis google dentiste ordre | ce qui est écrit, ce que l'Ordre demande, la conduite prudente (publié le 2026-09-12, avis-google-cabinet-dentaire-code-deontologie)
-- [ ] « Spécialiste » ou pas : les mentions que vous avez le droit d'afficher | dentiste spécialiste mention site | les trois spécialités, les DU, la formulation juste
+- [x] « Spécialiste » ou pas : les mentions que vous avez le droit d'afficher | dentiste spécialiste mention site | les trois spécialités, les DU, la formulation juste (publié le 2026-09-12, mentions-autorisees-site-dentiste-titres-diplomes-specialites)
 - [ ] Photos avant et après sur un site de dentiste : pourquoi l'Ordre les juge trompeuses | photos avant après dentiste | ce qu'on montre à la place
 - [ ] La charte de communication de l'Ordre expliquée point par point | charte communication ordre chirurgiens dentistes | lecture simple de chaque point
 - [ ] Le nom du cabinet et le nom du praticien : ce qui se cherche, ce qui se trouve | nom cabinet dentaire google | cohérence du nom partout

@@ -101,6 +101,7 @@ son année. En cas de doute, on écrit sans chiffre.
 - https://developpia.fr/guides/apercus-ia-google-dentiste/
 - https://developpia.fr/guides/comment-les-ia-choisissent-un-dentiste/
 - https://developpia.fr/tester-mon-referencement/ (test gratuit du score, à citer au plus une fois, en fin d'article)
+- https://developpia.fr/blog/lexique-referencement-dentaire/ (le lexique : lier un terme quand l'article l'emploie, avec l'ancre `#terme-en-minuscules`)
 - Les articles déjà publiés du blog (voir `index.json`).
 
 ## Format du fichier (Markdown restreint)
