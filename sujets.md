@@ -12,6 +12,9 @@ recherches commerciales (« création site internet dentiste », « agence SEO d
 « référencement dentiste », « fiche Google dentiste », « référencement IA dentiste »)
 appartiennent aux pages d'offre : un article ne les vise jamais, il renvoie vers la page.
 
+Règle du titre : il reprend les mots de la recherche visée (publier.py refuse s'il en manque
+plus d'un tiers).
+
 ## 0. À publier en premier, dans cet ordre (revue du 12/09/2026)
 
 Les deux premiers : Google suggère ces recherches, les dentistes les tapent vraiment. Les cinq
@@ -19,15 +22,15 @@ suivants : le dentiste y lit la question qu'il se pose au moment de décider d'i
 trois derniers : les pays où nous cherchons aussi des clients.
 
 - [ ] Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom ? | reprise cabinet dentaire | transfert du nom, de la fiche, du site et du nom de domaine, sans perdre les patients qui cherchent l'ancien nom | PRIORITÉ 1
-- [ ] Le cabinet qui déménage : la marche à suivre pour ne pas disparaître de Google | déménagement cabinet dentaire | étapes dans l'ordre | PRIORITÉ 2
-- [ ] Refaire ou améliorer le site du cabinet : comment décider | refaire site cabinet dentaire | les cinq questions qui tranchent, puis la page site internet de cabinet dentaire | PRIORITÉ 3
-- [ ] Combien de patients un bon référencement apporte-t-il ? Comment le mesurer sans se mentir | résultat référencement dentiste | appels, demandes, rendez-vous, pas positions | PRIORITÉ 4
-- [ ] Cabinet d'esthétique dentaire : se faire trouver sans publicité | référencement esthétique dentaire | facettes, alignement, patients qui viennent de loin | PRIORITÉ 5
-- [ ] Cabinet de groupe : une fiche par praticien ou une fiche par cabinet ? | fiche google cabinet dentaire plusieurs praticiens | la règle Google, le bon montage | PRIORITÉ 6
+- [ ] Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google | déménagement cabinet dentaire | étapes dans l'ordre | PRIORITÉ 2
+- [ ] Refaire ou améliorer le site d'un cabinet dentaire : comment décider | refaire site cabinet dentaire | les cinq questions qui tranchent, puis la page site internet de cabinet dentaire | PRIORITÉ 3
+- [ ] Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer | résultat référencement dentiste | appels, demandes, rendez-vous, pas positions | PRIORITÉ 4
+- [ ] Référencement d'un cabinet d'esthétique dentaire : se faire trouver sans publicité | référencement esthétique dentaire | facettes, alignement, patients qui viennent de loin | PRIORITÉ 5
+- [ ] Cabinet dentaire à plusieurs praticiens : une fiche Google par praticien ou pour tout le cabinet ? | fiche google cabinet dentaire plusieurs praticiens | la règle Google, le bon montage | PRIORITÉ 6
 - [ ] Le blog d'un cabinet dentaire : utile ou perte de temps ? | blog cabinet dentaire | quand écrire, sur quoi, à quel rythme, dans le cadre | PRIORITÉ 7
-- [ ] Belgique : les règles de communication des dentistes et le référencement | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8
-- [ ] Suisse romande : référencer un cabinet dentaire à Genève ou Lausanne | référencement dentiste suisse | cadre, langues, annuaires, reprise de cabinet | PRIORITÉ 9
-- [ ] Luxembourg : les photos avant et après sont interdites, et le reste | référencement dentiste luxembourg | cadre, langues, annuaires | PRIORITÉ 10
+- [ ] Référencement d'un dentiste en Belgique : les règles de communication qui changent | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8
+- [ ] Référencement d'un dentiste en Suisse romande : Genève, Lausanne et les règles | référencement dentiste suisse | cadre, langues, annuaires, reprise de cabinet | PRIORITÉ 9
+- [ ] Référencement d'un dentiste au Luxembourg : photos avant et après interdites, et le reste | référencement dentiste luxembourg | cadre, langues, annuaires | PRIORITÉ 10
 
 ## A. Le cadre de l'Ordre
 
@@ -46,7 +49,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [ ] Site de cabinet dentaire : la vitesse compte, et comment la mesurer en deux minutes | vitesse site dentiste | l'outil gratuit de Google, les trois chiffres à lire
 - [ ] ÉCARTÉ (doublon : article « douze informations » et sujet « prise de rendez-vous en ligne ») · Le parcours du patient sur votre site : de la recherche au rendez-vous | site dentiste prise de rendez-vous | chaque étape, chaque perte possible
 - [ ] ÉCARTÉ (doublon : articles « une page par soin » et « implantologue ») · Page implantologie : la structure qui répond aux questions des patients | page implantologie site dentiste | déroulé, durée, suites, alternatives, honoraires
-- [ ] ÉCARTÉ (fusionné dans la PRIORITÉ 5, esthétique) · Facettes et esthétique dentaire : informer sans faire de la réclame | site dentiste esthétique facettes | la ligne entre information et publicité
+- [ ] ÉCARTÉ (fusionné dans le sujet esthétique de la partie 0) · Facettes et esthétique dentaire : informer sans faire de la réclame | site dentiste esthétique facettes | la ligne entre information et publicité
 - [ ] Blanchiment, aligneurs, mâchoire complète : les mots que les patients tapent vraiment | mots clés dentiste | vocabulaire des patients contre vocabulaire des praticiens
 
 ## C. Google et Google Maps
@@ -76,7 +79,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Implantologue : le référencement d'un cabinet qui pose cent implants par an | référencement implantologue | ce qui change quand l'acte est cher (publié le 2026-09-12, referencement-implantologue-cent-implants-par-an)
 - [ ] Orthodontie et aligneurs : les recherches des parents et des adultes | référencement orthodontiste | deux publics, deux pages
 - [ ] Centre dentaire ou cabinet libéral : deux référencements différents | référencement centre dentaire | contraintes de chaque forme
-- [ ] ÉCARTÉ (remplacé par les trois articles pays, PRIORITÉ 8 à 10) · Dentiste en Belgique, en Suisse, au Luxembourg : les règles changent | référencement dentiste belgique suisse luxembourg | ce qui reste vrai, ce qui diffère
+- [ ] ÉCARTÉ (remplacé par les trois articles pays de la partie 0) · Dentiste en Belgique, en Suisse, au Luxembourg : les règles changent | référencement dentiste belgique suisse luxembourg | ce qui reste vrai, ce qui diffère
 
 ## G. Décider
 

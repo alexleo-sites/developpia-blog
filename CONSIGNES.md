@@ -171,3 +171,5 @@ Le corps utilise seulement :
    une page de « Nos pages à lier » ou un article publié, écrit `https://developpia.fr/...`
    avec la barre finale, ancre comprise. Une nouvelle page du site doit donc être ajoutée à
    « Nos pages à lier » avant qu'un article puisse la citer.
+10. Avec `--sujet`, le titre reprend les mots de la recherche visée : au plus un tiers
+    manquant, pluriels, formes proches et « dentaire » pour « dentiste » acceptés.

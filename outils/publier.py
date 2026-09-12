@@ -304,6 +304,24 @@ def indexnow(urls):
         return str(e)
 
 
+FAMILLES = {"dentaire": "dentiste", "dentaires": "dentiste", "dentistes": "dentiste"}
+MOTS_VIDES = set("le la les un une des de du et ou au aux en dans sur pour par avec sans ce ces qui que quoi "
+                 "ne pas plus est sont vous votre vos son sa ses leur comment pourquoi quand quel quelle".split())
+
+
+def mots_cles(texte):
+    t = unicodedata.normalize("NFD", texte.lower().replace("’", "'"))
+    t = "".join(c for c in t if not "̀" <= c <= "ͯ")
+    return [FAMILLES.get(w, w) for w in re.findall(r"[a-z0-9]+", t) if (len(w) > 2 or w == "ia") and w not in MOTS_VIDES]
+
+
+def mots_absents_du_titre(recherche, titre):
+    """Mots de la recherche visée qui manquent au titre (pluriels et formes proches acceptés)."""
+    presents = mots_cles(titre)
+    return [q for q in mots_cles(recherche)
+            if not any(t == q or (len(q) >= 6 and len(t) >= 6 and t[:6] == q[:6]) for t in presents)]
+
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -323,6 +341,11 @@ def main():
     if meta.get("date", "") > aujourdhui():
         erreurs.append(f"date {meta['date']} dans le futur : un article se publie le jour même, "
                        "sinon les liens vers lui mèneraient à une page introuvable jusqu'à cette date")
+    if sujet and sujet.count("|") >= 1 and meta.get("titre"):
+        recherche = sujet.split("|")[1].strip()
+        attendus, absents = mots_cles(recherche), mots_absents_du_titre(recherche, meta["titre"])
+        if attendus and len(absents) * 3 > len(attendus):
+            erreurs.append(f"le titre doit reprendre la recherche visée « {recherche} » : il manque {', '.join(absents)}")
     texte = open(chemin, encoding="utf-8").read()
     avec_nouveau = articles + [{"slug": slug, "date": aujourdhui(), "titre": meta.get("titre", "")}]
     erreurs += controler_liens(texte, avec_nouveau)
