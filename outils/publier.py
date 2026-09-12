@@ -88,7 +88,14 @@ def verifier(chemin):
     if not re.match(r"^[a-z0-9]+(?:-[a-z0-9]+)*$", slug) or not 3 <= len(slug) <= 100:
         erreurs.append("nom de fichier (slug) invalide : minuscules, chiffres et tirets seulement")
     mots = compter_mots(principal)
-    if not 1100 <= mots <= 1750:
+    lexique = meta.get("genre") == "lexique"
+    if lexique:
+        if not 2000 <= mots <= 6000:
+            erreurs.append(f"{mots} mots (un lexique en attend 2 500 à 3 800)")
+        termes = len(re.findall(r"^###\s", corps, re.M))
+        if termes < 30:
+            erreurs.append(f"{termes} termes ###, attendu au moins 30")
+    elif not 1100 <= mots <= 1750:
         erreurs.append(f"{mots} mots dans le corps (attendu 1 200 à 1 600)")
     if re.search(r"^#\s", corps, re.M):
         erreurs.append("titre de niveau 1 (#) interdit, le titre vient de l'en-tête")
@@ -103,14 +110,15 @@ def verifier(chemin):
         erreurs.append(f"{internes} lien(s) interne(s), attendu au moins 3")
     if externes < 1:
         erreurs.append("aucun lien externe vers une source")
-    if len(faq) != 3:
-        erreurs.append(f"{len(faq)} question(s) fréquente(s), attendu 3")
-    encarts = len(re.findall(r"^>\s*\*\*", corps, re.M))
-    if encarts != 1:
-        erreurs.append(f"{encarts} encart(s), attendu exactement 1")
-    h2 = len(re.findall(r"^##\s", principal, re.M))
-    if not 5 <= h2 <= 8:
-        erreurs.append(f"{h2} titres ##, attendu 5 à 8")
+    if not lexique:
+        if len(faq) != 3:
+            erreurs.append(f"{len(faq)} question(s) fréquente(s), attendu 3")
+        encarts = len(re.findall(r"^>\s*\*\*", corps, re.M))
+        if encarts != 1:
+            erreurs.append(f"{encarts} encart(s), attendu exactement 1")
+        h2 = len(re.findall(r"^##\s", principal, re.M))
+        if not 5 <= h2 <= 8:
+            erreurs.append(f"{h2} titres ##, attendu 5 à 8")
     return slug, meta, mots, erreurs
 
 
@@ -189,6 +197,8 @@ def main():
               "resume": meta["resume"]}
     if meta.get("maj"):
         entree["maj"] = meta["maj"]
+    if meta.get("genre"):
+        entree["genre"] = meta["genre"]
     articles.append(entree)
     enregistrer_index(articles)
     print("✓ index.json mis à jour.")
