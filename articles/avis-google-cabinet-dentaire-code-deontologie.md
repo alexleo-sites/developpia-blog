@@ -75,7 +75,7 @@ Si Google refuse et que l'avis est diffamatoire ou injurieux, les voies de droit
 
 ## Faire avancer la fiche sans un seul avis
 
-Les avis ne sont pas le seul signal que Google lit. Ses critères publics pour la carte sont la pertinence, la distance et la proéminence. La distance ne se change pas. Les deux autres se travaillent sans toucher aux avis, et sans rien demander à personne.
+Les avis ne sont pas le seul signal que Google lit. Ses critères publics pour la carte sont la pertinence, la distance et la proéminence. La distance ne se change pas. Les deux autres se travaillent sans toucher aux avis, et sans rien demander à personne. L'article [Google Maps : comment Google choisit les trois cabinets](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) les détaille.
 
 Ce qui pèse, et que vous contrôlez entièrement :
 

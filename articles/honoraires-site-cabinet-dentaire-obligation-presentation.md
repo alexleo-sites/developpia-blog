@@ -25,17 +25,17 @@ Le code parle d'une information sur les honoraires pratiqués, sans dire combien
 - au moins cinq actes prothétiques ou d'orthodontie parmi les plus pratiqués ;
 - une phrase imposée selon votre conventionnement : honoraires conformes aux tarifs de la sécurité sociale, honoraires libres, ou praticien non conventionné.
 
-Pour le site, l'Ordre recommande d'indiquer les honoraires de cinq à dix actes, ceux que vous pratiquez le plus. L'information doit être claire, honnête, précise et sans comparaison avec un confrère. Le plus simple est de reprendre sur le site la liste de votre salle d'attente.
+Pour le site, l'Ordre recommande d'indiquer les honoraires de cinq à dix actes, ceux que vous pratiquez le plus. L'information doit être claire, honnête, précise et sans comparaison avec un confrère. La même règle vaut pour [les titres, diplômes et mentions affichés sur le site](https://developpia.fr/blog/mentions-autorisees-site-dentiste-titres-diplomes-specialites/). Le plus simple est de reprendre sur le site la liste de votre salle d'attente.
 
 Précision utile : la DGCCRF, la répression des fraudes, contrôle l'affichage au cabinet et les devis. Le site relève du code de déontologie, donc de l'Ordre. Une seule bonne réponse aux deux : les mêmes montants partout, et datés.
 
 ## Pourquoi cette page sert aussi votre visibilité
 
-L'obligation n'est pas le seul argument. Le prix est la première question du patient. « Implant dentaire » est recherché 33 100 fois par mois en France (Semrush, août 2026), et beaucoup de patients ajoutent le mot « prix » ou « tarif ». Quand un patient tape « prix implant dentaire » suivi de votre ville, Google cherche une page qui répond avec des chiffres.
+L'obligation n'est pas le seul argument. Le prix est la première question du patient. « Implant dentaire » est recherché 33 100 fois par mois en France (Semrush, août 2026), et beaucoup de patients ajoutent le mot « prix » ou « tarif ». Quand un patient tape « prix implant dentaire » suivi de votre ville, Google cherche une page qui répond avec des chiffres. Le cas d'un cabinet qui pose cent implants par an est détaillé dans l'article sur le [référencement d'un implantologue](https://developpia.fr/blog/referencement-implantologue-cent-implants-par-an/).
 
 Les IA sont plus exigeantes encore. 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Depuis le 22 juillet 2026, Google affiche en France ses Aperçus IA et son Mode IA. Une IA qui doit répondre à « combien coûte une couronne à Nantes » cherche un montant précis, une date et une source. Si votre site n'en donne aucun, elle prend le chiffre ailleurs, souvent chez un autre cabinet. Le guide [comment les IA choisissent un dentiste](https://developpia.fr/guides/comment-les-ia-choisissent-un-dentiste/) détaille cette mécanique.
 
-Enfin, la page rassure avant l'appel. Un patient qui connaît l'ordre de grandeur appelle pour prendre rendez-vous, pas pour demander un prix.
+Enfin, la page rassure avant l'appel. Un patient qui connaît l'ordre de grandeur appelle pour prendre rendez-vous, pas pour demander un prix. Les honoraires font partie de [ce qu'un patient cherche sur un site avant d'appeler](https://developpia.fr/blog/douze-informations-patient-site-dentiste/).
 
 > **La phrase à retenir**
 > Vos honoraires sont une information due au patient, pas une réclame. Une page dédiée, datée et complète respecte le code de déontologie, répond à la première question du patient et donne aux moteurs et aux IA le chiffre qu'ils cherchent.

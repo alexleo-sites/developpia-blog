@@ -12,7 +12,7 @@ resume: Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un 
 
 « Implant dentaire » est recherché 33 100 fois par mois en France (Semrush, août 2026). Presque toujours, le patient ajoute sa ville, une question ou le mot « prix ». Il ne tape pas « cabinet dentaire ». Il a une dent en moins, un devis à comparer, et il cherche le soin qui répond à son problème.
 
-Google et les IA suivent le patient. À une recherche sur un soin, ils répondent avec la page qui traite exactement ce soin. Votre page d'accueil parle de tout : l'équipe, les horaires, dix soins en une ligne chacun. Elle se classe sur votre nom, rarement sur un soin. Votre page « implant dentaire », elle, peut répondre à « implant dentaire » suivi de votre ville, à « comment se passe la pose d'un implant » et à « implant dentaire douleur ». Une page, un soin, des dizaines de questions de patients.
+Google et les IA suivent le patient. À une recherche sur un soin, ils répondent avec la page qui traite exactement ce soin. Votre page d'accueil parle de tout : l'équipe, les horaires, dix soins en une ligne chacun. Elle se classe sur votre nom, rarement sur un soin. Votre page « implant dentaire », elle, peut répondre à « implant dentaire » suivi de votre ville, à « comment se passe la pose d'un implant » et à « implant dentaire douleur ». Une page, un soin, des dizaines de questions de patients. Pour un cabinet qui pose beaucoup d'implants, l'article sur le [référencement d'un implantologue](https://developpia.fr/blog/referencement-implantologue-cent-implants-par-an/) va plus loin.
 
 La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) explique pourquoi un site se construit avec une page par soin. Cet article ouvre une de ces pages et regarde ce qu'elle doit contenir.
 
@@ -102,7 +102,7 @@ Les IA vont dans le même sens. 56,6 % des Français utilisent déjà l'intellig
 
 ## Les erreurs qui vident une page de soin
 
-Certaines pages de soins existent et ne servent à rien. Voici celles que l'on rencontre le plus.
+Certaines pages de soins existent et ne servent à rien. Voici celles que l'on rencontre le plus. Pour le site entier, voyez aussi [les sept erreurs des sites de cabinets dentaires](https://developpia.fr/blog/sept-erreurs-sites-cabinets-dentaires/).
 
 - La page « Nos soins » unique, avec dix soins en dix lignes. Elle ne répond à aucune recherche précise.
 - Le texte repris d'un fabricant d'implants ou d'un autre site. Google reconnaît le doublon, et le patient ne retrouve pas votre façon de travailler.

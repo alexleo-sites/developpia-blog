@@ -31,7 +31,7 @@ Le référencement (on dit aussi SEO) regroupe tout ce qui rend votre cabinet tr
 
 Ces gestes ne demandent aucun outil payant. Ils demandent de la rigueur et du temps.
 
-**Ce qui l'est moins.** Construire un site rapide, lisible sur téléphone, avec une page par soin, et lisible aussi pour les robots des IA. Suivre ce qui bouge chez Google, comme l'arrivée des Aperçus IA en France le 22 juillet 2026. Ce sont des métiers, et ils changent vite. La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit ce qu'un site doit contenir.
+**Ce qui l'est moins.** Construire un site rapide, lisible sur téléphone, avec une page par soin, et lisible aussi pour les robots des IA. Suivre ce qui bouge chez Google, comme l'arrivée des Aperçus IA en France le 22 juillet 2026. Ce sont des métiers, et ils changent vite. La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit ce qu'un site doit contenir, et l'article sur [les sept erreurs des sites de cabinets dentaires](https://developpia.fr/blog/sept-erreurs-sites-cabinets-dentaires/) ce qu'il ne doit pas contenir.
 
 **Le risque.** Le temps. Le référencement passe après les patients, c'est normal, puis après tout le reste. Le site reste à moitié fait, la fiche n'est plus à jour, personne ne mesure rien. L'autre risque est de copier une pratique vue ailleurs sans savoir qu'elle est interdite aux dentistes : collecte d'avis, photo avant et après, témoignage de patient.
 
@@ -75,7 +75,7 @@ Ces questions valent pour un indépendant comme pour une agence. Posez-les toute
 
 3. **Propose-t-il une collecte d'avis ?** Drapeau rouge. Aucun texte n'interdit de demander un avis, mais l'Ordre a demandé en 2025 la suppression des avis sur les praticiens. Un prestataire qui connaît votre profession ne vous poussera pas dans cette direction.
 
-4. **Qui possède le site et le nom de domaine à la fin ?** La réponse attendue tient en un mot : vous. Le nom de domaine à votre nom, l'hébergement à votre nom, la fiche Google avec votre adresse électronique comme propriétaire principal. Demandez que ce soit écrit dans le contrat.
+4. **Qui possède le site et le nom de domaine à la fin ?** La réponse attendue tient en un mot : vous. Le [nom de domaine](https://developpia.fr/blog/lexique-referencement-dentaire/#nom-de-domaine) à votre nom, l'hébergement à votre nom, la fiche Google avec votre adresse électronique comme propriétaire principal. Demandez que ce soit écrit dans le contrat.
 
 5. **Que mesure-t-il ?** Les positions sur Google sont une donnée, pas un résultat. Ce qui compte, ce sont les appels, les demandes de rendez-vous et les patients qui viennent. Demandez comment il compte les appels venus du site et de la fiche, et à quel rythme vous verrez ces chiffres.
 
@@ -93,7 +93,7 @@ La première : les textes viennent de vous. Personne d'autre ne sait comment se 
 
 La deuxième : le cadre est le même pour tout le monde. Assistante, indépendant ou agence, celui qui écrit pour vous suit les mêmes règles. Et c'est vous, le praticien, qui répondez devant l'Ordre de ce qui est publié à votre nom.
 
-La troisième : le résultat se mesure aux patients, pas aux positions. Que vous fassiez le travail ou que vous le confiiez, tenez un compte simple des appels et des demandes de rendez-vous, mois après mois. C'est le seul chiffre qui dit si le choix était le bon.
+La troisième : le résultat se mesure aux patients, pas aux positions. Que vous fassiez le travail ou que vous le confiiez, tenez un compte simple des appels et des demandes de rendez-vous, mois après mois. C'est le seul chiffre qui dit si le choix était le bon. Pour savoir quand le regarder, l'article [combien de temps avant un résultat sur Google](https://developpia.fr/blog/delai-resultat-referencement-dentiste/) donne les repères.
 
 Chez DeveloppIA, nous répondons volontiers à ces huit questions. Quelle que soit la voie choisie, la suite consiste à regarder d'où part votre cabinet aujourd'hui, sur Google, sur la carte et dans les IA.
 

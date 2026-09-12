@@ -54,7 +54,7 @@ L'information sur les honoraires est une obligation (article R.4127-240). Nous a
 
 ## Une page par situation, sans promettre de résultat
 
-Une seule page ne suffit pas à un cabinet qui pose cent implants par an. Le patient qui a perdu une dent et celui qui n'a plus aucune dent en bas ne tapent pas la même chose, et n'ont pas les mêmes peurs. Le site de notre cabinet fictif gagne à séparer :
+Le principe reste [une page par soin](https://developpia.fr/blog/une-page-par-soin-site-dentiste/). Mais une seule page ne suffit pas à un cabinet qui pose cent implants par an. Le patient qui a perdu une dent et celui qui n'a plus aucune dent en bas ne tapent pas la même chose, et n'ont pas les mêmes peurs. Le site de notre cabinet fictif gagne à séparer :
 
 - l'implant pour une dent unique, avec le choix entre implant et bridge ;
 - les implants pour plusieurs dents, avec le bridge sur implants ;

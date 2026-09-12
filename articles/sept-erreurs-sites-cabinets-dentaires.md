@@ -26,7 +26,7 @@ Le test : partez de la page d'accueil et cherchez vos honoraires. Si vous ne les
 
 Pourquoi elle expose : l'article R.4127-240 II du code de la santé publique impose au praticien qui présente son activité au public, y compris sur un site, d'y inclure une information sur ses honoraires et ses modes de paiement. Vous pouvez lire [le texte sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795939). L'Ordre recommande d'indiquer les honoraires de cinq à dix actes. Un site muet sur les honoraires est incomplet au regard du code.
 
-Pourquoi elle coûte des patients : le prix est la première question du patient. Un fichier PDF s'ouvre mal sur un téléphone, et les moteurs comme les IA le lisent rarement. Le patient qui ne trouve pas de chiffre appelle pour demander un prix, ou n'appelle pas.
+Pourquoi elle coûte des patients : le prix est la première question du patient. Un fichier PDF s'ouvre mal sur un téléphone, et les moteurs comme les IA le lisent rarement. Le patient qui ne trouve pas de chiffre appelle pour demander un prix, ou n'appelle pas. Le prix fait partie des [douze informations qu'un patient cherche avant d'appeler](https://developpia.fr/blog/douze-informations-patient-site-dentiste/).
 
 La correction : une page « Honoraires » en texte, reliée au menu et à chaque page de soin, avec la date de mise à jour. L'article sur [les honoraires sur le site du cabinet](https://developpia.fr/blog/honoraires-site-cabinet-dentaire-obligation-presentation/) donne le modèle.
 
@@ -69,7 +69,7 @@ La correction : remplacez ces éléments par ce qui est autorisé et rassure aut
 
 Le test : descendez tout en bas de votre page d'accueil et lisez le pied de page. « Site réalisé par », « propulsé par », le logo d'une agence, le nom d'une marque d'implants ou d'un laboratoire avec un lien : chacun est un signe de l'erreur.
 
-Pourquoi elle expose : l'article R.4127-225 interdit toute publicité intéressant un tiers ou une entreprise commerciale. Un lien vers l'agence qui a fait le site est une publicité pour cette agence. Un lien vers une marque d'implants aussi. Le fait que beaucoup de sites le font ne change rien au texte. C'est le praticien qui est responsable de son site, pas le prestataire.
+Pourquoi elle expose : l'article R.4127-225 interdit toute publicité intéressant un tiers ou une entreprise commerciale. Un lien vers l'agence qui a fait le site est une publicité pour cette agence. Un lien vers une marque d'implants aussi. Le fait que beaucoup de sites le font ne change rien au texte. C'est le praticien qui est responsable de son site, pas le prestataire. Les questions à lui poser avant de signer sont dans l'article [agence, indépendant ou soi-même](https://developpia.fr/blog/agence-independant-ou-soi-meme-referencement-dentiste/).
 
 Pourquoi elle coûte : ce lien fait sortir vos visiteurs de votre site, au moment où ils cherchaient votre numéro.
 

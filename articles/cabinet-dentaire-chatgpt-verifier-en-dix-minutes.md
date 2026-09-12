@@ -81,7 +81,7 @@ Vérifiez ces quatre causes dans l'ordre.
 
 ### Le robot ne peut pas lire votre site
 
-Une IA ne cite que ce qu'elle a pu lire, et trois réglages rendent un site illisible pour elle. Le JavaScript d'abord, un langage qui affiche le contenu après le chargement de la page : les robots d'OpenAI, d'Anthropic et de Perplexity ne le lisent pas, et un site qui affiche ses textes par script est invisible pour eux. Cloudflare ensuite, un service de protection qui bloque les robots des IA par défaut depuis juillet 2025. Le fichier robots.txt enfin, le petit fichier qui dit aux robots ce qu'ils peuvent lire. Tapez l'adresse de votre site suivie de /robots.txt et cherchez la ligne « Disallow: / » : elle interdit la lecture au robot nommé juste au-dessus. Le robot qui compte pour ChatGPT s'appelle OAI-SearchBot, et non GPTBot, comme l'explique la [page d'OpenAI sur ses robots](https://developers.openai.com/api/docs/bots).
+Une IA ne cite que ce qu'elle a pu lire, et trois réglages [rendent un site illisible pour elle](https://developpia.fr/blog/ia-lisent-site-dentiste-invisible/). Le JavaScript d'abord, un langage qui affiche le contenu après le chargement de la page : les robots d'OpenAI, d'Anthropic et de Perplexity ne le lisent pas, et un site qui affiche ses textes par script est invisible pour eux. Cloudflare ensuite, un service de protection qui bloque les robots des IA par défaut depuis juillet 2025. Le fichier robots.txt enfin, le petit fichier qui dit aux robots ce qu'ils peuvent lire. Tapez l'adresse de votre site suivie de /robots.txt et cherchez la ligne « Disallow: / » : elle interdit la lecture au robot nommé juste au-dessus. Le robot qui compte pour ChatGPT s'appelle OAI-SearchBot, et non GPTBot, comme l'explique la [page d'OpenAI sur ses robots](https://developers.openai.com/api/docs/bots).
 
 ### Le site ne dit pas clairement vos soins et votre ville
 
@@ -97,7 +97,7 @@ Une IA se méfie d'un cabinet dont seul le site parle. Elle cherche des traces a
 
 ## Étape 5 : refaire le test chaque mois
 
-Un test isolé donne une photo, la série montre le mouvement. Refaites les quinze questions chaque mois, dans les mêmes conditions : fenêtre privée, mêmes outils, mêmes phrases. Notez la date, le pourcentage et la source citée.
+Un test isolé donne une photo, la série montre le mouvement. Refaites les quinze questions chaque mois, dans les mêmes conditions : fenêtre privée, mêmes outils, mêmes phrases. Notez la date, le pourcentage et la source citée. Et laissez du temps au travail. L'article sur le [délai d'un référencement dentaire](https://developpia.fr/blog/delai-resultat-referencement-dentiste/) dit ce qui va vite et ce qui prend des mois.
 
 Ne tirez pas de conclusion d'un seul écart : une hausse ou une baisse d'un mois sur l'autre peut venir du hasard. Seule une tendance confirmée sur deux ou trois mesures veut dire quelque chose. Deux signes valent plus que le pourcentage brut : la source citée passe de Doctolib à votre site, et les erreurs sur votre adresse ou vos soins disparaissent.
 

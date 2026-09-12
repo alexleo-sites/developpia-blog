@@ -16,7 +16,7 @@ La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-
 
 ## Les douze informations, dans l'ordre du patient
 
-1. **Le soin qu'il veut.** Le patient a une dent qui manque, une dent cassée, un sourire qui le gêne. Il veut savoir si vous faites ce soin, comment il se passe et en combien de séances. Où : une page par soin, avec sa propre adresse, reliée au menu. L'erreur : une seule page « Nos soins » qui liste vingt actes en une ligne chacun. Elle ne répond à personne et ne se classe sur rien.
+1. **Le soin qu'il veut.** Le patient a une dent qui manque, une dent cassée, un sourire qui le gêne. Il veut savoir si vous faites ce soin, comment il se passe et en combien de séances. Où : [une page par soin](https://developpia.fr/blog/une-page-par-soin-site-dentiste/), avec sa propre adresse, reliée au menu. L'erreur : une seule page « Nos soins » qui liste vingt actes en une ligne chacun. Elle ne répond à personne et ne se classe sur rien.
 2. **L'adresse et l'accès.** Il veut savoir s'il peut venir sans difficulté : le quartier, le stationnement, l'arrêt de bus ou de métro, l'étage, l'ascenseur, l'accès en fauteuil roulant. Où : une page « Accès », et l'adresse en bas de chaque page, avec un plan. L'erreur : l'adresse écrite dans une image, que ni le patient sur son téléphone ni Google ne peuvent copier.
 3. **Les horaires.** Il veut savoir si le cabinet est ouvert le samedi, tôt le matin ou tard le soir, et s'il est fermé cette semaine. Où : sur chaque page, près du téléphone, avec les fermetures exceptionnelles. L'erreur : des horaires différents entre le site, la [fiche Google](https://developpia.fr/fiche-google-dentiste/) et Doctolib. Le patient ne sait plus qui croire, et Google non plus.
 4. **La prise de rendez-vous.** Il veut appeler ou réserver tout de suite. Où : le numéro en haut de chaque page, cliquable sur téléphone, et juste à côté un lien de prise de rendez-vous en ligne, Doctolib ou un formulaire simple. L'erreur : le téléphone caché en bas de la page « Contact », et un formulaire de dix champs que personne ne remplit.
@@ -57,7 +57,7 @@ Pour chaque question, notez s'il a trouvé, en combien de temps, et le mot qu'il
 
 Trois choses reviennent. Le numéro de téléphone n'est pas cliquable, et le proche le recopie à la main. Les horaires du site ne sont pas ceux de la fiche Google, et le proche demande lesquels sont les bons. Les mots « urgence » et « honoraires » n'existent nulle part sur le site, et le proche renonce. Aucune de ces corrections ne demande de refaire le site. Elles demandent une séance de travail, et une personne au cabinet qui en a la charge.
 
-Une fois les douze informations en place, la question suivante est de savoir si Google et les IA les lisent aussi bien que votre proche. C'est le travail du [référencement dentiste](https://developpia.fr/referencement-dentiste/), et il commence par la page que le patient voit avant même votre site : votre fiche Google.
+Une fois les douze informations en place, la question suivante est de savoir si Google et [les IA les lisent](https://developpia.fr/blog/ia-lisent-site-dentiste-invisible/) aussi bien que votre proche. C'est le travail du [référencement dentiste](https://developpia.fr/referencement-dentiste/), et il commence par la page que le patient voit avant même votre site : votre fiche Google.
 
 ## Questions fréquentes
 
