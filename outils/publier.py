@@ -5,11 +5,13 @@
     python3 outils/publier.py --liens "sujet 1, sujet 2"
 
 Ce que fait le script, dans l'ordre :
-1. Vérifie l'article contre CONSIGNES.md (en-tête, longueur, interdits, liens, FAQ, encart),
-   ses liens vers au moins deux articles déjà publiés, et les anciens articles modifiés pour
-   renvoyer vers lui : au moins deux, un lien ajouté et rien d'autre.
+1. Vérifie l'article contre CONSIGNES.md (en-tête, longueur, interdits, liens, FAQ, encart) :
+   date du jour au plus tard, chaque lien interne mène à une page déjà en ligne (sans
+   redirection, ancre comprise), au moins deux liens vers des articles déjà publiés, et au
+   moins deux anciens articles modifiés pour renvoyer vers lui, par ce seul lien.
    La moindre erreur arrête tout : rien n'est publié.
-2. Ajoute l'article à index.json (la liste que le site lit).
+2. Ajoute l'article à index.json (la liste que le site lit) et note la date du jour dans le
+   champ « modifie » des anciens articles reliés (date du plan du site : Google les relit).
 3. Coche la ligne du calendrier éditorial (sujets.md) si --sujet est donné.
 4. git add / commit / push (trois commandes séparées), anciens articles modifiés compris.
    Le site developpia.fr lit le dépôt à chaque visite (cache de dix minutes) : l'article est
@@ -17,7 +19,7 @@ Ce que fait le script, dans l'ordre :
 5. Prévient Bing, Yandex et les autres moteurs IndexNow des adresses changées.
 6. Vérifie que l'adresse répond, et affiche le lien.
 
---liens "sujets" liste les articles déjà publiés : ceux qui partagent le plus de sujets d'abord
+--liens "sujets" liste les articles déjà en ligne : ceux qui partagent le plus de sujets d'abord
 et, à égalité, ceux qui reçoivent le moins de liens des autres articles. Ce sont les articles
 à relier au nouveau (CONSIGNES.md, « Relier le nouvel article aux anciens »).
 
@@ -29,14 +31,17 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 import urllib.request
 from datetime import date
+from urllib.parse import urlsplit
 
 RACINE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://developpia.fr/"
 CLE_INDEXNOW = "6f6ba1667f13c0ba36df6c17605d8c2f"  # même valeur que le fichier <clé>.txt à la racine du site
 MOTS_INTERDITS = [r"meilleur dentiste", r"pas cher", r"\bpromotion\b", r"\bspécialiste\b", "—", "–"]
 LIGNES_MAX_ANCIEN = 6  # un ancien article ne reçoit qu'un lien vers le nouveau : quelques lignes au plus
+PAGES_TOUJOURS = {"/", "/blog/", "/guides/", "/plan-du-site/"}  # en plus de « Nos pages à lier »
 
 
 def separer_en_tete(texte):
@@ -79,6 +84,22 @@ def texte_brut(t):
 def compter_mots(principal):
     sans_titres = re.sub(r"^#+\s.*$", "", principal, flags=re.M)
     return len(texte_brut(sans_titres).split())
+
+
+def aujourdhui():
+    return date.today().isoformat()
+
+
+def visible(article):
+    """Un article est en ligne s'il n'est pas en brouillon et que sa date est passée."""
+    return not article.get("brouillon") and str(article.get("date", "")) <= aujourdhui()
+
+
+def id_titre(texte):
+    """Même calcul que idTitre() dans api/blog.js : l'ancre d'un titre ## ou ###."""
+    t = unicodedata.normalize("NFD", texte.lower())
+    t = "".join(c for c in t if not "̀" <= c <= "ͯ")
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")[:60] or "titre"
 
 
 def lien_vers(texte, slug):
@@ -157,10 +178,55 @@ def lire_article(slug):
     return open(p, encoding="utf-8").read() if os.path.exists(p) else ""
 
 
+def pages_du_site():
+    """Adresses des pages du site (hors articles), prises dans « Nos pages à lier » de CONSIGNES.md."""
+    texte = open(os.path.join(RACINE, "CONSIGNES.md"), encoding="utf-8").read()
+    section = texte.split("## Nos pages à lier", 1)[1].split("\n## ", 1)[0] if "## Nos pages à lier" in texte else ""
+    pages = {p for p in re.findall(r"https://developpia\.fr(/[^\s)]*)", section) if not p.startswith("/blog/")}
+    return pages | PAGES_TOUJOURS
+
+
+def ancres_article(slug):
+    return {id_titre(texte_brut(t)) for t in re.findall(r"^#{2,3}\s+(.+)$", lire_article(slug), re.M)}
+
+
+def controler_liens(texte, articles):
+    """Chaque lien interne mène à une page déjà en ligne, sans redirection, ancre comprise."""
+    pages = pages_du_site()
+    par_slug = {a["slug"]: a for a in articles}
+    erreurs = []
+    for cible in re.findall(r"\]\(([^)\s]+)\)", texte):
+        s = urlsplit(cible)
+        if s.netloc and s.netloc not in ("developpia.fr", "www.developpia.fr"):
+            continue
+        if not s.netloc and not cible.startswith("/"):
+            if not s.scheme:
+                erreurs.append(f"lien « {cible} » : adresse incomplète, écrire https://developpia.fr/...")
+            continue
+        if s.netloc == "www.developpia.fr" or (s.netloc and s.scheme != "https"):
+            erreurs.append(f"lien « {cible} » : écrire https://developpia.fr/ (en https, sans www)")
+        chemin = s.path or "/"
+        if not chemin.endswith("/") and "." not in chemin.rsplit("/", 1)[-1]:
+            erreurs.append(f"lien « {cible} » : il manque la barre finale (/), le site ferait une redirection")
+            chemin += "/"
+        m = re.match(r"^/blog/([^/]+)/$", chemin)
+        if m:
+            article = par_slug.get(m.group(1))
+            if not article:
+                erreurs.append(f"lien « {cible} » : aucun article ne porte ce nom")
+            elif not visible(article):
+                erreurs.append(f"lien « {cible} » : cet article n'est pas encore en ligne")
+            elif s.fragment and s.fragment not in ancres_article(m.group(1)):
+                erreurs.append(f"lien « {cible} » : l'ancre #{s.fragment} n'existe pas dans cet article")
+        elif chemin not in pages:
+            erreurs.append(f"lien « {cible} » : page inconnue du site (liste « Nos pages à lier » de CONSIGNES.md)")
+    return erreurs
+
+
 def proposer_liens(sujets_texte):
     """Articles à relier au nouveau : le plus de sujets en commun d'abord, puis les moins reliés."""
     voulus = {s.strip().lower() for s in sujets_texte.split(",") if s.strip()}
-    articles = [a for a in charger_index() if a.get("genre") != "lexique"]
+    articles = [a for a in charger_index() if a.get("genre") != "lexique" and visible(a)]
     textes = {a["slug"]: lire_article(a["slug"]) for a in articles}
     lignes = []
     for a in articles:
@@ -168,7 +234,7 @@ def proposer_liens(sujets_texte):
         recus = sum(1 for s, t in textes.items() if s != a["slug"] and lien_vers(t, a["slug"]))
         lignes.append((-len(communs), recus, a["slug"], communs, a["titre"]))
     lignes.sort()
-    print("Articles déjà publiés, du plus proche au moins proche (à égalité, le moins relié d'abord) :")
+    print("Articles déjà en ligne, du plus proche au moins proche (à égalité, le moins relié d'abord) :")
     for _, recus, slug, communs, titre in lignes:
         print(f"- {slug} | sujets en commun : {', '.join(communs) or 'aucun'} | reçoit {recus} lien(s) | {titre}")
     print(f"Adresse d'un article : {SITE}blog/<slug>/")
@@ -185,7 +251,7 @@ def anciens_modifies(chemin_nouveau):
     return noms
 
 
-def controler_ancien(nom, slug_nouveau):
+def controler_ancien(nom, slug_nouveau, articles):
     """Un ancien article ne change que par un lien vers le nouveau."""
     chemin = os.path.join(RACINE, nom)
     texte = open(chemin, encoding="utf-8").read()
@@ -199,6 +265,7 @@ def controler_ancien(nom, slug_nouveau):
     if len(stat) >= 2 and stat[0].isdigit() and stat[1].isdigit() and int(stat[0]) + int(stat[1]) > LIGNES_MAX_ANCIEN:
         erreurs.append(f"{nom} : {int(stat[0]) + int(stat[1])} lignes changées, au plus {LIGNES_MAX_ANCIEN}")
     erreurs += [f"{nom} : {e}" for e in verifier(chemin)[3]]
+    erreurs += [f"{nom} : {e}" for e in controler_liens(texte, articles)]
     return erreurs
 
 
@@ -253,10 +320,15 @@ def main():
     articles = charger_index()
     if any(a["slug"] == slug for a in articles):
         erreurs.append("ce slug est déjà dans index.json (article déjà publié)")
-    publies = [a["slug"] for a in articles if a.get("genre") != "lexique"]
+    if meta.get("date", "") > aujourdhui():
+        erreurs.append(f"date {meta['date']} dans le futur : un article se publie le jour même, "
+                       "sinon les liens vers lui mèneraient à une page introuvable jusqu'à cette date")
+    texte = open(chemin, encoding="utf-8").read()
+    avec_nouveau = articles + [{"slug": slug, "date": aujourdhui(), "titre": meta.get("titre", "")}]
+    erreurs += controler_liens(texte, avec_nouveau)
+    publies = [a["slug"] for a in articles if a.get("genre") != "lexique" and visible(a)]
     anciens = anciens_modifies(chemin)
     if meta.get("genre") != "lexique" and len(publies) >= 2:
-        texte = open(chemin, encoding="utf-8").read()
         sortants = [s for s in publies if lien_vers(texte, s)]
         if len(sortants) < 2:
             erreurs.append(f"{len(sortants)} lien(s) vers des articles déjà publiés, attendu au moins 2 (voir --liens)")
@@ -265,13 +337,13 @@ def main():
             erreurs.append(f"{len(entrants)} ancien(s) article(s) renvoient vers le nouveau, attendu au moins 2 "
                            "(CONSIGNES.md, « Relier le nouvel article aux anciens »)")
     for nom in anciens:
-        erreurs += controler_ancien(nom, slug)
+        erreurs += controler_ancien(nom, slug, avec_nouveau)
     if erreurs:
         print(f"✗ {slug} : {len(erreurs)} problème(s), rien n'est publié.")
         for e in erreurs:
             print("  -", e)
         sys.exit(1)
-    print(f"✓ {slug} : {mots} mots, en-tête complet, règles respectées.")
+    print(f"✓ {slug} : {mots} mots, en-tête complet, liens vérifiés, règles respectées.")
     if anciens:
         print(f"✓ liens vers le nouvel article ajoutés dans : {', '.join(anciens)}")
 
@@ -282,6 +354,10 @@ def main():
         entree["maj"] = meta["maj"]
     if meta.get("genre"):
         entree["genre"] = meta["genre"]
+    relies = {os.path.basename(n)[:-3] for n in anciens}
+    for a in articles:
+        if a["slug"] in relies:
+            a["modifie"] = aujourdhui()
     articles.append(entree)
     enregistrer_index(articles)
     print("✓ index.json mis à jour.")
@@ -299,7 +375,7 @@ def main():
     git("push")
     print("✓ envoyé sur GitHub.")
     url = f"{SITE}blog/{slug}/"
-    adresses = [url, f"{SITE}blog/", f"{SITE}sitemap-blog.xml"] + [f"{SITE}blog/{os.path.basename(n)[:-3]}/" for n in anciens]
+    adresses = [url, f"{SITE}blog/", f"{SITE}sitemap-blog.xml"] + [f"{SITE}blog/{s}/" for s in sorted(relies)]
     print("IndexNow :", indexnow(adresses))
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (publier.py)"}), timeout=20) as r:

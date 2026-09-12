@@ -17,6 +17,11 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 
 - Entre 1 200 et 1 600 mots (hors questions fréquentes).
 - Un titre qui contient la recherche visée, en français naturel (pas de « : guide complet 2026 »).
+- Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
+  « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
+  « agence SEO dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
+  IA dentiste », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
+  renvoie vers la page.
 - Un chapô de deux ou trois phrases (champ `accroche`) qui dit ce que le lecteur va gagner.
 - 5 à 8 titres de niveau 2 (`##`), un toutes les 150 à 250 mots.
 - Exactement un encart (citation dont la première ligne est en gras) : la phrase à retenir.
@@ -162,3 +167,7 @@ Le corps utilise seulement :
 7. Au moins deux liens vers des articles déjà publiés (le lexique ne compte pas).
 8. Au moins deux anciens articles renvoient vers le nouveau ; chacun ne change que par ce
    lien (en-tête identique, six lignes au plus) et respecte toujours ces règles.
+9. La date n'est pas dans le futur, et chaque lien interne mène à une page déjà en ligne :
+   une page de « Nos pages à lier » ou un article publié, écrit `https://developpia.fr/...`
+   avec la barre finale, ancre comprise. Une nouvelle page du site doit donc être ajoutée à
+   « Nos pages à lier » avant qu'un article puisse la citer.

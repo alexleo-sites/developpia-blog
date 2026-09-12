@@ -22,6 +22,9 @@ article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
 2. Lis `CONSIGNES.md` en entier, puis `sujets.md` et `index.json`.
 3. Choisis le sujet : la première ligne `- [ ]` de `sujets.md` qui contient « PRIORITÉ »,
    sinon la première ligne `- [ ]` du fichier. Ignore les lignes contenant « ÉCARTÉ ».
+   Vérifie que ce n'est pas un doublon : si un titre de `index.json` ou une page de « Nos
+   pages à lier » (`CONSIGNES.md`) vise déjà la même recherche, écris « ÉCARTÉ (doublon de
+   <page>) » au début de la ligne, juste après `- [ ]`, puis prends le sujet suivant.
    S'il ne reste aucun sujet, envoie sur Slack, canal #direction (C0BKPKZHC2D) :
    « Le calendrier du blog DeveloppIA est vide : ajoutez des sujets dans sujets.md » et arrête-toi.
 4. Pour ne pas te répéter, lis les trois derniers articles publiés (les trois premiers
