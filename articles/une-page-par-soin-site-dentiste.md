@@ -1,5 +1,6 @@
 ---
 titre: Une page par soin : pourquoi la page « implant dentaire » de votre site de dentiste compte plus que l'accueil
+titre_court: Page implant sur le site d'un dentiste : une page par soin
 description: Sur le site d'un cabinet dentaire, la page implant compte plus que l'accueil : ce qu'une page de soin doit contenir, dans l'ordre, et les pages à créer.
 accroche: Le patient ne tape pas « cabinet dentaire », il tape le nom d'un soin. Google et les IA lui répondent avec la page qui traite ce soin, pas avec votre page d'accueil. Cet article vous donne le contenu d'une page de soin, dans l'ordre, un plan type et la liste des pages que votre cabinet devrait avoir.
 date: 2026-09-12

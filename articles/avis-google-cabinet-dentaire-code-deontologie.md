@@ -1,5 +1,6 @@
 ---
 titre: Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie
+titre_court: Avis Google et dentiste : ce que dit le code de l'Ordre
 description: Avis Google et cabinet dentaire : ce que le code de déontologie interdit vraiment, la position de l'Ordre, et comment répondre à un avis sans prendre de risque.
 accroche: Sur les avis Google, un cabinet dentaire entend tout et son contraire. Cet article sépare ce que les textes interdisent de ce qu'ils ne disent pas. Il donne ensuite une ligne de conduite simple : ce qu'on ne fait pas, comment répondre, et que faire d'un avis faux.
 date: 2026-09-12

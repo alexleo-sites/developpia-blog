@@ -114,9 +114,11 @@ def verifier(chemin):
     meta, corps = separer_en_tete(texte)
     principal, faq = decouper_faq(corps)
     erreurs = []
-    for champ in ("titre", "description", "accroche", "date", "lecture", "sujets", "resume"):
+    for champ in ("titre", "titre_court", "description", "accroche", "date", "lecture", "sujets", "resume"):
         if not meta.get(champ):
             erreurs.append(f"en-tête : champ « {champ} » manquant")
+    if meta.get("titre_court") and len(meta["titre_court"]) > 60:
+        erreurs.append(f"titre_court de {len(meta['titre_court'])} caractères (60 au plus : c'est le titre que Google affiche)")
     if meta.get("description") and not 120 <= len(meta["description"]) <= 160:
         erreurs.append(f"description de {len(meta['description'])} caractères (attendu 120 à 160)")
     if meta.get("date") and not re.match(r"^\d{4}-\d{2}-\d{2}$", meta["date"]):
@@ -344,10 +346,11 @@ def main():
     if sujet and sujet.count("|") >= 1 and meta.get("titre"):
         recherche = sujet.split("|")[1].strip()
         attendus = mots_cles(recherche)
-        absents = mots_absents_du_titre(recherche, meta["titre"][:70])
-        if attendus and len(absents) * 3 > len(attendus):
-            erreurs.append(f"le début du titre (les 70 premiers caractères, ce que Google affiche) doit reprendre la "
-                           f"recherche visée « {recherche} » : il manque {', '.join(absents)}")
+        for nom, champ in (("le début du titre (70 premiers caractères)", meta["titre"][:70]),
+                           ("le titre court, celui que Google affiche", meta.get("titre_court", ""))):
+            absents = mots_absents_du_titre(recherche, champ)
+            if attendus and len(absents) * 3 > len(attendus):
+                erreurs.append(f"{nom} doit reprendre la recherche visée « {recherche} » : il manque {', '.join(absents)}")
         for nom, champ in (("la description", meta.get("description", "")), ("l'accroche", meta.get("accroche", "")),
                            ("le nom du fichier", slug.replace("-", " "))):
             manquants = mots_absents_du_titre(recherche, champ)

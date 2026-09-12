@@ -1,5 +1,6 @@
 ---
 titre: Lexique du référencement dentaire : les 50 mots à connaître, expliqués simplement
+titre_court: Lexique du référencement dentaire : 50 mots expliqués
 description: Lexique du référencement dentiste : les mots de Google, de la carte et des IA expliqués simplement, avec ce que chacun change pour votre cabinet.
 accroche: Balise titre, proéminence, Aperçus IA, robots.txt : les mots du référencement arrivent vite dans une discussion avec un prestataire. Ce lexique les explique un par un, en français simple, avec ce que chacun change pour un cabinet dentaire. Gardez-le sous la main pour lire un rapport ou un diagnostic.
 date: 2026-09-12

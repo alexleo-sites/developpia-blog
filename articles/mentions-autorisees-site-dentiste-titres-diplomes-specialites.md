@@ -1,5 +1,6 @@
 ---
 titre: Les mentions que vous avez le droit d'afficher sur votre site de dentiste : titres, diplômes, spécialités
+titre_court: Site de dentiste : titres, diplômes et mentions autorisés
 description: Titres, diplômes, spécialités : ce que l'Ordre autorise un dentiste à écrire sur son site, la mention obligatoire sous un diplôme non reconnu, des exemples.
 accroche: Le guide sur ce que l'Ordre autorise pose le cadre général. Cet article ne traite qu'une question : ce que vous pouvez écrire à côté de votre nom. Vous saurez quel titre est réservé, comment présenter l'implantologie ou l'esthétique sans franchir la ligne, et quelle phrase ajouter sous un diplôme que l'Ordre ne reconnaît pas.
 date: 2026-09-12

@@ -47,7 +47,8 @@ article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
    vers des articles de la liste de l'étape 4, un ou deux liens vers une source officielle,
    aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin, aucune promesse
    de position, aucun prix, aucun témoignage, aucun mot anglais non expliqué. La recherche
-   visée figure au début du titre, dans la description, dans l'accroche et dans le nom du
+   visée figure au début du titre, dans le titre court (`titre_court`, 60 caractères au plus :
+   c'est lui que Google affiche), dans la description, dans l'accroche et dans le nom du
    fichier. La date est celle d'aujourd'hui.
 5 bis. Relie ton article aux anciens : dans les deux premiers articles de la liste de
    l'étape 4, ajoute UN lien vers `https://developpia.fr/blog/<slug>/`, en suivant la

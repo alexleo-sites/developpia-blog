@@ -18,6 +18,8 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - Entre 1 200 et 1 600 mots (hors questions fréquentes).
 - Un titre qui reprend la recherche visée dès le début, dans ses 70 premiers caractères (ce que
   Google affiche), en français naturel (pas de « : guide complet 2026 »).
+- Un titre court (`titre_court`), 60 caractères au plus, qui commence par la recherche visée :
+  c'est lui que Google affiche ; le titre long reste le grand titre de la page.
 - La recherche visée aussi dans la description, dans l'accroche et dans le nom du fichier.
 - Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
   « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
@@ -143,6 +145,7 @@ En-tête obligatoire entre deux lignes `---` :
 ```
 ---
 titre: Honoraires sur le site du cabinet : ce que la loi impose
+titre_court: Affichage des honoraires sur le site d'un dentiste
 description: Résumé pour Google, 120 à 160 caractères, avec la recherche visée.
 accroche: Deux ou trois phrases qui disent ce que le lecteur va gagner.
 date: 2026-09-12

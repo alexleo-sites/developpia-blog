@@ -1,5 +1,6 @@
 ---
 titre: Honoraires sur le site du cabinet dentaire : ce que la loi impose et comment les présenter
+titre_court: Affichage des honoraires sur le site d'un dentiste
 description: L'affichage des honoraires du dentiste sur le site internet du cabinet : l'obligation du code de déontologie, les actes à montrer et une page claire.
 accroche: Le code de déontologie vous oblige à informer sur vos honoraires, y compris sur votre site. Cet article vous dit quels actes afficher, comment les présenter sur une page claire, et pourquoi cette page sert aussi votre visibilité sur Google et dans les IA.
 date: 2026-09-12

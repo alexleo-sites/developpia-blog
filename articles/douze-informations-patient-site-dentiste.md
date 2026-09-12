@@ -1,5 +1,6 @@
 ---
 titre: Que mettre sur le site d'un cabinet dentaire : les douze informations qu'un patient cherche avant d'appeler
+titre_court: Que mettre sur le site d'un dentiste : 12 informations
 description: Que mettre sur le site d'un cabinet dentaire ? Les douze informations qu'un patient cherche avant d'appeler, où placer chacune et l'erreur fréquente.
 accroche: Un patient qui ouvre le site d'un dentiste cherche des réponses précises, dans un ordre précis. Cet article liste les douze informations qu'il attend avant d'appeler, dit où placer chacune, et donne un test de dix minutes pour vérifier votre propre site avec un proche.
 date: 2026-09-12

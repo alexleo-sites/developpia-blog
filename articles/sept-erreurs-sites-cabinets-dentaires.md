@@ -1,5 +1,6 @@
 ---
 titre: Les sept erreurs qu'on voit sur les sites de cabinets dentaires
+titre_court: Site de cabinet dentaire : les 7 erreurs à éviter
 description: Site de dentiste mal référencé ? Les sept erreurs de site de cabinet dentaire les plus courantes, le test d'une minute pour chacune et la correction.
 accroche: Un site de dentiste mal référencé a presque toujours une de ces sept erreurs. Chacune se repère en une minute sur votre propre site, sans outil. Vous saurez ce qu'elle vous coûte, en patients ou vis-à-vis de l'Ordre, et comment la corriger.
 date: 2026-09-12

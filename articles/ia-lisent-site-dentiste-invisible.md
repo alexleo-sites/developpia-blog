@@ -1,5 +1,6 @@
 ---
 titre: Comment les IA lisent un site de dentiste, et pourquoi le vôtre est peut-être invisible
+titre_court: Site de dentiste invisible pour les IA : pourquoi
 description: ChatGPT ne trouve pas mon cabinet : pourquoi un site de dentiste reste invisible pour les IA, les quatre murs à vérifier soi-même et la correction de chacun.
 accroche: Une IA ne visite pas votre site comme un patient. Elle envoie un robot, lit le texte brut, recoupe avec d'autres sources, puis vous cite ou non. Cet article suit ce chemin pas à pas et montre les quatre murs qui rendent un site de dentiste invisible pour les IA, avec le test de deux minutes pour chacun.
 date: 2026-09-12

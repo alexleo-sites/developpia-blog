@@ -1,5 +1,6 @@
 ---
 titre: Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom
+titre_court: Reprise d'un cabinet dentaire : site, fiche Google et nom
 description: Reprise d'un cabinet dentaire : transférer la fiche Google, le site et le nom de domaine sans perdre les patients qui cherchent encore l'ancien nom.
 accroche: Lors de la reprise d'un cabinet dentaire, l'acte de cession parle de patientèle, de matériel et de bail, rarement du site ou de la fiche Google. Pourtant, les patients continuent de chercher l'ancien nom. Vous trouverez ici le tableau à remplir avant de signer, les pièges de chaque élément et les gestes à faire, dans l'ordre.
 date: 2026-09-12

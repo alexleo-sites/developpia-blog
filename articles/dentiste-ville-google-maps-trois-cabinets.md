@@ -1,5 +1,6 @@
 ---
 titre: Dentiste et ville sur Google Maps : comment Google choisit les trois cabinets de la carte
+titre_court: Dentiste sur Google Maps : comment la carte choisit
 description: Dentiste + ville sur Google Maps : les trois critères de Google (pertinence, distance, proéminence) et comment vérifier votre place depuis un téléphone.
 accroche: Quand un patient tape « dentiste » et le nom de sa ville, Google montre une carte et trois cabinets. Cet article explique, avec une ville fictive, comment Google fait ce choix. Vous saurez ensuite vérifier votre propre place depuis votre téléphone, à trois endroits de votre ville.
 date: 2026-09-12

@@ -1,5 +1,6 @@
 ---
 titre: Publicité interdite aux dentistes : les leviers de visibilité qui restent autorisés
+titre_court: Publicité interdite aux dentistes : les leviers autorisés
 description: Publicité interdite aux dentistes : les sept leviers de visibilité qu'un cabinet dentaire garde le droit d'utiliser, et l'erreur à éviter pour chacun.
 accroche: La publicité est fermée aux chirurgiens-dentistes, mais l'information reste ouverte. Cet article passe en revue, levier par levier, ce que votre cabinet a le droit de faire pour être trouvé. Pour chacun : la règle, le geste concret et l'erreur fréquente.
 date: 2026-09-12

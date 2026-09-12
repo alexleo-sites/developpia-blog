@@ -1,5 +1,6 @@
 ---
 titre: Agence, indépendant ou soi-même : comment choisir pour le référencement de son cabinet dentaire
+titre_court: Agence, indépendant ou soi-même : choisir pour son cabinet
 description: Agence de référencement, indépendant ou référencement du cabinet dentaire soi-même : ce que chaque voie demande, ses risques, et huit questions avant de signer.
 accroche: Trois voies existent pour le référencement d'un cabinet dentaire : le faire soi-même, confier le travail à un indépendant, ou passer par une agence. Cet article dit ce que chacune demande en temps, ce qu'elle permet et ce qu'elle ne permet pas. Puis il donne les huit questions à poser à n'importe quel prestataire avant de signer.
 date: 2026-09-12
