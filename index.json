@@ -24,6 +24,18 @@
    "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction."
   },
   {
+   "slug": "reprise-cabinet-dentaire-site-fiche-google-nom",
+   "titre": "Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom",
+   "description": "Reprise d'un cabinet dentaire : transférer la fiche Google, le site et le nom de domaine sans perdre les patients qui cherchent encore l'ancien nom.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "Google Maps"
+   ],
+   "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore."
+  },
+  {
    "slug": "referencement-implantologue-cent-implants-par-an",
    "titre": "Implantologue : le référencement d'un cabinet qui pose cent implants par an",
    "description": "Référencement implantologue : le patient d'un implant vient de loin, compare et interroge les IA. Ce que le site, la fiche Google et Doctolib doivent dire.",
@@ -115,7 +127,8 @@
    "sujets": [
     "Google Maps"
    ],
-   "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville."
+   "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville.",
+   "modifie": "2026-09-12"
   },
   {
    "slug": "delai-resultat-referencement-dentiste",
@@ -151,7 +164,8 @@
     "cadre de l'Ordre",
     "Google Maps"
    ],
-   "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif."
+   "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
+   "modifie": "2026-09-12"
   },
   {
    "slug": "agence-independant-ou-soi-meme-referencement-dentiste",

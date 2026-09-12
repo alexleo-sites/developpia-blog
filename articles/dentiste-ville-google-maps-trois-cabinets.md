@@ -62,7 +62,7 @@ Pour un cabinet, cela se traduit par quatre choses :
 - **Des informations identiques partout** : le nom du cabinet, l'adresse, le téléphone et les horaires écrits de la même façon, à la lettre près, sur chaque support.
 - **Des citations**, c'est-à-dire des mentions de votre nom, de votre adresse et de votre téléphone sur d'autres sites : mairie, association, presse locale.
 
-Quand ces sources se contredisent, Google hésite. Un cabinet qui s'appelle « Cabinet dentaire de la Gare » sur son site, « Dr Martin » sur sa fiche et « Cabinet Martin » dans un annuaire est trois établissements douteux pour une machine. Un cabinet dont les informations concordent partout gagne en proéminence sans rien acheter.
+Quand ces sources se contredisent, Google hésite. Un cabinet qui s'appelle « Cabinet dentaire de la Gare » sur son site, « Dr Martin » sur sa fiche et « Cabinet Martin » dans un annuaire est trois établissements douteux pour une machine. Un cabinet dont les informations concordent partout gagne en proéminence sans rien acheter. Le risque est le plus fort lors d'une [reprise de cabinet dentaire](https://developpia.fr/blog/reprise-cabinet-dentaire-site-fiche-google-nom/), quand le nom change.
 
 Sur les avis, la ligne ne change pas. Google les compte, mais un chirurgien-dentiste ne sollicite pas d'avis : l'Ordre a demandé en 2025 la suppression des avis sur les praticiens. On répond de façon neutre aux avis existants, ou pas du tout, comme l'explique l'article sur [les avis Google et le code de déontologie](https://developpia.fr/blog/avis-google-cabinet-dentaire-code-deontologie/). Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) rappelle le cadre.
 

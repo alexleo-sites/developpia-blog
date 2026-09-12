@@ -21,7 +21,7 @@ Les deux premiers : Google suggère ces recherches, les dentistes les tapent vra
 suivants : le dentiste y lit la question qu'il se pose au moment de décider d'investir. Les
 trois derniers : les pays où nous cherchons aussi des clients.
 
-- [ ] Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom ? | reprise cabinet dentaire | transfert du nom, de la fiche, du site et du nom de domaine, sans perdre les patients qui cherchent l'ancien nom | PRIORITÉ 1
+- [x] Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom ? | reprise cabinet dentaire | transfert du nom, de la fiche, du site et du nom de domaine, sans perdre les patients qui cherchent l'ancien nom | PRIORITÉ 1 (publié le 2026-09-12, reprise-cabinet-dentaire-site-fiche-google-nom)
 - [ ] Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google | déménagement cabinet dentaire | étapes dans l'ordre | PRIORITÉ 2
 - [ ] Refaire ou améliorer le site d'un cabinet dentaire : comment décider | refaire site cabinet dentaire | les cinq questions qui tranchent, puis la page site internet de cabinet dentaire | PRIORITÉ 3
 - [ ] Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer | résultat référencement dentiste | appels, demandes, rendez-vous, pas positions | PRIORITÉ 4

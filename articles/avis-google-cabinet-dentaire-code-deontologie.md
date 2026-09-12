@@ -86,7 +86,7 @@ Ce qui pèse, et que vous contrôlez entièrement :
 - votre site indiqué comme site officiel, et un site qui dit la même chose que la fiche ;
 - les mêmes nom, adresse, téléphone et horaires partout : site, fiche, Doctolib, annuaire de l'Assurance maladie.
 
-Chaque champ est détaillé sur notre page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/). Ce travail ne dépend d'aucun patient et ne demande aucune autorisation.
+Chaque champ est détaillé sur notre page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/). Ce travail ne dépend d'aucun patient et ne demande aucune autorisation. Lors de la [reprise d'un cabinet dentaire](https://developpia.fr/blog/reprise-cabinet-dentaire-site-fiche-google-nom/), la fiche se transfère avec ses avis : elle ne se recrée pas.
 
 Les avis resteront un sujet mouvant. La position de l'Ordre peut évoluer, les règles de Google aussi. Ce qui ne bouge pas, c'est le point de départ : votre communication, ce sont votre site, votre fiche et vos réponses. C'est là que se construit votre [référencement de dentiste](https://developpia.fr/referencement-dentiste/), et c'est là que nous regardons en premier.
 
