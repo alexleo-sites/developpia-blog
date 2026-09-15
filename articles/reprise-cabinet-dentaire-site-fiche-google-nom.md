@@ -87,7 +87,7 @@ Chaque étape dépend de la précédente.
 
 Deux gestes réduisent ce décalage : des informations identiques partout, et un texte lisible sans script, car les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique comment ces robots lisent un cabinet. Pour vérifier les réponses, suivez la méthode de l'article [votre cabinet apparaît-il dans ChatGPT](https://developpia.fr/blog/cabinet-dentaire-chatgpt-verifier-en-dix-minutes/), avec l'ancien nom puis le nouveau, et comptez en pourcentage de réponses, jamais en position.
 
-Une reprise bien préparée garde la fiche, l'adresse du site et le lien avec l'ancien nom. Le [test du référencement](https://developpia.fr/tester-mon-referencement/) donne une première photographie du cabinet repris. Et si la reprise s'accompagne d'un déménagement, les mêmes règles valent, avec une adresse de plus à changer partout.
+Une reprise bien préparée garde la fiche, l'adresse du site et le lien avec l'ancien nom. Le [test du référencement](https://developpia.fr/tester-mon-referencement/) donne une première photographie du cabinet repris. Et si la reprise s'accompagne d'un [déménagement du cabinet dentaire](https://developpia.fr/blog/demenagement-cabinet-dentaire-google-marche-a-suivre/), les mêmes règles valent, avec une adresse de plus à changer partout.
 
 ## Questions fréquentes
 

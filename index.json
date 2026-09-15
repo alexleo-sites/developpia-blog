@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
+   "titre": "Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google",
+   "description": "Déménagement d'un cabinet dentaire : changer l'adresse sur la fiche Google, le site, Doctolib et les annuaires, dans l'ordre, sans perdre vos patients.",
+   "date": "2026-09-15",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "Google Maps"
+   ],
+   "resume": "Le calendrier d'un déménagement de cabinet dentaire sur internet : fiche Google modifiée et non recréée, site, Doctolib, annuaires, IA, et la vérification du premier mois."
+  },
+  {
    "slug": "une-page-par-soin-site-dentiste",
    "titre": "Une page par soin : pourquoi la page « implant dentaire » de votre site de dentiste compte plus que l'accueil",
    "description": "Sur le site d'un cabinet dentaire, la page implant compte plus que l'accueil : ce qu'une page de soin doit contenir, dans l'ordre, et les pages à créer.",
@@ -33,7 +45,8 @@
     "site du cabinet",
     "Google Maps"
    ],
-   "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore."
+   "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore.",
+   "modifie": "2026-09-15"
   },
   {
    "slug": "referencement-implantologue-cent-implants-par-an",
@@ -165,7 +178,7 @@
     "Google Maps"
    ],
    "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
-   "modifie": "2026-09-12"
+   "modifie": "2026-09-15"
   },
   {
    "slug": "agence-independant-ou-soi-meme-referencement-dentiste",
