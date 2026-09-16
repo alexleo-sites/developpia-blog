@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "refaire-site-cabinet-dentaire-comment-decider",
+   "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
+   "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
+   "date": "2026-09-16",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "décider"
+   ],
+   "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte."
+  },
+  {
    "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
    "titre": "Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google",
    "description": "Déménagement d'un cabinet dentaire : changer l'adresse sur la fiche Google, le site, Doctolib et les annuaires, dans l'ordre, sans perdre vos patients.",
@@ -33,7 +45,8 @@
     "site du cabinet",
     "décider"
    ],
-   "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction."
+   "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
+   "modifie": "2026-09-16"
   },
   {
    "slug": "reprise-cabinet-dentaire-site-fiche-google-nom",
@@ -189,7 +202,8 @@
    "sujets": [
     "décider"
    ],
-   "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges."
+   "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges.",
+   "modifie": "2026-09-16"
   }
  ]
 }

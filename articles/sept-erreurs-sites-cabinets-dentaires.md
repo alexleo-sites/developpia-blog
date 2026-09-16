@@ -87,7 +87,7 @@ La correction : des images allégées, un bouton « Appeler » et un bouton « P
 > **La phrase à retenir**
 > Un site de cabinet dentaire mal référencé n'a presque jamais un problème mystérieux. Il a une ou plusieurs de ces sept erreurs, visibles en une minute chacune, et chacune se corrige.
 
-Corrigez d'abord les erreurs 2, 5 et 6, celles qui touchent au code de déontologie : elles se règlent en une séance et retirent un risque. Les quatre autres demandent plus de travail, et c'est par elles que passe le [référencement d'un dentiste](https://developpia.fr/referencement-dentiste/). Une fois le site remis d'aplomb, reste à regarder ce qui s'affiche avant lui sur votre nom : la fiche Google, et souvent [Doctolib](https://developpia.fr/guides/doctolib-devant-mon-site/).
+Corrigez d'abord les erreurs 2, 5 et 6, celles qui touchent au code de déontologie : elles se règlent en une séance et retirent un risque. Si plusieurs erreurs viennent de la construction du site, les cinq questions pour savoir s'il faut [refaire le site du cabinet dentaire ou le corriger](https://developpia.fr/blog/refaire-site-cabinet-dentaire-comment-decider/) tranchent la question. Les quatre autres demandent plus de travail, et c'est par elles que passe le [référencement d'un dentiste](https://developpia.fr/referencement-dentiste/). Une fois le site remis d'aplomb, reste à regarder ce qui s'affiche avant lui sur votre nom : la fiche Google, et souvent [Doctolib](https://developpia.fr/guides/doctolib-devant-mon-site/).
 
 ## Questions fréquentes
 
