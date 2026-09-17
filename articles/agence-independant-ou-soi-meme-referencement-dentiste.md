@@ -92,7 +92,7 @@ Trois choses restent vraies dans les trois voies.
 
 La première : les textes viennent de vous. Personne d'autre ne sait comment se passe une première consultation d'implantologie chez vous. Un prestataire met en forme et rend lisible. Il ne remplace pas votre parole.
 
-La deuxième : le cadre est le même pour tout le monde. Assistante, indépendant ou agence, celui qui écrit pour vous suit les mêmes règles. Et c'est vous, le praticien, qui répondez devant l'Ordre de ce qui est publié à votre nom.
+La deuxième : le cadre est le même pour tout le monde. Assistante, indépendant ou agence, celui qui écrit pour vous suit les mêmes règles. Et c'est vous, le praticien, qui répondez devant l'Ordre de ce qui est publié à votre nom. C'est vrai aussi de vos comptes, et la ligne de partage est détaillée dans l'article sur [le dentiste influenceur](https://developpia.fr/blog/dentiste-influenceur-ce-que-l-ordre-autorise/).
 
 La troisième : le résultat se mesure aux patients, pas aux positions. Que vous fassiez le travail ou que vous le confiiez, tenez un compte simple des appels et des demandes de rendez-vous, mois après mois. C'est le seul chiffre qui dit si le choix était le bon. Pour savoir quand le regarder, l'article [combien de temps avant un résultat sur Google](https://developpia.fr/blog/delai-resultat-referencement-dentiste/) donne les repères.
 

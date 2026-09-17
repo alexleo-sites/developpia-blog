@@ -61,6 +61,18 @@
    "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part."
   },
   {
+   "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",
+   "titre": "Dentiste influenceur : ce que l'Ordre autorise, et ce qui fait basculer en faute",
+   "description": "Dentiste influenceur : la grille de l'Ordre en trois cas, les procédés qui font basculer en faute, et la loi du 9 juin 2023 qui s'ajoute au code.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît."
+  },
+  {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
    "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
    "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
@@ -137,7 +149,8 @@
     "site du cabinet"
    ],
    "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.",
-   "ordre": 6
+   "ordre": 6,
+   "modifie": "2026-09-17"
   },
   {
    "slug": "publicite-interdite-dentistes-leviers-autorises",
@@ -283,7 +296,7 @@
     "décider"
    ],
    "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges.",
-   "modifie": "2026-09-16",
+   "modifie": "2026-09-17",
    "ordre": 13
   }
  ]

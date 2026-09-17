@@ -72,7 +72,7 @@ Depuis le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.go
 
 Deux points touchent l'implantologue. Le titre, d'abord. Le titre réservé aux trois spécialités reconnues (orthopédie dento-faciale, chirurgie orale, médecine bucco-dentaire) ne couvre pas l'implantologie. Dans un rappel du 3 août 2026, l'Ordre précise qu'un praticien peut faire état de ses principales pratiques, l'implantologie par exemple, sans laisser croire au public qu'il détient ce titre : [un exercice limité n'est pas une spécialité](https://www.ordre-chirurgiens-dentistes.fr/actualites/communication-un-exercice-limite-nest-pas-une-specialite/). Écrivez donc « pratique l'implantologie » ou « oriente sa pratique vers l'implantologie », et citez les diplômes que l'Ordre reconnaît. Cette orientation ne figure pas sur la plaque.
 
-Les témoignages, ensuite. Le patient aimerait lire l'expérience d'un autre patient, et le code l'interdit, sur le site comme en vidéo. La réponse est dans la précision de vos pages, votre matériel et le parcours de vos praticiens.
+Les témoignages, ensuite. Le patient aimerait lire l'expérience d'un autre patient, et le code l'interdit, sur le site comme en vidéo. La réponse est dans la précision de vos pages, votre matériel et le parcours de vos praticiens. Un praticien qui publie régulièrement en vidéo a une grille à connaître, celle de l'Ordre sur [le dentiste influenceur](https://developpia.fr/blog/dentiste-influenceur-ce-que-l-ordre-autorise/).
 
 ## Le même mot partout : site, fiche Google, Doctolib
 
