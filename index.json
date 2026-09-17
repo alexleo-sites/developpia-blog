@@ -13,6 +13,18 @@
    "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients."
   },
   {
+   "slug": "que-publier-instagram-cabinet-dentaire",
+   "titre": "Que publier sur l'Instagram d'un cabinet dentaire : la liste de ce qui est autorisé",
+   "description": "Que publier sur l'Instagram d'un cabinet dentaire : dix publications autorisées, la raison de leur conformité, et les conseils qui exposent un praticien.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute."
+  },
+  {
    "slug": "instagram-indexe-google-cabinet-dentaire",
    "titre": "Instagram indexé par Google : ce que ça change pour un cabinet dentaire",
    "description": "Instagram indexé par Google : ce qui est indexable pour un cabinet dentaire, la nuance sur les stories à la une, et la vérification à faire.",
@@ -126,7 +138,8 @@
     "cadre de l'Ordre"
    ],
    "resume": "Le titre réservé aux trois spécialités, les formulations justes pour l'implantologie et l'esthétique, la règle du diplôme non reconnu et des exemples avant et après.",
-   "ordre": 9
+   "ordre": 9,
+   "modifie": "2026-09-17"
   },
   {
    "slug": "lexique-referencement-dentaire",
@@ -231,7 +244,7 @@
     "Google Maps"
    ],
    "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
-   "modifie": "2026-09-15",
+   "modifie": "2026-09-17",
    "ordre": 7
   },
   {

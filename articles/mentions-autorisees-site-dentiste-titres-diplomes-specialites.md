@@ -73,6 +73,8 @@ Les recommandations donnent des exemples de ce qui ne passe pas :
 - Une formation listée sans avoir été suivie.
 - Le prix barré et la remise : « trois implants pour le prix de deux », « la troisième couronne à moitié prix ». L'Ordre y voit une incitation à des soins inutiles.
 - Les témoignages de patients, les notes affichées sur le site et les photos avant/après, jugées trompeuses.
+
+Ces limites suivent le cabinet sur ses comptes : voyez [ce qu'on peut publier sur l'Instagram d'un cabinet dentaire](https://developpia.fr/blog/que-publier-instagram-cabinet-dentaire/).
 - L'ordinaire présenté comme exceptionnel : une stérilisation conforme à la règle n'est pas « d'avant-garde ».
 
 Un test simple avant de publier : chaque mot doit pouvoir être justifié par un papier, diplôme, attestation de formation ou facture d'équipement. Ce qui ne s'appuie sur rien se retire.

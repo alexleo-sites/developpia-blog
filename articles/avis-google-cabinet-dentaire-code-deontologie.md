@@ -34,7 +34,7 @@ Tout change dès que vous les reprenez. Un avis recopié sur la page d'accueil d
 - une capture d'écran d'un avis publiée sur Instagram ou Facebook ;
 - une phrase de patient citée dans une plaquette ou sur la vitrine.
 
-Un avis anonyme ne change rien : le texte ne fait pas la différence. Si vous construisez ou refaites votre site, cette question se règle dès le départ. Notre page sur le [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) montre ce qu'une page d'accueil peut contenir à la place : les soins, l'équipe, l'accès, les honoraires.
+Un avis anonyme ne change rien : le texte ne fait pas la différence. La même règle vaut sur un compte de cabinet, et nous avons fait la liste de [ce qu'on peut publier sur l'Instagram d'un cabinet dentaire](https://developpia.fr/blog/que-publier-instagram-cabinet-dentaire/). Si vous construisez ou refaites votre site, cette question se règle dès le départ. Notre page sur le [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) montre ce qu'une page d'accueil peut contenir à la place : les soins, l'équipe, l'accès, les honoraires.
 
 > **À retenir**
 > Le code de déontologie ne vise pas l'avis qu'un patient écrit sur Google. Il vise ce que vous diffusez. Le même avis, recopié sur votre site ou sur vos réseaux, devient votre communication, et là il est interdit.
