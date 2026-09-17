@@ -66,7 +66,7 @@ Une position est un mauvais repère. Elle change selon la ville d'où l'on cherc
 3. Les clics. Le patient a vu votre page et l'a ouverte. Le rapport montre sur quelles recherches.
 4. Les appels et les demandes de rendez-vous. Un numéro bien visible sur chaque page, un bouton de prise de rendez-vous, et une question simple posée à l'accueil : « comment nous avez-vous trouvés ? ».
 
-Une position, on la regarde pour comprendre, jamais pour juger.
+Une position, on la regarde pour comprendre, jamais pour juger. Pour compter ce que ces repères donnent au fauteuil, l'article sur [le résultat d'un référencement dentaire en nombre de patients](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/) détaille les quatre chiffres et la feuille de relevé de l'accueil.
 
 ## Un cabinet fictif, étape par étape
 

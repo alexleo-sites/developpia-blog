@@ -86,7 +86,7 @@ Une refonte se prépare avant d'ouvrir le nouveau site.
 6. Gardez ces redirections au moins un an : c'est la durée minimale que Google recommande.
 7. Regardez les visites et les appels chaque semaine pendant deux mois.
 
-Une baisse des visites les premières semaines est fréquente. Elle se rattrape si les redirections sont justes. L'article sur [le délai d'un référencement dentaire](https://developpia.fr/blog/delai-resultat-referencement-dentiste/) explique ce que l'on observe dans le temps, et la page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit la construction que nous utilisons pour un cabinet.
+Une baisse des visites les premières semaines est fréquente. Elle se rattrape si les redirections sont justes. L'article sur [le délai d'un référencement dentaire](https://developpia.fr/blog/delai-resultat-referencement-dentiste/) explique ce que l'on observe dans le temps, et la page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit la construction que nous utilisons pour un cabinet. Pour savoir quoi compter ensuite, l'article sur [le résultat d'un référencement dentaire en nombre de patients](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/) donne les quatre chiffres à suivre.
 
 ## Pendant les travaux, le cadre de l'Ordre ne change pas
 

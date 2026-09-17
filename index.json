@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "resultat-referencement-dentiste-combien-de-patients",
+   "titre": "Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer",
+   "description": "Résultat du référencement d'un cabinet dentaire : les quatre chiffres à compter, où lire chacun et la feuille de relevé à tenir à l'accueil.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "mesurer",
+    "décider"
+   ],
+   "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients."
+  },
+  {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
    "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
    "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
@@ -10,7 +22,8 @@
     "site du cabinet",
     "décider"
    ],
-   "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte."
+   "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
+   "modifie": "2026-09-17"
   },
   {
    "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
@@ -166,7 +179,8 @@
     "décider",
     "mesurer"
    ],
-   "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position."
+   "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.",
+   "modifie": "2026-09-17"
   },
   {
    "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
