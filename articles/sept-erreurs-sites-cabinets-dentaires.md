@@ -64,7 +64,7 @@ Pourquoi elle expose : l'article R.4127-215-1 impose une communication loyale et
 
 Pourquoi elle coûte : on croit rassurer, on prend un risque pour un gain nul. Les avis existent déjà sur votre fiche Google, le patient les y lit. Les recopier n'ajoute rien, et un confrère peut signaler le site.
 
-La correction : remplacez ces éléments par ce qui est autorisé et rassure autant, le parcours des praticiens, le plateau technique, le déroulé de chaque soin.
+La correction : remplacez ces éléments par ce qui est autorisé et rassure autant, le parcours des praticiens, le plateau technique, le déroulé de chaque soin. Les mêmes limites s'appliquent aux comptes du cabinet, et nous avons rassemblé les textes dans l'article sur [la déontologie et les réseaux sociaux du dentiste](https://developpia.fr/blog/deontologie-reseaux-sociaux-dentiste/).
 
 ## 6. « Site réalisé par » et les liens vers des sociétés
 

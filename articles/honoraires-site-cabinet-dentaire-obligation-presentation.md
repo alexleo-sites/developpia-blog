@@ -86,7 +86,7 @@ Chacune se corrige en une séance de travail. La plupart tiennent à une chose :
 
 Une page d'honoraires n'est pas écrite une fois pour toutes. Désignez une personne au cabinet, souvent l'assistante ou la secrétaire, qui la relit à chaque changement d'honoraires et au moins une fois par an. Elle vérifie que la salle d'attente, les devis et le site disent la même chose, et elle change la date à chaque relecture. Une page courte et juste vaut mieux qu'une page longue et fausse. En cas de doute sur une formulation, votre conseil départemental de l'Ordre peut la relire.
 
-Cette page est une pièce d'un ensemble. Le [référencement dentiste](https://developpia.fr/referencement-dentiste/) repose sur des pages qui répondent, chacune, à une question précise du patient : un soin, un lieu, un coût. La prochaine page à revoir, après celle des honoraires, est celle de chaque soin.
+Cette page est une pièce d'un ensemble. Le [référencement dentiste](https://developpia.fr/referencement-dentiste/) repose sur des pages qui répondent, chacune, à une question précise du patient : un soin, un lieu, un coût. La prochaine page à revoir, après celle des honoraires, est celle de chaque soin. Et si le cabinet publie sur Instagram ou Facebook, les mêmes obligations d'information s'y appliquent : nous les avons reprises article par article dans [la déontologie et les réseaux sociaux du dentiste](https://developpia.fr/blog/deontologie-reseaux-sociaux-dentiste/).
 
 ## Questions fréquentes
 

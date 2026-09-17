@@ -37,6 +37,18 @@
    "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie."
   },
   {
+   "slug": "deontologie-reseaux-sociaux-dentiste",
+   "titre": "Déontologie et réseaux sociaux du dentiste : ce que l'Ordre écrit, article par article",
+   "description": "Déontologie et réseaux sociaux du dentiste : les articles du code cités mot pour mot, la force exacte des trois sources, et ce qui n'est écrit nulle part.",
+   "date": "2026-09-17",
+   "lecture": "8 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part."
+  },
+  {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
    "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
    "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
@@ -84,7 +96,7 @@
     "décider"
    ],
    "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
-   "modifie": "2026-09-16",
+   "modifie": "2026-09-17",
    "ordre": 2
   },
   {
@@ -179,7 +191,8 @@
     "site du cabinet"
    ],
    "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté.",
-   "ordre": 12
+   "ordre": 12,
+   "modifie": "2026-09-17"
   },
   {
    "slug": "douze-informations-patient-site-dentiste",
