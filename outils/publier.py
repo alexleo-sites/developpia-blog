@@ -358,8 +358,8 @@ def main():
                 erreurs.append(f"{nom} doit reprendre au moins la moitié des mots de « {recherche} » : il manque {', '.join(manquants)}")
     texte = open(chemin, encoding="utf-8").read()
     if meta.get("genre") != "lexique":
-        if not re.search(r"(?:developpia\.fr|\]\()/(?:referencement-dentiste|site-internet-cabinet-dentaire|fiche-google-dentiste|referencement-ia-dentiste)/", texte):
-            erreurs.append("aucun lien vers une page d'offre (référencement dentiste, site internet, fiche Google ou référencement IA)")
+        if not re.search(r"(?:developpia\.fr|\]\()/(?:referencement-dentiste|site-internet-cabinet-dentaire|fiche-google-dentiste|referencement-ia-dentiste|reseaux-sociaux-cabinet-dentaire)/", texte):
+            erreurs.append("aucun lien vers une page d'offre (référencement dentiste, site internet, fiche Google, référencement IA ou réseaux sociaux)")
         corps_article = separer_en_tete(texte)[1]
         if not (re.search(r"^\|.*\|\s*$", corps_article, re.M) or re.search(r"^\d+\.\s", corps_article, re.M)):
             erreurs.append("ni tableau ni liste numérotée : en ajouter un (étapes, comparaison ou liste de contrôle)")

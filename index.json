@@ -10,7 +10,8 @@
     "mesurer",
     "décider"
    ],
-   "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients."
+   "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients.",
+   "ordre": 3
   },
   {
    "slug": "que-publier-instagram-cabinet-dentaire",
@@ -22,7 +23,8 @@
     "réseaux sociaux",
     "cadre de l'Ordre"
    ],
-   "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute."
+   "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute.",
+   "ordre": 2
   },
   {
    "slug": "page-facebook-cabinet-dentaire",
@@ -34,7 +36,8 @@
     "réseaux sociaux",
     "visibilité"
    ],
-   "resume": "Les trois rôles d'une page Facebook de cabinet dentaire, informations exactes, recrutement et patientèle plus âgée, puis la liste de contrôle à passer."
+   "resume": "Les trois rôles d'une page Facebook de cabinet dentaire, informations exactes, recrutement et patientèle plus âgée, puis la liste de contrôle à passer.",
+   "ordre": 5
   },
   {
    "slug": "instagram-indexe-google-cabinet-dentaire",
@@ -46,7 +49,8 @@
     "réseaux sociaux",
     "visibilité"
    ],
-   "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie."
+   "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie.",
+   "ordre": 1
   },
   {
    "slug": "deontologie-reseaux-sociaux-dentiste",
@@ -58,7 +62,8 @@
     "réseaux sociaux",
     "cadre de l'Ordre"
    ],
-   "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part."
+   "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part.",
+   "ordre": 6
   },
   {
    "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",
@@ -70,7 +75,8 @@
     "réseaux sociaux",
     "cadre de l'Ordre"
    ],
-   "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît."
+   "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
+   "ordre": 4
   },
   {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
