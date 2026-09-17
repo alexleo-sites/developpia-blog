@@ -9,7 +9,8 @@ Format : `- [ ] Titre de travail | recherche visée | angle en une phrase`
 
 Règle anti-doublon (revue du 12/09/2026) : une recherche = une seule page du site. Les
 recherches commerciales (« création site internet dentiste », « agence SEO dentiste »,
-« référencement dentiste », « fiche Google dentiste », « référencement IA dentiste »)
+« référencement dentiste », « fiche Google dentiste », « référencement IA dentiste »,
+« réseaux sociaux cabinet dentaire », « instagram cabinet dentaire »)
 appartiennent aux pages d'offre : un article ne les vise jamais, il renvoie vers la page.
 
 Règle du titre : il reprend les mots de la recherche visée (publier.py refuse s'il en manque
@@ -109,3 +110,22 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [ ] ÉCARTÉ (doublon de « Centre dentaire ou cabinet libéral », partie F) · Le centre dentaire face au cabinet libéral : ce que Google voit de différent | centre dentaire référencement google | nom, praticiens, horaires étendus
 - [ ] ÉCARTÉ (doublon de « Blanchiment, aligneurs, mâchoire complète : les mots », partie B, et du lexique) · Le lexique des patients face au lexique des praticiens : 30 paires de mots | vocabulaire patients dentiste | comment écrire pour être compris et trouvé
 - [ ] Vérifier son site sur téléphone en cinq minutes | site dentiste mobile | ce qu'on regarde, ce qu'on corrige d'abord
+
+## I. Réseaux sociaux du cabinet (ajouté le 17/09/2026, voir la page d'offre /reseaux-sociaux-cabinet-dentaire/)
+
+Relevé de recherches du 17/09/2026 : 96 amorces interrogées dans l'autocomplétion Google en
+français et en France, 31 ont rendu une suggestion, 9 seulement une suggestion que Google a
+rallongée de lui-même. La niche est petite : ces articles servent la citation par les IA, le
+maillage interne et la conversion d'un prospect déjà au téléphone, pas le trafic de masse.
+
+- [ ] Instagram indexé par Google : ce que le changement du 10 juillet 2025 change pour un cabinet dentaire | instagram indexé par google | le contenu social devient du référencement local ; aucune page française ne l'applique au dentaire
+- [ ] Que publier sur l'Instagram d'un cabinet dentaire : la liste de ce qui est autorisé | que publier sur instagram cabinet dentaire | la liste conforme, et les conseils répandus qui exposent le cabinet
+- [ ] Déontologie et réseaux sociaux du dentiste : ce que l'Ordre écrit, article par article | déontologie réseaux sociaux dentiste | citer les textes au lieu de les paraphraser, et dire ce qui n'est pas écrit
+- [ ] La page Facebook d'un cabinet dentaire : à quoi elle sert vraiment | page facebook cabinet dentaire | informations recoupées par Google, recrutement, audience plus âgée
+- [ ] Dentiste influenceur : ce que l'Ordre autorise, et ce qui fait basculer en faute | dentiste influenceur | la grille de la Lettre 196, que personne ne reprend
+- [ ] Recrutement d'une assistante dentaire par les réseaux sociaux : le texte de l'annonce | offre emploi assistante dentaire facebook | la meilleure preuve de demande du relevé (Google rallonge la suggestion par département)
+- [ ] Combien de temps prennent les réseaux sociaux d'un cabinet dentaire | temps réseaux sociaux cabinet dentaire | BLOQUÉ : à n'écrire qu'après un relevé chronométré et daté de notre côté, sinon aucun chiffre
+- [ ] ÉCARTÉ (doublon de publicite-interdite-dentistes-leviers-autorises et du guide de l'Ordre) · Publicité Instagram et Facebook pour un dentiste | publicité instagram dentiste | enrichir plutôt la question fréquente existante
+- [ ] ÉCARTÉ (recherche inexistante, traité en section de la page d'offre) · Faut-il être sur Instagram quand on est dentiste | faut il être sur instagram dentiste |
+- [ ] ÉCARTÉ (côté praticien, aucune suggestion ; « tiktok dentiste » rend des noms de créateurs) · TikTok et cabinet dentaire | tiktok cabinet dentaire |
+- [ ] ÉCARTÉ (cinq amorces, cinq fois rien, et aucun texte national vérifié) · Réseaux sociaux du dentiste en Belgique, Suisse, Luxembourg | réseaux sociaux dentiste belgique |

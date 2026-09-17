@@ -21,7 +21,7 @@ Ce qui est fermé tient en quelques lignes :
 - l'achat d'un référencement prioritaire, « payant ou non » selon l'Ordre (article R.4127-217 II) ;
 - les témoignages de patients et les comparaisons avec des confrères (article R.4127-215-1).
 
-Tout le reste relève de l'information. C'est là que se joue votre visibilité, car 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025).
+Tout le reste relève de l'information. C'est là que se joue votre visibilité, car 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025). Cette information circule aussi sur les réseaux sociaux, et une publication publique peut désormais sortir dans les résultats de recherche : nous l'expliquons dans l'article sur [Instagram indexé par Google](https://developpia.fr/blog/instagram-indexe-google-cabinet-dentaire/).
 
 > **À retenir**
 > Le code de déontologie vous interdit d'acheter l'attention des patients. Il ne vous interdit pas de la mériter, avec une information juste, complète et facile à trouver.

@@ -13,6 +13,18 @@
    "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients."
   },
   {
+   "slug": "instagram-indexe-google-cabinet-dentaire",
+   "titre": "Instagram indexé par Google : ce que ça change pour un cabinet dentaire",
+   "description": "Instagram indexé par Google : ce qui est indexable pour un cabinet dentaire, la nuance sur les stories à la une, et la vérification à faire.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "visibilité"
+   ],
+   "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie."
+  },
+  {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
    "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
    "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
@@ -46,7 +58,8 @@
    "sujets": [
     "site du cabinet"
    ],
-   "resume": "Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un cabinet fictif, et les huit à dix pages qu'un cabinet de soins courants ou d'implantologie devrait avoir."
+   "resume": "Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un cabinet fictif, et les huit à dix pages qu'un cabinet de soins courants ou d'implantologie devrait avoir.",
+   "ordre": 10
   },
   {
    "slug": "sept-erreurs-sites-cabinets-dentaires",
@@ -59,7 +72,8 @@
     "décider"
    ],
    "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
-   "modifie": "2026-09-16"
+   "modifie": "2026-09-16",
+   "ordre": 2
   },
   {
    "slug": "reprise-cabinet-dentaire-site-fiche-google-nom",
@@ -72,7 +86,8 @@
     "Google Maps"
    ],
    "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore.",
-   "modifie": "2026-09-15"
+   "modifie": "2026-09-15",
+   "ordre": 4
   },
   {
    "slug": "referencement-implantologue-cent-implants-par-an",
@@ -84,7 +99,8 @@
     "par type de cabinet",
     "site du cabinet"
    ],
-   "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre."
+   "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.",
+   "ordre": 6
   },
   {
    "slug": "publicite-interdite-dentistes-leviers-autorises",
@@ -96,7 +112,9 @@
     "cadre de l'Ordre",
     "visibilité"
    ],
-   "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter."
+   "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.",
+   "ordre": 1,
+   "modifie": "2026-09-17"
   },
   {
    "slug": "mentions-autorisees-site-dentiste-titres-diplomes-specialites",
@@ -107,7 +125,8 @@
    "sujets": [
     "cadre de l'Ordre"
    ],
-   "resume": "Le titre réservé aux trois spécialités, les formulations justes pour l'implantologie et l'esthétique, la règle du diplôme non reconnu et des exemples avant et après."
+   "resume": "Le titre réservé aux trois spécialités, les formulations justes pour l'implantologie et l'esthétique, la règle du diplôme non reconnu et des exemples avant et après.",
+   "ordre": 9
   },
   {
    "slug": "lexique-referencement-dentaire",
@@ -120,7 +139,8 @@
     "décider"
    ],
    "resume": "Les mots du référencement dentaire, de la fiche Google aux robots d'IA, définis en un paragraphe chacun, avec ce qu'ils changent pour votre cabinet.",
-   "genre": "lexique"
+   "genre": "lexique",
+   "ordre": 15
   },
   {
    "slug": "ia-lisent-site-dentiste-invisible",
@@ -132,7 +152,8 @@
     "les IA",
     "site du cabinet"
    ],
-   "resume": "Le chemin d'un robot d'IA jusqu'à votre site, et les quatre murs qui le rendent invisible : scripts, blocage, texte flou, absence de sources, avec le test et la correction de chacun."
+   "resume": "Le chemin d'un robot d'IA jusqu'à votre site, et les quatre murs qui le rendent invisible : scripts, blocage, texte flou, absence de sources, avec le test et la correction de chacun.",
+   "ordre": 8
   },
   {
    "slug": "honoraires-site-cabinet-dentaire-obligation-presentation",
@@ -144,7 +165,8 @@
     "cadre de l'Ordre",
     "site du cabinet"
    ],
-   "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté."
+   "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté.",
+   "ordre": 12
   },
   {
    "slug": "douze-informations-patient-site-dentiste",
@@ -155,7 +177,8 @@
    "sujets": [
     "site du cabinet"
    ],
-   "resume": "Les douze informations qu'un patient cherche sur le site d'un dentiste, dans son ordre, avec pour chacune l'emplacement, l'erreur fréquente, puis un test de dix minutes."
+   "resume": "Les douze informations qu'un patient cherche sur le site d'un dentiste, dans son ordre, avec pour chacune l'emplacement, l'erreur fréquente, puis un test de dix minutes.",
+   "ordre": 14
   },
   {
    "slug": "dentiste-ville-google-maps-trois-cabinets",
@@ -167,7 +190,8 @@
     "Google Maps"
    ],
    "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville.",
-   "modifie": "2026-09-12"
+   "modifie": "2026-09-17",
+   "ordre": 11
   },
   {
    "slug": "delai-resultat-referencement-dentiste",
@@ -180,7 +204,8 @@
     "mesurer"
    ],
    "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.",
-   "modifie": "2026-09-17"
+   "modifie": "2026-09-17",
+   "ordre": 5
   },
   {
    "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
@@ -192,7 +217,8 @@
     "les IA",
     "mesurer"
    ],
-   "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity."
+   "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity.",
+   "ordre": 3
   },
   {
    "slug": "avis-google-cabinet-dentaire-code-deontologie",
@@ -205,7 +231,8 @@
     "Google Maps"
    ],
    "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
-   "modifie": "2026-09-15"
+   "modifie": "2026-09-15",
+   "ordre": 7
   },
   {
    "slug": "agence-independant-ou-soi-meme-referencement-dentiste",
@@ -217,7 +244,8 @@
     "décider"
    ],
    "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges.",
-   "modifie": "2026-09-16"
+   "modifie": "2026-09-16",
+   "ordre": 13
   }
  ]
 }

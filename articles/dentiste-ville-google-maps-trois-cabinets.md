@@ -54,7 +54,7 @@ La distance ne se travaille pas, elle se mesure. Ce qui se travaille, c'est le p
 
 ## La proéminence : ce que le reste d'internet dit de vous
 
-Google emploie le mot « proéminence » pour parler de notoriété. Sa page d'aide dit que ce critère repose sur ce que Google sait d'un établissement à travers internet : les liens qui pointent vers lui, les articles, les annuaires. Le nombre d'avis, la note et la place du site dans la liste classique comptent aussi.
+Google emploie le mot « proéminence » pour parler de notoriété. Sa page d'aide dit que ce critère repose sur ce que Google sait d'un établissement à travers internet : les liens qui pointent vers lui, les articles, les annuaires. Le nombre d'avis, la note et la place du site dans la liste classique comptent aussi. Les publications publiques d'un compte professionnel Instagram entrent aussi dans ce que Google peut lire, à trois conditions que nous détaillons dans l'article sur [Instagram indexé par Google](https://developpia.fr/blog/instagram-indexe-google-cabinet-dentaire/).
 
 Pour un cabinet, cela se traduit par quatre choses :
 
