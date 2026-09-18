@@ -11,7 +11,7 @@ resume: Les trois rôles d'une page Facebook de cabinet dentaire, informations e
 
 Une page Facebook de cabinet dentaire sert à trois choses précises. Elle porte des informations pratiques, qui doivent dire exactement la même chose que votre fiche Google et votre site. Elle fait connaître un poste à pourvoir au cabinet. Elle touche une patientèle plus âgée, qui lit beaucoup et commente peu.
 
-Une page Facebook ne sert pas à publier chaque semaine comme sur un compte Instagram. Elle ne remplace ni votre fiche Google, ni votre site. Cet article détaille les trois rôles, chiffres d'audience à l'appui, puis dit ce qu'une page ne fait pas. À la fin, une liste de contrôle à passer sur la vôtre.
+Une page Facebook ne joue pas le même rôle qu'un compte Instagram. Elle ne remplace ni votre fiche Google, ni votre site. Cet article détaille les trois rôles, chiffres d'audience à l'appui, puis dit ce qu'une page ne fait pas. À la fin, une liste de contrôle à passer sur la vôtre.
 
 ## Ce que Facebook et Instagram ne font pas pareil
 
@@ -34,7 +34,7 @@ Voici les audiences mensuelles des autres réseaux, sur le même mois et la mêm
 
 Source : Médiamétrie et Médiamétrie//NetRatings, juin 2026, base de la population de 11 ans et plus, en visiteurs uniques.
 
-Deux lectures utiles pour un cabinet. TikTok et Snapchat, souvent présentés comme incontournables, pèsent environ la moitié de Facebook ou d'Instagram : un cabinet n'a pas six réseaux à tenir. Et une grande audience ne dit rien de l'attention accordée à une page de cabinet dentaire.
+Deux lectures utiles pour un cabinet. YouTube passe devant Instagram, ce qui surprend souvent : une vidéo y est retrouvée des mois après sa mise en ligne, là où une story disparaît en une journée. Et une grande audience ne dit rien de l'attention accordée à une page de cabinet dentaire : ce qui compte, c'est ce que la publication explique.
 
 ## Premier rôle : des informations pratiques qui ne se contredisent pas
 

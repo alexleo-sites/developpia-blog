@@ -19,7 +19,7 @@ Une position sur Google change selon l'endroit d'où l'on cherche, l'appareil et
 
 Le chemin réel est plus simple. Un patient cherche, il voit votre cabinet, il fait un geste, il appelle ou il demande un rendez-vous, puis il vient. Chaque étape se compte séparément. Le référencement travaille sur les deux premières : être vu, et donner envie de faire le geste. La suite dépend de votre accueil, de vos horaires et de la place dans votre agenda.
 
-Ce chemin passe aujourd'hui par trois endroits. 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025), Google traite 88,76 % des recherches en France (Statcounter, août 2026), et 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). La page [référencement dentiste](https://developpia.fr/referencement-dentiste/) décrit ces trois chemins et ce que chacun demande.
+Ce chemin passe aujourd'hui par trois endroits. 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025), Google traite 88,76 % des recherches en France (Statcounter, août 2026), et 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). La page [référencement dentiste](https://developpia.fr/referencement-dentiste/) décrit ces trois chemins et ce que chacun demande.
 
 ## Les quatre chiffres qui disent s'il se passe quelque chose
 

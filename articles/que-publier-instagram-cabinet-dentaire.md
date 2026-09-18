@@ -79,11 +79,9 @@ Lisez la fin de la phrase deux fois. L'autorisation du patient ne suffit pas. Le
 
 En pratique : cadrage sur les dents seules, aucun visage, aucun signe distinctif, aucune voix reconnaissable. Sont aussi cités comme manquements les radiographies, photographies ou copies d'écran permettant de reconnaître un patient, et le fait de répondre à un avis nominatif et identifiable. Pour vos salariés, la règle diffère : leur image relève de leur accord écrit, pas du secret.
 
-## Depuis le 10 juillet 2025, ces publications peuvent sortir dans Google
+## Ces publications peuvent sortir dans Google
 
-Depuis le 10 juillet 2025, les contenus publics des comptes professionnels Instagram, publications et vidéos courtes, sont indexables par Google et par Bing. Le réglage porte ce nom dans l'application : « Autoriser les photos et vidéos publiques à apparaître dans les résultats de moteurs de recherche », dans Paramètres et activité, puis Confidentialité du compte. Les comptes personnels et les comptes privés ne sont pas indexés.
-
-Conséquence concrète : une publication qui explique la pose d'un implant peut apparaître dans Google, à côté de votre site et de votre fiche. La communication devient du référencement.
+Les publications et les vidéos publiques d'un compte professionnel peuvent être indexées par Google et par Bing, à trois conditions : être majeur, avoir un compte public et un compte professionnel. Une publication qui explique la pose d'un implant peut donc apparaître dans Google, à côté de votre site et de votre fiche. Nous détaillons le réglage et ce qu'il couvre dans [Instagram indexé par Google](https://developpia.fr/blog/instagram-indexe-google-cabinet-dentaire/).
 
 ## Ce que les textes ne disent pas
 

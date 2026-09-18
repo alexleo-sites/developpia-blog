@@ -33,7 +33,7 @@ Une bonne page de soin suit le fil des questions du patient. Il veut d'abord sav
 
 ## Informer sans convaincre : la règle du jeu
 
-Une page de soin n'est pas une page de vente. Depuis le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959), le chirurgien-dentiste peut informer le public sur son activité, y compris sur un site internet. La publicité, elle, reste interdite. L'article R.4127-215-1 précise le cadre : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles.
+Une page de soin n'est pas une page de vente. Depuis le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959), le chirurgien-dentiste peut informer le public sur son activité, y compris sur un site internet. Ce qui reste interdit est précis : obtenir une place prioritaire dans les résultats contre paiement (R.4127-217 II), et faire de la publicité pour un tiers ou une entreprise commerciale (R.4127-225). L'article R.4127-215-1 précise le cadre : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles.
 
 Concrètement, sur une page de soin :
 

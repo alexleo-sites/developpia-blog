@@ -15,7 +15,7 @@ Les guides sur la reprise d'un cabinet dentaire parlent de statut, de fiscalité
 
 ## Après une reprise, les patients cherchent encore l'ancien nom
 
-Un patient fidèle ne tape pas « dentiste Tours ». Il tape le nom de son dentiste. 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025), souvent simplement pour retrouver un numéro. Si ce nom ne mène plus nulle part, le patient conclut que le cabinet a fermé, et il en cherche un autre. Aucun ne prévient qu'il est parti.
+Un patient fidèle ne tape pas « dentiste Tours ». Il tape le nom de son dentiste. 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025), souvent simplement pour retrouver un numéro. Si ce nom ne mène plus nulle part, le patient conclut que le cabinet a fermé, et il en cherche un autre. Aucun ne prévient qu'il est parti.
 
 Trois accidents arrivent souvent sur le nom de l'ancien praticien :
 

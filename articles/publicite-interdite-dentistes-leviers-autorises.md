@@ -21,7 +21,7 @@ Ce qui est fermé tient en quelques lignes :
 - l'achat d'un référencement prioritaire, « payant ou non » selon l'Ordre (article R.4127-217 II) ;
 - les témoignages de patients et les comparaisons avec des confrères (article R.4127-215-1).
 
-Tout le reste relève de l'information. C'est là que se joue votre visibilité, car 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025). Cette information circule aussi sur les réseaux sociaux, et une publication publique peut désormais sortir dans les résultats de recherche : nous l'expliquons dans l'article sur [Instagram indexé par Google](https://developpia.fr/blog/instagram-indexe-google-cabinet-dentaire/).
+Tout le reste relève de l'information. C'est là que se joue votre visibilité, car 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025). Cette information circule aussi sur les réseaux sociaux, et une publication publique peut désormais sortir dans les résultats de recherche : nous l'expliquons dans l'article sur [Instagram indexé par Google](https://developpia.fr/blog/instagram-indexe-google-cabinet-dentaire/).
 
 > **À retenir**
 > Le code de déontologie vous interdit d'acheter l'attention des patients. Il ne vous interdit pas de la mériter, avec une information juste, complète et facile à trouver.
@@ -36,7 +36,7 @@ Tout le reste relève de l'information. C'est là que se joue votre visibilité,
 
 ## Levier 2 : les honoraires affichés
 
-**La règle.** Vous devez informer vos patients sur vos honoraires et vos modes de paiement (article R.4127-240 II). L'arrêté du 30 mai 2018 impose d'afficher au cabinet la consultation, cinq actes courants et cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site.
+**La règle.** Vous devez informer vos patients sur vos honoraires et vos modes de paiement (article R.4127-240 II). L'arrêté du 30 mai 2018 impose d'afficher au cabinet la consultation, au moins cinq actes courants et au moins cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site.
 
 **Ce qu'on fait.** Une page « Honoraires » qui reprend ces actes, avec un montant ou une fourchette, et une phrase qui rappelle que le devis fixe le montant final. Elle rassure le patient et donne une réponse à Google et aux IA, qui reçoivent beaucoup de questions sur le prix des soins.
 

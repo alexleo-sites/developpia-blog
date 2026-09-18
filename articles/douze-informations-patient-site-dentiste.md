@@ -11,7 +11,7 @@ resume: Les douze informations qu'un patient cherche sur le site d'un dentiste, 
 
 ## Le patient ne lit pas votre site, il y cherche quelque chose
 
-Un patient arrive sur votre site avec une question précise. Il a tapé un soin et une ville sur Google, il a vu votre cabinet sur la carte, ou une intelligence artificielle (IA) l'a cité. 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025). Ce patient ne lit pas votre site du début à la fin. Il cherche une information, puis une autre, dans un ordre qui lui est propre. S'il la trouve, il passe à la suivante. S'il ne la trouve pas, il ferme la page et ouvre le site du cabinet voisin.
+Un patient arrive sur votre site avec une question précise. Il a tapé un soin et une ville sur Google, il a vu votre cabinet sur la carte, ou une intelligence artificielle (IA) l'a cité. 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025). Ce patient ne lit pas votre site du début à la fin. Il cherche une information, puis une autre, dans un ordre qui lui est propre. S'il la trouve, il passe à la suivante. S'il ne la trouve pas, il ferme la page et ouvre le site du cabinet voisin.
 
 La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) explique ce qu'un site doit contenir pour être trouvé sur Google et cité par les IA. Cet article prend le point de vue inverse : celui du patient, une fois arrivé. Voici les douze informations qu'il cherche, dans l'ordre où il les cherche. Pour chacune : pourquoi il la cherche, où la mettre, et l'erreur que l'on voit le plus souvent.
 
@@ -35,7 +35,7 @@ La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-
 
 ## Le cadre : informer oui, faire de la publicité non
 
-Tout ce qui précède est de l'information. Le décret n° 2020-1658 du 22 décembre 2020 l'autorise, et il maintient l'interdiction de la publicité. L'article R.4127-215-1 fixe la ligne : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles. Sur votre site, cela veut dire : pas d'avis de patients, même sincères, pas de « seul cabinet de la ville à proposer », pas de photos avant/après, que l'Ordre juge trompeuses.
+Tout ce qui précède est de l'information. Le décret n° 2020-1658 du 22 décembre 2020 l'autorise. Ce qu'il laisse interdit est précis : acheter une place prioritaire dans les résultats (R.4127-217 II) et faire de la publicité pour un tiers (R.4127-225). L'article R.4127-215-1 fixe la ligne : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles. Sur votre site, cela veut dire : pas d'avis de patients, même sincères, pas de « seul cabinet de la ville à proposer », pas de photos avant/après, que l'Ordre juge trompeuses.
 
 Ce cadre n'enlève rien aux douze informations. Votre parcours, vos honoraires, vos locaux et votre façon de travailler suffisent à rassurer, parce qu'ils sont vrais et vérifiables. Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) passe chaque page en revue, avec la règle qui s'applique à chacune.
 

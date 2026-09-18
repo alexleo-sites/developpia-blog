@@ -61,7 +61,7 @@ Prenez votre téléphone et un ordinateur, en navigation privée, et suivez cet 
 7. Listez vos pages de soins, une par une.
 8. Demandez à une IA quel dentiste pose des implants dans votre ville, et voyez si le cabinet est cité.
 
-Ces huit points se notent sur une feuille. C'est le même relevé que nous faisons avant de dire à un cabinet s'il faut refaire ou corriger. 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025), et 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026) : les deux chemins comptent.
+Ces huit points se notent sur une feuille. C'est le même relevé que nous faisons avant de dire à un cabinet s'il faut refaire ou corriger. 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025), et 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026) : les deux chemins comptent.
 
 ## Ce que vous gardez, dans les deux cas
 

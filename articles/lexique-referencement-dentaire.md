@@ -1,6 +1,6 @@
 ---
-titre: Lexique du référencement dentaire : les 50 mots à connaître, expliqués simplement
-titre_court: Lexique du référencement dentaire : 50 mots expliqués
+titre: Lexique du référencement dentaire : les 55 mots à connaître, expliqués simplement
+titre_court: Lexique du référencement dentaire : 55 mots expliqués
 description: Lexique du référencement dentiste : les mots de Google, de la carte et des IA expliqués simplement, avec ce que chacun change pour votre cabinet.
 accroche: Balise titre, proéminence, Aperçus IA, robots.txt : les mots du référencement arrivent vite dans une discussion avec un prestataire. Ce lexique les explique un par un, en français simple, avec ce que chacun change pour un cabinet dentaire. Gardez-le sous la main pour lire un rapport ou un diagnostic.
 date: 2026-09-12
@@ -123,7 +123,7 @@ Le fil d'Ariane est la petite ligne en haut d'une page qui indique où l'on se t
 
 ### Honoraires affichés
 
-Le code de déontologie vous demande d'informer sur vos honoraires et vos modes de paiement (article R.4127-240 II). L'arrêté du 30 mai 2018 impose l'affichage de la consultation, de cinq actes courants et de cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site. Les patients cherchent ces chiffres, et une page qui les donne répond avant les autres.
+Le code de déontologie vous demande d'informer sur vos honoraires et vos modes de paiement (article R.4127-240 II). L'arrêté du 30 mai 2018 impose l'affichage de la consultation, d'au moins cinq actes courants et d'au moins cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site. Les patients cherchent ces chiffres, et une page qui les donne répond avant les autres.
 
 ### HTTPS
 
@@ -221,7 +221,7 @@ Le référencement local est la partie du référencement qui vise les recherche
 
 ### Référencement naturel (SEO)
 
-Le référencement naturel (SEO, le sigle anglais) regroupe tout ce qui fait apparaître votre site dans les résultats de Google sans rien payer : les textes, la structure, la vitesse, les liens, la fiche Google. Pour un dentiste, c'est le seul levier de visibilité autorisé, puisque la publicité est interdite. Nous l'expliquons de bout en bout sur la page [référencement dentiste](https://developpia.fr/referencement-dentiste/).
+Le référencement naturel (SEO, le sigle anglais) regroupe tout ce qui fait apparaître votre site dans les résultats de Google sans rien payer : les textes, la structure, la vitesse, les liens, la fiche Google. Pour un dentiste, c'est le premier levier de visibilité, puisque l'article R.4127-217 II interdit d'acheter une place prioritaire dans les résultats. Nous l'expliquons de bout en bout sur la page [référencement dentiste](https://developpia.fr/referencement-dentiste/).
 
 ### Requête
 

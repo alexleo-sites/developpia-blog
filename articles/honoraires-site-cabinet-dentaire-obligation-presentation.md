@@ -13,7 +13,7 @@ resume: L'obligation d'informer sur les honoraires, les actes à afficher selon 
 
 Beaucoup de cabinets pensent que les honoraires n'ont rien à faire sur un site. C'est l'inverse. L'article R.4127-240 du code de la santé publique fait partie du code de déontologie des chirurgiens-dentistes. Le praticien doit s'assurer que le patient connaît le montant des honoraires avant le soin. Et le praticien qui présente son activité au public, notamment sur un site internet, doit y inclure une information sur les honoraires pratiqués, sur les modes de paiement acceptés et sur les obligations posées par la loi pour permettre à chacun d'accéder aux soins sans discrimination. Il doit aussi répondre à toute demande d'explication sur le coût d'un traitement.
 
-Ce texte a été réécrit par le décret n° 2020-1658 du 22 décembre 2020, qui a ouvert l'information au public tout en maintenant l'interdiction de la publicité. Les honoraires sont rangés du côté de l'information. Les montrer n'est pas une réclame, c'est un devoir. Vous pouvez lire [l'article R.4127-240 sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795939), il tient en quelques lignes.
+Ce texte a été réécrit par le décret n° 2020-1658 du 22 décembre 2020, qui a ouvert l'information au public et a retiré du code l'interdiction générale de publicité, en laissant interdits l'achat d'une place prioritaire (R.4127-217 II) et la publicité pour un tiers (R.4127-225). Les honoraires sont rangés du côté de l'information. Les montrer n'est pas une réclame, c'est un devoir. Vous pouvez lire [l'article R.4127-240 sur Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795939), il tient en quelques lignes.
 
 Un site qui tait ses honoraires est donc incomplet au regard du code. Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) replace cette règle parmi les autres.
 
@@ -92,7 +92,7 @@ Cette page est une pièce d'un ensemble. Le [référencement dentiste](https://d
 
 ### Faut-il afficher tous ses honoraires sur le site ?
 
-Non. Le code demande une information sur les honoraires pratiqués et les modes de paiement. Pour le cabinet, l'arrêté du 30 mai 2018 fixe la consultation, cinq actes courants et cinq actes prothétiques ou d'orthodontie, et pour le site, l'Ordre recommande cinq à dix actes. Choisissez ceux que vos patients demandent le plus, le devis fait le reste.
+Non. Le code demande une information sur les honoraires pratiqués et les modes de paiement. Pour le cabinet, l'arrêté du 30 mai 2018 fixe la consultation, au moins cinq actes courants et au moins cinq actes prothétiques ou d'orthodontie, et pour le site, l'Ordre recommande cinq à dix actes. Choisissez ceux que vos patients demandent le plus, le devis fait le reste.
 
 ### Une fourchette de prix est-elle acceptable ?
 
