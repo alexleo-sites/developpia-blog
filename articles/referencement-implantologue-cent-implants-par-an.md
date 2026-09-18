@@ -64,7 +64,7 @@ Le principe reste [une page par soin](https://developpia.fr/blog/une-page-par-so
 
 Chaque page reprend la même structure (à qui elle s'adresse, le déroulé, la durée, les alternatives, les honoraires, un renvoi vers la page principale), avec sa propre adresse et un titre qui reprend le mot du patient.
 
-Un point de vigilance : ces pages décrivent un parcours, jamais un résultat. Écrivez « l'implant remplace la racine de la dent », pas « vous retrouverez le sourire ». Et montrez le cabinet plutôt que les bouches : l'Ordre cite les photos avant et après comme un exemple de ce qui peut laisser croire à un résultat certain, et elles sont interdites au Luxembourg. Des photos de la salle de chirurgie, du cône beam et de l'équipe informent autant.
+Un point de vigilance : ces pages décrivent un parcours, jamais un résultat. Écrivez « l'implant remplace la racine de la dent », pas « vous retrouverez le sourire ». Et montrez le cabinet plutôt que les bouches : l'Ordre cite les photos avant et après comme un exemple de ce qui peut laisser croire à un résultat certain, et elles sont interdites au Luxembourg. Des photos de la salle de chirurgie, du cône beam et de l'équipe informent autant. La même logique s'applique aux facettes et à l'alignement, décrite dans l'article sur [le référencement d'un cabinet d'esthétique dentaire](https://developpia.fr/blog/referencement-esthetique-dentaire-se-faire-trouver/).
 
 ## Le cadre : informer, oui, faire de la réclame, non
 

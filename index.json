@@ -1,311 +1,323 @@
 {
-  "articles": [
-    {
-      "slug": "resultat-referencement-dentiste-combien-de-patients",
-      "titre": "Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer",
-      "description": "Résultat du référencement d'un cabinet dentaire : les quatre chiffres à compter, où lire chacun et la feuille de relevé à tenir à l'accueil.",
-      "date": "2026-09-17",
-      "lecture": "7 min",
-      "sujets": [
-        "mesurer",
-        "décider"
-      ],
-      "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients.",
-      "ordre": 3
-    },
-    {
-      "slug": "que-publier-instagram-cabinet-dentaire",
-      "titre": "Que publier sur l'Instagram d'un cabinet dentaire : la liste de ce qui est autorisé",
-      "description": "Que publier sur l'Instagram d'un cabinet dentaire : dix publications autorisées, la raison de leur conformité, et les conseils qui exposent un praticien.",
-      "date": "2026-09-17",
-      "lecture": "7 min",
-      "sujets": [
-        "réseaux sociaux",
-        "cadre de l'Ordre"
-      ],
-      "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute.",
-      "ordre": 2
-    },
-    {
-      "slug": "page-facebook-cabinet-dentaire",
-      "titre": "Page Facebook d'un cabinet dentaire : à quoi elle sert vraiment",
-      "description": "Page Facebook d'un cabinet dentaire : ses trois rôles utiles, les informations à aligner sur la fiche Google, le recrutement, et ses limites.",
-      "date": "2026-09-17",
-      "lecture": "7 min",
-      "sujets": [
-        "réseaux sociaux",
-        "visibilité"
-      ],
-      "resume": "Les trois rôles d'une page Facebook de cabinet dentaire, informations exactes, recrutement et patientèle plus âgée, puis la liste de contrôle à passer.",
-      "ordre": 5
-    },
-    {
-      "slug": "instagram-indexe-google-cabinet-dentaire",
-      "titre": "Instagram indexé par Google : ce que ça change pour un cabinet dentaire",
-      "description": "Instagram indexé par Google : ce qui est indexable pour un cabinet dentaire, la nuance sur les stories à la une, et la vérification à faire.",
-      "date": "2026-09-17",
-      "lecture": "7 min",
-      "sujets": [
-        "réseaux sociaux",
-        "visibilité"
-      ],
-      "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie.",
-      "ordre": 1
-    },
-    {
-      "slug": "deontologie-reseaux-sociaux-dentiste",
-      "titre": "Déontologie et réseaux sociaux du dentiste : ce que l'Ordre écrit, article par article",
-      "description": "Déontologie et réseaux sociaux du dentiste : les articles du code cités mot pour mot, la force exacte des trois sources, et ce qui n'est écrit nulle part.",
-      "date": "2026-09-17",
-      "lecture": "8 min",
-      "sujets": [
-        "réseaux sociaux",
-        "cadre de l'Ordre"
-      ],
-      "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part.",
-      "ordre": 6
-    },
-    {
-      "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",
-      "titre": "Dentiste influenceur : ce que l'Ordre autorise, et ce qui fait basculer en faute",
-      "description": "Dentiste influenceur : la grille de l'Ordre en trois cas, les procédés qui font basculer en faute, et la loi du 9 juin 2023 qui s'ajoute au code.",
-      "date": "2026-09-17",
-      "lecture": "7 min",
-      "sujets": [
-        "réseaux sociaux",
-        "cadre de l'Ordre"
-      ],
-      "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
-      "ordre": 4
-    },
-    {
-      "slug": "refaire-site-cabinet-dentaire-comment-decider",
-      "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
-      "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
-      "date": "2026-09-16",
-      "lecture": "7 min",
-      "sujets": [
-        "site du cabinet",
-        "décider"
-      ],
-      "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
-      "modifie": "2026-09-17"
-    },
-    {
-      "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
-      "titre": "Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google",
-      "description": "Déménagement d'un cabinet dentaire : changer l'adresse sur la fiche Google, le site, Doctolib et les annuaires, dans l'ordre, sans perdre vos patients.",
-      "date": "2026-09-15",
-      "lecture": "7 min",
-      "sujets": [
-        "site du cabinet",
-        "Google Maps"
-      ],
-      "resume": "Le calendrier d'un déménagement de cabinet dentaire sur internet : fiche Google modifiée et non recréée, site, Doctolib, annuaires, IA, et la vérification du premier mois.",
-      "modifie": "2026-09-17"
-    },
-    {
-      "slug": "une-page-par-soin-site-dentiste",
-      "titre": "Une page par soin : pourquoi la page « implant dentaire » de votre site de dentiste compte plus que l'accueil",
-      "description": "Sur le site d'un cabinet dentaire, la page implant compte plus que l'accueil : ce qu'une page de soin doit contenir, dans l'ordre, et les pages à créer.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "site du cabinet"
-      ],
-      "resume": "Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un cabinet fictif, et les huit à dix pages qu'un cabinet de soins courants ou d'implantologie devrait avoir.",
-      "ordre": 10
-    },
-    {
-      "slug": "sept-erreurs-sites-cabinets-dentaires",
-      "titre": "Les sept erreurs qu'on voit sur les sites de cabinets dentaires",
-      "description": "Site de dentiste mal référencé ? Les sept erreurs de site de cabinet dentaire les plus courantes, le test d'une minute pour chacune et la correction.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "site du cabinet",
-        "décider"
-      ],
-      "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
-      "modifie": "2026-09-18",
-      "ordre": 2
-    },
-    {
-      "slug": "reprise-cabinet-dentaire-site-fiche-google-nom",
-      "titre": "Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom",
-      "description": "Reprise d'un cabinet dentaire : transférer la fiche Google, le site et le nom de domaine sans perdre les patients qui cherchent encore l'ancien nom.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "site du cabinet",
-        "Google Maps"
-      ],
-      "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore.",
-      "modifie": "2026-09-17",
-      "ordre": 4
-    },
-    {
-      "slug": "referencement-implantologue-cent-implants-par-an",
-      "titre": "Implantologue : le référencement d'un cabinet qui pose cent implants par an",
-      "description": "Référencement implantologue : le patient d'un implant vient de loin, compare et interroge les IA. Ce que le site, la fiche Google et Doctolib doivent dire.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "par type de cabinet",
-        "site du cabinet"
-      ],
-      "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.",
-      "ordre": 6,
-      "modifie": "2026-09-17"
-    },
-    {
-      "slug": "publicite-interdite-dentistes-leviers-autorises",
-      "titre": "Publicité interdite aux dentistes ? Les sept leviers qui restent autorisés",
-      "description": "Publicité interdite aux dentistes : le décret de 2020 a retiré l'interdiction générale. Les sept leviers de visibilité qu'un cabinet garde le droit d'utiliser.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "cadre de l'Ordre",
-        "visibilité"
-      ],
-      "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.",
-      "ordre": 1,
-      "modifie": "2026-09-18"
-    },
-    {
-      "slug": "mentions-autorisees-site-dentiste-titres-diplomes-specialites",
-      "titre": "Les mentions que vous avez le droit d'afficher sur votre site de dentiste : titres, diplômes, spécialités",
-      "description": "Titres, diplômes, spécialités : ce que l'Ordre autorise un dentiste à écrire sur son site, la mention obligatoire sous un diplôme non reconnu, des exemples.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "cadre de l'Ordre"
-      ],
-      "resume": "Le titre réservé aux trois spécialités, les formulations justes pour l'implantologie et l'esthétique, la règle du diplôme non reconnu et des exemples avant et après.",
-      "ordre": 9,
-      "modifie": "2026-09-18"
-    },
-    {
-      "slug": "lexique-referencement-dentaire",
-      "titre": "Lexique du référencement dentaire : les 55 mots à connaître, expliqués simplement",
-      "description": "Lexique du référencement dentiste : les mots de Google, de la carte et des IA expliqués simplement, avec ce que chacun change pour votre cabinet.",
-      "date": "2026-09-12",
-      "lecture": "15 min",
-      "sujets": [
-        "lexique",
-        "décider"
-      ],
-      "resume": "Les mots du référencement dentaire, de la fiche Google aux robots d'IA, définis en un paragraphe chacun, avec ce qu'ils changent pour votre cabinet.",
-      "genre": "lexique",
-      "ordre": 15,
-      "modifie": "2026-09-18"
-    },
-    {
-      "slug": "ia-lisent-site-dentiste-invisible",
-      "titre": "Comment les IA lisent un site de dentiste, et pourquoi le vôtre est peut-être invisible",
-      "description": "ChatGPT ne trouve pas mon cabinet : pourquoi un site de dentiste reste invisible pour les IA, les quatre murs à vérifier soi-même et la correction de chacun.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "les IA",
-        "site du cabinet"
-      ],
-      "resume": "Le chemin d'un robot d'IA jusqu'à votre site, et les quatre murs qui le rendent invisible : scripts, blocage, texte flou, absence de sources, avec le test et la correction de chacun.",
-      "ordre": 8
-    },
-    {
-      "slug": "honoraires-site-cabinet-dentaire-obligation-presentation",
-      "titre": "Honoraires sur le site du cabinet dentaire : ce que la loi impose et comment les présenter",
-      "description": "L'affichage des honoraires du dentiste sur le site internet du cabinet : l'obligation du code de déontologie, les actes à montrer et une page claire.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "cadre de l'Ordre",
-        "site du cabinet"
-      ],
-      "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté.",
-      "ordre": 12,
-      "modifie": "2026-09-18"
-    },
-    {
-      "slug": "douze-informations-patient-site-dentiste",
-      "titre": "Que mettre sur le site d'un cabinet dentaire : les douze informations qu'un patient cherche avant d'appeler",
-      "description": "Que mettre sur le site d'un cabinet dentaire ? Les douze informations qu'un patient cherche avant d'appeler, où placer chacune et l'erreur fréquente.",
-      "date": "2026-09-12",
-      "lecture": "8 min",
-      "sujets": [
-        "site du cabinet"
-      ],
-      "resume": "Les douze informations qu'un patient cherche sur le site d'un dentiste, dans son ordre, avec pour chacune l'emplacement, l'erreur fréquente, puis un test de dix minutes.",
-      "ordre": 14,
-      "modifie": "2026-09-18"
-    },
-    {
-      "slug": "dentiste-ville-google-maps-trois-cabinets",
-      "titre": "Dentiste et ville sur Google Maps : comment Google choisit les trois cabinets de la carte",
-      "description": "Dentiste + ville sur Google Maps : les trois critères de Google (pertinence, distance, proéminence) et comment vérifier votre place depuis un téléphone.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "Google Maps"
-      ],
-      "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville.",
-      "modifie": "2026-09-17",
-      "ordre": 11
-    },
-    {
-      "slug": "delai-resultat-referencement-dentiste",
-      "titre": "Délai de référencement d'un cabinet dentaire : combien de temps avant un résultat sur Google",
-      "description": "Délai de référencement pour un dentiste : combien de temps avant que votre cabinet apparaisse sur Google, ce qui va vite, ce qui prend des mois.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "décider",
-        "mesurer"
-      ],
-      "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.",
-      "modifie": "2026-09-18",
-      "ordre": 5
-    },
-    {
-      "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
-      "titre": "Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier",
-      "description": "Dentiste, ChatGPT, recommandation : votre cabinet dentaire est-il visible dans les IA ? La méthode en dix minutes pour le vérifier, sans outil payant.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "les IA",
-        "mesurer"
-      ],
-      "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity.",
-      "ordre": 3
-    },
-    {
-      "slug": "avis-google-cabinet-dentaire-code-deontologie",
-      "titre": "Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie",
-      "description": "Avis Google et cabinet dentaire : ce que le code de déontologie interdit vraiment, la position de l'Ordre, et comment répondre à un avis sans prendre de risque.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "cadre de l'Ordre",
-        "Google Maps"
-      ],
-      "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
-      "modifie": "2026-09-17",
-      "ordre": 7
-    },
-    {
-      "slug": "agence-independant-ou-soi-meme-referencement-dentiste",
-      "titre": "Agence, indépendant ou soi-même : comment choisir pour le référencement de son cabinet dentaire",
-      "description": "Agence de référencement, indépendant ou référencement du cabinet dentaire soi-même : ce que chaque voie demande, ses risques, et huit questions avant de signer.",
-      "date": "2026-09-12",
-      "lecture": "7 min",
-      "sujets": [
-        "décider"
-      ],
-      "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges.",
-      "modifie": "2026-09-18",
-      "ordre": 13
-    }
-  ]
+ "articles": [
+  {
+   "slug": "referencement-esthetique-dentaire-se-faire-trouver",
+   "titre": "Référencement d'un cabinet d'esthétique dentaire : se faire trouver sans acheter de visibilité",
+   "description": "Référencement esthétique dentaire : les mots que tape un patient de facettes, la page qui y répond, le cadre de l'Ordre et la vérification à faire soi-même.",
+   "date": "2026-09-18",
+   "lecture": "7 min",
+   "sujets": [
+    "par type de cabinet",
+    "site du cabinet"
+   ],
+   "resume": "Ce qui change quand l'acte est esthétique : le patient vient de loin et compare, le tableau des mots qu'il tape, la page par acte, ce qu'on montre à la place des photos avant et après, et la vérification en dix minutes."
+  },
+  {
+   "slug": "resultat-referencement-dentiste-combien-de-patients",
+   "titre": "Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer",
+   "description": "Résultat du référencement d'un cabinet dentaire : les quatre chiffres à compter, où lire chacun et la feuille de relevé à tenir à l'accueil.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "mesurer",
+    "décider"
+   ],
+   "resume": "Les quatre chiffres qui mesurent le résultat d'un référencement dentaire, le tableau qui dit où lire chacun et ce qu'il ne dit pas, la feuille de relevé à l'accueil et le calcul honnête des nouveaux patients.",
+   "ordre": 3
+  },
+  {
+   "slug": "que-publier-instagram-cabinet-dentaire",
+   "titre": "Que publier sur l'Instagram d'un cabinet dentaire : la liste de ce qui est autorisé",
+   "description": "Que publier sur l'Instagram d'un cabinet dentaire : dix publications autorisées, la raison de leur conformité, et les conseils qui exposent un praticien.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute.",
+   "ordre": 2
+  },
+  {
+   "slug": "page-facebook-cabinet-dentaire",
+   "titre": "Page Facebook d'un cabinet dentaire : à quoi elle sert vraiment",
+   "description": "Page Facebook d'un cabinet dentaire : ses trois rôles utiles, les informations à aligner sur la fiche Google, le recrutement, et ses limites.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "visibilité"
+   ],
+   "resume": "Les trois rôles d'une page Facebook de cabinet dentaire, informations exactes, recrutement et patientèle plus âgée, puis la liste de contrôle à passer.",
+   "ordre": 5
+  },
+  {
+   "slug": "instagram-indexe-google-cabinet-dentaire",
+   "titre": "Instagram indexé par Google : ce que ça change pour un cabinet dentaire",
+   "description": "Instagram indexé par Google : ce qui est indexable pour un cabinet dentaire, la nuance sur les stories à la une, et la vérification à faire.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "visibilité"
+   ],
+   "resume": "Le périmètre exact de l'indexation des comptes professionnels Instagram par Google et Bing, la nuance sur les stories, et ce que cela change pour ce qu'un cabinet dentaire publie.",
+   "ordre": 1
+  },
+  {
+   "slug": "deontologie-reseaux-sociaux-dentiste",
+   "titre": "Déontologie et réseaux sociaux du dentiste : ce que l'Ordre écrit, article par article",
+   "description": "Déontologie et réseaux sociaux du dentiste : les articles du code cités mot pour mot, la force exacte des trois sources, et ce qui n'est écrit nulle part.",
+   "date": "2026-09-17",
+   "lecture": "8 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part.",
+   "ordre": 6
+  },
+  {
+   "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",
+   "titre": "Dentiste influenceur : ce que l'Ordre autorise, et ce qui fait basculer en faute",
+   "description": "Dentiste influenceur : la grille de l'Ordre en trois cas, les procédés qui font basculer en faute, et la loi du 9 juin 2023 qui s'ajoute au code.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "réseaux sociaux",
+    "cadre de l'Ordre"
+   ],
+   "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
+   "ordre": 4
+  },
+  {
+   "slug": "refaire-site-cabinet-dentaire-comment-decider",
+   "titre": "Refaire le site d'un cabinet dentaire : les cinq questions qui tranchent",
+   "description": "Refaire le site d'un cabinet dentaire ou le corriger : les cinq questions qui tranchent, le tableau de décision et la vérification à faire vous-même.",
+   "date": "2026-09-16",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "décider"
+   ],
+   "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
+   "modifie": "2026-09-17"
+  },
+  {
+   "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
+   "titre": "Déménagement d'un cabinet dentaire : la marche à suivre pour ne pas disparaître de Google",
+   "description": "Déménagement d'un cabinet dentaire : changer l'adresse sur la fiche Google, le site, Doctolib et les annuaires, dans l'ordre, sans perdre vos patients.",
+   "date": "2026-09-15",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "Google Maps"
+   ],
+   "resume": "Le calendrier d'un déménagement de cabinet dentaire sur internet : fiche Google modifiée et non recréée, site, Doctolib, annuaires, IA, et la vérification du premier mois.",
+   "modifie": "2026-09-17"
+  },
+  {
+   "slug": "une-page-par-soin-site-dentiste",
+   "titre": "Une page par soin : pourquoi la page « implant dentaire » de votre site de dentiste compte plus que l'accueil",
+   "description": "Sur le site d'un cabinet dentaire, la page implant compte plus que l'accueil : ce qu'une page de soin doit contenir, dans l'ordre, et les pages à créer.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet"
+   ],
+   "resume": "Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un cabinet fictif, et les huit à dix pages qu'un cabinet de soins courants ou d'implantologie devrait avoir.",
+   "ordre": 10
+  },
+  {
+   "slug": "sept-erreurs-sites-cabinets-dentaires",
+   "titre": "Les sept erreurs qu'on voit sur les sites de cabinets dentaires",
+   "description": "Site de dentiste mal référencé ? Les sept erreurs de site de cabinet dentaire les plus courantes, le test d'une minute pour chacune et la correction.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "décider"
+   ],
+   "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
+   "modifie": "2026-09-18",
+   "ordre": 2
+  },
+  {
+   "slug": "reprise-cabinet-dentaire-site-fiche-google-nom",
+   "titre": "Reprise d'un cabinet dentaire : que faire du site, de la fiche Google et du nom",
+   "description": "Reprise d'un cabinet dentaire : transférer la fiche Google, le site et le nom de domaine sans perdre les patients qui cherchent encore l'ancien nom.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "Google Maps"
+   ],
+   "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore.",
+   "modifie": "2026-09-17",
+   "ordre": 4
+  },
+  {
+   "slug": "referencement-implantologue-cent-implants-par-an",
+   "titre": "Implantologue : le référencement d'un cabinet qui pose cent implants par an",
+   "description": "Référencement implantologue : le patient d'un implant vient de loin, compare et interroge les IA. Ce que le site, la fiche Google et Doctolib doivent dire.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "par type de cabinet",
+    "site du cabinet"
+   ],
+   "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.",
+   "ordre": 6,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "publicite-interdite-dentistes-leviers-autorises",
+   "titre": "Publicité interdite aux dentistes ? Les sept leviers qui restent autorisés",
+   "description": "Publicité interdite aux dentistes : le décret de 2020 a retiré l'interdiction générale. Les sept leviers de visibilité qu'un cabinet garde le droit d'utiliser.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "visibilité"
+   ],
+   "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.",
+   "ordre": 1,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "mentions-autorisees-site-dentiste-titres-diplomes-specialites",
+   "titre": "Les mentions que vous avez le droit d'afficher sur votre site de dentiste : titres, diplômes, spécialités",
+   "description": "Titres, diplômes, spécialités : ce que l'Ordre autorise un dentiste à écrire sur son site, la mention obligatoire sous un diplôme non reconnu, des exemples.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre"
+   ],
+   "resume": "Le titre réservé aux trois spécialités, les formulations justes pour l'implantologie et l'esthétique, la règle du diplôme non reconnu et des exemples avant et après.",
+   "ordre": 9,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "lexique-referencement-dentaire",
+   "titre": "Lexique du référencement dentaire : les 55 mots à connaître, expliqués simplement",
+   "description": "Lexique du référencement dentiste : les mots de Google, de la carte et des IA expliqués simplement, avec ce que chacun change pour votre cabinet.",
+   "date": "2026-09-12",
+   "lecture": "15 min",
+   "sujets": [
+    "lexique",
+    "décider"
+   ],
+   "resume": "Les mots du référencement dentaire, de la fiche Google aux robots d'IA, définis en un paragraphe chacun, avec ce qu'ils changent pour votre cabinet.",
+   "genre": "lexique",
+   "ordre": 15,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "ia-lisent-site-dentiste-invisible",
+   "titre": "Comment les IA lisent un site de dentiste, et pourquoi le vôtre est peut-être invisible",
+   "description": "ChatGPT ne trouve pas mon cabinet : pourquoi un site de dentiste reste invisible pour les IA, les quatre murs à vérifier soi-même et la correction de chacun.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "les IA",
+    "site du cabinet"
+   ],
+   "resume": "Le chemin d'un robot d'IA jusqu'à votre site, et les quatre murs qui le rendent invisible : scripts, blocage, texte flou, absence de sources, avec le test et la correction de chacun.",
+   "ordre": 8
+  },
+  {
+   "slug": "honoraires-site-cabinet-dentaire-obligation-presentation",
+   "titre": "Honoraires sur le site du cabinet dentaire : ce que la loi impose et comment les présenter",
+   "description": "L'affichage des honoraires du dentiste sur le site internet du cabinet : l'obligation du code de déontologie, les actes à montrer et une page claire.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "site du cabinet"
+   ],
+   "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté.",
+   "ordre": 12,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "douze-informations-patient-site-dentiste",
+   "titre": "Que mettre sur le site d'un cabinet dentaire : les douze informations qu'un patient cherche avant d'appeler",
+   "description": "Que mettre sur le site d'un cabinet dentaire ? Les douze informations qu'un patient cherche avant d'appeler, où placer chacune et l'erreur fréquente.",
+   "date": "2026-09-12",
+   "lecture": "8 min",
+   "sujets": [
+    "site du cabinet"
+   ],
+   "resume": "Les douze informations qu'un patient cherche sur le site d'un dentiste, dans son ordre, avec pour chacune l'emplacement, l'erreur fréquente, puis un test de dix minutes.",
+   "ordre": 14,
+   "modifie": "2026-09-18"
+  },
+  {
+   "slug": "dentiste-ville-google-maps-trois-cabinets",
+   "titre": "Dentiste et ville sur Google Maps : comment Google choisit les trois cabinets de la carte",
+   "description": "Dentiste + ville sur Google Maps : les trois critères de Google (pertinence, distance, proéminence) et comment vérifier votre place depuis un téléphone.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Google Maps"
+   ],
+   "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville.",
+   "modifie": "2026-09-17",
+   "ordre": 11
+  },
+  {
+   "slug": "delai-resultat-referencement-dentiste",
+   "titre": "Délai de référencement d'un cabinet dentaire : combien de temps avant un résultat sur Google",
+   "description": "Délai de référencement pour un dentiste : combien de temps avant que votre cabinet apparaisse sur Google, ce qui va vite, ce qui prend des mois.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "décider",
+    "mesurer"
+   ],
+   "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.",
+   "modifie": "2026-09-18",
+   "ordre": 5
+  },
+  {
+   "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
+   "titre": "Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier",
+   "description": "Dentiste, ChatGPT, recommandation : votre cabinet dentaire est-il visible dans les IA ? La méthode en dix minutes pour le vérifier, sans outil payant.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "les IA",
+    "mesurer"
+   ],
+   "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity.",
+   "ordre": 3
+  },
+  {
+   "slug": "avis-google-cabinet-dentaire-code-deontologie",
+   "titre": "Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie",
+   "description": "Avis Google et cabinet dentaire : ce que le code de déontologie interdit vraiment, la position de l'Ordre, et comment répondre à un avis sans prendre de risque.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "Google Maps"
+   ],
+   "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
+   "modifie": "2026-09-17",
+   "ordre": 7
+  },
+  {
+   "slug": "agence-independant-ou-soi-meme-referencement-dentiste",
+   "titre": "Agence, indépendant ou soi-même : comment choisir pour le référencement de son cabinet dentaire",
+   "description": "Agence de référencement, indépendant ou référencement du cabinet dentaire soi-même : ce que chaque voie demande, ses risques, et huit questions avant de signer.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "décider"
+   ],
+   "resume": "Le temps, les limites et les risques de chaque voie, puis les huit questions à poser à un prestataire avant de signer, avec les drapeaux rouges.",
+   "modifie": "2026-09-18",
+   "ordre": 13
+  }
+ ]
 }
