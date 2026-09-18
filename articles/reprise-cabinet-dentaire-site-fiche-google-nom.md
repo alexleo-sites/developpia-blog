@@ -83,7 +83,7 @@ Chaque étape dépend de la précédente.
 
 ## Les IA et l'ancien nom
 
-56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Et depuis le 22 juillet 2026, Google affiche en France ses Aperçus IA et son Mode IA. Ces réponses s'appuient sur le site, la fiche et les annuaires : s'ils nomment encore l'ancien praticien, l'IA peut continuer à le citer.
+56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Et depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France ses Aperçus IA et son Mode IA. Ces réponses s'appuient sur le site, la fiche et les annuaires : s'ils nomment encore l'ancien praticien, l'IA peut continuer à le citer.
 
 Deux gestes réduisent ce décalage : des informations identiques partout, et un texte lisible sans script, car les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique comment ces robots lisent un cabinet. Pour vérifier les réponses, suivez la méthode de l'article [votre cabinet apparaît-il dans ChatGPT](https://developpia.fr/blog/cabinet-dentaire-chatgpt-verifier-en-dix-minutes/), avec l'ancien nom puis le nouveau, et comptez en pourcentage de réponses, jamais en position.
 

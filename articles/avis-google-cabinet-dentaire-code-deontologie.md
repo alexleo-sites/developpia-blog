@@ -95,7 +95,7 @@ Les avis resteront un sujet mouvant. La position de l'Ordre peut évoluer, les r
 
 ### Un dentiste a-t-il le droit de demander un avis Google à un patient ?
 
-Aucun article du code de déontologie ne l'interdit en toutes lettres. Mais l'Ordre a demandé en 2025 la suppression des avis sur les praticiens, et une collecte organisée se rapproche d'une publicité. Nous n'organisons jamais de demande d'avis, et nous conseillons la même prudence.
+Aucun article du code de déontologie ne l'interdit en toutes lettres. Mais l'Ordre a [demandé au ministère de la Santé, en 2025, la suppression des avis sur les praticiens](https://www.information-dentaire.fr/actualites/l-ordre-des-chirurgiens-dentistes-veut-supprimer-les-avis-google-concernant-les-praticiens/), et une collecte organisée se rapproche d'une publicité. Nous n'organisons jamais de demande d'avis, et nous conseillons la même prudence.
 
 ### Puis-je afficher mes avis Google sur le site de mon cabinet ?
 

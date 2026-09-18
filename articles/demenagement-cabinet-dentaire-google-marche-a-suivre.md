@@ -82,7 +82,7 @@ Corrigez chaque source qui affiche encore l'ancienne adresse, puis refaites la v
 
 ## Les IA et l'ancienne adresse
 
-56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Et depuis le 22 juillet 2026, Google affiche en France ses Aperçus IA et son Mode IA. Ces réponses assemblent le site, la fiche et les annuaires. Tant qu'une source garde l'ancienne adresse, une IA peut la répéter.
+56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Et depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France ses Aperçus IA et son Mode IA. Ces réponses assemblent le site, la fiche et les annuaires. Tant qu'une source garde l'ancienne adresse, une IA peut la répéter.
 
 On ne corrige pas une IA directement : on corrige ses sources, avec une adresse écrite en toutes lettres dans le texte du site. On mesure ensuite en pourcentage de réponses justes, jamais en position. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique comment ces robots lisent un cabinet.
 

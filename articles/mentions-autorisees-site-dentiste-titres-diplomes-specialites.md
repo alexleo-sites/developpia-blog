@@ -72,7 +72,7 @@ Les recommandations donnent des exemples de ce qui ne passe pas :
 - Une spécialité qui n'existe pas, ou un titre sous-entendu par un mot comme « implantologue ».
 - Une formation listée sans avoir été suivie.
 - Le prix barré et la remise : « trois implants pour le prix de deux », « la troisième couronne à moitié prix ». L'Ordre y voit une incitation à des soins inutiles.
-- Les témoignages de patients, les notes affichées sur le site et les photos avant/après, jugées trompeuses.
+- Les témoignages de patients, les notes affichées sur le site et les photos avant et après, que l'Ordre cite comme un exemple de ce qui peut laisser croire à un résultat certain.
 
 Ces limites suivent le cabinet sur ses comptes : voyez [ce qu'on peut publier sur l'Instagram d'un cabinet dentaire](https://developpia.fr/blog/que-publier-instagram-cabinet-dentaire/).
 - L'ordinaire présenté comme exceptionnel : une stérilisation conforme à la règle n'est pas « d'avant-garde ».

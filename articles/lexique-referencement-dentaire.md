@@ -15,7 +15,7 @@ Quand on parle de référencement avec un chirurgien-dentiste, les mots techniqu
 Les termes sont classés par ordre alphabétique, en groupes de lettres. Les mots anglais sont donnés entre parenthèses, après leur équivalent français, parce que vous les croiserez sous cette forme. Les règles de l'Ordre ont leur place dans la liste, au même titre que les mots de Google : sur un site de dentiste, les deux se lisent ensemble.
 
 > **La phrase à retenir**
-> Le référencement d'un cabinet dentaire, c'est de l'information rendue facile à trouver. Le code de déontologie interdit la publicité, pas l'information.
+> Le référencement d'un cabinet dentaire, c'est de l'information rendue facile à trouver. Le code de déontologie n'interdit plus la publicité en général : il interdit d'acheter une place prioritaire et de faire de la publicité pour un tiers. L'information, elle, est autorisée.
 
 ## De A à B
 
@@ -29,7 +29,7 @@ C'est l'annuaire officiel des professionnels de santé, tenu par l'Assurance mal
 
 ### Aperçus IA (AI Overviews)
 
-Depuis le 22 juillet 2026, Google affiche en France une réponse rédigée par une IA au-dessus de la liste des sites. C'est l'Aperçu IA. Il cite quelques sources, avec un lien. Pour une question comme « combien de temps dure la pose d'un implant », le patient lit cet aperçu avant tout le reste. Nous détaillons ce changement dans notre guide sur [les Aperçus IA de Google](https://developpia.fr/guides/apercus-ia-google-dentiste/).
+Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France une réponse rédigée par une IA au-dessus de la liste des sites. C'est l'Aperçu IA. Il cite quelques sources, avec un lien. Pour une question comme « combien de temps dure la pose d'un implant », le patient lit cet aperçu avant tout le reste. Nous détaillons ce changement dans notre guide sur [les Aperçus IA de Google](https://developpia.fr/guides/apercus-ia-google-dentiste/).
 
 ### Autorité
 
@@ -71,7 +71,7 @@ Cloudflare est un service placé devant de nombreux sites pour les protéger et 
 
 ### Code de déontologie
 
-Le code de déontologie des chirurgiens-dentistes est la partie du code de la santé publique qui fixe vos devoirs, dont les règles de communication. Il interdit la publicité et autorise l'information. Toute page de votre site doit pouvoir être lue par un conseiller ordinal sans qu'il ait rien à redire. Le texte complet est consultable sur le [site de l'Ordre](https://www.ordre-chirurgiens-dentistes.fr/les-services/le-code-de-deontologie-francais/).
+Le code de déontologie des chirurgiens-dentistes est la partie du code de la santé publique qui fixe vos devoirs, dont les règles de communication. Il autorise l'information depuis le décret du 22 décembre 2020, et garde des interdits précis : pas de commerce, pas de place achetée, pas de témoignage de tiers, pas de publicité pour un tiers. Toute page de votre site doit pouvoir être lue par un conseiller ordinal sans qu'il ait rien à redire. Le texte complet est consultable sur le [site de l'Ordre](https://www.ordre-chirurgiens-dentistes.fr/les-services/le-code-de-deontologie-francais/).
 
 ### Cohérence des coordonnées (NAP : nom, adresse, téléphone)
 
@@ -203,7 +203,7 @@ La proéminence est le troisième critère officiel de Google pour la carte : vo
 
 ### Publicité (interdite)
 
-La publicité est interdite aux chirurgiens-dentistes par le code de déontologie. Sont concernés les annonces payantes, les slogans, les comparaisons, les promesses de résultat, et tout référencement prioritaire obtenu contre paiement ou par tout autre moyen (article R.4127-217 II). Le référencement naturel n'en fait pas partie : il rend visible une information exacte, sans rien acheter.
+Depuis le décret du 22 décembre 2020, le code ne contient plus d'interdiction générale de la publicité. Restent interdits, texte par texte : pratiquer la profession comme un commerce (R.4127-215), obtenir un référencement prioritaire contre paiement ou par tout autre moyen, ce qui vise d'abord les annonces payantes (R.4127-217 II), les témoignages de tiers et les comparaisons entre praticiens (R.4127-215-1), la publicité pour un tiers ou une entreprise commerciale (R.4127-225), et les remises ou avantages (R.4127-221). Le référencement naturel n'en fait pas partie : il rend visible une information exacte, sans rien acheter.
 
 ## Lettre R
 

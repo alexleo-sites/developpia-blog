@@ -9,9 +9,9 @@ sujets: cadre de l'Ordre, visibilité
 resume: Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.
 ---
 
-Beaucoup de cabinets vivent avec une idée simple : « la publicité nous est interdite, donc nous ne pouvons rien faire ». La première moitié est vraie. La seconde ne l'est pas.
+Beaucoup de cabinets vivent avec une idée simple : « la publicité nous est interdite, donc nous ne pouvons rien faire ». Les deux moitiés méritent d'être reprises.
 
-Le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959) a réécrit les règles de communication des chirurgiens-dentistes. Il ferme la publicité et il ouvre l'information. Nous avons détaillé cette ligne dans le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/). Ici, nous partons de chaque moyen d'être trouvé, et nous regardons s'il tient dans le cadre.
+Le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959) a réécrit les règles de communication des chirurgiens-dentistes. Il a retiré de l'article R.4127-215 l'interdiction de « tous procédés directs ou indirects de publicité », et il a ouvert l'information : vous pouvez présenter vos compétences, votre parcours, vos conditions d'exercice et vos honoraires. Ce qui reste fermé est plus précis qu'une interdiction générale. Nous avons détaillé cette ligne dans le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/). Ici, nous partons de chaque moyen d'être trouvé, et nous regardons s'il tient dans le cadre.
 
 Ce qui est fermé tient en quelques lignes :
 
@@ -48,7 +48,7 @@ Tout le reste relève de l'information. C'est là que se joue votre visibilité,
 
 **Ce qu'on fait.** Revendiquer la fiche, choisir la bonne catégorie, écrire les horaires exacts, ajouter des photos des locaux et de l'équipe, indiquer votre site comme site officiel, lister les soins. Puis la tenir à jour, car Google traite 88,76 % des recherches en France (Statcounter, août 2026). Nous décrivons chaque champ sur la page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/), et [comment Google choisit les trois cabinets de la carte](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) dans un article à part.
 
-**L'erreur fréquente.** Lancer une collecte d'avis, avec un code à photographier à l'accueil ou un message envoyé après le soin. Aucun texte n'interdit de demander un avis, mais l'Ordre a demandé en 2025 la suppression des avis sur les praticiens. Notre ligne : nous n'organisons jamais de collecte d'avis. Nous répondons aux avis existants de façon neutre, ou pas du tout, sans jamais confirmer qu'une personne est patiente du cabinet. Le détail est dans l'article [avis Google et code de déontologie](https://developpia.fr/blog/avis-google-cabinet-dentaire-code-deontologie/).
+**L'erreur fréquente.** Lancer une collecte d'avis, avec un code à photographier à l'accueil ou un message envoyé après le soin. Aucun texte n'interdit de demander un avis, mais l'Ordre a demandé au ministère de la Santé, en 2025, la suppression des avis sur les praticiens. Notre ligne : nous n'organisons jamais de collecte d'avis. Nous répondons aux avis existants de façon neutre, ou pas du tout, sans jamais confirmer qu'une personne est patiente du cabinet. Le détail est dans l'article [avis Google et code de déontologie](https://developpia.fr/blog/avis-google-cabinet-dentaire-code-deontologie/).
 
 ## Levier 4 : les mêmes informations partout
 
@@ -68,7 +68,7 @@ Tout le reste relève de l'information. C'est là que se joue votre visibilité,
 
 ## Levier 6 : la présence dans ChatGPT et les Aperçus IA
 
-**La règle.** Être cité par une IA n'est pas de la publicité : l'IA lit une information autorisée et la résume. L'enjeu grandit : 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Les Aperçus IA et le Mode IA de Google sont actifs en France depuis le 22 juillet 2026.
+**La règle.** Être cité par une IA n'est pas de la publicité : l'IA lit une information autorisée et la résume. L'enjeu grandit : 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Les Aperçus IA et le Mode IA de Google sont actifs en France depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/).
 
 **Ce qu'on fait.** Vérifier d'abord que les robots des IA peuvent lire votre site. C'est le robot OAI-SearchBot qui fait apparaître un site dans ChatGPT. Les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript, le langage qui affiche un contenu par script : un site construit ainsi est invisible pour eux. Cloudflare, un service de protection répandu, bloque ces robots par défaut depuis juillet 2025. Ensuite, écrire en phrases complètes qui disent qui vous êtes, ce que vous faites et où. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique la méthode, et le guide [comment les IA choisissent un dentiste](https://developpia.fr/guides/comment-les-ia-choisissent-un-dentiste/) décrit leurs quatre filtres.
 

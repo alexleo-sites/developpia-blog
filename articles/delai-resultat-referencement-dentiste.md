@@ -40,7 +40,7 @@ C'est pour ces recherches que l'on parle de mois. Pas parce que le travail est l
 
 Trois choses échappent à vous comme à votre prestataire.
 
-- Les mises à jour de Google. Régulièrement, Google change sa façon de classer les pages. Des sites montent, d'autres descendent, sans avoir rien changé. Depuis le 22 juillet 2026, les Aperçus IA et le Mode IA de Google sont actifs en France : la réponse arrive avant la liste des sites. Le guide [les Aperçus IA de Google et votre cabinet](https://developpia.fr/guides/apercus-ia-google-dentiste/) en parle.
+- Les mises à jour de Google. Régulièrement, Google change sa façon de classer les pages. Des sites montent, d'autres descendent, sans avoir rien changé. Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), les Aperçus IA et le Mode IA de Google sont actifs en France : la réponse arrive avant la liste des sites. Le guide [les Aperçus IA de Google et votre cabinet](https://developpia.fr/guides/apercus-ia-google-dentiste/) en parle.
 - La concurrence locale. Un cabinet qui ouvre à deux rues, un confrère qui refait son site, un centre dentaire qui s'installe : chacun peut modifier l'ordre des résultats dans votre ville.
 - Les saisons. Un creux d'été n'est pas un recul, un pic de rentrée n'est pas une victoire. On compare un mois avec le même mois de l'année précédente, pas avec le mois d'avant.
 

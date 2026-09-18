@@ -78,7 +78,7 @@ du blog, mais la juge moins importante. À chaque publication :
 ## Faits que l'on peut citer (avec leur source, telle quelle)
 
 Chiffres :
-- 59,8 % des Français cherchent des informations de santé sur Google (Eurostat, 2025).
+- 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025).
 - 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026).
 - 33 100 recherches par mois pour « implant dentaire » en France (Semrush, août 2026).
 - Le 22 juillet 2026, Google a activé en France les Aperçus IA et le Mode IA (annonce officielle de Google).
@@ -86,14 +86,14 @@ Chiffres :
 - Les critères officiels de Google pour la carte : pertinence, distance, proéminence (aide Google).
 
 Règles de l'Ordre (code de la santé publique, code de déontologie des chirurgiens-dentistes) :
-- Décret n° 2020-1658 du 22 décembre 2020 : l'information est autorisée, la publicité reste interdite.
+- Décret n° 2020-1658 du 22 décembre 2020 : l'information est autorisée, et l'interdiction générale de publicité a été RETIRÉE de l'article R.4127-215. ⚠️ Ne jamais écrire « le code interdit la publicité ». Restent interdits, et c'est ce qu'on écrit : pas un commerce (R.4127-215), pas de place prioritaire obtenue contre paiement ou autrement (R.4127-217 II), pas de témoignage de tiers ni de comparaison (R.4127-215-1), pas de publicité pour un tiers (R.4127-225), pas de remise ni d'avantage (R.4127-221).
 - R.4127-215-1 : communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles.
 - R.4127-217 II : interdiction d'obtenir, contre paiement ou par tout autre moyen, un référencement prioritaire ; l'Ordre écrit « payant ou non ».
 - R.4127-225 : interdiction de toute publicité intéressant un tiers ou une entreprise commerciale. Conséquence : pas de « site réalisé par » chez un dentiste, pas de témoignage signé d'un praticien pour une société.
-- R.4127-240 II : le praticien doit informer sur ses honoraires et ses modes de paiement. Arrêté du 30 mai 2018 : affichage de la consultation, de cinq actes courants et de cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site.
+- R.4127-240 II : le praticien doit informer sur ses honoraires et ses modes de paiement. Arrêté du 30 mai 2018 : affichage de la consultation, d'au moins cinq actes courants et d'au moins cinq actes prothétiques ou d'orthodontie. L'Ordre recommande cinq à dix actes sur le site.
 - Le titre de « spécialiste » est réservé à l'orthopédie dento-faciale, la chirurgie orale et la médecine bucco-dentaire.
 - Avis : aucun texte n'interdit de demander un avis, mais l'Ordre a demandé en 2025 la suppression des avis sur les praticiens. Ligne DeveloppIA : on n'organise jamais de collecte d'avis, on répond de façon neutre ou pas du tout.
-- Photos avant/après : jugées trompeuses par l'Ordre ; interdites au Luxembourg.
+- Photos avant/après : ⚠️ AUCUN article du code ne les nomme. Les recommandations du Conseil national du 19 juin 2026 les citent AU CONDITIONNEL, dans une liste d'exemples qui « tendraient à » suggérer un résultat certain. Ne jamais écrire « interdites » ni « jugées trompeuses ». Interdites au Luxembourg, ça oui.
 
 Internet et IA :
 - Les Aperçus IA et le Mode IA de Google sont actifs en France depuis le 22 juillet 2026.

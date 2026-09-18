@@ -38,7 +38,7 @@ Une page de soin n'est pas une page de vente. Depuis le [décret n° 2020-1658 d
 Concrètement, sur une page de soin :
 
 - aucun témoignage de patient, même anonyme ;
-- aucune photo avant et après, que l'Ordre juge trompeuse et que le Luxembourg interdit ;
+- aucune photo avant et après : le code ne la nomme pas, mais l'Ordre la cite comme un exemple de ce qui peut laisser croire à un résultat certain, et le Luxembourg l'interdit ;
 - aucune phrase qui pousse au soin : « retrouvez votre sourire dès aujourd'hui » est une réclame, « l'implant remplace la racine d'une dent absente » est une information ;
 - aucun titre que vous n'avez pas : le code réserve les titres à trois disciplines, l'orthopédie dento-faciale, la chirurgie orale et la médecine bucco-dentaire. Un omnipraticien qui pose des implants écrit « pose d'implants ».
 
@@ -99,7 +99,7 @@ Une page par ligne, chacune avec sa propre adresse, son propre titre et le nom d
 
 Votre page de soin ne vit pas seule. Sur votre fiche Google, vous pouvez lister vos soins. Utilisez les mêmes mots que vos pages : « implant dentaire » sur la fiche, dans le titre de la page et dans le motif de rendez-vous. Google classe la carte selon trois critères officiels, la [pertinence, la distance et la proéminence](https://support.google.com/business/answer/7091?hl=fr) (aide Google). La pertinence, c'est l'accord entre ce que le patient tape et ce que votre fiche et votre site disent. Une fiche qui annonce « implantologie » et un site qui parle d'« implant dentaire » ne disent pas la même chose pour une machine. La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) détaille ce lien.
 
-Les IA vont dans le même sens. 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Depuis le 22 juillet 2026, Google affiche en France ses Aperçus IA et son Mode IA. Quand un patient demande « où poser un implant à Angers », l'IA cherche une page qui dit clairement trois choses : le soin, la ville, le cabinet. Une page claire, un soin, une ville : c'est plus facile à citer qu'un accueil qui mêle tout. Une condition technique s'ajoute. Le texte doit être dans la page, pas affiché par un script (un petit programme qui remplit la page après son chargement), car les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique comment ces robots lisent un site.
+Les IA vont dans le même sens. 56,6 % des Français utilisent déjà l'intelligence artificielle, aussi pour trouver un dentiste (Arcom et Médiamétrie, avril 2026). Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France ses Aperçus IA et son Mode IA. Quand un patient demande « où poser un implant à Angers », l'IA cherche une page qui dit clairement trois choses : le soin, la ville, le cabinet. Une page claire, un soin, une ville : c'est plus facile à citer qu'un accueil qui mêle tout. Une condition technique s'ajoute. Le texte doit être dans la page, pas affiché par un script (un petit programme qui remplit la page après son chargement), car les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. La page [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/) explique comment ces robots lisent un site.
 
 ## Les erreurs qui vident une page de soin
 

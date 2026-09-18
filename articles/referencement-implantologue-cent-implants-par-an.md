@@ -64,7 +64,7 @@ Le principe reste [une page par soin](https://developpia.fr/blog/une-page-par-so
 
 Chaque page reprend la même structure (à qui elle s'adresse, le déroulé, la durée, les alternatives, les honoraires, un renvoi vers la page principale), avec sa propre adresse et un titre qui reprend le mot du patient.
 
-Un point de vigilance : ces pages décrivent un parcours, jamais un résultat. Écrivez « l'implant remplace la racine de la dent », pas « vous retrouverez le sourire ». Et montrez le cabinet plutôt que les bouches : l'Ordre juge les photos avant et après trompeuses, et elles sont interdites au Luxembourg. Des photos de la salle de chirurgie, du cône beam et de l'équipe informent autant.
+Un point de vigilance : ces pages décrivent un parcours, jamais un résultat. Écrivez « l'implant remplace la racine de la dent », pas « vous retrouverez le sourire ». Et montrez le cabinet plutôt que les bouches : l'Ordre cite les photos avant et après comme un exemple de ce qui peut laisser croire à un résultat certain, et elles sont interdites au Luxembourg. Des photos de la salle de chirurgie, du cône beam et de l'équipe informent autant.
 
 ## Le cadre : informer, oui, faire de la réclame, non
 
@@ -86,7 +86,7 @@ Enfin, reliez la page implantologie depuis l'accueil, le menu et la page de chaq
 
 ## La place dans les IA
 
-Un patient qui compare longtemps finit souvent par demander à une IA : « quel cabinet pose des implants près d'Angers, et comment ça se passe ». Depuis le 22 juillet 2026, Google affiche en France ses Aperçus IA et son Mode IA, qui répondent avant la liste des sites. ChatGPT, Gemini et Perplexity font de même. Ces réponses s'appuient sur des pages lisibles et citables : une page implantologie complète, avec des honoraires et des informations identiques partout.
+Un patient qui compare longtemps finit souvent par demander à une IA : « quel cabinet pose des implants près d'Angers, et comment ça se passe ». Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France ses Aperçus IA et son Mode IA, qui répondent avant la liste des sites. ChatGPT, Gemini et Perplexity font de même. Ces réponses s'appuient sur des pages lisibles et citables : une page implantologie complète, avec des honoraires et des informations identiques partout.
 
 Deux vérifications s'imposent. Les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript : si votre page s'affiche par un script (un petit programme qui remplit la page après son ouverture), elle est invisible pour eux. Et le service Cloudflare, qui protège beaucoup de sites, bloque les robots des IA par défaut depuis juillet 2025. Le guide [comment les IA choisissent un dentiste](https://developpia.fr/guides/comment-les-ia-choisissent-un-dentiste/) donne la marche à suivre, et l'article [votre cabinet apparaît-il dans ChatGPT](https://developpia.fr/blog/cabinet-dentaire-chatgpt-verifier-en-dix-minutes/) vous permet de mesurer votre place, en pourcentage de réponses où le cabinet est cité, jamais en position.
 
