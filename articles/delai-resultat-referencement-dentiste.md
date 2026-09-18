@@ -36,6 +36,8 @@ Deux choses se construisent lentement :
 
 C'est pour ces recherches que l'on parle de mois. Pas parce que le travail est long à faire, mais parce que Google met du temps à accorder sa confiance, et parce que les cabinets placés devant vous ne restent pas immobiles.
 
+Un ordre de grandeur, mesuré sur l'ensemble du web : **72,9 % des pages qui occupent les dix premiers résultats de Google ont plus de trois ans, et la page classée première a cinq ans en moyenne** (Ahrefs, étude publiée le 15 mai 2025, mesures de l'automne 2023). Ce chiffre porte sur toutes les recherches, y compris les plus disputées au niveau national. « Dentiste » suivi d'un quartier est beaucoup moins concurrentiel que « assurance auto » : un cabinet avance plus vite que cette moyenne. Mais l'unité de compte reste la même, et elle n'est pas la semaine.
+
 ## Ce qui ne dépend de personne
 
 Trois choses échappent à vous comme à votre prestataire.

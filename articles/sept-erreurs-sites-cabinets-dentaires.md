@@ -11,6 +11,18 @@ resume: Sept erreurs courantes sur les sites de cabinets dentaires, avec pour ch
 
 Nous regardons des sites de cabinets dentaires tous les jours. Les mêmes erreurs reviennent, quel que soit le prestataire qui a fait le site. Aucune n'est une faute de goût. Chacune enlève des patients, ou expose le praticien vis-à-vis de l'Ordre, souvent les deux. La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit ce qu'un bon site contient. Cet article prend le chemin inverse : ce qu'il ne doit pas contenir. Pour chaque erreur, vous trouverez un test d'une minute, ce qu'elle coûte, et la correction en une phrase.
 
+## Les sept erreurs en un coup d'œil
+
+| # | L'erreur | Le test, en trente secondes |
+|---|---|---|
+| 1 | Une seule page pour tous les soins | Cherchez la page « implants » |
+| 2 | Les honoraires absents ou dans un fichier | Cherchez un montant en texte |
+| 3 | Un contenu que les robots ne voient pas | Cherchez une de vos phrases dans le code source |
+| 4 | Des informations différentes d'un endroit à l'autre | Comparez site, fiche Google et Doctolib |
+| 5 | Des témoignages ou des photos avant et après | Cherchez un avis de patient sur le site |
+| 6 | « Site réalisé par » en bas de page | Descendez tout en bas |
+| 7 | Un site lent et pénible sur téléphone | Ouvrez-le en 4G, wifi coupé |
+
 ## 1. Une seule page pour tous les soins
 
 Le test : ouvrez votre site et cherchez la page « implants ». Si vous tombez sur une page « nos soins » qui cite implants, couronnes, blanchiment et orthodontie en dix lignes, vous avez l'erreur numéro un. C'est la plus répandue.

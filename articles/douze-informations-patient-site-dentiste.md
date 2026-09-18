@@ -30,6 +30,23 @@ La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-
 11. **Le conventionnement et les remboursements.** Il veut savoir si vous êtes conventionné, ce que l'Assurance Maladie rembourse, ce que sa complémentaire santé peut couvrir, et si vous proposez le 100 % Santé. Où : sur la page « Honoraires », en quelques lignes, avec un lien vers la page [remboursements des soins dentaires sur ameli.fr](https://www.ameli.fr/assure/remboursements/rembourse/soins-protheses-dentaires). L'erreur : annoncer un reste à charge. Vous ne connaissez pas sa complémentaire, renvoyez vers la source.
 12. **Les mentions légales et la protection des données.** Il les cherche rarement, mais leur absence se remarque, et la loi les impose à tout site professionnel. Où : une page « Mentions légales » avec le nom du praticien, son numéro d'inscription à l'Ordre, l'hébergeur du site, et une page sur les données personnelles, au titre du règlement général sur la protection des données (RGPD), si vous avez un formulaire. L'erreur : la page copiée d'un autre site, avec le nom d'un autre cabinet encore dedans.
 
+### La liste à cocher, page par page
+
+| # | Ce que le patient cherche | La page qui le porte |
+|---|---|---|
+| 1 | Le soin qu'il veut | Une page par soin |
+| 2 | L'adresse et l'accès | Une page « Accès », et le bas de chaque page |
+| 3 | Les horaires | Chaque page, près du téléphone |
+| 4 | La prise de rendez-vous | Le haut de chaque page |
+| 5 | Les honoraires | Une page « Honoraires », datée |
+| 6 | Le praticien | Une page par praticien |
+| 7 | L'équipe | Une page « L'équipe » |
+| 8 | Les locaux | L'accueil et une page « Le cabinet » |
+| 9 | Le déroulé d'une première visite | Une page « Première visite » |
+| 10 | Les urgences | Une page « Urgence dentaire » |
+| 11 | Le conventionnement et les remboursements | La page « Honoraires » |
+| 12 | Les mentions légales et les données | Une page « Mentions légales » |
+
 > **La phrase à retenir**
 > Un patient n'appelle pas un cabinet qu'il n'a pas compris. Douze réponses claires, chacune à sa place, valent mieux que n'importe quel effet de style.
 
@@ -41,7 +58,7 @@ Ce cadre n'enlève rien aux douze informations. Votre parcours, vos honoraires, 
 
 ## Le test des dix minutes avec un proche
 
-Vous ne pouvez pas juger votre site vous-même : vous savez déjà tout ce qu'il contient, et vous savez où. Demandez à un proche qui ne connaît pas le cabinet. Donnez-lui un téléphone, pas un ordinateur, parce que c'est ainsi que la plupart des patients arrivent. Ouvrez votre site, lancez un chronomètre et lisez-lui ce scénario : « Tu as une dent cassée et tu cherches un dentiste dans cette ville. Tu viens d'ouvrir ce site. » Puis posez-lui les questions, une par une.
+Vous ne pouvez pas juger votre site vous-même : vous savez déjà ce qu'il contient, et où. Demandez à un proche qui ne connaît pas le cabinet. Donnez-lui un téléphone, pas un ordinateur : c'est ainsi que la plupart des patients arrivent. Lancez un chronomètre et lisez-lui ce scénario : « Tu as une dent cassée et tu cherches un dentiste dans cette ville. » Puis posez-lui les questions, une par une.
 
 - Trouve le soin qu'il te faut et dis-moi en une phrase comment il se passe.
 - Trouve où te garer, ou l'arrêt le plus proche.
@@ -62,9 +79,9 @@ Une fois les douze informations en place, la question suivante est de savoir si 
 
 ## Questions fréquentes
 
-### Faut-il une page par soin, ou une seule page « Nos soins » suffit-elle ?
+### Par quelle information commencer quand le site est presque vide ?
 
-Une page par soin. Le patient tape un soin précis, et Google classe des pages, pas des sites. Une page « Nos soins » qui liste tout en dix lignes ne répond à aucune recherche précise. Commencez par les soins que vos patients demandent le plus, puis ajoutez les autres.
+Par les quatre qui déclenchent un appel : l'adresse avec l'accès, les horaires réels, le numéro cliquable en haut de chaque page et la prise de rendez-vous. Elles se mettent en place en une matinée et ne demandent presque aucune rédaction. Les huit autres se construisent ensuite, en commençant par [une page pour chacun de vos soins les plus demandés](https://developpia.fr/blog/une-page-par-soin-site-dentiste/).
 
 ### Peut-on mettre des avis de patients sur le site pour rassurer ?
 

@@ -34,7 +34,7 @@ Ces gestes ne demandent aucun outil payant. Ils demandent de la rigueur et du te
 
 **Ce qui l'est moins.** Construire un site rapide, lisible sur téléphone, avec une page par soin, et lisible aussi pour les robots des IA. Suivre ce qui bouge chez Google, comme l'arrivée des Aperçus IA en France le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/). Ce sont des métiers, et ils changent vite. La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) décrit ce qu'un site doit contenir, et l'article sur [les sept erreurs des sites de cabinets dentaires](https://developpia.fr/blog/sept-erreurs-sites-cabinets-dentaires/) ce qu'il ne doit pas contenir. Quand un site existe déjà, la grille pour décider s'il faut [refaire le site du cabinet dentaire ou le corriger](https://developpia.fr/blog/refaire-site-cabinet-dentaire-comment-decider/) évite d'engager une refonte inutile.
 
-**Le risque.** Le temps. Le référencement passe après les patients, c'est normal, puis après tout le reste. Le site reste à moitié fait, la fiche n'est plus à jour, personne ne mesure rien. L'autre risque est de copier une pratique vue ailleurs sans savoir qu'elle est interdite aux dentistes : collecte d'avis, photo avant et après, témoignage de patient.
+**Le risque.** Le temps. Le référencement passe après les patients, c'est normal, puis après tout le reste. Le site reste à moitié fait, la fiche n'est plus à jour, personne ne mesure rien. L'autre risque est de copier une pratique vue ailleurs sans savoir qu'elle ne passe pas chez un dentiste : le témoignage de patient et la note affichée sur le site, que l'article R.4127-215-1 ferme, et la photo avant et après, que l'Ordre cite comme laissant croire à un résultat certain.
 
 ## Faire appel à un indépendant
 
@@ -106,7 +106,7 @@ Oui, pour une bonne partie du travail. La fiche Google, la cohérence des inform
 
 ### Comment savoir si une agence de référencement connaît les règles des dentistes ?
 
-Posez-lui trois questions : les témoignages sont-ils autorisés, peut-on promettre une position, peut-on organiser une collecte d'avis. Les réponses attendues sont non, non et non. Regardez ensuite les sites qu'elle a faits pour des dentistes : une mention « site réalisé par » en bas de page montre qu'elle ne connaît pas l'article R.4127-225.
+Posez-lui trois questions : peut-on afficher des témoignages de patients sur le site, peut-on promettre une position dans Google, quel texte encadre les avis en ligne. Les deux premières réponses attendues sont non et non. Sur la troisième, une agence qui connaît la profession sait qu'aucun article n'interdit de demander un avis, mais que l'Ordre en a demandé la suppression au ministère de la Santé en 2025 : c'est un terrain mouvant, pas un argument de vente. Regardez ensuite les sites qu'elle a faits pour des dentistes : une mention « site réalisé par » en bas de page montre qu'elle ne connaît pas l'article R.4127-225.
 
 ### Que doit-on garder si l'on change de prestataire ?
 

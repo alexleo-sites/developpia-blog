@@ -57,16 +57,16 @@ Le tableau doit être du texte dans la page, pas une image ni un fichier à tél
 
 ## Exemple de présentation pour un cabinet fictif
 
-Voici, à titre d'exemple de présentation, le tableau d'un cabinet fictif. Les montants sont inventés et montrent une mise en forme, pas un niveau d'honoraires à suivre. Chaque cabinet y met ses propres actes et ses propres chiffres.
+Voici la forme du tableau, à recopier avec vos propres actes et vos propres montants. Nous laissons les cases chiffrées vides à dessein : un montant écrit ici deviendrait une référence pour des lecteurs qui n'ont pas examiné votre patient, et vos honoraires n'ont pas à ressembler à ceux d'un cabinet inventé.
 
 | Acte | Honoraires (exemple de présentation) | À savoir |
 |---|---|---|
 | Consultation | Tarif de la convention | Remboursée sur la base de l'Assurance Maladie |
 | Détartrage | Tarif de la convention | Remboursé sur la base de l'Assurance Maladie |
 | Couronne céramique | Selon le panier choisi, montant précisé sur le devis | Devis obligatoire, alternative 100 % Santé proposée quand elle existe |
-| Implant unitaire, pose et couronne comprises | De 1 800 à 2 400 € | Honoraires libres, devis personnalisé après examen et radio |
-| Facette céramique, par dent | De 700 à 1 000 € | Honoraires libres, devis après bilan esthétique |
-| Aligneurs, traitement complet | De 2 800 à 4 500 € | Honoraires libres, devis après bilan, paiement en plusieurs fois possible |
+| Implant unitaire, pose et couronne comprises | De **[votre montant bas]** à **[votre montant haut]** € | Honoraires libres, devis personnalisé après examen et radio |
+| Facette céramique, par dent | De **[votre montant bas]** à **[votre montant haut]** € | Honoraires libres, devis après bilan esthétique |
+| Aligneurs, traitement complet | De **[votre montant bas]** à **[votre montant haut]** € | Honoraires libres, devis après bilan, paiement en plusieurs fois possible |
 
 Sous le tableau, trois lignes : « Honoraires mis à jour le 1er septembre 2026. » « Cabinet conventionné. Sur les actes prothétiques, d'implantologie et d'orthodontie, le praticien détermine librement ses honoraires, qui peuvent être supérieurs aux tarifs de la convention. » « Modes de paiement acceptés : carte bancaire, chèque, virement. Paiement en plusieurs fois possible sur devis. »
 
