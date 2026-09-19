@@ -4,6 +4,7 @@ titre_court: Avis Google et dentiste : ce que dit le code de l'Ordre
 description: Avis Google et cabinet dentaire : ce que le code de déontologie interdit vraiment, la position de l'Ordre, et comment répondre à un avis sans prendre de risque.
 accroche: Sur les avis Google, un cabinet dentaire entend tout et son contraire. Cet article sépare ce que les textes interdisent de ce qu'ils ne disent pas. Il donne ensuite une ligne de conduite simple : ce qu'on ne fait pas, comment répondre, et que faire d'un avis faux.
 date: 2026-09-12
+maj: 2026-09-19
 lecture: 7 min
 sujets: cadre de l'Ordre, Google Maps
 resume: Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.
@@ -73,6 +74,18 @@ Un avis peut venir d'une personne jamais reçue au cabinet, ou d'un concurrent, 
 La deuxième règle est de passer par Google avant tout autre recours. Google publie des règles sur le contenu des avis et une [procédure de signalement](https://support.google.com/business/answer/4596773?hl=fr). Depuis la fiche, vous signalez l'avis en indiquant le motif : hors sujet, conflit d'intérêts, contenu injurieux, faux avis. Google examine et décide. Un avis simplement négatif, mais sincère, ne sera pas retiré. Le signalement vise ce qui enfreint les règles de Google, pas ce qui vous déplaît.
 
 Si Google refuse et que l'avis est diffamatoire ou injurieux, les voies de droit existent. Un avocat peut adresser une mise en demeure ou saisir un tribunal. C'est plus long, plus coûteux, et cela se réserve aux cas graves. Dans tous les cas, gardez une trace : une capture d'écran datée de l'avis et de chacun de vos signalements.
+
+## « Fin des avis Google pour les dentistes » : où en est-on ?
+
+La question revient souvent, parce que l'Ordre a demandé en 2025 au ministère de la Santé que les avis sur les praticiens soient supprimés. À la date de mise à jour de cet article, rien n'a changé pour le patient : la fiche Google d'un cabinet dentaire affiche toujours sa note et ses avis, et Google n'a annoncé aucune règle propre aux professions de santé en France. Ce qui existe, c'est une demande, pas une décision.
+
+Concrètement, cela donne trois repères :
+
+1. Vous ne pouvez pas fermer les avis de votre fiche : Google ne le propose à personne, et une fiche sans avis n'est pas une fiche plus conforme.
+2. Vous pouvez répondre, signaler un avis faux, et tenir la fiche à jour : rien de tout cela n'est remis en cause.
+3. Si la demande de l'Ordre aboutit un jour, elle s'appliquera à tous les cabinets en même temps. La place sur la carte reposera alors encore plus sur la fiche, le site et la cohérence des informations, c'est-à-dire sur tout ce qui ne dépend pas des avis.
+
+Nous mettons cette partie à jour dès qu'un texte change.
 
 ## Faire avancer la fiche sans un seul avis
 

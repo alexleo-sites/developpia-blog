@@ -9,8 +9,9 @@ Format : `- [ ] Titre de travail | recherche visée | angle en une phrase`
 
 Règle anti-doublon (revue du 12/09/2026) : une recherche = une seule page du site. Les
 recherches commerciales (« création site internet dentiste », « agence SEO dentiste »,
-« référencement dentiste », « fiche Google dentiste », « référencement IA dentiste »,
-« réseaux sociaux cabinet dentaire », « instagram cabinet dentaire »)
+« agence de communication dentiste », « référencement dentiste », « référencement local dentiste »,
+« fiche Google dentiste », « référencement IA dentiste », « réseaux sociaux cabinet dentaire »,
+« instagram cabinet dentaire »)
 appartiennent aux pages d'offre : un article ne les vise jamais, il renvoie vers la page.
 
 Règle du titre : il reprend les mots de la recherche visée (publier.py refuse s'il en manque
@@ -27,6 +28,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Refaire ou améliorer le site d'un cabinet dentaire : comment décider | refaire site cabinet dentaire | les cinq questions qui tranchent, puis la page site internet de cabinet dentaire | PRIORITÉ 3 (publié le 2026-09-16, refaire-site-cabinet-dentaire-comment-decider)
 - [x] Résultat du référencement d'un cabinet dentaire : combien de patients, et comment le mesurer | résultat référencement dentiste | appels, demandes, rendez-vous, pas positions | PRIORITÉ 4 (publié le 2026-09-17, resultat-referencement-dentiste-combien-de-patients)
 - [x] Référencement d'un cabinet d'esthétique dentaire : se faire trouver sans publicité | référencement esthétique dentaire | facettes, alignement, patients qui viennent de loin | PRIORITÉ 5 (publié le 2026-09-18, referencement-esthetique-dentaire-se-faire-trouver)
+- [ ] Marketing dentaire : ce que le code autorise, et les cinq leviers qui amènent des patients | marketing dentaire | Google et Bing complètent « marketing dentaire » (19/09) ; les premiers résultats sont québécois ou généralistes : donner la version française, cadre de l'Ordre compris, sans jamais viser « agence » (page d'offre) | PRIORITÉ 5
 - [ ] Cabinet dentaire à plusieurs praticiens : une fiche Google par praticien ou pour tout le cabinet ? | fiche google cabinet dentaire plusieurs praticiens | la règle Google, le bon montage | PRIORITÉ 6
 - [ ] Le blog d'un cabinet dentaire : utile ou perte de temps ? | blog cabinet dentaire | quand écrire, sur quoi, à quel rythme, dans le cadre | PRIORITÉ 7
 - [ ] Référencement d'un dentiste en Belgique : les règles de communication qui changent | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8

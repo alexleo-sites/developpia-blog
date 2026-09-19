@@ -23,7 +23,7 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - La recherche visée aussi dans la description, dans l'accroche et dans le nom du fichier.
 - Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
   « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
-  « agence SEO dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
+  « agence SEO dentiste », « agence de communication dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
   IA dentiste », « réseaux sociaux cabinet dentaire », « instagram cabinet dentaire », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
   renvoie vers la page.
 - Au moins un élément que les premiers résultats de Google sur cette recherche n'ont pas : un
@@ -123,6 +123,7 @@ son année. En cas de doute, on écrit sans chiffre.
 
 ## Nos pages à lier (adresses exactes)
 
+- https://developpia.fr/agence-communication-dentiste/ (Agence de communication pour dentiste)
 - https://developpia.fr/referencement-dentiste/ (Référencement dentiste)
 - https://developpia.fr/site-internet-cabinet-dentaire/ (Site internet de cabinet dentaire)
 - https://developpia.fr/fiche-google-dentiste/ (Fiche Google de dentiste)
