@@ -74,7 +74,7 @@ Deux idées circulent beaucoup. La première : un fichier llms.txt, une page de 
 
 En revanche, une chose a bien changé. Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France les Aperçus IA et le Mode IA : une réponse rédigée, placée avant la liste des sites. Google précise sur sa [page sur les fonctionnalités IA](https://developers.google.com/search/docs/appearance/ai-features) qu'aucun réglage à part n'est requis. Les mêmes murs s'appliquent : une page que Google ne peut pas lire n'apparaît ni dans les résultats classiques, ni dans l'Aperçu.
 
-Les quatre murs se vérifient en une soirée. Les faire tomber relève du [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/), qui commence par le même travail que le référencement classique : un site lisible, des informations identiques partout, des pages qui répondent. Une fois les murs tombés, la question suivante est celle de la page à écrire pour chaque soin.
+Les quatre murs se vérifient en une soirée. Les faire tomber relève du [référencement dans les IA](https://developpia.fr/referencement-ia-dentiste/), qui commence par le même travail que le référencement classique : un site lisible, des informations identiques partout, des pages qui répondent. Ce travail est l'un des cinq leviers que décrit notre article sur [ce que le code autorise en marketing dentaire](https://developpia.fr/blog/marketing-dentaire-ce-que-le-code-autorise/). Une fois les murs tombés, la question suivante est celle de la page à écrire pour chaque soin.
 
 ## Questions fréquentes
 

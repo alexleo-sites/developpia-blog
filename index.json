@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "marketing-dentaire-ce-que-le-code-autorise",
+   "titre": "Marketing dentaire : ce que le code autorise, et les cinq leviers qui amènent des patients",
+   "description": "Marketing dentaire en France : le tableau des pratiques courantes face au code, les cinq leviers qui amènent des patients et la vérification à faire seul.",
+   "date": "2026-09-21",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "décider"
+   ],
+   "resume": "Le vocabulaire du marketing traduit dans le cadre français, un tableau de huit pratiques courantes face aux articles du code, les cinq leviers classés par ce qu'ils demandent, un plan de quatre-vingt-dix jours et la vérification en dix minutes."
+  },
+  {
    "slug": "referencement-esthetique-dentaire-se-faire-trouver",
    "titre": "Référencement d'un cabinet d'esthétique dentaire : se faire trouver sans acheter de visibilité",
    "description": "Référencement esthétique dentaire : les mots que tape un patient de facettes, la page qui y répond, le cadre de l'Ordre et la vérification à faire soi-même.",
@@ -101,7 +113,7 @@
     "décider"
    ],
    "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
-   "modifie": "2026-09-17"
+   "modifie": "2026-09-21"
   },
   {
    "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
@@ -223,7 +235,8 @@
     "site du cabinet"
    ],
    "resume": "Le chemin d'un robot d'IA jusqu'à votre site, et les quatre murs qui le rendent invisible : scripts, blocage, texte flou, absence de sources, avec le test et la correction de chacun.",
-   "ordre": 8
+   "ordre": 8,
+   "modifie": "2026-09-21"
   },
   {
    "slug": "honoraires-site-cabinet-dentaire-obligation-presentation",
