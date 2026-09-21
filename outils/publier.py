@@ -142,6 +142,10 @@ def verifier(chemin):
     for motif in MOTS_INTERDITS:
         if re.search(motif, corps, re.I):
             erreurs.append(f"motif interdit trouvé : {motif}")
+    # Caractères invisibles (espace de largeur nulle, marques directionnelles, « tag characters ») :
+    # fréquents dans un texte produit avec une IA, ils cassent les mots pour Google et peuvent cacher du texte.
+    if re.search("[​‌‍⁠﻿‎‏‪-‮\U000e0000-\U000e007f]", texte):
+        erreurs.append("caractère invisible trouvé (espace de largeur nulle ou marque directionnelle) : à retirer")
     internes = len(re.findall(r"\]\((https://developpia\.fr/[^)]*|/[^)]*)\)", corps))
     externes = len(re.findall(r"\]\(https?://(?!developpia\.fr)[^)]+\)", corps))
     if internes < 3:

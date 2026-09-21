@@ -44,6 +44,12 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
   proches du sujet (`python3 outils/publier.py --liens "vos sujets"` les liste). Le lexique
   ne compte pas dans ces deux liens.
 - Une phrase de fin qui ouvre sur la suite, jamais « En conclusion ».
+- La description ne recopie pas le début du titre : elle dit ce que le lecteur obtient en lisant
+  (Google réécrit une description qui répète le titre).
+- Un ou deux titres `##` formulés en question quand c'est naturel, et sous chaque `##` la réponse
+  dans les deux premières phrases : c'est le passage que les IA citent (un bloc autonome de 130 à
+  170 mots vaut mieux qu'une longue partie).
+- Aucun caractère invisible (espace de largeur nulle, marque de direction) : `publier.py` refuse.
 - Pas d'appel à l'action dans le texte : le gabarit ajoute le bouton « Demander mon
   diagnostic » sous chaque article.
 
