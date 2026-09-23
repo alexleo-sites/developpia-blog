@@ -48,7 +48,7 @@ Le propriétaire principal de la fiche peut [transférer la propriété principa
 
 L'erreur fréquente est inverse : faute d'accès, le repreneur crée une seconde fiche. Deux fiches pour le même cabinet vont contre les règles de Google et se disputent la même place. Or la carte repose sur trois critères officiels, la pertinence, la distance et la proéminence (aide Google), et une fiche neuve repart sans l'historique de l'ancienne. L'article [dentiste et ville sur Google Maps](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) détaille ces critères.
 
-Une fois la fiche récupérée, mettez à jour le nom s'il change, le téléphone, les horaires et les photos de l'équipe. Si l'ancien praticien avait une fiche à son propre nom, décidez avec lui de son sort avant la signature. La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) reprend chaque champ.
+Une fois la fiche récupérée, mettez à jour le nom s'il change, le téléphone, les horaires et les photos de l'équipe. Si l'ancien praticien avait une fiche à son propre nom, décidez avec lui de son sort avant la signature : cette fiche suit la personne, comme l'explique l'article sur [la fiche Google d'un cabinet dentaire à plusieurs praticiens](https://developpia.fr/blog/fiche-google-cabinet-dentaire-plusieurs-praticiens/). La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) reprend chaque champ.
 
 ## Le nom de domaine et le site : garder les adresses
 

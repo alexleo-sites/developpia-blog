@@ -28,7 +28,7 @@ Deux points demandent de l'avance :
 1. **La nouvelle validation.** Selon [l'aide de Google sur la modification d'une fiche](https://support.google.com/business/answer/3039617?hl=fr), un établissement déjà validé qui déménage doit être validé à nouveau. Une plaque posée et une entrée visible facilitent ce contrôle.
 2. **Le bon jour.** Google examine chaque changement avant de l'afficher. Faites la modification quand les nouveaux locaux reçoivent des patients, pas des semaines avant, sinon la carte envoie des patients vers un chantier. Les jours de fermeture s'indiquent en horaires exceptionnels.
 
-Mettez ensuite à jour ce qui dépend du lieu : photos de la façade et de l'accueil, accès, horaires. La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) reprend chaque champ.
+Mettez ensuite à jour ce qui dépend du lieu : photos de la façade et de l'accueil, accès, horaires. La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) reprend chaque champ. Quand le cabinet compte plusieurs associés, chaque fiche de praticien change d'adresse elle aussi, selon la règle expliquée dans l'article sur [la fiche Google d'un cabinet dentaire à plusieurs praticiens](https://developpia.fr/blog/fiche-google-cabinet-dentaire-plusieurs-praticiens/).
 
 ## Le site du cabinet : l'adresse est à plus d'endroits qu'on ne croit
 

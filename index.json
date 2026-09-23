@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",
+   "titre": "Fiche Google d'un cabinet dentaire à plusieurs praticiens : une seule ou une par praticien ?",
+   "description": "Une fiche par praticien ou une seule pour le cabinet dentaire : la règle écrite par Google, le montage qui tient et la vérification à faire vous-même.",
+   "date": "2026-09-23",
+   "lecture": "7 min",
+   "sujets": [
+    "Google Maps",
+    "site du cabinet"
+   ],
+   "resume": "La règle écrite par Google pour les cabinets de groupe, les conditions qu'un praticien doit remplir pour avoir sa fiche, le tableau des montages, le nom de chaque fiche dans le cadre de l'Ordre, les sept étapes de mise en ordre et la vérification en dix minutes."
+  },
+  {
    "slug": "marketing-dentaire-ce-que-le-code-autorise",
    "titre": "Marketing dentaire : ce que le code autorise, et les cinq leviers qui amènent des patients",
    "description": "Marketing dentaire en France : le tableau des pratiques courantes face au code, les cinq leviers qui amènent des patients et la vérification à faire seul.",
@@ -126,7 +138,7 @@
     "Google Maps"
    ],
    "resume": "Le calendrier d'un déménagement de cabinet dentaire sur internet : fiche Google modifiée et non recréée, site, Doctolib, annuaires, IA, et la vérification du premier mois.",
-   "modifie": "2026-09-17"
+   "modifie": "2026-09-23"
   },
   {
    "slug": "une-page-par-soin-site-dentiste",
@@ -165,7 +177,7 @@
     "Google Maps"
    ],
    "resume": "Ce qu'un repreneur de cabinet dentaire doit récupérer en ligne, fiche Google, nom de domaine, site et Doctolib, et comment garder le lien avec l'ancien nom que les patients tapent encore.",
-   "modifie": "2026-09-17",
+   "modifie": "2026-09-23",
    "ordre": 4
   },
   {
