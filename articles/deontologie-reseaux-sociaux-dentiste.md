@@ -18,7 +18,7 @@ Un praticien qui veut publier a trois textes en face de lui. Ils n'ont pas la m�
 | Source | Ce que c'est | Sa force |
 |---|---|---|
 | Le code de déontologie, articles R.4127-201 et suivants du code de la santé publique | Le droit | Obligatoire, avec sanction disciplinaire |
-| Les recommandations du Conseil national de l'Ordre sur la communication professionnelle | Une explicitation du code, « sans création de nouvelles normes » | Elles « pourront être prises en compte par le juge », et R.4127-215-1 III oblige à en tenir compte |
+| Les [recommandations du Conseil national de l'Ordre sur la communication professionnelle](https://www.ordre-chirurgiens-dentistes.fr/download/109355/) | Une explicitation du code, « sans création de nouvelles normes » | Elles « pourront être prises en compte par le juge », et R.4127-215-1 III oblige à en tenir compte |
 | Les Lettres de l'Ordre, numéros 196 de mars 2022, 209 du 10 novembre 2023 et 226 de décembre 2025 | La position officielle de l'Ordre | Pas un texte réglementaire. La Lettre 209 écrit que « des plaintes ont été formées » |
 
 Deux précautions. Le mot « charte » ne s'emploie plus : les recommandations écrivent qu'elles se substituent aux chartes précédemment éditées. Et le décret n° 2020-1658 du 22 décembre 2020 n'a réécrit qu'une partie des articles : R.4127-206, R.4127-208 et R.4127-225 lui préexistent. Plusieurs dates de version des recommandations circulent, donc nous les citons ici sans renvoi de page.

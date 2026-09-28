@@ -46,7 +46,8 @@
     "par type de cabinet",
     "site du cabinet"
    ],
-   "resume": "Ce qui change quand l'acte est esthétique : le patient vient de loin et compare, le tableau des mots qu'il tape, la page par acte, ce qu'on montre à la place des photos avant et après, et la vérification en dix minutes."
+   "resume": "Ce qui change quand l'acte est esthétique : le patient vient de loin et compare, le tableau des mots qu'il tape, la page par acte, ce qu'on montre à la place des photos avant et après, et la vérification en dix minutes.",
+   "modifie": "2026-09-28"
   },
   {
    "slug": "resultat-referencement-dentiste-combien-de-patients",
@@ -85,7 +86,8 @@
     "visibilité"
    ],
    "resume": "Les trois rôles d'une page Facebook de cabinet dentaire, informations exactes, recrutement et patientèle plus âgée, puis la liste de contrôle à passer.",
-   "ordre": 5
+   "ordre": 5,
+   "modifie": "2026-09-28"
   },
   {
    "slug": "instagram-indexe-google-cabinet-dentaire",
@@ -111,7 +113,8 @@
     "cadre de l'Ordre"
    ],
    "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part.",
-   "ordre": 6
+   "ordre": 6,
+   "modifie": "2026-09-28"
   },
   {
    "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",

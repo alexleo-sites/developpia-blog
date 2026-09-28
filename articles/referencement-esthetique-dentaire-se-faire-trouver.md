@@ -59,7 +59,7 @@ L'information sur les honoraires n'est pas une option : l'article R.4127-240 II 
 
 ## Ce que vous montrez, quand vous ne montrez pas de bouches
 
-C'est la question qui revient le plus souvent en esthétique. Les recommandations du Conseil national du 19 juin 2026 citent les photos avant et après au conditionnel, dans une liste d'exemples qui tendraient à suggérer un résultat certain. Le code, lui, ne les nomme nulle part. Au Luxembourg, en revanche, elles sont interdites.
+C'est la question qui revient le plus souvent en esthétique. Les [recommandations du Conseil national du 19 juin 2026](https://www.ordre-chirurgiens-dentistes.fr/download/109355/) citent les photos avant et après au conditionnel, dans une liste d'exemples qui tendraient à suggérer un résultat certain. Le code, lui, ne les nomme nulle part. Au Luxembourg, en revanche, elles sont interdites.
 
 La conduite prudente consiste donc à ne pas construire toute une page sur des comparaisons de sourires, et à donner au patient de quoi se projeter autrement :
 

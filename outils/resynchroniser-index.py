@@ -95,7 +95,8 @@ def main(args):
         print("index.json était déjà d'accord avec les en-têtes.")
         return
     with io.open(INDEX, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
+        # indent=1, comme publier.py : sinon chaque passage réécrit tout le fichier (721 lignes pour 3 dates, 28/09/2026).
+        json.dump(index, f, ensure_ascii=False, indent=1)
         f.write("\n")
     print(change, "article(s) mis à jour dans index.json.")
 

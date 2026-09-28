@@ -17,7 +17,7 @@ Une page Facebook ne joue pas le même rôle qu'un compte Instagram. Elle ne rem
 
 Facebook et Instagram appartiennent à la même société, mais ils ne rassemblent pas les mêmes personnes, ni au même rythme.
 
-En juin 2026, Facebook rassemble 52,1 millions de visiteurs uniques dans le mois en France et 35 millions par jour, Instagram 45,3 millions dans le mois et 26,8 millions par jour, sur une base de la population de 11 ans et plus (Médiamétrie et Médiamétrie//NetRatings, juin 2026).
+En juin 2026, Facebook rassemble 52,1 millions de visiteurs uniques dans le mois en France et 35 millions par jour, Instagram 45,3 millions dans le mois et 26,8 millions par jour, sur une base de la population de 11 ans et plus ([Médiamétrie et Médiamétrie//NetRatings, juin 2026](https://www.mediametrie.fr/fr/audiences-et-resultats/internet/internet-global/audience-internet-global-en-france-en-juin-2026)).
 
 Voici les audiences mensuelles des autres réseaux, sur le même mois et la même base.
 
@@ -70,11 +70,11 @@ Aucune source publique ne mesure le nombre de postes non pourvus dans les cabine
 
 ## Troisième rôle : une patientèle plus âgée qui lit sans commenter
 
-Participation aux réseaux sociaux en France en 2025 : 94,9 % des 16-24 ans, 87,5 % des 25-34 ans, 81,1 % des 35-44 ans, 71,0 % des 45-54 ans, 55,1 % des 55-64 ans et 38,9 % des 65-74 ans (Eurostat, 2025). Ce sont des niveaux mesurés pour la seule année 2025, sans comparaison avec les années précédentes.
+Participation aux réseaux sociaux en France en 2025 : 94,9 % des 16-24 ans, 87,5 % des 25-34 ans, 81,1 % des 35-44 ans, 71,0 % des 45-54 ans, 55,1 % des 55-64 ans et 38,9 % des 65-74 ans ([Eurostat, 2025](https://ec.europa.eu/eurostat/databrowser/view/isoc_ci_ac_i/default/table?lang=fr)). Ce sont des niveaux mesurés pour la seule année 2025, sans comparaison avec les années précédentes.
 
-Retenez la ligne du milieu : les 45-54 ans, une tranche d'âge concernée par les prothèses et les implants, sont présents à 71,0 %.
+Retenez la ligne du milieu : les 45-54 ans, une tranche d'âge concernée par les prothèses et les implants, sont présents à 71,0 % (Eurostat, 2025).
 
-Reste à savoir ce que ces personnes font sur place. Parmi les personnes présentes sur les réseaux sociaux en France, 33 % publient ou commentent chaque jour, 49 % le font de façon moins régulière, 13 % se limitent à lire les contenus et 6 % sont inactives (Arcom, Arcep, CGE et ANCT, 2026). La base est celle des personnes de 12 ans et plus présentes sur les réseaux sociaux. Chez les 60 ans et plus, 17 % se contentent de lire, selon la même source.
+Reste à savoir ce que ces personnes font sur place. Parmi les personnes présentes sur les réseaux sociaux en France, 33 % publient ou commentent chaque jour, 49 % le font de façon moins régulière, 13 % se limitent à lire les contenus et 6 % sont inactives ([baromètre du numérique de l'Arcom, de l'Arcep, du CGE et de l'ANCT, 2026](https://www.arcep.fr/uploads/tx_gspublication/barometre-du-numerique-edition-2026_RAPPORT.pdf)). La base est celle des personnes de 12 ans et plus présentes sur les réseaux sociaux. Chez les 60 ans et plus, 17 % se contentent de lire (même baromètre, 2026).
 
 La conséquence est concrète. Une publication vue par cinquante patients et commentée par personne n'est pas une publication ratée. Le nombre de mentions « j'aime » est un mauvais thermomètre pour un cabinet dentaire. Écrivez donc pour être lu : des phrases complètes, l'information dans l'image comme dans le texte, et jamais une explication réservée aux commentaires.
 
@@ -84,7 +84,7 @@ Le code de déontologie ne nomme ni Facebook ni Instagram. Il encadre le contenu
 
 L'article R.4127-215-1 du code de la santé publique, créé par le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959), pose que le chirurgien-dentiste « est libre de communiquer au public, par tout moyen, y compris sur un site internet ». Le même article ajoute que cette communication « ne fait pas appel à des témoignages de tiers ». Une capture d'avis, ou la publication d'une patiente que l'on repartage, entre donc dans ce que le texte écarte.
 
-Sur les informations d'exercice, horaires, accès, équipe et plateau technique, les recommandations du Conseil national de l'Ordre sur la communication professionnelle, dans leur version du 19 juin 2026, posent une limite courte : « sans valorisation et sans comparaison ». Décrivez ce que fait un appareil, pas qu'il serait le plus perfectionné du secteur.
+Sur les informations d'exercice, horaires, accès, équipe et plateau technique, les [recommandations du Conseil national de l'Ordre sur la communication professionnelle](https://www.ordre-chirurgiens-dentistes.fr/download/109355/), dans leur version du 19 juin 2026, posent une limite courte : « sans valorisation et sans comparaison ». Décrivez ce que fait un appareil, pas qu'il serait le plus perfectionné du secteur.
 
 Pour les photos et les vidéos, les mêmes recommandations sont catégoriques : « Dès lors qu'un patient est filmé au sein d'un cabinet dentaire, il ne doit en aucun cas être identifiable. » L'autorisation écrite du patient ne change rien à cette règle. Notre article sur les [leviers de visibilité qui restent autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/) reprend ce partage, levier par levier.
 
