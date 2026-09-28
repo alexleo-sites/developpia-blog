@@ -1,0 +1,373 @@
+{
+ "articles": [
+  {
+   "slug": "dental-practice-blog-worth-it",
+   "titre": "Dental practice blog: worth it or a waste of time? When to write, what about, and how often",
+   "description": "Should your practice run a blog? The four-question test, the topics that bring in patients, a pace you can keep, and the line set by the Dental Council.",
+   "date": "2026-09-28",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website",
+    "deciding"
+   ],
+   "resume": "The four-question test before starting a blog, a table of the topics that work and the ones that do nothing, a sustainable pace, the Dental Council's line, and the check to run yourself.",
+   "fr": "blog-cabinet-dentaire-utile-ou-perte-de-temps"
+  },
+  {
+   "slug": "google-business-profile-multi-dentist-practice",
+   "titre": "Google Business Profile for a multi-dentist practice: one profile, or one per dentist?",
+   "description": "One profile per dentist or one for the dental practice: the rule Google has written down, the setup that holds up and the check to run yourself.",
+   "date": "2026-09-23",
+   "lecture": "7 min",
+   "sujets": [
+    "Google Maps",
+    "practice website"
+   ],
+   "resume": "The rule Google has written for group practices, the conditions a dentist must meet to have a profile, the table of setups, the name of each profile under the Dental Council's rules, the seven steps to get things in order and the ten-minute check.",
+   "fr": "fiche-google-cabinet-dentaire-plusieurs-praticiens"
+  },
+  {
+   "slug": "dental-marketing-what-the-code-allows",
+   "titre": "Dental marketing: what the code of ethics allows, and the five levers that bring in patients",
+   "description": "Dental marketing in France: common practices checked against the code, the five levers that bring in patients, and the check you can run on your own.",
+   "date": "2026-09-21",
+   "lecture": "7 min",
+   "sujets": [
+    "Dental Council rules",
+    "deciding"
+   ],
+   "resume": "Marketing vocabulary translated into the French framework, a table of eight common practices checked against the articles of the code, the five levers ranked by what they require, a ninety-day plan and the ten-minute check.",
+   "fr": "marketing-dentaire-ce-que-le-code-autorise"
+  },
+  {
+   "slug": "cosmetic-dentistry-seo",
+   "titre": "Cosmetic dentistry SEO: getting your practice found without buying visibility",
+   "description": "Cosmetic dentistry SEO: the words a veneers patient types, the page that answers them, the Dental Council rules and the check to run yourself.",
+   "date": "2026-09-18",
+   "lecture": "7 min",
+   "sujets": [
+    "by type of practice",
+    "practice website"
+   ],
+   "resume": "What changes when the treatment is cosmetic: the patient comes from far away and compares, a table of the words they type, one page per treatment, what to show instead of before-and-after photos, and the ten-minute check.",
+   "fr": "referencement-esthetique-dentaire-se-faire-trouver"
+  },
+  {
+   "slug": "what-to-post-on-instagram-dental-practice",
+   "titre": "What to post on a dental practice's Instagram: the list of what is allowed",
+   "description": "What to post on a dental practice's Instagram: ten allowed posts, why each one complies, and the common advice that puts a dentist at risk.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "social media",
+    "Dental Council rules"
+   ],
+   "resume": "Ten posts a dental practice can publish on Instagram, why each one complies, and the common advice that puts the dentist in breach.",
+   "ordre": 2,
+   "fr": "que-publier-instagram-cabinet-dentaire"
+  },
+  {
+   "slug": "social-media-ethics-for-dentists",
+   "titre": "Social media ethics for dentists: what the Dental Council writes, article by article",
+   "description": "Social media ethics for dentists: the code's articles quoted in full, the exact weight of the three sources, and what is written nowhere.",
+   "date": "2026-09-17",
+   "lecture": "8 min",
+   "sujets": [
+    "social media",
+    "Dental Council rules"
+   ],
+   "resume": "The code of ethics articles that govern a practice account, quoted in full, the exact weight of the Dental Council's three sources, and the list of what is written nowhere.",
+   "ordre": 6,
+   "fr": "deontologie-reseaux-sociaux-dentiste"
+  },
+  {
+   "slug": "instagram-indexed-by-google-dental-practice",
+   "titre": "Instagram indexed by Google: what it changes for a dental practice",
+   "description": "Instagram indexed by Google: what can be indexed for a dental practice, the catch with Story Highlights, and the check to run yourself.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "social media",
+    "visibility"
+   ],
+   "resume": "The exact scope of Google and Bing indexing for Instagram professional accounts, the catch with Stories, and what it changes about what a dental practice posts.",
+   "ordre": 1,
+   "fr": "instagram-indexe-google-cabinet-dentaire"
+  },
+  {
+   "slug": "facebook-page-for-a-dental-practice",
+   "titre": "Facebook page for a dental practice: what it is really for",
+   "description": "Facebook page for a dental practice: its three useful roles, the details to match with your Google Business Profile, hiring, and its limits.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "social media",
+    "visibility"
+   ],
+   "resume": "The three roles of a dental practice's Facebook page (accurate information, hiring and an older patient base), followed by the checklist to run.",
+   "ordre": 5,
+   "fr": "page-facebook-cabinet-dentaire"
+  },
+  {
+   "slug": "dentist-influencer-what-the-dental-council-allows",
+   "titre": "Dentist influencer: what the Dental Council allows, and what crosses the line into misconduct",
+   "description": "Dentist influencer: the Dental Council's three-case framework, the practices that amount to misconduct, and the June 9, 2023 law on top of the code.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "social media",
+    "Dental Council rules"
+   ],
+   "resume": "The Dental Council's framework for a dentist influencer: yes in a strictly private capacity, yes with conditions in a professional capacity, no as soon as one of the listed practices appears.",
+   "ordre": 4,
+   "fr": "dentiste-influenceur-ce-que-l-ordre-autorise"
+  },
+  {
+   "slug": "dental-seo-results-how-many-new-patients",
+   "titre": "Dental SEO results: how many new patients, and how to measure it",
+   "description": "Dental SEO results: the four numbers to count, where to read each one, and the tracking sheet to keep at the front desk.",
+   "date": "2026-09-17",
+   "lecture": "7 min",
+   "sujets": [
+    "measuring",
+    "deciding"
+   ],
+   "resume": "The four numbers that measure dental SEO results, a table showing where to read each one and what it does not tell you, the front desk tracking sheet, and an honest way to count new patients.",
+   "ordre": 3,
+   "fr": "resultat-referencement-dentiste-combien-de-patients"
+  },
+  {
+   "slug": "redesign-dental-practice-website-how-to-decide",
+   "titre": "Redesigning a dental practice website: the five questions that settle it",
+   "description": "Redesign a dental practice website or fix it: the five questions that settle it, the decision table and the check you can run yourself.",
+   "date": "2026-09-16",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website",
+    "deciding"
+   ],
+   "resume": "Five questions to find out whether to redesign a dental practice website or fix it, with the decision table, the fifteen-minute check and the order of operations if you do redesign.",
+   "fr": "refaire-site-cabinet-dentaire-comment-decider"
+  },
+  {
+   "slug": "moving-dental-practice-google-checklist",
+   "titre": "Moving a dental practice: the step-by-step checklist to stay visible on Google",
+   "description": "Moving a dental practice: update the address on your Google Business Profile, website, Doctolib and directories, in order, without losing patients.",
+   "date": "2026-09-15",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website",
+    "Google Maps"
+   ],
+   "resume": "The online timeline for moving a dental practice: Google Business Profile edited rather than recreated, website, Doctolib, directories, AI search, and the first-month check.",
+   "fr": "demenagement-cabinet-dentaire-google-marche-a-suivre"
+  },
+  {
+   "slug": "why-ai-cannot-read-your-dental-website",
+   "titre": "How AI reads a dentist website, and why yours may be invisible",
+   "description": "ChatGPT can't find my practice: why a dentist website stays invisible to AI, the four walls you can check yourself and how to fix each one.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "AI search",
+    "practice website"
+   ],
+   "resume": "The path an AI crawler takes to your website, and the four walls that make it invisible: scripts, blocking, vague text, no outside sources, with the test and the fix for each.",
+   "ordre": 8,
+   "fr": "ia-lisent-site-dentiste-invisible"
+  },
+  {
+   "slug": "twelve-things-patients-look-for-on-a-dentist-website",
+   "titre": "What to put on a dental practice website: the twelve things a patient looks for before calling",
+   "description": "What should a dental practice website include? The twelve things a patient looks for before calling, where to put each one and the common mistake.",
+   "date": "2026-09-12",
+   "lecture": "8 min",
+   "sujets": [
+    "practice website"
+   ],
+   "resume": "The twelve things a patient looks for on a dentist's website, in their order, each with where it belongs and the common mistake, followed by a ten-minute test.",
+   "ordre": 14,
+   "fr": "douze-informations-patient-site-dentiste"
+  },
+  {
+   "slug": "titles-degrees-specialties-on-a-dentist-website",
+   "titre": "What you are allowed to display on your dentist website: titles, degrees, specialties",
+   "description": "Titles, degrees, specialties: what the Dental Council lets a dentist write on their website, the required note under an unrecognized degree, examples.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Dental Council rules"
+   ],
+   "resume": "The title reserved for the three specialties, the right wording for implant and cosmetic dentistry, the rule for unrecognized degrees, and before-and-after examples.",
+   "ordre": 9,
+   "fr": "mentions-autorisees-site-dentiste-titres-diplomes-specialites"
+  },
+  {
+   "slug": "seven-mistakes-on-dental-practice-websites",
+   "titre": "The seven mistakes we see on dental practice websites",
+   "description": "Dentist website not ranking? The seven most common dental practice website mistakes, a one-minute test for each, and how to fix it.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website",
+    "deciding"
+   ],
+   "resume": "Seven common mistakes on dental practice websites, each with a one-minute test, what it costs and the fix.",
+   "ordre": 2,
+   "fr": "sept-erreurs-sites-cabinets-dentaires"
+  },
+  {
+   "slug": "one-page-per-treatment-dentist-website",
+   "titre": "One page per treatment: why the \"dental implant\" page on your dentist website matters more than the home page",
+   "description": "On a dental practice website, the implant page matters more than the home page: what a treatment page must contain, in order, and which pages to create.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website"
+   ],
+   "resume": "What a treatment page must contain, in order, a sample outline for a fictional practice, and the eight to ten pages a general or implant practice should have.",
+   "ordre": 10,
+   "fr": "une-page-par-soin-site-dentiste"
+  },
+  {
+   "slug": "is-my-dental-practice-on-chatgpt-ten-minute-check",
+   "titre": "Does your dental practice show up in ChatGPT? The ten-minute method to check",
+   "description": "Dentist, ChatGPT, recommendations: is your dental practice visible in AI search? The ten-minute method to check it, with no paid tool.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "AI search",
+    "measuring"
+   ],
+   "resume": "Five questions, three AI tools, one scoring grid: the method to measure for yourself how present your practice is in ChatGPT, Gemini and Perplexity.",
+   "ordre": 3,
+   "fr": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes"
+  },
+  {
+   "slug": "how-long-dental-seo-takes",
+   "titre": "How long dental SEO takes: when will your practice show up on Google?",
+   "description": "How long dental SEO takes: when your practice will show up on Google, what moves fast, what takes months, and how to track progress honestly.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "deciding",
+    "measuring"
+   ],
+   "resume": "What moves fast, what takes months and what is in no one's hands in a dental practice's SEO, plus the markers to track progress without waiting on a ranking.",
+   "ordre": 5,
+   "fr": "delai-resultat-referencement-dentiste"
+  },
+  {
+   "slug": "google-reviews-dental-practice-code-of-ethics",
+   "titre": "Google reviews and your dental practice: what the code of ethics really says",
+   "description": "Google reviews and dental practices: what the code of ethics really forbids, the Dental Council's position, and how to reply to a review without taking risks.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Dental Council rules",
+    "Google Maps"
+   ],
+   "resume": "What the code of ethics says about Google reviews, the Dental Council's position, a cautious line of conduct and two replies compared for a fictional practice.",
+   "maj": "2026-09-19",
+   "ordre": 7,
+   "fr": "avis-google-cabinet-dentaire-code-deontologie"
+  },
+  {
+   "slug": "dentist-near-me-google-maps-local-pack",
+   "titre": "Dentist plus city on Google Maps: how Google picks the three practices in the local pack",
+   "description": "Dentist + city on Google Maps: Google's three criteria (relevance, distance, prominence) and how to check your ranking from a phone.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Google Maps"
+   ],
+   "resume": "Google's three official criteria for the map, what they mean for a dental practice, and a method to check your ranking from three spots in your city.",
+   "ordre": 11,
+   "fr": "dentiste-ville-google-maps-trois-cabinets"
+  },
+  {
+   "slug": "dentist-advertising-ban-what-is-allowed",
+   "titre": "Is advertising banned for dentists? The seven levers you are still allowed to use",
+   "description": "Is advertising banned for dentists? The 2020 decree removed the general ban. The seven visibility levers a dental practice is still allowed to use.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Dental Council rules",
+    "visibility"
+   ],
+   "resume": "Seven visibility levers allowed by the code of ethics, each with the rule, the concrete action and the mistake to avoid.",
+   "ordre": 1,
+   "fr": "publicite-interdite-dentistes-leviers-autorises"
+  },
+  {
+   "slug": "dental-seo-glossary",
+   "titre": "Dental SEO glossary: 55 terms every dentist should know, explained simply",
+   "description": "Dental SEO glossary: the vocabulary of Google, Google Maps and AI search explained simply, with what each term changes for your dental practice.",
+   "date": "2026-09-12",
+   "lecture": "15 min",
+   "sujets": [
+    "glossary",
+    "deciding"
+   ],
+   "resume": "The vocabulary of dental SEO, from your Google Business Profile to AI crawlers, each term defined in one paragraph, with what it changes for your practice.",
+   "genre": "lexique",
+   "ordre": 15,
+   "fr": "lexique-referencement-dentaire"
+  },
+  {
+   "slug": "dental-seo-agency-freelancer-or-diy",
+   "titre": "Agency, freelancer or DIY: how to choose who handles your dental practice's SEO",
+   "description": "Dental SEO agency, freelancer or doing your practice's SEO yourself: what each path takes, its risks, and eight questions to ask before signing.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "deciding"
+   ],
+   "resume": "The time, the limits and the risks of each path, then the eight questions to ask a provider before signing, with the red flags.",
+   "ordre": 13,
+   "fr": "agence-independant-ou-soi-meme-referencement-dentiste"
+  },
+  {
+   "slug": "dental-implant-seo-one-hundred-implants-a-year",
+   "titre": "Dental implant SEO: search visibility for a practice that places one hundred implants a year",
+   "description": "Dental implant SEO: implant patients come from far away, compare and ask AI tools. What your website, Google Business Profile and Doctolib must say.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "by type of practice",
+    "practice website"
+   ],
+   "resume": "What changes when the treatment is an implant: the complete implant page, pages for each situation, the word \"implant\" everywhere, your place in AI answers and the Dental Council rules.",
+   "ordre": 6,
+   "fr": "referencement-implantologue-cent-implants-par-an"
+  },
+  {
+   "slug": "dental-fees-on-your-website-rules",
+   "titre": "Dental fees on your practice website: what the law requires and how to present them",
+   "description": "Showing dental fees on your practice website: the code of ethics requirement, which procedures to list, and how to build a clear fees page.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Dental Council rules",
+    "practice website"
+   ],
+   "resume": "The duty to inform patients about fees, the procedures to list under the 2018 order and Dental Council guidance, and a model for a clear page with a dated table.",
+   "ordre": 12,
+   "fr": "honoraires-site-cabinet-dentaire-obligation-presentation"
+  },
+  {
+   "slug": "buying-a-dental-practice-website-google-profile-name",
+   "titre": "Buying a dental practice: what to do with the website, the Google Business Profile and the name",
+   "description": "Buying a dental practice: transfer the Google Business Profile, the website and the domain name without losing patients still searching the old name.",
+   "date": "2026-09-12",
+   "lecture": "7 min",
+   "sujets": [
+    "practice website",
+    "Google Maps"
+   ],
+   "resume": "What a dentist buying a practice needs to recover online (Google Business Profile, domain name, website and Doctolib), and how to keep the link with the old name patients still type.",
+   "ordre": 4,
+   "fr": "reprise-cabinet-dentaire-site-fiche-google-nom"
+  }
+ ]
+}
