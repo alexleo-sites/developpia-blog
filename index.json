@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "blog-cabinet-dentaire-utile-ou-perte-de-temps",
+   "titre": "Blog d'un cabinet dentaire : utile ou perte de temps ? Quand écrire, sur quoi, à quel rythme",
+   "description": "Faut-il tenir un blog au cabinet ? Le test en quatre questions, les sujets qui amènent des patients, le rythme tenable et la ligne fixée par l'Ordre.",
+   "date": "2026-09-28",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "décider"
+   ],
+   "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même."
+  },
+  {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",
    "titre": "Fiche Google d'un cabinet dentaire à plusieurs praticiens : une seule ou une par praticien ?",
    "description": "Une fiche par praticien ou une seule pour le cabinet dentaire : la règle écrite par Google, le montage qui tient et la vérification à faire vous-même.",
@@ -125,7 +137,7 @@
     "décider"
    ],
    "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
-   "modifie": "2026-09-21"
+   "modifie": "2026-09-28"
   },
   {
    "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
@@ -163,7 +175,7 @@
     "décider"
    ],
    "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
-   "modifie": "2026-09-18",
+   "modifie": "2026-09-28",
    "ordre": 2
   },
   {

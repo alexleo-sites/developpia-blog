@@ -80,7 +80,7 @@ Une refonte se prépare avant d'ouvrir le nouveau site.
 
 1. Faites la liste de toutes les adresses de pages actuelles, y compris celles que plus personne ne relie.
 2. Pour chacune, décidez la page qui la remplacera. Google demande une redirection permanente vers une page de contenu équivalent, et déconseille d'envoyer tout le monde vers la page d'accueil, comme l'explique son [guide officiel sur la migration d'un site](https://developers.google.com/search/docs/crawling-indexing/site-move-with-url-changes?hl=fr).
-3. Reprenez les textes existants avant d'en écrire de nouveaux. Une page qui se classe bien se réécrit avec prudence.
+3. Reprenez les textes existants avant d'en écrire de nouveaux. Une page qui se classe bien se réécrit avec prudence. Si le site a un blog, le test pour savoir si [un blog de cabinet dentaire est utile](https://developpia.fr/blog/blog-cabinet-dentaire-utile-ou-perte-de-temps/) aide à trier les articles à garder.
 4. Ouvrez le nouveau site un jour de faible activité, jamais la veille des congés.
 5. Vérifiez chaque redirection une par une, depuis un téléphone.
 6. Gardez ces redirections au moins un an : c'est la durée minimale que Google recommande.
