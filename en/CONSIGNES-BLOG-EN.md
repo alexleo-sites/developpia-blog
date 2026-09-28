@@ -1,0 +1,27 @@
+# Translating the DeveloppIA blog into English
+
+Source (French): `articles/<fr-slug>.md` (+ `CONSIGNES.md` = the French writing rules).
+Target: `en/articles/<en-slug>.md`. The English slug of each article is recorded in `en/slugs.json` (fr → en): add the new pair there.
+
+You are a senior US copywriter AND a dental-marketing / local-SEO / GEO specialist. This is not a word-for-word translation: produce the article a US expert would have written, with exactly the same content, structure, facts, numbers, sources and meaning. Then re-read it against the French paragraph by paragraph to check nothing was lost or changed.
+
+## File format (identical structure)
+- Same front matter keys, same order, values translated: `titre`, `titre_court` (≤ 60 chars, starts with the target search query in English), `description` (≤ 160 chars), `accroche`, `date` (unchanged), `lecture` (e.g. `7 min`, unchanged), `sujets`, `resume`, `genre` if present (keep value `lexique` as is: it is a code, not text). ADD one line at the end of the front matter: `fr: <fr-slug>`.
+- Keys stay in French (they are code). Only values are translated.
+- `sujets` must use ONLY these English topic labels (comma-separated, same count as the French): `décider`→`deciding`, `site du cabinet`→`practice website`, `cadre de l'Ordre`→`Dental Council rules`, `Google Maps`→`Google Maps`, `réseaux sociaux`→`social media`, `mesurer`→`measuring`, `visibilité`→`visibility`, `les IA`→`AI search`, `par type de cabinet`→`by type of practice`, `lexique`→`glossary`.
+- Body: same Markdown (the renderer only supports a restricted Markdown: keep exactly the same constructs: `##`, `###`, lists, tables, `> **...**` callout, links, bold). Keep `## Questions fréquentes` translated as `## Frequently asked questions` (the renderer detects the FAQ: see note below), each question as `###`.
+- No invisible characters, no em dashes (—), US spelling, straight apostrophes are fine.
+
+## Links
+- Links to our pages `https://developpia.fr/<fr path>` → `https://en.developpia.fr/<en path>` with this map:
+  `referencement-dentiste/`→`dental-seo/`, `site-internet-cabinet-dentaire/`→`dental-practice-website/`, `fiche-google-dentiste/`→`google-business-profile-dentist/`, `referencement-ia-dentiste/`→`ai-search-dentist/`, `agence-communication-dentiste/`→`dental-marketing-agency/`, `reseaux-sociaux-cabinet-dentaire/`→`social-media-dental-practice/`, `guides/`→`guides/`, `guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/`→`guides/what-the-dental-council-allows-on-a-dentist-website/`, `guides/doctolib-devant-mon-site/`→`guides/doctolib-outranks-my-website/`, `guides/apercus-ia-google-dentiste/`→`guides/google-ai-overviews-dentist/`, `guides/comment-les-ia-choisissent-un-dentiste/`→`guides/how-ai-chooses-a-dentist/`, `simulateur-de-rentabilite/`→`profitability-simulator/`, `tester-mon-referencement/`→`test-my-seo/`, `tester-mon-referencement/sans-fiche/`→`test-my-seo/no-google-profile/`, `rendez-vous/`→`book-a-call/`, `blog/`→`blog/`, `blog/<fr-slug>/`→`blog/<en-slug>/` (from slugs.json), `plan-du-site/`→`sitemap/`, `decouvrir/`→`discover/`.
+- Links to the glossary with an anchor (`blog/lexique-referencement-dentaire/#xxx`): link to `https://en.developpia.fr/blog/dental-seo-glossary/` + the anchor of the English term. Anchors are built from the English heading text of the glossary (`idTitre` in the English `api/blog.js`): check the anchor exists in `en/articles/dental-seo-glossary.md`.
+- External sources (Légifrance, ordre-chirurgiens-dentistes.fr, ameli.fr, Eurostat, Arcom, Google help…): keep the URL; for Google help/Search Central links, switch `hl=fr` to `hl=en` (or remove `hl=fr`). Link text translated; French official document titles can stay in French in quotes followed by an English gloss in parentheses.
+
+## Vocabulary and context
+- Keep the French context (the agency serves dentists in France, Belgium, Switzerland, Luxembourg): first mention "the French Dental Council (Ordre national des chirurgiens-dentistes)", then "the Dental Council"; "code de déontologie" = "code of ethics"; "Doctolib" = explain once: "Doctolib, France's leading online booking platform"; "Aperçus IA" = "AI Overviews"; "fiche Google" = "Google Business Profile"; "référencement" = "SEO" / "search visibility"; "référencement local" = "local SEO"; "les trois cabinets affichés sur la carte" = "the local pack (the three practices shown on the map)"; "honoraires" = "fees"; "praticien" = "dentist"; "collaborateur" = "associate dentist"; "assistante" = "dental assistant"; "secrétaire" = "front desk"; "cône beam" = "cone beam CT (CBCT)"; "détartrage" = "cleaning (scaling)"; "devis" = "treatment estimate"; "Sécurité sociale / Assurance maladie" = "French national health insurance (Assurance Maladie)"; "mutuelle" = "supplemental health insurance (mutuelle)"; "schema / données structurées" = "schema markup (structured data)"; "GEO" = "generative engine optimization (GEO)".
+- Never "founders/co-founders/partners/associates" for Léo and Alexandre; first names only; brand "DeveloppIA".
+- No invented facts, numbers, prices, testimonials. Numbers in US format (59.8%, 33,100, €2,500).
+
+## Before publishing
+Validate each file: front matter parses (key: value lines between `---`), `fr:` present, no `developpia.fr/` link left except `en.developpia.fr` and deliberate external ones, no em dash, no French left except proper nouns and quoted official titles.
