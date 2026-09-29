@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "referencement-dentiste-belgique-regles-communication",
+   "titre": "Référencement d'un dentiste en Belgique : les règles de communication qui changent",
+   "description": "Dentiste en Belgique : ce que la loi qualité permet d'écrire, les différences avec la France et la vérification de votre référencement en dix minutes.",
+   "date": "2026-09-29",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "visibilité",
+    "par type de cabinet"
+   ],
+   "resume": "Le cadre belge de l'information professionnelle, le tableau des différences avec la France, les titres à afficher, les langues du site et de la fiche Google, et la vérification en dix minutes."
+  },
+  {
    "slug": "blog-cabinet-dentaire-utile-ou-perte-de-temps",
    "titre": "Blog d'un cabinet dentaire : utile ou perte de temps ? Quand écrire, sur quoi, à quel rythme",
    "description": "Faut-il tenir un blog au cabinet ? Le test en quatre questions, les sujets qui amènent des patients, le rythme tenable et la ligne fixée par l'Ordre.",
@@ -127,7 +140,8 @@
     "cadre de l'Ordre"
    ],
    "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
-   "ordre": 4
+   "ordre": 4,
+   "modifie": "2026-09-29"
   },
   {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
@@ -221,7 +235,7 @@
    ],
    "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.",
    "ordre": 1,
-   "modifie": "2026-09-18"
+   "modifie": "2026-09-29"
   },
   {
    "slug": "mentions-autorisees-site-dentiste-titres-diplomes-specialites",

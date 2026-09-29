@@ -31,7 +31,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Marketing dentaire : ce que le code autorise, et les cinq leviers qui amènent des patients | marketing dentaire | Google et Bing complètent « marketing dentaire » (19/09) ; les premiers résultats sont québécois ou généralistes : donner la version française, cadre de l'Ordre compris, sans jamais viser « agence » (page d'offre) | PRIORITÉ 5 (publié le 2026-09-21, marketing-dentaire-ce-que-le-code-autorise)
 - [x] Cabinet dentaire à plusieurs praticiens : une fiche Google par praticien ou pour tout le cabinet ? | fiche google cabinet dentaire plusieurs praticiens | la règle Google, le bon montage | PRIORITÉ 6 (publié le 2026-09-23, fiche-google-cabinet-dentaire-plusieurs-praticiens)
 - [x] Le blog d'un cabinet dentaire : utile ou perte de temps ? | blog cabinet dentaire | quand écrire, sur quoi, à quel rythme, dans le cadre | PRIORITÉ 7 (publié le 2026-09-28, blog-cabinet-dentaire-utile-ou-perte-de-temps)
-- [ ] Référencement d'un dentiste en Belgique : les règles de communication qui changent | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8
+- [x] Référencement d'un dentiste en Belgique : les règles de communication qui changent | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8 (publié le 2026-09-29, referencement-dentiste-belgique-regles-communication)
 - [ ] Référencement d'un dentiste en Suisse romande : Genève, Lausanne et les règles | référencement dentiste suisse | cadre, langues, annuaires, reprise de cabinet | PRIORITÉ 9
 - [ ] Référencement d'un dentiste au Luxembourg : photos avant et après interdites, et le reste | référencement dentiste luxembourg | cadre, langues, annuaires | PRIORITÉ 10
 

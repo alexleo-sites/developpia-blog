@@ -13,7 +13,7 @@ L'expression « dentiste influenceur » inquiète les praticiens. Pourtant l'Ord
 
 Cette grille figure dans la Lettre de l'Ordre n° 196, de mars 2022. Elle est très peu reprise. Nous la donnons telle qu'elle se lit, avec les deux points que presque personne ne mentionne : un compte privé qui sert à passer des informations professionnelles est traité comme un compte professionnel, et la loi du 9 juin 2023 sur l'influence commerciale s'applique en plus du code de déontologie.
 
-Une précision d'honnêteté : la liste de procédés donnée plus bas réunit plusieurs passages de la Lettre 196, la fiche pratique et les situations consacrées à l'influenceur et au vidéaste. Ce n'est pas une liste unique du document.
+Une précision d'honnêteté : la liste de procédés donnée plus bas réunit plusieurs passages de la Lettre 196, la fiche pratique et les situations consacrées à l'influenceur et au vidéaste. Ce n'est pas une liste unique du document. Elle vaut pour la France : un praticien belge relève d'un autre texte, présenté dans notre article sur [le référencement d'un dentiste en Belgique](https://developpia.fr/blog/referencement-dentiste-belgique-regles-communication/).
 
 > **À retenir**
 > Un chirurgien-dentiste a le droit de parler de sa profession sur les réseaux sociaux. Il devient fautif le jour où son contenu sert à orienter la consommation dentaire, à vanter une marque ou à ramener vers son propre fauteuil.
