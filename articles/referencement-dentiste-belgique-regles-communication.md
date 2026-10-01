@@ -92,7 +92,7 @@ Prenons un cabinet fictif, le cabinet de la Place Verte, à Ixelles. Voici les s
 5. Comparez le nom, l'adresse et le téléphone sur le site, sur la fiche Google et sur les annuaires. Ils doivent être identiques, à la lettre près.
 6. Vérifiez que chaque langue du site a ses propres pages, relues par une personne qui la parle.
 
-Un « non » à l'un de ces points se corrige en quelques jours. Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) complète cette lecture avec un score. Restent deux pays où les règles changent encore : la Suisse romande et le Luxembourg, qui auront chacun leur article.
+Un « non » à l'un de ces points se corrige en quelques jours. Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) complète cette lecture avec un score. Restent deux pays où les règles changent encore : [le référencement d'un dentiste en Suisse romande](https://developpia.fr/blog/referencement-dentiste-suisse-romande-regles/) a son article, et le Luxembourg aura le sien.
 
 ## Questions fréquentes
 

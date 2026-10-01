@@ -77,7 +77,7 @@ Si Google refuse et que l'avis est diffamatoire ou injurieux, les voies de droit
 
 ## « Fin des avis Google pour les dentistes » : où en est-on ?
 
-La question revient souvent, parce que l'Ordre a demandé en 2025 au ministère de la Santé que les avis sur les praticiens soient supprimés. À la date de mise à jour de cet article, rien n'a changé pour le patient : la fiche Google d'un cabinet dentaire affiche toujours sa note et ses avis, et Google n'a annoncé aucune règle propre aux professions de santé en France. Ce qui existe, c'est une demande, pas une décision.
+La question revient souvent, parce que l'Ordre a demandé en 2025 au ministère de la Santé que les avis sur les praticiens soient supprimés. À la date de mise à jour de cet article, rien n'a changé pour le patient : la fiche Google d'un cabinet dentaire affiche toujours sa note et ses avis, et Google n'a annoncé aucune règle propre aux professions de santé en France. Ce qui existe, c'est une demande, pas une décision. Hors de France, la règle diffère : voir [le référencement d'un dentiste en Suisse romande et ses règles sur les avis](https://developpia.fr/blog/referencement-dentiste-suisse-romande-regles/).
 
 Concrètement, cela donne trois repères :
 
