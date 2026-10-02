@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "referencement-dentiste-luxembourg-regles",
+   "titre": "Référencement d'un dentiste au Luxembourg : avant/après, titres, langues, les règles",
+   "description": "Ce que la charte du Collège médical permet à un médecin-dentiste d'écrire en ligne au Luxembourg, et la vérification de son site à faire en dix minutes.",
+   "date": "2026-10-02",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "visibilité",
+    "par type de cabinet"
+   ],
+   "resume": "La charte du Collège médical point par point, le tableau des différences avec la France, les photos avant et après, les titres, les langues et annuaires, et la vérification en dix minutes."
+  },
+  {
    "slug": "referencement-dentiste-suisse-romande-regles",
    "titre": "Référencement d'un dentiste en Suisse romande : les règles, de Genève à Lausanne",
    "description": "Référencement en Suisse romande : ce que la loi fédérale, votre canton et la SSO permettent d'écrire en ligne, et la vérification en dix minutes.",
@@ -11,7 +24,8 @@
     "visibilité",
     "par type de cabinet"
    ],
-   "resume": "Les trois étages de règles suisses, le tableau des différences avec la France, les titres à afficher, les langues et annuaires, la reprise d'un cabinet et la vérification en dix minutes."
+   "resume": "Les trois étages de règles suisses, le tableau des différences avec la France, les titres à afficher, les langues et annuaires, la reprise d'un cabinet et la vérification en dix minutes.",
+   "modifie": "2026-10-02"
   },
   {
    "slug": "referencement-dentiste-belgique-regles-communication",
@@ -25,7 +39,7 @@
     "par type de cabinet"
    ],
    "resume": "Le cadre belge de l'information professionnelle, le tableau des différences avec la France, les titres à afficher, les langues du site et de la fiche Google, et la vérification en dix minutes.",
-   "modifie": "2026-10-01"
+   "modifie": "2026-10-02"
   },
   {
    "slug": "blog-cabinet-dentaire-utile-ou-perte-de-temps",

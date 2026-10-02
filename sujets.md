@@ -33,7 +33,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Le blog d'un cabinet dentaire : utile ou perte de temps ? | blog cabinet dentaire | quand écrire, sur quoi, à quel rythme, dans le cadre | PRIORITÉ 7 (publié le 2026-09-28, blog-cabinet-dentaire-utile-ou-perte-de-temps)
 - [x] Référencement d'un dentiste en Belgique : les règles de communication qui changent | référencement dentiste belgique | ce qui diffère de la France | PRIORITÉ 8 (publié le 2026-09-29, referencement-dentiste-belgique-regles-communication)
 - [x] Référencement d'un dentiste en Suisse romande : Genève, Lausanne et les règles | référencement dentiste suisse | cadre, langues, annuaires, reprise de cabinet | PRIORITÉ 9 (publié le 2026-10-01, referencement-dentiste-suisse-romande-regles)
-- [ ] Référencement d'un dentiste au Luxembourg : photos avant et après interdites, et le reste | référencement dentiste luxembourg | cadre, langues, annuaires | PRIORITÉ 10
+- [x] Référencement d'un dentiste au Luxembourg : photos avant et après interdites, et le reste | référencement dentiste luxembourg | cadre, langues, annuaires | PRIORITÉ 10 (publié le 2026-10-02, referencement-dentiste-luxembourg-regles)
 
 ## A. Le cadre de l'Ordre
 

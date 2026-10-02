@@ -91,7 +91,7 @@ Prenons un cabinet fictif, le cabinet du Flon, à Lausanne. Voici les six points
 5. Tapez « dentiste » suivi de votre commune depuis un téléphone, puis la même recherche en anglais. Notez si le cabinet apparaît sur la carte.
 6. Comparez le nom, l'adresse et le téléphone sur le site, la fiche Google et les annuaires suisses. Ils doivent être identiques.
 
-Un « non » à l'un de ces points se corrige vite. Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) complète cette lecture avec un score. Reste un pays où les règles changent encore : le Luxembourg, qui aura son propre article.
+Un « non » à l'un de ces points se corrige vite. Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) complète cette lecture avec un score. Reste un pays où les règles changent encore : [le référencement d'un dentiste au Luxembourg](https://developpia.fr/blog/referencement-dentiste-luxembourg-regles/) a son propre article.
 
 ## Questions fréquentes
 
