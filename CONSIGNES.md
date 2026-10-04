@@ -128,10 +128,52 @@ Internet et IA :
 - Le fichier llms.txt n'a aucun effet prouvé sur le classement.
 - On mesure une présence dans les IA en pourcentage de réponses, jamais une « position ».
 - Google n'affiche plus les questions fréquentes enrichies dans ses résultats depuis le 7 mai 2026, et les données structurées n'ont pas d'effet direct sur le classement (elles aident à comprendre la page).
-- Doctolib est utilisé par une majorité de cabinets ; sa page passe souvent devant le site du cabinet sur le nom du praticien. (Ne pas donner de prix ni de pourcentage précis.)
+- Doctolib est utilisé par une majorité de cabinets ; sa page passe souvent devant le site du cabinet sur le nom du praticien. (Ne pas donner de prix ni de part de marché ; seule exception : les statistiques Doctolib des rendez-vous non honorés de la partie « Vie du cabinet ».)
 
 Tout autre chiffre doit avoir une source publique vérifiable, citée dans le texte avec
 son année. En cas de doute, on écrit sans chiffre.
+
+### Vie du cabinet (faits vérifiés à la source le 04/10/2026, à citer tels quels avec le lien)
+
+Téléphone et secrétariat :
+- 22 % des demandes de rendez-vous ratées le sont faute de joindre le professionnel ; dans 32 % des échecs, le patient renonce (DREES, Études et résultats n° 1085, 2018, toutes professions) : https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf
+- Le dentiste veille à ce que ses assistants respectent le secret professionnel (article R.4127-207 du code de la santé publique) : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190548/
+- Avec un télésecrétariat, le dentiste reste responsable des données ; le prestataire est son sous-traitant (guide CNIL et Ordre des médecins, 2018) : https://www.cnil.fr/sites/default/files/atoms/files/guide-cnom-cnil.pdf
+- Un prestataire qui stocke des données de santé doit être certifié hébergeur de données de santé, HDS (article L.1111-8 du code de la santé publique ; référentiel CNIL des cabinets médicaux, 18/06/2020) : https://www.cnil.fr/sites/cnil/files/atoms/files/referentiel_-_cabinet.pdf
+- HDS version 2 : données hébergées dans l'Espace économique européen ; les hébergeurs déjà certifiés doivent être en conformité au 16/05/2026 (ministère de l'Économie, 22/05/2024) : https://presse.economie.gouv.fr/nouvelle-version-du-referentiel-de-certification-hds/
+- Depuis le 02/08/2026, une IA qui dialogue avec le public doit être conçue pour signaler qu'elle est une IA (règlement européen sur l'IA, articles 50 et 113) : https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=OJ:L_202401689
+- Permanence des soins dentaires chaque dimanche et jour férié, accès pouvant être régulé par le 15 ou le 116 117 (articles R.6315-7 et R.6315-10, décret du 19/02/2025) : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051206924 ; horaires fixés par région, par exemple 8 h à 16 h en Île-de-France (ARS Île-de-France, 09/03/2026) : https://www.iledefrance.ars.sante.fr/permanence-des-soins-dentaires
+
+Rendez-vous et agenda :
+- Dentistes sur Doctolib : 4,7 % de rendez-vous « pas venu, pas prévenu » en juin 2024 (6,2 % en février 2023), le taux le plus élevé des professions étudiées ; 7,4 % chez les nouveaux patients ; 49 % des annulations à moins de 48 h remplacées (Doctolib, 03/07/2024) : https://media.doctolib.com/image/upload/mkg/file/doctolib__actualise_ses_statistiques_annuelles_rendez_vous_non_honores.pdf
+- Un dentiste conventionné ne peut facturer que la prestation de soins rendue (article L.1111-3-4) : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031924909 ; l'affiche obligatoire le dit : « Seuls peuvent vous être facturés des frais correspondant à une prestation de soins rendue » (arrêté du 30/05/2018, article 4) : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037032490
+- La « taxe lapin » de la loi de financement de la sécurité sociale 2025 a été censurée (Conseil constitutionnel, 28/02/2025) : https://www.conseil-constitutionnel.fr/decision/2025/2025875DC.htm
+- Délai pour un rendez-vous chez le dentiste : 28 jours en moyenne, 17 en médiane ; 8 jours (médiane) avec symptômes, 24 sinon (DREES, enquête 2016-2017, 3 534 demandes) : lien DREES ci-dessus.
+- Le motif n'a pas à être demandé si le rendez-vous ne demande aucune préparation (guide CNIL et Ordre des médecins, 2018) : lien du guide ci-dessus.
+- Le rappel de rendez-vous par SMS repose sur l'intérêt légitime, pas sur le consentement ; le patient est informé et peut s'opposer (référentiel CNIL, 18/06/2020) ; le consentement préalable vise la prospection, et un message de suivi ne doit pas cacher de promotion : https://www.cnil.fr/fr/communication-electronique-quelles-regles
+
+Affichage, plaque, ouverture :
+- En salle d'attente et à la caisse : conventionnement, honoraires et base de remboursement de la consultation, d'au moins 5 soins et 5 traitements prothétiques ou d'orthodontie (arrêté du 30/05/2018, articles 3 à 6) ; devis écrit obligatoire dès 70 € de dépassements (article 7) : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037032490
+- Manquement à l'affichage : jusqu'à 3 000 € d'amende, 15 000 € pour une société (article L.1111-3-5 ; recommandations de l'Ordre, 19/06/2026) : https://www.ordre-chirurgiens-dentistes.fr/download/109355/
+- Plaque : nom, prénoms, téléphone, horaires, conventionnement, spécialité, titres reconnus par l'Ordre ; une plaque à l'immeuble, une à la porte, « avec discrétion » (article R.4127-218) : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795957 ; le conventionnement y est obligatoire à toute nouvelle plaque (arrêté 2018, article 5) ; aucune dimension chiffrée, vitrophanie et logo de l'Ordre permis (Ordre, 19/06/2026).
+- Le site du cabinet indique honoraires et modes de paiement ; l'Ordre recommande les 5 à 10 actes les plus pratiqués (article R.4127-240 ; Ordre, 19/06/2026).
+- Inscription au tableau de l'Ordre obligatoire, réponse sous 3 mois après dossier complet (articles L.4112-1 et L.4112-3) : https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006171264/
+- Annonce d'installation permise (article R.4127-219), sur un support non commercial, avec une fréquence « raisonnable » (Ordre, 19/06/2026).
+- Depuis le 01/01/2025, en zone non prioritaire, une installation conventionnée suppose un départ (ameli, 20/11/2024) : https://www.ameli.fr/chirurgien-dentiste/exercice-liberal/vie-cabinet/installation-liberal/conventionnement-en-zone-non-prioritaire-znp-conditions-d-acces-et-questionsreponses
+
+Chiffres du métier et données :
+- 48 700 dentistes en activité au 01/01/2026 ; 74 % des libéraux exercent en groupe (DREES, 02/07/2026) : https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/260702-les-effectifs-des-professionnels-de-sant%C3%A9
+- Honoraires moyens d'un cabinet : 361 647 € en 2025, résultat d'exploitation 38 %, 400 cabinets (Observatoire Fiducial, 09/09/2026) : https://www.fiducial.fr/Chirurgiens-dentistes/Comptabilite-pour-cabinet-dentaire-et-chirurgien-dentiste/L-Observatoire-FIDUCIAL-des-chirurgiens-dentistes
+- Revenu d'activité moyen d'un dentiste libéral : 118 100 € en 2021 (DREES, 15/09/2026) : https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/260915_revenu-des-professionnels-de-sante-liberaux
+- Registre des traitements obligatoire, information des patients par affiche ou document (référentiel CNIL, 18/06/2020) ; dossier conservé 20 ans après la dernière prise en charge (5 ans en base active, 15 en archive) ; délégué à la protection des données non obligatoire en exercice individuel (CNIL, 01/06/2018) : https://www.cnil.fr/fr/rgpd-et-professionnels-de-sante-liberaux-ce-que-vous-devez-savoir
+
+À NE PAS écrire (faux ou invérifiable, vérifié le 04/10/2026) :
+- « Un rendez-vous manqué peut être facturé », « la taxe lapin s'applique ».
+- « 27 millions de rendez-vous non honorés » ou « 6 à 10 % par semaine » pour les dentistes.
+- « Il faut le consentement du patient pour le SMS de rappel » (faux, sauf promotion).
+- « La plaque doit mesurer X cm » (aucune dimension fixée).
+- « Zonage ARS 2025 » (ameli cite le zonage de 2024).
+- Les chiffres des Belgique, Suisse, Luxembourg sur ces sujets : rien de fiable trouvé.
 
 ## Interdits absolus
 
