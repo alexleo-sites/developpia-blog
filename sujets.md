@@ -17,6 +17,29 @@ appartiennent aux pages d'offre : un article ne les vise jamais, il renvoie vers
 Règle du titre : il reprend les mots de la recherche visée (publier.py refuse s'il en manque
 plus d'un tiers).
 
+## 00. La vie du cabinet : à publier en premier, dans cet ordre (revue du 04/10/2026)
+
+Léo, 04/10/2026 : viser des recherches plus larges que tapent les dentistes sur la vie et la
+gestion du cabinet. DeveloppIA vend aussi des services qui font gagner du temps et de l'argent au
+cabinet (gestion, assistant téléphonique IA) : ces sujets sont donc les nôtres. Preuves : suggestions
+Google et Bing relevées le 04/10 (150 amorces). Jamais un prix de DeveloppIA, jamais le mot
+« publicité » pour parler de nous. Page à relier en priorité : l'accueil, puis la page d'offre la
+plus proche.
+
+- [ ] Accueil téléphonique d'un cabinet dentaire : ce que le patient attend quand il appelle | accueil téléphonique cabinet dentaire | horaires, appels manqués, temps d'attente, urgences, ce qui fait rappeler ou partir le patient | PRIORITÉ A1
+- [ ] Message de répondeur d'un cabinet dentaire : exemples à reprendre | message répondeur cabinet dentaire | cinq textes prêts (fermeture, congés, urgences et garde, ligne saturée, rappel), ce qu'il faut y dire et ne pas y dire | PRIORITÉ A2
+- [ ] Télésecrétariat dentaire : secrétaire, télésecrétariat ou IA, comment choisir | télésecrétariat dentaire | les critères qui tranchent (horaires, urgences, accès à l'agenda, données de santé, coût total), sans aucun prix de DeveloppIA | PRIORITÉ A3
+- [ ] Rendez-vous non honoré chez le dentiste : l'éviter, le facturer, l'afficher | rendez-vous non honoré dentiste | chiffres sourcés (Doctolib, URPS), rappels, règle d'annulation, ce que la loi permet, l'affiche en salle d'attente | PRIORITÉ A4
+- [ ] IA au cabinet dentaire : ce qui sert vraiment en 2026 | ia cabinet dentaire | téléphone, agenda, comptes rendus, visibilité dans ChatGPT ; les limites et les données de santé | PRIORITÉ A5
+- [ ] Affichage obligatoire au cabinet dentaire : la liste à jour | affichage obligatoire cabinet dentaire | honoraires, informations patients, données personnelles, accessibilité, avec les textes ; et la cohérence avec le site et la fiche Google | PRIORITÉ A6
+- [ ] Plaque professionnelle de dentiste : ce que dit la réglementation | plaque professionnelle dentiste | mentions autorisées, dimensions, déménagement ; le même nom sur la plaque, le site et la fiche Google | PRIORITÉ A7
+- [ ] Organisation de l'agenda d'un cabinet dentaire : les règles qui font gagner du temps | organisation agenda cabinet dentaire | plages d'urgence, premières consultations, rappels, rendez-vous en ligne, ce qu'on peut confier | PRIORITÉ A8
+- [ ] Message de rappel de rendez-vous : exemples de SMS pour un cabinet dentaire | message rappel rendez-vous dentiste | modèles courts (veille, jour même, premier rendez-vous, devis), quand les envoyer | PRIORITÉ A9
+- [ ] Gestion d'un cabinet dentaire : les tâches que le praticien peut confier | gestion cabinet dentaire | téléphone, rappels, site, réseaux, statistiques ; ce qui reste au praticien et à l'assistante | PRIORITÉ A10
+- [ ] Ouvrir un cabinet dentaire : être visible dès le premier jour | ouvrir cabinet dentaire | nom, site, fiche Google, téléphone et prise de rendez-vous, à préparer avant l'ouverture | PRIORITÉ A11
+- [ ] Rentabilité d'un cabinet dentaire : les leviers qui ne coûtent rien | rentabilité cabinet dentaire | temps perdu au téléphone, rendez-vous manqués, devis non relus, patients qui ne trouvent pas le cabinet ; renvoi vers le simulateur | PRIORITÉ A12
+- [ ] RGPD au cabinet dentaire : l'affiche, le registre et le site | rgpd cabinet dentaire | ce qui est obligatoire, ce que le site doit dire, les outils (téléphone, rappels, IA) et les données de santé | PRIORITÉ A13
+
 ## 0. À publier en premier, dans cet ordre (revue du 12/09/2026)
 
 Les deux premiers : Google suggère ces recherches, les dentistes les tapent vraiment. Les cinq
