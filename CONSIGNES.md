@@ -8,6 +8,9 @@ ne respecte pas une seule règle de la partie « Interdits » ne se publie pas.
 
 Aux chirurgiens-dentistes libéraux en France (aussi Belgique, Suisse, Luxembourg), en
 particulier les cabinets qui posent des implants et font de l'esthétique dentaire.
+Depuis le 04/10/2026, on leur parle aussi de la vie du cabinet (téléphone, agenda, rendez-vous
+manqués, gestion, ouverture, obligations) : DeveloppIA vend aussi des services qui font gagner du
+temps et de l'argent au cabinet (gestion, assistant téléphonique IA).
 Ils sont pressés, méfiants envers les vendeurs, et ils ont peur de l'Ordre. On leur
 parle comme un confrère bien informé : vouvoiement, phrases courtes, mots simples,
 zéro jargon sans explication. Chaque article doit leur apprendre quelque chose de
@@ -69,6 +72,22 @@ du blog, mais la juge moins importante. À chaque publication :
   texte (six lignes modifiées au plus, `publier.py` refuse au-delà).
 
 ## Ton et style
+
+**La règle de Léo (04/10/2026), avant toutes les autres : d'abord un très bon article pour un dentiste,
+ensuite seulement l'optimisation pour Google et les IA.** Un praticien qui n'y connaît rien en
+référencement, en informatique ou en marketing doit tout comprendre du premier coup.
+- Chaque mot technique est expliqué la première fois, dans la même phrase ou la suivante, avec un
+  exemple du cabinet (« la fiche Google, c'est l'encadré avec la carte, les horaires et le bouton
+  Appeler qui s'affiche quand un patient tape le nom du cabinet »). S'il existe un mot courant, on
+  prend le mot courant.
+- Un exemple concret par partie : une scène du cabinet (le téléphone qui sonne pendant un soin, le
+  patient qui ne vient pas), puis ce qu'on fait.
+- Relecture finale : chaque phrase qu'un dentiste pressé ne comprendrait pas en une lecture est
+  réécrite, même si elle contient la recherche visée. La recherche visée s'insère dans des phrases
+  naturelles, jamais en liste de mots-clés.
+- Ne jamais parler de publicité pour présenter DeveloppIA (« on ne fait pas de publicité »,
+  « publicité interdite ») : on dit ce qu'on fait (référencement Google et IA, communication en
+  ligne, services qui font gagner du temps au cabinet).
 
 - Français simple. Un enfant doit pouvoir lire chaque phrase.
 - Une idée par phrase. Vingt mots en moyenne.
