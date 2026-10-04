@@ -27,7 +27,7 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
   « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
   « agence SEO dentiste », « agence de communication dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
-  IA dentiste », « réseaux sociaux cabinet dentaire », « instagram cabinet dentaire », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
+  IA dentiste », « réseaux sociaux cabinet dentaire », « instagram cabinet dentaire », « assistant téléphonique IA cabinet dentaire », « télésecrétariat dentaire IA », « message répondeur cabinet dentaire », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
   renvoie vers la page.
 - Au moins un élément que les premiers résultats de Google sur cette recherche n'ont pas : un
   exemple chiffré avec sa source, un tableau, une marche à suivre, une vérification que le
@@ -196,6 +196,9 @@ Chiffres du métier et données :
 - https://developpia.fr/fiche-google-dentiste/ (Fiche Google de dentiste)
 - https://developpia.fr/referencement-ia-dentiste/ (Référencement dans les IA)
 - https://developpia.fr/reseaux-sociaux-cabinet-dentaire/ (Réseaux sociaux du cabinet dentaire)
+- https://developpia.fr/assistant-telephonique-cabinet-dentaire/ (Assistant téléphonique IA pour cabinet dentaire : la page d'offre à lier pour tout sujet sur le téléphone, le secrétariat, les appels manqués, l'agenda)
+- https://developpia.fr/message-repondeur-cabinet-dentaire/ (outil gratuit : message de répondeur prêt à dire)
+- https://developpia.fr/calculateur-rendez-vous-manques/ (outil gratuit : ce que coûtent les rendez-vous non honorés et les appels manqués)
 - https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/
 - https://developpia.fr/guides/doctolib-devant-mon-site/
 - https://developpia.fr/guides/apercus-ia-google-dentiste/
