@@ -42,6 +42,13 @@ l'assistant téléphonique) et « message répondeur cabinet dentaire » (outil 
 - [ ] Ouvrir un cabinet dentaire : être visible dès le premier jour | ouvrir cabinet dentaire | nom, site, fiche Google, téléphone et prise de rendez-vous, à préparer avant l'ouverture | PRIORITÉ A11
 - [ ] Rentabilité d'un cabinet dentaire : les leviers qui ne coûtent rien | rentabilité cabinet dentaire | temps perdu au téléphone, rendez-vous manqués, devis non relus, patients qui ne trouvent pas le cabinet ; renvoi vers le simulateur | PRIORITÉ A12
 - [ ] RGPD au cabinet dentaire : l'affiche, le registre et le site | rgpd cabinet dentaire | ce qui est obligatoire, ce que le site doit dire, les outils (téléphone, rappels, IA) et les données de santé | PRIORITÉ A13
+- [ ] Logiciel dentaire : les questions à poser pour l'agenda, les rendez-vous en ligne et l'IA | logiciel dentaire | ce qu'un cabinet doit vérifier (agenda ouvert ou fermé, rendez-vous en ligne, téléphone, export des données), sans classement ni lien commercial | PRIORITÉ B1
+- [ ] Alternative à Doctolib pour un cabinet dentaire : ce qu'il faut comparer | alternative doctolib dentiste | France, Belgique, Suisse, Luxembourg ; agenda, visibilité de la page, données, sans aucun prix | PRIORITÉ B2
+- [ ] Chiffre d'affaires d'un cabinet dentaire : les repères publics | chiffre d'affaires cabinet dentaire | Fiducial, UNASA, DREES expliqués simplement, et ce qui le fait varier (heures de fauteuil vides, patients qui ne trouvent pas le cabinet) | PRIORITÉ B3
+- [ ] Communication avec les patients du cabinet dentaire : quoi envoyer, quand, et ce que la CNIL permet | communication patient cabinet dentaire | rappels, informations pratiques, site, fiche Google ; jamais de promotion | PRIORITÉ B4
+- [ ] Fiche de poste d'une assistante dentaire à l'accueil : le modèle | fiche de poste assistante dentaire | accueil, téléphone, agenda, secret professionnel, ce qu'on peut confier à des outils | PRIORITÉ B5
+- [ ] Salle d'attente du cabinet dentaire : ce qui rassure et ce qui est obligatoire | salle d'attente cabinet dentaire | affichage, écran d'information, documents ; renvoi vers l'article sur l'affichage obligatoire | PRIORITÉ B6
+- [ ] Valeur d'un cabinet dentaire : ce que le nom, le site et la fiche Google pèsent à la reprise | valeur cabinet dentaire | ce qui se transmet (nom de domaine, fiche, avis, contenus) et comment le préparer | PRIORITÉ B7
 
 ## 0. À publier en premier, dans cet ordre (revue du 12/09/2026)
 
