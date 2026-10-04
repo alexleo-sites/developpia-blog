@@ -25,10 +25,13 @@ cabinet (gestion, assistant téléphonique IA) : ces sujets sont donc les nôtre
 Google et Bing relevées le 04/10 (150 amorces). Jamais un prix de DeveloppIA, jamais le mot
 « publicité » pour parler de nous. Page à relier en priorité : l'accueil, puis la page d'offre la
 plus proche.
+Recherches réservées aux nouvelles pages du site (un article ne les prend jamais pour titre) :
+« télésecrétariat dentaire IA », « assistant téléphonique IA cabinet dentaire » (page d'offre de
+l'assistant téléphonique) et « message répondeur cabinet dentaire » (outil gratuit).
 
 - [ ] Accueil téléphonique d'un cabinet dentaire : ce que le patient attend quand il appelle | accueil téléphonique cabinet dentaire | horaires, appels manqués, temps d'attente, urgences, ce qui fait rappeler ou partir le patient | PRIORITÉ A1
-- [ ] Message de répondeur d'un cabinet dentaire : exemples à reprendre | message répondeur cabinet dentaire | cinq textes prêts (fermeture, congés, urgences et garde, ligne saturée, rappel), ce qu'il faut y dire et ne pas y dire | PRIORITÉ A2
-- [ ] Télésecrétariat dentaire : secrétaire, télésecrétariat ou IA, comment choisir | télésecrétariat dentaire | les critères qui tranchent (horaires, urgences, accès à l'agenda, données de santé, coût total), sans aucun prix de DeveloppIA | PRIORITÉ A3
+- [ ] ÉCARTÉ (la recherche « message répondeur cabinet dentaire » va à l'outil gratuit /message-repondeur-cabinet-dentaire/, en construction le 04/10) · Message de répondeur d'un cabinet dentaire : exemples à reprendre | message répondeur cabinet dentaire | cinq textes prêts (fermeture, congés, urgences et garde, ligne saturée, rappel), ce qu'il faut y dire et ne pas y dire | PRIORITÉ A2
+- [ ] Secrétariat d'un cabinet dentaire : secrétaire, télésecrétariat ou IA, comment choisir | secrétariat cabinet dentaire | les critères qui tranchent (horaires, urgences, accès à l'agenda, données de santé, coût total), sans aucun prix de DeveloppIA | PRIORITÉ A3
 - [ ] Rendez-vous non honoré chez le dentiste : l'éviter, le facturer, l'afficher | rendez-vous non honoré dentiste | chiffres sourcés (Doctolib, URPS), rappels, règle d'annulation, ce que la loi permet, l'affiche en salle d'attente | PRIORITÉ A4
 - [ ] IA au cabinet dentaire : ce qui sert vraiment en 2026 | ia cabinet dentaire | téléphone, agenda, comptes rendus, visibilité dans ChatGPT ; les limites et les données de santé | PRIORITÉ A5
 - [ ] Affichage obligatoire au cabinet dentaire : la liste à jour | affichage obligatoire cabinet dentaire | honoraires, informations patients, données personnelles, accessibilité, avec les textes ; et la cohérence avec le site et la fiche Google | PRIORITÉ A6
