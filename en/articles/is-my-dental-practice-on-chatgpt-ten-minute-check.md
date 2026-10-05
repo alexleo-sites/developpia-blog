@@ -1,7 +1,7 @@
 ---
 titre: Does your dental practice show up in ChatGPT? The ten-minute method to check
 titre_court: Is your dental practice cited by ChatGPT?
-description: Dentist, ChatGPT, recommendations: is your dental practice visible in AI search? The ten-minute method to check it, with no paid tool.
+description: Check whether ChatGPT mentions your dental practice: five questions, three AI tools and a scoring grid, in ten minutes and with no paid app.
 accroche: When a patient asks ChatGPT for a dentist, the AI answers with two or three names. You can find out whether yours is one of them, in ten minutes and for free. Here are the five questions to ask, the grid for recording the answers and the calculation that gives you an honest number.
 date: 2026-09-12
 lecture: 7 min
@@ -105,7 +105,7 @@ Do not draw conclusions from a single gap: a rise or a drop from one month to th
 
 Since [July 22, 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google has shown AI Overviews and AI Mode in France. So add a fourth column to your grid: type the same five questions into Google and note whether the AI Overview cites you. Google states on its [help page on AI features](https://developers.google.com/search/docs/appearance/ai-features) that no special setting is required: it is the same work as classic SEO. Our guide on [Google AI Overviews](https://en.developpia.fr/guides/google-ai-overviews-dentist/) explains what shows up there.
 
-The [free DeveloppIA test](https://en.developpia.fr/test-my-seo/) runs the same measurement automatically, for your town and your treatments, and shows the AI answers word for word. Once you have the number, the real question becomes: which of the four reasons applies to you, and where to start.
+The [free DeveloppIA test](https://en.developpia.fr/test-my-seo/) does not ask these questions for you: it checks what AI tools can read about you, on your website and your Google profile (fees, treatment pages, structured data). The grid measures your presence, the test shows the likely causes of an absence. With both in hand, the real question becomes: which of the four reasons applies to you, and where to start.
 
 ## Frequently asked questions
 
@@ -117,6 +117,6 @@ Because it runs a new search for each question and writes a fresh answer from th
 
 You are visible, which is already good news. But Doctolib describes your treatments in its own words and within its own limits, on a page that also features other practices. The goal is for your website to become the cited source, with one page per treatment that answers the patient's question.
 
-### Do you need a paid tool to track your presence in AI search?
+### Which app checks whether ChatGPT mentions my practice?
 
-No, a sheet of paper, ten minutes a month and the same five questions are enough to start with. A tool automates this work and repeats it more often, on more questions. It becomes useful the day you track several towns or several treatments.
+Paid "AI visibility" tracking tools ask AI tools questions on your behalf and repeat them every week. They become useful once you track several towns or several treatments. For one practice, ChatGPT, Gemini and Perplexity are enough: in a private window, with the same five questions every month. No app sees a truer answer than that, since the answer changes from one person and one day to the next.

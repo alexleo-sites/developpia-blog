@@ -232,7 +232,7 @@
   {
    "slug": "is-my-dental-practice-on-chatgpt-ten-minute-check",
    "titre": "Does your dental practice show up in ChatGPT? The ten-minute method to check",
-   "description": "Dentist, ChatGPT, recommendations: is your dental practice visible in AI search? The ten-minute method to check it, with no paid tool.",
+   "description": "Check whether ChatGPT mentions your dental practice: five questions, three AI tools and a scoring grid, in ten minutes and with no paid app.",
    "date": "2026-09-12",
    "lecture": "7 min",
    "sujets": [
@@ -241,7 +241,8 @@
    ],
    "resume": "Five questions, three AI tools, one scoring grid: the method to measure for yourself how present your practice is in ChatGPT, Gemini and Perplexity.",
    "ordre": 3,
-   "fr": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes"
+   "fr": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
+   "modifie": "2026-10-05"
   },
   {
    "slug": "how-long-dental-seo-takes",

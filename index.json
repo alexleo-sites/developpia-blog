@@ -379,7 +379,7 @@
   {
    "slug": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
    "titre": "Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier",
-   "description": "Dentiste, ChatGPT, recommandation : votre cabinet dentaire est-il visible dans les IA ? La méthode en dix minutes pour le vérifier, sans outil payant.",
+   "description": "Vérifier si ChatGPT mentionne votre cabinet dentaire : cinq questions, trois IA et une grille de lecture, en dix minutes et sans application payante.",
    "date": "2026-09-12",
    "lecture": "7 min",
    "sujets": [
@@ -387,7 +387,8 @@
     "mesurer"
    ],
    "resume": "Cinq questions, trois IA, une grille de lecture : la méthode pour mesurer vous-même la présence de votre cabinet dans ChatGPT, Gemini et Perplexity.",
-   "ordre": 3
+   "ordre": 3,
+   "modifie": "2026-10-05"
   },
   {
    "slug": "avis-google-cabinet-dentaire-code-deontologie",

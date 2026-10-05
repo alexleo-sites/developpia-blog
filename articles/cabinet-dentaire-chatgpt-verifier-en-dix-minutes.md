@@ -1,7 +1,7 @@
 ---
 titre: Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier
 titre_court: Votre cabinet dentaire est-il cité par ChatGPT ?
-description: Dentiste, ChatGPT, recommandation : votre cabinet dentaire est-il visible dans les IA ? La méthode en dix minutes pour le vérifier, sans outil payant.
+description: Vérifier si ChatGPT mentionne votre cabinet dentaire : cinq questions, trois IA et une grille de lecture, en dix minutes et sans application payante.
 accroche: Quand un patient demande un dentiste à ChatGPT, l'IA répond avec deux ou trois noms. Vous pouvez savoir si le vôtre en fait partie, en dix minutes et sans rien payer. Voici les cinq questions à poser, la grille pour noter les réponses et le calcul qui donne un chiffre honnête.
 date: 2026-09-12
 lecture: 7 min
@@ -104,7 +104,7 @@ Ne tirez pas de conclusion d'un seul écart : une hausse ou une baisse d'un mois
 
 Depuis le [22 juillet 2026](https://blog.google/intl/fr-fr/nouveautes-produits/explorez-obtenez-des-reponses/recherche-ia-apercus-mode/), Google affiche en France les Aperçus IA et le Mode IA. Ajoutez donc une quatrième colonne à votre grille : tapez les mêmes cinq questions dans Google et notez si l'Aperçu IA vous cite. Google précise sur sa [page d'aide sur les fonctions IA](https://developers.google.com/search/docs/appearance/ai-features) qu'aucun réglage particulier n'est requis : c'est le même travail que le référencement classique. Notre guide sur [les Aperçus IA de Google](https://developpia.fr/guides/apercus-ia-google-dentiste/) explique ce qui s'y affiche.
 
-Le [test gratuit de DeveloppIA](https://developpia.fr/tester-mon-referencement/) fait la même mesure automatiquement, pour votre ville et vos soins, et montre les réponses des IA mot pour mot. Une fois le chiffre en main, la vraie question devient : laquelle des quatre raisons vous concerne, et par quoi commencer.
+Le [test gratuit de DeveloppIA](https://developpia.fr/tester-mon-referencement/) ne pose pas ces questions à votre place : il vérifie ce que les IA peuvent lire chez vous, sur votre site et votre fiche Google (honoraires, pages de soins, données structurées). La grille mesure votre présence, le test montre les causes probables d'une absence. Avec les deux, la vraie question devient : laquelle des quatre raisons vous concerne, et par quoi commencer.
 
 ## Questions fréquentes
 
@@ -116,6 +116,6 @@ Parce qu'il relance une recherche à chaque question et rédige une réponse nou
 
 Vous êtes visible, c'est déjà une bonne nouvelle. Mais Doctolib décrit vos soins avec ses mots et ses limites, sur une page qui présente aussi d'autres cabinets. Le but est que votre site devienne la source citée, avec une page par soin qui répond à la question du patient.
 
-### Faut-il un outil payant pour suivre sa présence dans les IA ?
+### Quelle application vérifie si ChatGPT mentionne mon cabinet ?
 
-Non, une feuille, dix minutes par mois et les mêmes cinq questions suffisent au début. Un outil automatise ce travail et le répète plus souvent, sur plus de questions. Il devient utile le jour où vous suivez plusieurs villes ou plusieurs soins.
+Des outils payants de suivi de la « visibilité dans les IA » posent des questions aux IA à votre place et les répètent chaque semaine. Ils deviennent utiles le jour où vous suivez plusieurs villes ou plusieurs soins. Pour un cabinet, ChatGPT, Gemini et Perplexity suffisent : en fenêtre privée, avec les cinq mêmes questions chaque mois. Aucune application ne voit une réponse plus juste que celle-là, puisque la réponse change d'une personne et d'un jour à l'autre.
