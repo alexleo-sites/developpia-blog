@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",
+   "titre": "Secrétariat d'un cabinet dentaire : secrétaire, télésecrétariat ou IA, comment choisir",
+   "description": "Les critères qui départagent secrétaire, télésecrétariat et IA pour le secrétariat du cabinet dentaire, et les dix questions à poser avant de signer.",
+   "date": "2026-10-05",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "décider"
+   ],
+   "resume": "Secrétaire, télésecrétariat ou assistant IA : les cinq critères qui tranchent, le tableau de comparaison, les règles sur les données de santé et les dix questions à poser avant de signer."
+  },
+  {
    "slug": "accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend",
    "titre": "Accueil téléphonique d'un cabinet dentaire : ce que le patient attend quand il appelle",
    "description": "Accueil téléphonique du cabinet dentaire : ce qu'attend le patient, les chiffres de la DREES sur les appels perdus et un test en cinq appels à faire.",
@@ -12,7 +24,8 @@
     "Google Maps",
     "mesurer"
    ],
-   "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même."
+   "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
+   "modifie": "2026-10-05"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",
@@ -65,7 +78,8 @@
     "site du cabinet",
     "décider"
    ],
-   "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même."
+   "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même.",
+   "modifie": "2026-10-05"
   },
   {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",

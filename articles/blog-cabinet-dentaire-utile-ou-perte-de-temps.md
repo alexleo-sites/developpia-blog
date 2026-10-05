@@ -11,7 +11,7 @@ resume: Le test en quatre questions avant d'ouvrir un blog, le tableau des sujet
 
 Prenons un cabinet fictif, le cabinet du Vieux Port, à La Rochelle. Il y a deux ans, un prestataire lui a vendu un blog. Trente articles ont été publiés en six mois : « les bienfaits du fil dentaire », « cinq aliments bons pour les dents », « pourquoi sourire rend heureux ». Puis plus rien. Aujourd'hui, ces pages ne reçoivent presque aucune visite, et la page implant du site tient en quatre lignes.
 
-Le blog d'un cabinet dentaire n'est donc ni une obligation ni un gadget. Il sert quand il répond à une question que vos futurs patients posent vraiment, et quand le reste du site est déjà solide. Sinon, il consomme du temps sans rien rapporter.
+Le blog d'un cabinet dentaire n'est donc ni une obligation ni un gadget. Il sert quand il répond à une question que vos futurs patients posent vraiment, et quand le reste du site est déjà solide. Sinon, il consomme du temps sans rien rapporter. Ce temps manque souvent ailleurs, à commencer par le téléphone, et le [choix du secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/) aide à le libérer.
 
 ## Un blog de cabinet dentaire sert-il vraiment à quelque chose ?
 

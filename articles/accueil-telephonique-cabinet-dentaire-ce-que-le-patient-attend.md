@@ -86,7 +86,7 @@ Faites aussi le compte inverse. Votre ligne garde-t-elle la trace des appels man
 
 ## Qui répond quand l'équipe soigne ?
 
-Trois solutions existent : l'assistante ou la secrétaire au cabinet, un télésecrétariat à distance, ou un assistant téléphonique qui fonctionne avec l'intelligence artificielle (IA), c'est-à-dire un programme qui comprend ce que dit le patient et lui répond à voix haute.
+Trois solutions existent : l'assistante ou la secrétaire au cabinet, un télésecrétariat à distance, ou un assistant téléphonique qui fonctionne avec l'intelligence artificielle (IA), c'est-à-dire un programme qui comprend ce que dit le patient et lui répond à voix haute. Les critères pour choisir entre les trois sont détaillés dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 
 Quelle que soit la solution, deux règles restent les mêmes :
 
