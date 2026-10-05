@@ -86,7 +86,7 @@ Prenez votre téléphone, coupez le wifi, et suivez ces six points.
 
 1. Cherchez le nom exact de votre cabinet. Comptez les fiches qui apparaissent à votre adresse.
 2. Cherchez le nom de chaque praticien, prénom compris. Regardez si une fiche existe, et si elle est à jour.
-3. Ouvrez chaque fiche trouvée et appuyez sur le bouton d'appel. Le numéro composé doit être celui qui sonne aujourd'hui.
+3. Ouvrez chaque fiche trouvée et appuyez sur le bouton d'appel. Le numéro composé doit être celui qui sonne aujourd'hui. Notez aussi qui décroche, et en combien de temps : c'est le début de [l'accueil téléphonique du cabinet dentaire](https://developpia.fr/blog/accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend/).
 4. Comparez les horaires de chaque fiche avec ceux du site. Une seule différence suffit à perdre un patient devant la porte.
 5. Vérifiez le nom des fiches de praticiens : le nom de la personne, sans le nom du cabinet accolé.
 6. Cherchez une fiche ancienne, à un nom d'associé parti. Si elle existe encore avec votre adresse, elle vous coûte des appels.
