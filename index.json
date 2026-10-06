@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "rendez-vous-non-honore-dentiste-prevenir-loi",
+   "titre": "Rendez-vous non honoré chez le dentiste : le prévenir, et ce que la loi permet",
+   "description": "Les chiffres Doctolib du rendez-vous non honoré chez le dentiste, ce que la loi interdit de facturer et une méthode en cinq étapes pour réduire les absences.",
+   "date": "2026-10-06",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "mesurer"
+   ],
+   "resume": "Les chiffres Doctolib sur les dentistes, pourquoi un rendez-vous manqué ne se facture pas, ce qu'on peut afficher, le tableau des causes et la méthode en cinq étapes pour réduire les absences."
+  },
+  {
    "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",
    "titre": "Secrétariat d'un cabinet dentaire : secrétaire, télésecrétariat ou IA, comment choisir",
    "description": "Les critères qui départagent secrétaire, télésecrétariat et IA pour le secrétariat du cabinet dentaire, et les dix questions à poser avant de signer.",
@@ -10,7 +22,8 @@
     "vie du cabinet",
     "décider"
    ],
-   "resume": "Secrétaire, télésecrétariat ou assistant IA : les cinq critères qui tranchent, le tableau de comparaison, les règles sur les données de santé et les dix questions à poser avant de signer."
+   "resume": "Secrétaire, télésecrétariat ou assistant IA : les cinq critères qui tranchent, le tableau de comparaison, les règles sur les données de santé et les dix questions à poser avant de signer.",
+   "modifie": "2026-10-06"
   },
   {
    "slug": "accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend",
@@ -25,7 +38,7 @@
     "mesurer"
    ],
    "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
-   "modifie": "2026-10-05"
+   "modifie": "2026-10-06"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",

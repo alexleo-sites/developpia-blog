@@ -50,7 +50,7 @@ Classer les appels aide l'équipe à répondre vite et de la même façon. Voici
 | Question sur un devis | Être rappelé par la bonne personne | Noter la question, donner un moment de rappel précis |
 | Appel le dimanche ou un jour férié | Savoir où aller | Le numéro de la garde ou du 15 dans le message d'accueil |
 
-Ce tableau montre aussi ce qu'un outil peut prendre en charge (une annulation, un premier rendez-vous) et ce qui demande un échange humain (un devis d'implant).
+Ce tableau montre aussi ce qu'un outil peut prendre en charge (une annulation, un premier rendez-vous) et ce qui demande un échange humain (un devis d'implant). Une annulation bien reçue évite aussi un fauteuil vide : voyez comment prévenir le [rendez-vous non honoré chez le dentiste](https://developpia.fr/blog/rendez-vous-non-honore-dentiste-prevenir-loi/).
 
 ## L'urgence dentaire au téléphone : ce qu'il faut savoir
 
