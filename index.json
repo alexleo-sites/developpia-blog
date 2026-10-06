@@ -13,6 +13,19 @@
    "resume": "Les chiffres Doctolib sur les dentistes, pourquoi un rendez-vous manqué ne se facture pas, ce qu'on peut afficher, le tableau des causes et la méthode en cinq étapes pour réduire les absences."
   },
   {
+   "slug": "ia-cabinet-dentaire-ce-qui-sert-vraiment",
+   "titre": "IA au cabinet dentaire : ce qui sert vraiment en 2026, et ce qu'il faut vérifier",
+   "description": "Téléphone, rappels, comptes rendus, présence dans ChatGPT : ce que l'IA fait bien au cabinet dentaire, ses limites légales et la grille pour choisir un outil.",
+   "date": "2026-10-06",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "les IA",
+    "décider"
+   ],
+   "resume": "Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil."
+  },
+  {
    "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",
    "titre": "Secrétariat d'un cabinet dentaire : secrétaire, télésecrétariat ou IA, comment choisir",
    "description": "Les critères qui départagent secrétaire, télésecrétariat et IA pour le secrétariat du cabinet dentaire, et les dix questions à poser avant de signer.",
@@ -92,7 +105,7 @@
     "décider"
    ],
    "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même.",
-   "modifie": "2026-10-05"
+   "modifie": "2026-10-06"
   },
   {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",

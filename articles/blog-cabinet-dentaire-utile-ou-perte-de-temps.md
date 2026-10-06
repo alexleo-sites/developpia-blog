@@ -79,7 +79,7 @@ Le guide sur [ce que l'Ordre autorise sur un site de dentiste](https://developpi
 
 ## Écrire soi-même, déléguer, ou confier à une IA
 
-Trois façons de faire existent, et chacune a son point faible. Le praticien qui écrit lui-même produit des textes justes, mais rarement plus de quelques-uns par an. Un rédacteur extérieur tient le rythme, à condition que le praticien relise chaque texte, puisque c'est lui qui répond de son contenu devant l'Ordre. Une IA produit vite des textes lisses, souvent généraux, et parfois faux sur un point médical.
+Trois façons de faire existent, et chacune a son point faible. Le praticien qui écrit lui-même produit des textes justes, mais rarement plus de quelques-uns par an. Un rédacteur extérieur tient le rythme, à condition que le praticien relise chaque texte, puisque c'est lui qui répond de son contenu devant l'Ordre. Une IA produit vite des textes lisses, souvent généraux, et parfois faux sur un point médical. Ce que l'[IA au cabinet dentaire](https://developpia.fr/blog/ia-cabinet-dentaire-ce-qui-sert-vraiment/) fait mieux, comme le téléphone ou les rappels, est détaillé ailleurs.
 
 Dans les trois cas, la même règle tient : chaque article porte l'expérience réelle du cabinet. Une explication tirée de votre pratique, un déroulé qui correspond à vos rendez-vous, le vocabulaire que vos patients emploient. C'est aussi ce que les IA retiennent quand elles choisissent quoi citer, comme l'explique notre guide sur [la façon dont les IA choisissent un dentiste](https://developpia.fr/guides/comment-les-ia-choisissent-un-dentiste/). Un texte que l'on retrouve à l'identique sur cent sites ne distingue personne.
 

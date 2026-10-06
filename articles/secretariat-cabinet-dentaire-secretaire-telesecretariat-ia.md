@@ -31,7 +31,7 @@ Les chiffres montrent pourquoi ce choix pèse. Selon la DREES, le service de sta
 
 **Le télésecrétariat.** Ce sont des secrétaires à distance, dans une autre ville, qui répondent à votre place. Votre ligne leur est renvoyée à certaines heures ou quand vous ne décrochez pas. Elles suivent vos consignes écrites et prennent les rendez-vous dans votre agenda en ligne. Leur limite : elles ne connaissent ni vos patients ni vos habitudes, sauf si on les leur explique.
 
-**L'assistant téléphonique avec IA.** L'intelligence artificielle (IA) est ici un programme qui comprend ce que dit le patient et lui répond à voix haute. Il décroche à toute heure, même pour plusieurs appels en même temps, propose un créneau libre et passe la main à l'équipe quand la demande sort de ses consignes. Sa limite : il suit des règles, et une situation imprévue doit pouvoir remonter vite à un humain.
+**L'assistant téléphonique avec IA.** L'intelligence artificielle (IA) est ici un programme qui comprend ce que dit le patient et lui répond à voix haute. Il décroche à toute heure, même pour plusieurs appels en même temps, propose un créneau libre et passe la main à l'équipe quand la demande sort de ses consignes. Sa limite : il suit des règles, et une situation imprévue doit pouvoir remonter vite à un humain. Les autres usages de l'[IA au cabinet dentaire](https://developpia.fr/blog/ia-cabinet-dentaire-ce-qui-sert-vraiment/), rappels, notes et visibilité, sont triés dans un article à part.
 
 Beaucoup de cabinets combinent deux solutions. Par exemple, la secrétaire répond le matin et un renvoi prend le relais l'après-midi, pendant les soins longs.
 
