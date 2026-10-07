@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "plaque-professionnelle-dentiste-reglementation",
+   "titre": "Plaque professionnelle de dentiste : ce que dit la réglementation en 2026",
+   "description": "La plaque professionnelle du dentiste expliquée : mentions permises, conventionnement, vitrophanie, logo de l'Ordre, déménagement, et la liste à vérifier.",
+   "date": "2026-10-07",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "cadre de l'Ordre",
+    "site du cabinet"
+   ],
+   "resume": "Le texte de l'article R.4127-218 expliqué, l'ancienne règle face à la nouvelle, la vitrophanie et le logo de l'Ordre, la plaque en cas de déménagement et la vérification entre la plaque, le site et la fiche Google."
+  },
+  {
    "slug": "affichage-obligatoire-cabinet-dentaire-liste",
    "titre": "Affichage obligatoire au cabinet dentaire : la liste à jour, texte par texte",
    "description": "Honoraires, phrase sur la facturation, devis, plaque, données des patients, salariés : chaque affiche due au cabinet, son texte et la vérification à faire.",
@@ -11,7 +24,8 @@
     "cadre de l'Ordre",
     "site du cabinet"
    ],
-   "resume": "La liste des affiches dues au cabinet dentaire avec leurs textes (honoraires, facturation, devis, plaque, données des patients, salariés), le tableau à cocher et la vérification entre l'affiche, le site et la fiche Google."
+   "resume": "La liste des affiches dues au cabinet dentaire avec leurs textes (honoraires, facturation, devis, plaque, données des patients, salariés), le tableau à cocher et la vérification entre l'affiche, le site et la fiche Google.",
+   "modifie": "2026-10-07"
   },
   {
    "slug": "rendez-vous-non-honore-dentiste-prevenir-loi",
