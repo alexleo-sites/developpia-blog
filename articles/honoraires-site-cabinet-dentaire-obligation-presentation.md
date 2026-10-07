@@ -26,7 +26,7 @@ Le code parle d'une information sur les honoraires pratiqués, sans dire combien
 - au moins cinq actes prothétiques ou d'orthodontie parmi les plus pratiqués ;
 - une phrase imposée selon votre conventionnement : honoraires conformes aux tarifs de la sécurité sociale, honoraires libres, ou praticien non conventionné.
 
-Pour le site, l'Ordre recommande d'indiquer les honoraires de cinq à dix actes, ceux que vous pratiquez le plus. L'information doit être claire, honnête, précise et sans comparaison avec un confrère. La même règle vaut pour [les titres, diplômes et mentions affichés sur le site](https://developpia.fr/blog/mentions-autorisees-site-dentiste-titres-diplomes-specialites/). Le plus simple est de reprendre sur le site la liste de votre salle d'attente.
+Pour le site, l'Ordre recommande d'indiquer les honoraires de cinq à dix actes, ceux que vous pratiquez le plus. L'information doit être claire, honnête, précise et sans comparaison avec un confrère. La même règle vaut pour [les titres, diplômes et mentions affichés sur le site](https://developpia.fr/blog/mentions-autorisees-site-dentiste-titres-diplomes-specialites/). Le plus simple est de reprendre sur le site la liste de votre salle d'attente, celle de [l'affichage obligatoire au cabinet dentaire](https://developpia.fr/blog/affichage-obligatoire-cabinet-dentaire-liste/).
 
 Précision utile : la DGCCRF, la répression des fraudes, contrôle l'affichage au cabinet et les devis. Le site relève du code de déontologie, donc de l'Ordre. Une seule bonne réponse aux deux : les mêmes montants partout, et datés.
 

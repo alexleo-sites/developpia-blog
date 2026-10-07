@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "affichage-obligatoire-cabinet-dentaire-liste",
+   "titre": "Affichage obligatoire au cabinet dentaire : la liste à jour, texte par texte",
+   "description": "Honoraires, phrase sur la facturation, devis, plaque, données des patients, salariés : chaque affiche due au cabinet, son texte et la vérification à faire.",
+   "date": "2026-10-07",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "cadre de l'Ordre",
+    "site du cabinet"
+   ],
+   "resume": "La liste des affiches dues au cabinet dentaire avec leurs textes (honoraires, facturation, devis, plaque, données des patients, salariés), le tableau à cocher et la vérification entre l'affiche, le site et la fiche Google."
+  },
+  {
    "slug": "rendez-vous-non-honore-dentiste-prevenir-loi",
    "titre": "Rendez-vous non honoré chez le dentiste : le prévenir, et ce que la loi permet",
    "description": "Les chiffres Doctolib du rendez-vous non honoré chez le dentiste, ce que la loi interdit de facturer et une méthode en cinq étapes pour réduire les absences.",
@@ -51,7 +64,7 @@
     "mesurer"
    ],
    "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
-   "modifie": "2026-10-06"
+   "modifie": "2026-10-07"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",
@@ -374,7 +387,7 @@
    ],
    "resume": "L'obligation d'informer sur les honoraires, les actes à afficher selon l'arrêté de 2018 et l'Ordre, et le modèle d'une page claire avec un tableau daté.",
    "ordre": 12,
-   "modifie": "2026-09-18"
+   "modifie": "2026-10-07"
   },
   {
    "slug": "douze-informations-patient-site-dentiste",

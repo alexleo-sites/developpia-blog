@@ -66,7 +66,7 @@ L'accueil commence quand le patient cherche votre numéro. Trois vérifications 
 
 1. **Le même numéro partout.** Sur la plaque, le site, la fiche Google, Doctolib et les annuaires. Un ancien numéro qui traîne sur un annuaire, c'est un appel qui sonne dans le vide.
 2. **Un numéro qu'on peut toucher pour appeler.** Sur le site vu depuis un téléphone, le numéro doit lancer l'appel d'un simple geste. C'est l'une des [douze informations qu'un patient cherche sur le site d'un dentiste avant d'appeler](https://developpia.fr/blog/douze-informations-patient-site-dentiste/).
-3. **Des horaires d'appel justes.** Si le secrétariat ne répond que le matin, la fiche Google et le site doivent le dire. Le patient qui appelle à 15 h ne doit pas tomber sur un silence.
+3. **Des horaires d'appel justes.** Si le secrétariat ne répond que le matin, la fiche Google et le site doivent le dire. Le patient qui appelle à 15 h ne doit pas tomber sur un silence. Les mêmes horaires figurent sur la plaque, parmi [l'affichage obligatoire au cabinet dentaire](https://developpia.fr/blog/affichage-obligatoire-cabinet-dentaire-liste/).
 
 Google tient compte de ces informations pour choisir les cabinets qu'il montre sur la carte. Les détails sont dans notre article sur [la façon dont Google choisit les trois cabinets de la carte](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/). Un cabinet bien placé mais injoignable gaspille cette place.
 
