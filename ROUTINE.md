@@ -1,72 +1,32 @@
 # La routine « un article de blog » (texte exact de la tâche automatique)
 
 Tâche planifiée sur le Mac de Léo (application Claude ouverte) : `blog-developpia-article`,
-du lundi au vendredi à 7 h 30. Le même texte peut être collé dans une routine cloud
-(claude.ai/code/routines) le jour où le dépôt GitHub `alexleo-sites/developpia-blog` y est
+du lundi au vendredi à 7 h 30, un article par passage, soit cinq par semaine (Léo, 08/10/2026 ;
+du 05 au 08/10 elle tournait deux fois par jour). Le même texte peut être collé dans une routine
+cloud (claude.ai/code/routines) le jour où le dépôt GitHub `alexleo-sites/developpia-blog` y est
 rattaché : rien d'autre ne change.
 
 ---
 
-Tu publies UN SEUL article sur le blog de DeveloppIA (agence de référencement pour les
-cabinets dentaires, site https://developpia.fr), puis tu t'arrêtes. Réponds en français,
-en phrases simples, sans vocabulaire technique.
+Tu publies UN SEUL article sur le blog de DeveloppIA (agence de référencement pour les cabinets dentaires, site https://developpia.fr), puis tu t'arrêtes. Réponds en français, en phrases simples, sans vocabulaire technique.
 
-DOSSIER : `/Users/poinc/Desktop/Agence IA/developpia-blog` (dépôt git relié à GitHub
-`alexleo-sites/developpia-blog`). Le site lit ce dépôt à chaque visite : déposer un
-article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
+DOSSIER : `/Users/poinc/Desktop/Agence IA/developpia-blog` (dépôt git relié à GitHub `alexleo-sites/developpia-blog`). Le site lit ce dépôt à chaque visite : déposer un article et le pousser suffit à le publier. Tu ne touches à rien d'autre.
 
 ÉTAPES, dans cet ordre, sans en sauter :
 
-1. Mets le dépôt à jour : `git -C "/Users/poinc/Desktop/Agence IA/developpia-blog" pull --ff-only`.
-   Si la commande échoue, arrête-toi et dis-le.
+1. Mets le dépôt à jour : `git -C "/Users/poinc/Desktop/Agence IA/developpia-blog" pull --ff-only`. Si la commande échoue, arrête-toi et dis-le.
 2. Lis `CONSIGNES.md` en entier, puis `sujets.md` et `index.json`.
-3. Choisis le sujet : la première ligne `- [ ]` de `sujets.md` qui contient « PRIORITÉ »,
-   sinon la première ligne `- [ ]` du fichier. Ignore les lignes contenant « ÉCARTÉ ».
-   Vérifie que ce n'est pas un doublon : si un titre de `index.json` ou une page de « Nos
-   pages à lier » (`CONSIGNES.md`) vise déjà la même recherche, écris « ÉCARTÉ (doublon de
-   <page>) » au début de la ligne, juste après `- [ ]`, puis prends le sujet suivant.
-   S'il ne reste aucun sujet, envoie sur Slack, canal #direction (C0BKPKZHC2D) :
-   « Le calendrier du blog DeveloppIA est vide : ajoutez des sujets dans sujets.md » et arrête-toi.
-4. Pour ne pas te répéter, lis les trois derniers articles publiés (les trois premiers
-   slugs de `index.json`, fichiers dans `articles/`). Lis aussi, avec WebFetch, la page de
-   developpia.fr la plus proche du sujet (une page de service ou un guide) : ton article
-   la complète, il ne la recopie pas. Choisis ensuite les sujets de ton article, avec les
-   mots déjà employés dans `index.json` (« site du cabinet », « les IA »…), et lance
-   `python3 outils/publier.py --liens "<tes sujets, séparés par des virgules>"` : il liste
-   les articles déjà publiés, les plus proches d'abord et, à égalité, les moins reliés.
-4 bis. Regarde ce que Google montre déjà : cherche la recherche visée avec WebSearch, ouvre
-   avec WebFetch les trois premiers résultats qui sont de vrais articles (ni annuaire, ni
-   publicité, ni page de developpia.fr) et note en une ligne ce que chacun couvre. Ton article
-   couvre ces points et apporte au moins une chose qu'aucun des trois n'a : un exemple chiffré
-   avec sa source, un tableau, une marche à suivre, une vérification que le dentiste peut faire
-   lui-même. Ne reprends aucune phrase de ces pages.
-5. Écris l'article dans `articles/<slug>.md` en respectant `CONSIGNES.md` à la lettre :
-   en-tête complet, 1 200 à 1 600 mots, 5 à 8 titres `##`, exactement un encart, au moins
-   une liste et un tableau ou une liste numérotée, trois questions fréquentes, au moins trois
-   liens vers developpia.fr dont la page d'offre la plus proche du sujet, au moins deux liens
-   vers des articles de la liste de l'étape 4, un ou deux liens vers une source officielle,
-   aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin, aucune promesse
-   de position, aucun prix, aucun témoignage, aucun mot anglais non expliqué. La recherche
-   visée figure au début du titre, dans le titre court (`titre_court`, 60 caractères au plus :
-   c'est lui que Google affiche), dans la description, dans l'accroche et dans le nom du
-   fichier. La date est celle d'aujourd'hui.
-5 bis. Relie ton article aux anciens : dans les deux premiers articles de la liste de
-   l'étape 4, ajoute UN lien vers `https://developpia.fr/blog/<slug>/`, en suivant la
-   partie « Relier le nouvel article aux anciens » de `CONSIGNES.md`. Ne change rien
-   d'autre dans ces deux fichiers.
-6. Lance `python3 outils/publier.py articles/<slug>.md --sujet "<la ligne du sujet, sans le - [ ]>"`
-   depuis le dossier du dépôt. Il vérifie aussi les liens de l'étape 5 bis et envoie les
-   deux anciens articles avec le tien. S'il refuse, corrige et relance, trois tentatives au
-   maximum. S'il refuse encore : supprime le fichier, annule tes changements dans les
-   anciens articles (`git checkout -- articles/<ancien>.md` pour chacun), ne publie rien,
-   et dis pourquoi dans ta réponse et sur Slack.
-7. Vérifie avec WebFetch que https://developpia.fr/blog/<slug>/ affiche bien le titre.
-   Si la page ne répond pas, attends deux minutes et réessaie une fois.
-8. Envoie sur Slack #direction (C0BKPKZHC2D) un message de trois lignes au plus :
-   « 📝 Nouvel article sur le blog DeveloppIA : <titre> », puis « À lire : <adresse> (le blog) »,
-   puis le nombre total d'articles publiés. Une adresse ne termine jamais une ligne.
+3. Choisis le sujet : la première ligne `- [ ]` de `sujets.md` qui contient « PRIORITÉ », sinon la première ligne `- [ ]` du fichier. Ignore les lignes contenant « ÉCARTÉ ». Vérifie ensuite que ce n'est pas un doublon, en deux temps :
+   a) Même recherche : un titre de `index.json` ou une page de « Nos pages à lier » (`CONSIGNES.md`) vise déjà la même recherche.
+   b) Même question : relis le titre et l'accroche de CHAQUE article de `index.json`. Si un article déjà publié répond déjà à la question que se pose le dentiste, même avec d'autres mots (exemple : « gestion du cabinet » et « secrétariat du cabinet »), ou si plus de la moitié des parties prévues par la ligne existent déjà dans un article ou une page, c'est un doublon. Deux pages qui répondent à la même question se font concurrence dans Google et aucune des deux ne monte.
+   En cas de doublon, écris « ÉCARTÉ (doublon de <page>) » au début de la ligne, juste après `- [ ]`, puis prends le sujet suivant. Si seule une petite partie recoupe un article existant, garde le sujet : cette partie tiendra en deux phrases avec un lien vers l'article existant. S'il ne reste aucun sujet, envoie sur Slack, canal #direction (C0BKPKZHC2D) : « Le calendrier du blog DeveloppIA est vide : ajoutez des sujets dans sujets.md » et arrête-toi. S'il en reste cinq ou moins, signale-le dans une quatrième ligne de ton message Slack de l'étape 8.
+4. Pour ne pas te répéter, lis les trois derniers articles publiés (les trois premiers slugs de `index.json`, fichiers dans `articles/`). Lis aussi, avec WebFetch, la page de developpia.fr la plus proche du sujet (une page de service ou un guide) : ton article la complète, il ne la recopie pas. Choisis ensuite les sujets de ton article, avec les mots déjà employés dans `index.json` (« site du cabinet », « les IA »…), et lance `python3 outils/publier.py --liens "<tes sujets, séparés par des virgules>"` : il liste les articles déjà publiés, les plus proches d'abord et, à égalité, les moins reliés.
+4 bis. Regarde ce que Google montre déjà : cherche la recherche visée avec WebSearch, ouvre avec WebFetch les trois premiers résultats qui sont de vrais articles (ni annuaire, ni publicité, ni page de developpia.fr) et note en une ligne ce que chacun couvre. Ton article couvre ces points et apporte au moins une chose qu'aucun des trois n'a : un exemple chiffré avec sa source, un tableau, une marche à suivre, une vérification que le dentiste peut faire lui-même. Ne reprends aucune phrase de ces pages.
+4 ter. Ne refais pas ce que nos propres articles ont déjà dit : quand une partie de ton article touche un sujet déjà traité dans un autre article du blog, résume-la en deux phrases au plus et mets le lien vers cet article. Ton article doit apporter du neuf par rapport à tout le blog, pas seulement aux trois derniers articles.
+5. Écris l'article dans `articles/<slug>.md` en respectant `CONSIGNES.md` à la lettre : en-tête complet, 1 200 à 1 600 mots, 5 à 8 titres `##`, exactement un encart, au moins une liste et un tableau ou une liste numérotée, trois questions fréquentes, au moins trois liens vers developpia.fr dont la page d'offre la plus proche du sujet, au moins deux liens vers des articles de la liste de l'étape 4, un ou deux liens vers une source officielle, aucun chiffre hors de la liste des faits autorisés, aucun tiret cadratin, aucune promesse de position, aucun prix, aucun témoignage, aucun mot anglais non expliqué. La recherche visée figure au début du titre, dans le titre court (`titre_court`, 60 caractères au plus : c'est lui que Google affiche), dans la description, dans l'accroche et dans le nom du fichier. La date est celle d'aujourd'hui.
+5 bis. Relie ton article aux anciens : dans les deux premiers articles de la liste de l'étape 4, ajoute UN lien vers `https://developpia.fr/blog/<slug>/`, en suivant la partie « Relier le nouvel article aux anciens » de `CONSIGNES.md`. Ne change rien d'autre dans ces deux fichiers.
+6. Lance `python3 outils/publier.py articles/<slug>.md --sujet "<la ligne du sujet, sans le - [ ]>"` depuis le dossier du dépôt. Il vérifie aussi les liens de l'étape 5 bis et envoie les deux anciens articles avec le tien. S'il refuse, corrige et relance, trois tentatives au maximum. S'il refuse encore : supprime le fichier, annule tes changements dans les anciens articles (`git checkout -- articles/<ancien>.md` pour chacun), ne publie rien, et dis pourquoi dans ta réponse et sur Slack.
+7. Vérifie avec WebFetch que https://developpia.fr/blog/<slug>/ affiche bien le titre. Si la page ne répond pas, attends deux minutes et réessaie une fois.
+8. Envoie sur Slack #direction (C0BKPKZHC2D) un message de trois lignes au plus : « 📝 Nouvel article sur le blog DeveloppIA : <titre> », puis « À lire : <adresse> (le blog) », puis le nombre total d'articles publiés. Une adresse ne termine jamais une ligne.
 
-INTERDITS : modifier un autre fichier que l'article, `index.json`, `sujets.md` et les deux
-anciens articles de l'étape 5 bis (un lien ajouté, rien d'autre) ; toucher au dossier
-developpia-site ; lancer une mise en ligne Vercel ; publier deux articles dans le même
-passage ; inventer un chiffre ; écrire un prix ou une promesse de résultat.
+INTERDITS : modifier un autre fichier que l'article, `index.json`, `sujets.md` et les deux anciens articles de l'étape 5 bis (un lien ajouté, rien d'autre) ; toucher au dossier developpia-site ; lancer une mise en ligne Vercel ; publier deux articles dans le même passage ; inventer un chiffre ; écrire un prix ou une promesse de résultat.
