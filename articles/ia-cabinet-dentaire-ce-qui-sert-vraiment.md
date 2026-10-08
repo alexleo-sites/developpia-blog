@@ -26,7 +26,7 @@ Il y a aussi un changement qui ne dépend pas de vous. Selon l'Arcom et Médiam�
 Voici les usages qui font gagner du temps dès le premier mois, classés du plus courant au plus récent.
 
 - **Le téléphone.** Un assistant vocal décroche quand l'équipe est au fauteuil, comprend le motif, propose un créneau libre et repère une urgence. C'est l'usage le plus utile, car un appel sans réponse est souvent un patient perdu.
-- **Les rappels et relances.** Le message de la veille, la relance d'un devis non signé, le rappel du contrôle annuel. L'outil écrit et envoie, vous validez les textes une fois pour toutes.
+- **Les rappels et relances.** Le message de la veille, la relance d'un devis non signé, le rappel du contrôle annuel. L'outil écrit et envoie, vous validez les textes une fois pour toutes. Des [exemples de message de rappel de rendez-vous chez le dentiste](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/) vous donnent une base pour ces textes.
 - **Les écrits du quotidien.** Un brouillon de courrier, la réponse à un mail courant, le résumé d'une note dictée après un soin. Vous relisez toujours avant d'envoyer ou d'enregistrer.
 - **La visibilité dans les IA.** Faire en sorte que ChatGPT, Gemini ou les Aperçus IA de Google citent votre cabinet quand un patient demande un dentiste près de chez lui.
 
