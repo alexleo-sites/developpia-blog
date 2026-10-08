@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "organisation-agenda-cabinet-dentaire-regles",
+   "titre": "Organisation de l'agenda d'un cabinet dentaire : les règles qui font gagner du temps",
+   "description": "Plages d'urgence, premières visites, rappels : les règles d'organisation de l'agenda d'un cabinet dentaire et une vérification en quatre semaines.",
+   "date": "2026-10-08",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "téléphone",
+    "rendez-vous"
+   ],
+   "resume": "Les règles d'organisation de l'agenda d'un cabinet dentaire (urgences, premières consultations, soins longs, rendez-vous en ligne, rappels), la semaine type en tableau et la vérification en quatre semaines."
+  },
+  {
    "slug": "plaque-professionnelle-dentiste-reglementation",
    "titre": "Plaque professionnelle de dentiste : ce que dit la réglementation en 2026",
    "description": "La plaque professionnelle du dentiste expliquée : mentions permises, conventionnement, vitrophanie, logo de l'Ordre, déménagement, et la liste à vérifier.",
@@ -11,7 +24,8 @@
     "cadre de l'Ordre",
     "site du cabinet"
    ],
-   "resume": "Le texte de l'article R.4127-218 expliqué, l'ancienne règle face à la nouvelle, la vitrophanie et le logo de l'Ordre, la plaque en cas de déménagement et la vérification entre la plaque, le site et la fiche Google."
+   "resume": "Le texte de l'article R.4127-218 expliqué, l'ancienne règle face à la nouvelle, la vitrophanie et le logo de l'Ordre, la plaque en cas de déménagement et la vérification entre la plaque, le site et la fiche Google.",
+   "modifie": "2026-10-08"
   },
   {
    "slug": "affichage-obligatoire-cabinet-dentaire-liste",
@@ -50,7 +64,8 @@
     "les IA",
     "décider"
    ],
-   "resume": "Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil."
+   "resume": "Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil.",
+   "modifie": "2026-10-08"
   },
   {
    "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",

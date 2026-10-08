@@ -17,7 +17,7 @@ L'IA au cabinet dentaire désigne des programmes qui comprennent une phrase, éc
 
 Elle change surtout ce qui se passe hors du fauteuil : le téléphone, les rappels, les écrits et la façon dont les patients vous trouvent. Le soin lui-même reste votre métier, et les outils qui touchent au diagnostic obéissent à d'autres règles, que cet article ne traite pas.
 
-Le point de départ est simple. Un cabinet perd du temps sur des gestes qui se répètent chaque jour : décrocher pour donner une date, rappeler la veille d'un rendez-vous, relancer un devis, répondre à la même question sur le parking ou les horaires. Ce sont ces gestes qu'un outil d'IA peut prendre, à condition de suivre vos consignes.
+Le point de départ est simple. Un cabinet perd du temps sur des gestes qui se répètent chaque jour : décrocher pour donner une date, rappeler la veille d'un rendez-vous, relancer un devis, répondre à la même question sur le parking ou les horaires. Ce sont ces gestes qu'un outil d'IA peut prendre, à condition de suivre vos consignes. Ces consignes partent d'abord d'une bonne [organisation de l'agenda du cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/).
 
 Il y a aussi un changement qui ne dépend pas de vous. Selon l'Arcom et Médiamétrie, 56,6 % des Français utilisent déjà l'intelligence artificielle, y compris pour trouver un dentiste (avril 2026). Une partie de vos futurs patients posera donc la question à ChatGPT avant de taper votre nom sur Google.
 

@@ -15,7 +15,7 @@ Ce petit rectangle de métal est souvent le seul élément du cabinet qu'on ne r
 
 ## Que peut-on écrire sur la plaque d'un dentiste ?
 
-La plaque peut porter vos nom et prénoms, votre téléphone, vos jours et heures de consultation, votre situation face à l'assurance maladie et, le cas échéant, votre spécialité ou votre qualification. C'est ce que dit l'[article R.4127-218 du code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795957), dans sa version issue du décret du 22 décembre 2020.
+La plaque peut porter vos nom et prénoms, votre téléphone, vos jours et heures de consultation, votre situation face à l'assurance maladie et, le cas échéant, votre spécialité ou votre qualification. C'est ce que dit l'[article R.4127-218 du code de la santé publique](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042795957), dans sa version issue du décret du 22 décembre 2020. Les heures annoncées suivent votre [organisation de l'agenda du cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/).
 
 Le même article ajoute deux points :
 
