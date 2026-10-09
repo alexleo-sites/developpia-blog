@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "ouvrir-cabinet-dentaire-visible-premier-jour",
+   "titre": "Ouvrir un cabinet dentaire : être visible sur Google dès le premier jour",
+   "description": "Nom, fiche Google, site, téléphone, rendez-vous : le calendrier à suivre avant d'ouvrir votre cabinet dentaire, de six mois avant au troisième mois après.",
+   "date": "2026-10-09",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "site du cabinet",
+    "Google Maps",
+    "visibilité"
+   ],
+   "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour."
+  },
+  {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
    "titre": "Organisation de l'agenda d'un cabinet dentaire : les règles qui font gagner du temps",
    "description": "Plages d'urgence, premières visites, rappels : les règles d'organisation de l'agenda d'un cabinet dentaire et une vérification en quatre semaines.",
@@ -107,7 +121,7 @@
     "mesurer"
    ],
    "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
-   "modifie": "2026-10-07"
+   "modifie": "2026-10-09"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",
@@ -174,7 +188,7 @@
     "site du cabinet"
    ],
    "resume": "La règle écrite par Google pour les cabinets de groupe, les conditions qu'un praticien doit remplir pour avoir sa fiche, le tableau des montages, le nom de chaque fiche dans le cadre de l'Ordre, les sept étapes de mise en ordre et la vérification en dix minutes.",
-   "modifie": "2026-10-05"
+   "modifie": "2026-10-09"
   },
   {
    "slug": "marketing-dentaire-ce-que-le-code-autorise",

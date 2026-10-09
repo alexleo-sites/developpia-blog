@@ -64,7 +64,7 @@ Le dimanche et les jours fériés, une permanence des soins dentaires existe. So
 
 L'accueil commence quand le patient cherche votre numéro. Trois vérifications évitent des appels perdus avant la première sonnerie :
 
-1. **Le même numéro partout.** Sur [la plaque professionnelle du dentiste](https://developpia.fr/blog/plaque-professionnelle-dentiste-reglementation/), le site, la fiche Google, Doctolib et les annuaires. Un ancien numéro qui traîne sur un annuaire, c'est un appel qui sonne dans le vide.
+1. **Le même numéro partout.** Sur [la plaque professionnelle du dentiste](https://developpia.fr/blog/plaque-professionnelle-dentiste-reglementation/), le site, la fiche Google, Doctolib et les annuaires. Un ancien numéro qui traîne sur un annuaire, c'est un appel qui sonne dans le vide. Un cabinet qui s'installe fixe ce numéro avant de l'imprimer, comme le montre la marche à suivre pour [ouvrir un cabinet dentaire et être visible dès le premier jour](https://developpia.fr/blog/ouvrir-cabinet-dentaire-visible-premier-jour/).
 2. **Un numéro qu'on peut toucher pour appeler.** Sur le site vu depuis un téléphone, le numéro doit lancer l'appel d'un simple geste. C'est l'une des [douze informations qu'un patient cherche sur le site d'un dentiste avant d'appeler](https://developpia.fr/blog/douze-informations-patient-site-dentiste/).
 3. **Des horaires d'appel justes.** Si le secrétariat ne répond que le matin, la fiche Google et le site doivent le dire. Le patient qui appelle à 15 h ne doit pas tomber sur un silence. Les mêmes horaires figurent sur la plaque, parmi [l'affichage obligatoire au cabinet dentaire](https://developpia.fr/blog/affichage-obligatoire-cabinet-dentaire-liste/).
 
