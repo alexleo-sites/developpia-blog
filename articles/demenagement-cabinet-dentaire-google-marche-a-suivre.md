@@ -17,7 +17,7 @@ On parle souvent des démarches et du matériel. Cet article traite l'autre moit
 
 59,8 % des Français cherchent des informations de santé sur internet (Eurostat, 2025). Beaucoup de patients ne notent pas votre adresse. Ils tapent votre nom, puis suivent l'itinéraire proposé. Si l'adresse affichée est fausse, ils arrivent devant une porte close, et certains pensent que le cabinet a fermé.
 
-Le déménagement touche aussi la carte. Google choisit les cabinets qu'il montre selon trois critères officiels, la pertinence, la distance et la proéminence (aide Google). En changeant d'adresse, vous changez la distance entre le cabinet et chaque patient qui cherche. Le quartier que vous quittez voit d'autres cabinets plus proches, celui où vous arrivez ne vous connaît pas encore. L'article [dentiste et ville sur Google Maps](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) explique ces trois critères.
+Le déménagement touche aussi la carte. Google choisit les cabinets qu'il montre selon trois critères officiels, la pertinence, la distance et la proéminence (aide Google). En changeant d'adresse, vous changez la distance entre le cabinet et chaque patient qui cherche. Le quartier que vous quittez voit d'autres cabinets plus proches, celui où vous arrivez ne vous connaît pas encore. L'article [dentiste et ville sur Google Maps](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) explique ces trois critères, et la page [référencement local du dentiste](https://developpia.fr/referencement-dentiste/) la façon de les travailler.
 
 ## La fiche Google : modifier l'adresse, jamais recréer la fiche
 

@@ -103,7 +103,7 @@ Trois idées reviennent souvent. Aucune ne fonctionne, et deux sont interdites.
 
 **Bourrer le nom de mots-clés.** Une fiche nommée « Cabinet des Halles dentiste implants Saint-Aurèle » enfreint les mêmes règles. Le nom de la fiche doit être le nom réel du cabinet, celui de votre plaque. Les soins vont dans les champs prévus et dans les pages du site.
 
-Ce que Google récompense est plus simple et plus lent : une fiche exacte, un site qui explique vos soins, des informations identiques partout. C'est le socle du [référencement dentiste](https://developpia.fr/referencement-dentiste/), dont la carte n'est qu'une des trois portes, avec la liste classique et les réponses des IA.
+Ce que Google récompense est plus simple et plus lent : une fiche exacte, un site qui explique vos soins, des informations identiques partout. C'est le socle du [référencement local d'un dentiste](https://developpia.fr/referencement-dentiste/), dont la carte n'est qu'une des trois portes, avec la liste classique et les réponses des IA.
 
 ## Questions fréquentes
 

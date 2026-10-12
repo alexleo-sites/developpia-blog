@@ -91,7 +91,7 @@ Prenez votre téléphone, coupez le wifi, et suivez ces six points.
 5. Vérifiez le nom des fiches de praticiens : le nom de la personne, sans le nom du cabinet accolé.
 6. Cherchez une fiche ancienne, à un nom d'associé parti. Si elle existe encore avec votre adresse, elle vous coûte des appels.
 
-Un cabinet qui coche ces six points est déjà devant la plupart des cabinets de sa ville, pour la raison expliquée dans notre article sur [la façon dont Google choisit les trois cabinets de la carte](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/). Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) fait ce relevé à votre place. Une fois les fiches en ordre, la question suivante se pose d'elle-même : chaque praticien a-t-il, sur le site, une page à son nom que sa fiche peut désigner.
+Un cabinet qui coche ces six points a posé la base du [référencement local d'un cabinet dentaire](https://developpia.fr/referencement-dentiste/) et passe déjà devant la plupart des cabinets de sa ville, pour la raison expliquée dans notre article sur [la façon dont Google choisit les trois cabinets de la carte](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/). Le [test de votre référencement](https://developpia.fr/tester-mon-referencement/) fait ce relevé à votre place. Une fois les fiches en ordre, la question suivante se pose d'elle-même : chaque praticien a-t-il, sur le site, une page à son nom que sa fiche peut désigner.
 
 ## Questions fréquentes
 

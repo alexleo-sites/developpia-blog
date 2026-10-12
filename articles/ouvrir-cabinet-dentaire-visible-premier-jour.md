@@ -112,7 +112,7 @@ Le matin de l'ouverture, prenez dix minutes, coupez le wifi et ouvrez une fenêt
 5. Appuyez sur le bouton de rendez-vous. Il doit ouvrir l'agenda en un geste.
 6. Tapez votre nom de praticien. Notez ce qui sort en premier : souvent un annuaire ou la page de rendez-vous en ligne, comme l'explique notre guide [Doctolib passe devant mon site](https://developpia.fr/guides/doctolib-devant-mon-site/).
 
-Chaque différence se corrige le jour même. Au troisième mois, le [test gratuit de votre référencement](https://developpia.fr/tester-mon-referencement/) montre où en est le cabinet sur Google et dans les IA. Ensuite commence le travail de chaque mois : faire connaître le cabinet, page après page, et lire [les statistiques de la fiche Google du cabinet dentaire](https://developpia.fr/blog/statistiques-fiche-google-cabinet-dentaire/).
+Chaque différence se corrige le jour même. Au troisième mois, le [test gratuit de votre référencement](https://developpia.fr/tester-mon-referencement/) montre où en est le cabinet sur Google et dans les IA. Ensuite commence le travail de chaque mois, celui du [référencement local d'un cabinet dentaire](https://developpia.fr/referencement-dentiste/) : faire connaître le cabinet, page après page, et lire [les statistiques de la fiche Google du cabinet dentaire](https://developpia.fr/blog/statistiques-fiche-google-cabinet-dentaire/).
 
 ## Questions fréquentes
 
