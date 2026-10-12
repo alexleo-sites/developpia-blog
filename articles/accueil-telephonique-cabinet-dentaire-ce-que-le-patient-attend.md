@@ -15,7 +15,7 @@ Personne au cabinet ne voit cette scène. L'accueil téléphonique d'un cabinet 
 
 ## Pourquoi l'accueil téléphonique compte autant pour un cabinet dentaire ?
 
-Parce que l'appel transforme souvent une recherche en rendez-vous. Un patient qui vous trouve sur Google ou dans ChatGPT finit souvent par appuyer sur « Appeler ».
+Parce que l'appel transforme souvent une recherche en rendez-vous. Un patient qui vous trouve sur Google ou dans ChatGPT finit souvent par appuyer sur « Appeler ». Ces appuis se comptent chaque mois dans [les statistiques de la fiche Google d'un cabinet dentaire](https://developpia.fr/blog/statistiques-fiche-google-cabinet-dentaire/).
 
 La DREES, le service de statistiques du ministère de la Santé, a mesuré ce qui se passe quand cet appel échoue. Dans son enquête publiée en 2018, toutes professions de santé confondues, [22 % des demandes de rendez-vous ratées l'étaient faute de joindre le professionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf). Et dans 32 % des échecs, le patient renonçait tout simplement.
 

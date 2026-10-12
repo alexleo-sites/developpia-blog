@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "statistiques-fiche-google-cabinet-dentaire",
+   "titre": "Statistiques de la fiche Google d'un cabinet dentaire : les chiffres à lire chaque mois",
+   "description": "Vues, appels, itinéraires, recherches : ce que mesure chaque statistique de la fiche Google du dentiste, ce qu'elle oublie et la lecture du mois en dix minutes.",
+   "date": "2026-10-12",
+   "lecture": "7 min",
+   "sujets": [
+    "Google Maps",
+    "mesurer"
+   ],
+   "resume": "Les statistiques de la fiche Google d'un cabinet dentaire expliquées une par une (vues, appels, itinéraires, clics vers le site, recherches), le tableau de lecture, la routine du mois et les vérifications quand un chiffre baisse."
+  },
+  {
    "slug": "ouvrir-cabinet-dentaire-visible-premier-jour",
    "titre": "Ouvrir un cabinet dentaire : être visible sur Google dès le premier jour",
    "description": "Nom, fiche Google, site, téléphone, rendez-vous : le calendrier à suivre avant d'ouvrir votre cabinet dentaire, de six mois avant au troisième mois après.",
@@ -12,7 +24,8 @@
     "Google Maps",
     "visibilité"
    ],
-   "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour."
+   "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
+   "modifie": "2026-10-12"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
@@ -121,7 +134,7 @@
     "mesurer"
    ],
    "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
-   "modifie": "2026-10-09"
+   "modifie": "2026-10-12"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",
