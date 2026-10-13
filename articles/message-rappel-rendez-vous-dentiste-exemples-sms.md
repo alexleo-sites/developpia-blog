@@ -98,7 +98,7 @@ Un point mérite votre attention : l'outil qui envoie les SMS. S'il conserve des
 
 Un rappel qui dit « prévenez-nous » ne sert à rien si le patient tombe sur une sonnerie dans le vide. Or c'est souvent ce qui se passe : la patiente lit son SMS à 8 h, appelle pendant que l'équipe prépare la salle, et se dit qu'elle rappellera plus tard. Le créneau devient une absence.
 
-La DREES l'a mesuré : [22 % des demandes de rendez-vous ratées le sont faute de joindre le professionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf), toutes professions confondues, et dans 32 % des échecs, le patient renonce. Une annulation qui ne passe pas est un créneau perdu deux fois.
+La DREES l'a mesuré : [22 % des demandes de rendez-vous ratées le sont faute de joindre le professionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf), toutes professions confondues, et dans 32 % des échecs, le patient renonce. Une annulation qui ne passe pas est un créneau perdu deux fois. Ce téléphone sans réponse est l'une des six fuites qui pèsent sur la [rentabilité d'un cabinet dentaire](https://developpia.fr/blog/rentabilite-cabinet-dentaire-leviers-gratuits/).
 
 Trois façons de recevoir les annulations sans dépendre du téléphone :
 

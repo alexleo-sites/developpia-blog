@@ -71,7 +71,7 @@ Ce qui se confie bien, c'est ce qui se répète :
 
 - décrocher quand l'équipe est au fauteuil, et proposer un créneau selon vos règles ;
 - envoyer le rappel de la veille et recevoir les annulations ;
-- relancer les patients qui n'ont pas repris rendez-vous après un devis ou un contrôle.
+- relancer les patients qui n'ont pas repris rendez-vous après un devis ou un contrôle. Ces devis et ces contrôles oubliés font partie des [leviers de rentabilité d'un cabinet dentaire qui ne coûtent rien](https://developpia.fr/blog/rentabilite-cabinet-dentaire-leviers-gratuits/).
 
 Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) consulte l'agenda du praticien concerné, applique la conduite que vous avez fixée pour les urgences et vous résume chaque appel. Nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient les rappels et les relances avec des textes que vous validez. Les différentes façons de faire répondre le téléphone sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 

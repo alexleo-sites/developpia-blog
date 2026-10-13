@@ -1,6 +1,21 @@
 {
  "articles": [
   {
+   "slug": "rentabilite-cabinet-dentaire-leviers-gratuits",
+   "titre": "Rentabilité d'un cabinet dentaire : les leviers qui ne coûtent rien",
+   "description": "Rentabilité du cabinet dentaire : six fuites à corriger sans rien acheter (téléphone, absences, devis, contrôles, agenda) et le relevé d'une semaine.",
+   "date": "2026-10-13",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "téléphone",
+    "rendez-vous",
+    "mesurer",
+    "décider"
+   ],
+   "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer."
+  },
+  {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
    "titre": "Annuaire dentiste et référencement : lesquels comptent pour Google, lesquels font perdre du temps",
    "description": "Les annuaires de santé qui comptent pour le référencement d'un cabinet dentaire, ceux à ignorer, et la fiche de référence qui garde vos coordonnées justes.",
@@ -53,7 +68,7 @@
     "rendez-vous"
    ],
    "resume": "Les règles d'organisation de l'agenda d'un cabinet dentaire (urgences, premières consultations, soins longs, rendez-vous en ligne, rappels), la semaine type en tableau et la vérification en quatre semaines.",
-   "modifie": "2026-10-08"
+   "modifie": "2026-10-13"
   },
   {
    "slug": "message-rappel-rendez-vous-dentiste-exemples-sms",
@@ -66,7 +81,8 @@
     "rendez-vous",
     "téléphone"
    ],
-   "resume": "Six exemples de SMS de rappel pour un cabinet dentaire (avant-veille, veille, jour même, premier rendez-vous, devis, contrôle), le tableau des moments d'envoi, les règles de la CNIL et la vérification de vos messages."
+   "resume": "Six exemples de SMS de rappel pour un cabinet dentaire (avant-veille, veille, jour même, premier rendez-vous, devis, contrôle), le tableau des moments d'envoi, les règles de la CNIL et la vérification de vos messages.",
+   "modifie": "2026-10-13"
   },
   {
    "slug": "plaque-professionnelle-dentiste-reglementation",
