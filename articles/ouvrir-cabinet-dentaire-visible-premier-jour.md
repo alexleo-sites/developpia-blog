@@ -21,7 +21,7 @@ Or c'est en ligne que les patients cherchent : 59,8 % des Français cherchent de
 
 ## Le nom du cabinet et le nom de domaine, à choisir en premier
 
-Le nom se décide avant tout le reste, parce qu'il sera écrit partout : plaque, fiche Google, site, page de rendez-vous, annuaires.
+Le nom se décide avant tout le reste, parce qu'il sera écrit partout : plaque, fiche Google, site, page de rendez-vous, annuaires. Sur les annuaires, [le tri entre ceux qui comptent pour le référencement d'un dentiste et ceux qui font perdre du temps](https://developpia.fr/blog/annuaire-dentiste-referencement-lesquels-comptent/) évite de s'inscrire partout.
 
 Trois règles simples :
 

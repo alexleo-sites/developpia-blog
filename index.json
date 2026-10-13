@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "annuaire-dentiste-referencement-lesquels-comptent",
+   "titre": "Annuaire dentiste et référencement : lesquels comptent pour Google, lesquels font perdre du temps",
+   "description": "Les annuaires de santé qui comptent pour le référencement d'un cabinet dentaire, ceux à ignorer, et la fiche de référence qui garde vos coordonnées justes.",
+   "date": "2026-10-13",
+   "lecture": "7 min",
+   "sujets": [
+    "annuaires",
+    "cohérence des coordonnées",
+    "Google Maps"
+   ],
+   "resume": "Les annuaires utiles à un cabinet dentaire classés en quatre familles, la fiche de référence à tenir, ceux qu'il vaut mieux ignorer et la vérification en une soirée."
+  },
+  {
    "slug": "statistiques-fiche-google-cabinet-dentaire",
    "titre": "Statistiques de la fiche Google d'un cabinet dentaire : les chiffres à lire chaque mois",
    "description": "Vues, appels, itinéraires, recherches : ce que mesure chaque statistique de la fiche Google du dentiste, ce qu'elle oublie et la lecture du mois en dix minutes.",
@@ -10,7 +23,8 @@
     "Google Maps",
     "mesurer"
    ],
-   "resume": "Les statistiques de la fiche Google d'un cabinet dentaire expliquées une par une (vues, appels, itinéraires, clics vers le site, recherches), le tableau de lecture, la routine du mois et les vérifications quand un chiffre baisse."
+   "resume": "Les statistiques de la fiche Google d'un cabinet dentaire expliquées une par une (vues, appels, itinéraires, clics vers le site, recherches), le tableau de lecture, la routine du mois et les vérifications quand un chiffre baisse.",
+   "modifie": "2026-10-13"
   },
   {
    "slug": "ouvrir-cabinet-dentaire-visible-premier-jour",
@@ -25,7 +39,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-12"
+   "modifie": "2026-10-13"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
