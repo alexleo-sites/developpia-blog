@@ -80,7 +80,7 @@ Votre plaque est la première information que lit le patient sur place. Elle doi
 1. **Photographiez la plaque** de l'immeuble et celle de la porte, avec votre téléphone.
 2. **Relisez chaque mention.** Nom, prénoms, téléphone, horaires, conventionnement, titres. Rayez ce qui n'est plus vrai.
 3. **Vérifiez le conventionnement.** Si la plaque a été posée ou modifiée depuis 2018, il doit y figurer.
-4. **Ouvrez votre site** et comparez le nom, le téléphone et les horaires. Le site doit aussi indiquer vos honoraires et vos modes de paiement.
+4. **Ouvrez votre site** et comparez le nom, le téléphone et les horaires. Le site doit aussi indiquer vos honoraires et vos modes de paiement. Vérifiez aussi ses mentions légales et sa page sur [les données des patients au regard du RGPD](https://developpia.fr/blog/rgpd-cabinet-dentaire-registre-affiche-site/).
 5. **Ouvrez votre [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/)** et faites la même comparaison. Le nom de la fiche doit être celui de la plaque, sans ajout de ville ni de soin.
 6. **Notez les écarts** sur une feuille, et corrigez d'abord le support le plus facile à changer : la fiche et le site se modifient en quelques minutes, la plaque en quelques semaines.
 
