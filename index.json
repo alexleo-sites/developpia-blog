@@ -1,6 +1,21 @@
 {
  "articles": [
   {
+   "slug": "logiciel-dentaire-questions-agenda-telephone-ia",
+   "titre": "Logiciel dentaire : les questions à poser pour l'agenda, le téléphone et l'IA",
+   "description": "Avant de choisir ou de garder un logiciel dentaire : les questions sur l'agenda, le téléphone, l'IA, l'export des données, et un test à faire en démonstration.",
+   "date": "2026-10-15",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "rendez-vous",
+    "téléphone",
+    "les IA",
+    "décider"
+   ],
+   "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration."
+  },
+  {
    "slug": "rgpd-cabinet-dentaire-registre-affiche-site",
    "titre": "RGPD au cabinet dentaire : l'affiche, le registre et le site, ce qu'il faut vraiment faire",
    "description": "Le RGPD au cabinet dentaire en pratique : le registre, les durées de conservation, ce que dit le site, les outils à vérifier, et un contrôle en dix points.",
@@ -27,7 +42,8 @@
     "mesurer",
     "décider"
    ],
-   "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer."
+   "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.",
+   "modifie": "2026-10-15"
   },
   {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
@@ -150,7 +166,7 @@
     "décider"
    ],
    "resume": "Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil.",
-   "modifie": "2026-10-08"
+   "modifie": "2026-10-15"
   },
   {
    "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",

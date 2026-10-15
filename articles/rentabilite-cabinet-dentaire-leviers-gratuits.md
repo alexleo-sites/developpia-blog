@@ -57,7 +57,7 @@ Il ne s'agit pas de pousser le patient. Le code de déontologie interdit d'incit
 
 Un patient fidèle ne part pas en claquant la porte. Il oublie son contrôle, puis un deuxième, et revient trois ans plus tard pour une urgence, ou ne revient pas.
 
-Le levier est simple : savoir combien de patients n'ont pas été vus depuis plus d'un an. La plupart des logiciels de cabinet savent sortir cette liste. Si le vôtre ne le fait pas, demandez-le à son éditeur.
+Le levier est simple : savoir combien de patients n'ont pas été vus depuis plus d'un an. La plupart des logiciels de cabinet savent sortir cette liste. Si le vôtre ne le fait pas, demandez-le à son éditeur, avec [les autres questions à poser sur un logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/).
 
 Ensuite, le rappel. Un SMS de rappel de contrôle repose sur l'intérêt légitime du cabinet, pas sur le consentement : le patient est informé et peut s'y opposer (référentiel CNIL, 2020). La seule limite est de ne pas glisser de proposition commerciale dans un message de suivi. Des modèles prêts sont dans notre article sur [le message de rappel de rendez-vous chez le dentiste](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/).
 

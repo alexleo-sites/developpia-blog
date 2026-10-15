@@ -74,7 +74,7 @@ Posez ces questions à tout fournisseur, par écrit. Une réponse floue sur l'un
 7. Puis-je relire et modifier les textes des rappels avant tout envoi ?
 8. Si j'arrête, est-ce que je garde mon numéro et récupère mes données ?
 
-Les autres critères, comme les heures couvertes et le coût total, sont détaillés dans notre comparaison du [secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) répond pendant les soins, à midi et le soir, avec le numéro que vous avez déjà. Pour les messages de la veille et les devis à relancer, nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient des textes que vous validez avant tout envoi.
+Les autres critères, comme les heures couvertes et le coût total, sont détaillés dans notre comparaison du [secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). La question 6 dépend surtout de votre agenda : voyez [les questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/). Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) répond pendant les soins, à midi et le soir, avec le numéro que vous avez déjà. Pour les messages de la veille et les devis à relancer, nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient des textes que vous validez avant tout envoi.
 
 ## L'autre IA : celle que vos patients interrogent
 
