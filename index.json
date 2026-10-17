@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "alternative-doctolib-dentiste-ce-qu-il-faut-comparer",
+   "titre": "Alternative à Doctolib pour un cabinet dentaire : ce qu'il faut comparer",
+   "description": "Une alternative à Doctolib pour votre cabinet de dentiste ? Les sept critères à comparer, les règles selon le pays et un test en quinze minutes.",
+   "date": "2026-10-17",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "rendez-vous",
+    "site du cabinet",
+    "décider"
+   ],
+   "resume": "Les sept critères pour comparer une alternative à Doctolib dans un cabinet dentaire (agenda, liaison au logiciel, page publique, données, rappels, sortie, pays), le tableau des questions à poser, la place du lien de rendez-vous sur le site et le test en quinze minutes."
+  },
+  {
    "slug": "alternative-doctolib-cabinet-dentaire-que-comparer",
    "titre": "Alternative à Doctolib pour un cabinet dentaire : ce qu'il faut comparer avant de changer",
    "description": "Alternative à Doctolib pour un cabinet dentaire : les six points à comparer, un tableau de contrôle et ce que le changement ne règle pas.",
@@ -27,7 +41,8 @@
     "les IA",
     "décider"
    ],
-   "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration."
+   "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration.",
+   "modifie": "2026-10-17"
   },
   {
    "slug": "rgpd-cabinet-dentaire-registre-affiche-site",
@@ -57,7 +72,7 @@
     "décider"
    ],
    "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.",
-   "modifie": "2026-10-15"
+   "modifie": "2026-10-17"
   },
   {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
