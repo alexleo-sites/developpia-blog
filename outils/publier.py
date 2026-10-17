@@ -19,6 +19,10 @@ Ce que fait le script, dans l'ordre :
 5. Prévient Bing, Yandex et les autres moteurs IndexNow des adresses changées.
 6. Vérifie que l'adresse répond, et affiche le lien.
 
+Avant tout, le script relit GitHub et refuse un doublon : un deuxième article le même jour
+(sauf --deuxieme-du-jour), un sujet déjà coché par un autre passage, ou une recherche visée
+qui est déjà le titre d'un article publié (sauf --pas-un-doublon).
+
 --liens "sujets" liste les articles déjà en ligne : ceux qui partagent le plus de sujets d'abord
 et, à égalité, ceux qui reçoivent le moins de liens des autres articles. Ce sont les articles
 à relier au nouveau (CONSIGNES.md, « Relier le nouvel article aux anciens »).
@@ -328,6 +332,43 @@ def mots_absents_du_titre(recherche, titre):
             if not any(t == q or (len(q) >= 6 and len(t) >= 6 and t[:6] == q[:6]) for t in presents)]
 
 
+def etat_distant():
+    """index.json et sujets.md tels qu'ils sont sur GitHub, à la seconde près.
+
+    Deux passages de la routine ont tourné en même temps le 17/10/2026 et publié deux articles
+    sur le même sujet à 90 secondes d'écart : chacun ne voyait que sa copie locale. On relit donc
+    GitHub juste avant de publier."""
+    git("fetch", "-q", "origin")
+    amont = git("rev-parse", "--abbrev-ref", "@{u}")
+    index = json.loads(git("show", f"{amont}:index.json"))
+    index = index if isinstance(index, list) else index.get("articles", [])
+    return index, git("show", f"{amont}:sujets.md")
+
+
+def controler_doublons(slug, meta, sujet, articles, sujets_distants, deuxieme_du_jour, pas_un_doublon):
+    """Un article par jour, un sujet publié une seule fois, une recherche visée par une seule page."""
+    erreurs = []
+    autres = [a for a in articles if a["slug"] != slug and a.get("genre") != "lexique"]
+    if not deuxieme_du_jour:
+        du_jour = [a["slug"] for a in autres if a.get("date") == aujourdhui()]
+        if du_jour:
+            erreurs.append(f"un article est déjà publié aujourd'hui ({', '.join(du_jour)}) : un seul par jour. "
+                           "Si c'est voulu (publication à la main), relancer avec --deuxieme-du-jour")
+    if sujet:
+        cible = sujet.strip()[5:].strip() if sujet.strip().startswith("- [") else sujet.strip()
+        for l in sujets_distants.split("\n"):
+            if l.startswith("- [x]") and l[5:].strip().startswith(cible):
+                erreurs.append("ce sujet est déjà coché sur GitHub : un autre passage l'a publié pendant ce temps")
+                break
+    if sujet and sujet.count("|") >= 1 and not pas_un_doublon:
+        recherche = sujet.split("|")[1].strip()
+        for a in autres:
+            if mots_cles(recherche) and not mots_absents_du_titre(recherche, a["titre"].split(" : ")[0]):
+                erreurs.append(f"la recherche visée « {recherche} » est déjà le titre de {a['slug']} : doublon "
+                               "(si ce n'en est pas un, relancer avec --pas-un-doublon et le dire dans le compte rendu)")
+    return erreurs
+
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -342,7 +383,12 @@ def main():
 
     slug, meta, mots, erreurs = verifier(chemin)
     articles = charger_index()
-    if any(a["slug"] == slug for a in articles):
+    distants, sujets_distants = etat_distant()
+    connus = {a["slug"] for a in articles}
+    tous = articles + [a for a in distants if a["slug"] not in connus]
+    erreurs += controler_doublons(slug, meta, sujet, tous, sujets_distants,
+                                  "--deuxieme-du-jour" in args, "--pas-un-doublon" in args)
+    if any(a["slug"] == slug for a in tous):
         erreurs.append("ce slug est déjà dans index.json (article déjà publié)")
     if meta.get("date", "") > aujourdhui():
         erreurs.append(f"date {meta['date']} dans le futur : un article se publie le jour même, "
