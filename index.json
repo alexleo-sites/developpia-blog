@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "alternative-doctolib-cabinet-dentaire-que-comparer",
+   "titre": "Alternative à Doctolib pour un cabinet dentaire : ce qu'il faut comparer avant de changer",
+   "description": "Alternative à Doctolib pour un cabinet dentaire : les six points à comparer, un tableau de contrôle et ce que le changement ne règle pas.",
+   "date": "2026-10-17",
+   "lecture": "7 min",
+   "sujets": [
+    "rendez-vous",
+    "site du cabinet",
+    "décider",
+    "vie du cabinet"
+   ],
+   "resume": "Les six points à comparer avant de remplacer ou de compléter l'outil de rendez-vous en ligne du cabinet, le tableau de contrôle à remplir en démonstration et ce qu'un changement d'outil ne règle pas."
+  },
+  {
    "slug": "logiciel-dentaire-questions-agenda-telephone-ia",
    "titre": "Logiciel dentaire : les questions à poser pour l'agenda, le téléphone et l'IA",
    "description": "Avant de choisir ou de garder un logiciel dentaire : les questions sur l'agenda, le téléphone, l'IA, l'export des données, et un test à faire en démonstration.",
@@ -84,7 +98,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-13"
+   "modifie": "2026-10-17"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
@@ -248,7 +262,7 @@
     "décider"
    ],
    "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même.",
-   "modifie": "2026-10-06"
+   "modifie": "2026-10-17"
   },
   {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",

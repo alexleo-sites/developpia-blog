@@ -30,7 +30,7 @@ Répondez à ces quatre questions dans l'ordre. Un seul « non » suffit à reme
 3. **Le site se lit-il sans script, sur téléphone, et s'affiche-t-il vite ?** Les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. Un article affiché par script leur reste invisible.
 4. **Quelqu'un peut-il relire chaque article, au cabinet, avant sa publication ?** Le texte engage le praticien devant l'Ordre, quel que soit son auteur.
 
-Quatre « oui » : le blog devient utile. Sinon, le temps disponible va d'abord au site lui-même, et notre article sur [les sept erreurs des sites de cabinets dentaires](https://developpia.fr/blog/sept-erreurs-sites-cabinets-dentaires/) dit par où commencer.
+Quatre « oui » : le blog devient utile. Sinon, le temps disponible va d'abord au site lui-même, et notre article sur [les sept erreurs des sites de cabinets dentaires](https://developpia.fr/blog/sept-erreurs-sites-cabinets-dentaires/) dit par où commencer. Le bouton de rendez-vous du site compte aussi : comparez les outils avec notre article sur [l'alternative à Doctolib pour un cabinet dentaire](https://developpia.fr/blog/alternative-doctolib-cabinet-dentaire-que-comparer/).
 
 ## Les sujets qui amènent des patients, et ceux qui ne servent à rien
 

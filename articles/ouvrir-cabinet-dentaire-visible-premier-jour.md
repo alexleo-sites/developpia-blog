@@ -60,6 +60,8 @@ Les pages à avoir en ligne le premier jour :
 - l'accès : étage, code, transports, stationnement, accès en fauteuil roulant ;
 - le bouton de prise de rendez-vous et le numéro qu'on peut toucher pour appeler.
 
+Pour choisir l'outil derrière ce bouton, voyez [l'alternative à Doctolib pour un cabinet dentaire et ce qu'il faut comparer](https://developpia.fr/blog/alternative-doctolib-cabinet-dentaire-que-comparer/).
+
 Le reste viendra ensuite, page après page. La liste complète de ce que les patients cherchent se trouve dans notre article sur [les douze informations qu'un patient cherche sur le site d'un dentiste](https://developpia.fr/blog/douze-informations-patient-site-dentiste/).
 
 Un point compte dès le départ : le texte doit être écrit dans la page, pas affiché par un script, que les robots des IA ne lisent pas. Notre page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) explique comment nous construisons les sites des cabinets.
