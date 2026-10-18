@@ -18,7 +18,9 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 
 ## Ce que doit contenir un article
 
-- Entre 1 200 et 1 600 mots (hors questions fréquentes).
+- Entre 800 et 2 000 mots (hors questions fréquentes) : la longueur qu'il faut pour bien répondre,
+  pas plus. Google l'écrit : il n'y a pas de longueur idéale (guide de Google sur ses fonctionnalités
+  d'IA, 10/07/2026). Rythme : trois articles par semaine (Léo, 18/10/2026).
 - Un titre qui reprend la recherche visée dès le début, dans ses 70 premiers caractères (ce que
   Google affiche), en français naturel (pas de « : guide complet 2026 »).
 - Un titre court (`titre_court`), 60 caractères au plus, qui commence par la recherche visée :
@@ -32,8 +34,22 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - Au moins un élément que les premiers résultats de Google sur cette recherche n'ont pas : un
   exemple chiffré avec sa source, un tableau, une marche à suivre, une vérification que le
   dentiste peut faire lui-même.
+- **Au moins une expérience réelle, publiée par d'autres** (règle de Léo du 18/10/2026, d'après le
+  guide de Google : il veut un contenu tiré d'une vraie expérience, pas ce qu'une IA produirait
+  facilement). C'est une étude, une enquête, un relevé ou un cas chiffré publié par quelqu'un qui l'a
+  vraiment mesuré, sur un site de la liste « Sources d'études admises » plus bas. Dans le texte : le
+  chiffre, qui l'a mesuré, sur quoi ou sur combien (cabinets, patients, sites, recherches), et quand,
+  avec le lien vers la page. La page est ouverte et lue avant d'écrire. Son adresse va aussi dans
+  l'en-tête (`etude:`). On n'écrit jamais l'expérience de DeveloppIA ni celle d'un de nos clients
+  (pas pour le moment).
+- Fiable veut dire : on sait qui a mesuré, comment, sur combien et quand. Une étude d'un éditeur
+  d'outils (Ahrefs, Semrush, BrightLocal…) se cite comme telle : « selon une étude de l'éditeur
+  Ahrefs sur 137 000 sites (mai 2026) ». Pas fiable : un chiffre d'agence sans méthode, un chiffre
+  recopié de site en site sans origine, un sondage sans taille d'échantillon. En cas de doute, on
+  prend une autre étude ou on écrit sans chiffre.
 - Un chapô de deux ou trois phrases (champ `accroche`) qui dit ce que le lecteur va gagner.
-- 5 à 8 titres de niveau 2 (`##`), un toutes les 150 à 250 mots.
+- Des titres de niveau 2 (`##`) clairs, de 3 à 10 selon la longueur : un nouveau titre quand le
+  sujet change, jamais à intervalle fixe.
 - Exactement un encart (citation dont la première ligne est en gras) : la phrase à retenir.
 - Au moins une liste à puces, et un tableau ou une liste numérotée (étapes, comparaison, liste
   de contrôle).
@@ -42,7 +58,8 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
   données structurées FAQ.
 - Au moins trois liens internes vers nos pages (liste plus bas), dont la page d'offre la plus
   proche du sujet, et un ou deux liens vers une source officielle (Légifrance,
-  ordre-chirurgiens-dentistes.fr, aide Google, ameli.fr, Eurostat, Arcom).
+  ordre-chirurgiens-dentistes.fr, aide Google, ameli.fr, Eurostat, Arcom), en plus du lien vers
+  l'étude.
 - Au moins deux liens, dans le texte, vers des articles déjà publiés du blog, les plus
   proches du sujet (`python3 outils/publier.py --liens "vos sujets"` les liste). Le lexique
   ne compte pas dans ces deux liens.
@@ -50,8 +67,9 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - La description ne recopie pas le début du titre : elle dit ce que le lecteur obtient en lisant
   (Google réécrit une description qui répète le titre).
 - Un ou deux titres `##` formulés en question quand c'est naturel, et sous chaque `##` la réponse
-  dans les deux premières phrases : c'est le passage que les IA citent (un bloc autonome de 130 à
-  170 mots vaut mieux qu'une longue partie).
+  dans les premières phrases : le dentiste pressé lit le début. Aucune taille de bloc à respecter :
+  Google écrit qu'il n'est pas nécessaire de découper un texte en petits morceaux ni de le réécrire
+  pour ses IA (guide du 10/07/2026). On écrit pour le dentiste.
 - Aucun caractère invisible (espace de largeur nulle, marque de direction) : `publier.py` refuse.
 - Pas d'appel à l'action dans le texte : le gabarit ajoute le bouton « Demander mon
   diagnostic » sous chaque article.
@@ -97,7 +115,8 @@ référencement, en informatique ou en marketing doit tout comprendre du premier
   entrant »). Écrire le mot français, mettre le sigle entre parenthèses la première fois.
 - On dit ce qu'on fait et ce qui marche, jamais ce qu'on ne fait pas.
 - Aucune promesse de résultat. On explique, on montre, on laisse le lecteur juger.
-- Les exemples de cabinets sont inventés et signalés comme tels (« un cabinet fictif »).
+- Les exemples de cabinets sont inventés et signalés comme tels (« un cabinet fictif »). Ils
+  illustrent ; la preuve vient de l'expérience publiée par d'autres (plus haut).
 - Un article = un angle. Pas de « guide complet de tout ».
 
 ## Faits que l'on peut citer (avec leur source, telle quelle)
@@ -125,7 +144,17 @@ Internet et IA :
 - C'est le robot OAI-SearchBot qui fait apparaître un site dans ChatGPT (pas GPTBot).
 - Les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript : un site qui affiche son contenu par script est invisible pour eux.
 - Cloudflare bloque les robots des IA par défaut depuis juillet 2025.
-- Le fichier llms.txt n'a aucun effet prouvé sur le classement.
+- Le fichier llms.txt n'a aucun effet prouvé sur le classement. Google écrit qu'il n'utilise ni
+  fichier texte pour les IA, ni balisage spécial, ni Markdown, et qu'il n'est pas nécessaire de
+  découper les textes en petits morceaux (guide de Google, 10/07/2026) :
+  https://developers.google.com/search/docs/fundamentals/ai-optimization-guide
+- Pour Google, se préparer à ses réponses IA (Aperçus IA, Mode IA), c'est du référencement : elles
+  reposent sur les mêmes systèmes de classement que la recherche classique (même guide). Les
+  données structurées n'y sont pas obligatoires et aucun balisage spécial n'existe (même guide).
+- Google écrit qu'aucun outil extérieur n'a accès à ses données internes de classement (même guide).
+- Le rapport « IA générative » de la Search Console compte les affichages d'un site dans les Aperçus
+  IA et le Mode IA de Google, sans les clics (aide de la Search Console, 2026) :
+  https://support.google.com/webmasters/answer/16984139
 - On mesure une présence dans les IA en pourcentage de réponses, jamais une « position ».
 - Google n'affiche plus les questions fréquentes enrichies dans ses résultats depuis le 7 mai 2026, et les données structurées n'ont pas d'effet direct sur le classement (elles aident à comprendre la page).
 - Doctolib est utilisé par une majorité de cabinets ; sa page passe souvent devant le site du cabinet sur le nom du praticien. (Ne pas donner de prix ni de part de marché ; seule exception : les statistiques Doctolib des rendez-vous non honorés de la partie « Vie du cabinet ».)
@@ -188,6 +217,24 @@ Chiffres du métier et données :
 - Un tiret cadratin, un emoji, une phrase en anglais.
 - Du texte copié d'un autre site.
 
+## Sources d'études admises (pour l'expérience publiée par d'autres)
+
+L'étude de l'en-tête (`etude:`) doit être sur l'un de ces sites (sous-domaines compris) ;
+`publier.py` refuse les autres. La même liste est dans `outils/publier.py` (`ETUDES_ADMISES`) :
+toute nouvelle source s'ajoute aux deux endroits, jamais un site d'agence concurrente.
+
+- Organismes publics et officiels : drees.solidarites-sante.gouv.fr, insee.fr, europa.eu
+  (Eurostat), arcom.fr, cnil.fr, ameli.fr, has-sante.fr, santepubliquefrance.fr, sante.gouv.fr,
+  ars.sante.fr, irdes.fr, credoc.fr, economie.gouv.fr, ordre-chirurgiens-dentistes.fr,
+  legifrance.gouv.fr, conseil-constitutionnel.fr, service-public.fr.
+- Instituts d'études : mediametrie.fr, ifop.com, ipsos.com, elabe.fr, odoxa.fr, opinion-way.com.
+- Moteurs et plateformes, sur leurs propres données : developers.google.com, support.google.com,
+  blog.google, blogs.bing.com, doctolib.com, doctolib.fr, statcounter.com.
+- Recherche publiée : arxiv.org, aclanthology.org, dl.acm.org, nih.gov (PubMed),
+  cochranelibrary.com.
+- Études du métier publiées avec leur méthode : fiducial.fr, ahrefs.com, semrush.com,
+  brightlocal.com, whitespark.ca, moz.com, sterlingsky.ca.
+
 ## Nos pages à lier (adresses exactes)
 
 - https://developpia.fr/agence-communication-dentiste/ (Agence de communication pour dentiste)
@@ -224,6 +271,7 @@ date: 2026-09-12
 lecture: 7 min
 sujets: cadre de l'Ordre, site du cabinet
 resume: Une phrase pour la liste des articles.
+etude: https://drees.solidarites-sante.gouv.fr/... (l'expérience publiée par d'autres, aussi en lien dans le texte)
 ---
 ```
 
@@ -240,7 +288,7 @@ Le corps utilise seulement :
 ## Vérification avant publication (faite par `outils/publier.py`)
 
 1. En-tête complet, description entre 120 et 160 caractères, date au bon format.
-2. Entre 1 200 et 1 700 mots dans le corps (questions fréquentes comprises).
+2. Entre 800 et 2 000 mots dans le corps, et de 3 à 10 titres `##`.
 3. Aucun mot interdit, aucun tiret cadratin, aucun `#` de niveau 1, aucun HTML.
 4. Au moins trois liens vers developpia.fr et au moins un lien externe.
 5. Une section « Questions fréquentes » avec trois questions.
@@ -256,3 +304,6 @@ Le corps utilise seulement :
     tiers des mots manquant) ; la description, l'accroche et le nom du fichier en reprennent au
     moins la moitié (pluriels, formes proches et « dentaire » pour « dentiste » acceptés).
 11. Au moins un lien vers une page d'offre, et un tableau ou une liste numérotée.
+12. Un nouvel article a un champ `etude:` dont l'adresse est sur un site de « Sources d'études
+    admises », et cette même adresse est en lien dans le texte (depuis le 18/10/2026 ; les anciens
+    articles n'en ont pas et restent valables).

@@ -8,7 +8,9 @@ Ce que fait le script, dans l'ordre :
 1. Vérifie l'article contre CONSIGNES.md (en-tête, longueur, interdits, liens, FAQ, encart) :
    date du jour au plus tard, chaque lien interne mène à une page déjà en ligne (sans
    redirection, ancre comprise), au moins deux liens vers des articles déjà publiés, et au
-   moins deux anciens articles modifiés pour renvoyer vers lui, par ce seul lien.
+   moins deux anciens articles modifiés pour renvoyer vers lui, par ce seul lien. Depuis le
+   18/10/2026 : 800 à 2 000 mots, et un champ « etude » (expérience publiée par d'autres, sur un
+   site de ETUDES_ADMISES) dont l'adresse est en lien dans le texte.
    La moindre erreur arrête tout : rien n'est publié.
 2. Ajoute l'article à index.json (la liste que le site lit) et note la date du jour dans le
    champ « modifie » des anciens articles reliés (date du plan du site : Google les relit).
@@ -46,6 +48,18 @@ CLE_INDEXNOW = "6f6ba1667f13c0ba36df6c17605d8c2f"  # même valeur que le fichier
 MOTS_INTERDITS = [r"meilleur dentiste", r"pas cher", r"\bpromotion\b", r"\bspécialiste\b", "—", "–"]
 LIGNES_MAX_ANCIEN = 6  # un ancien article ne reçoit qu'un lien vers le nouveau : quelques lignes au plus
 PAGES_TOUJOURS = {"/", "/blog/", "/guides/", "/plan-du-site/"}  # en plus de « Nos pages à lier »
+# Sites où peut se trouver l'expérience publiée par d'autres (champ « etude », CONSIGNES.md, 18/10/2026).
+# Même liste que « Sources d'études admises » de CONSIGNES.md : ajouter aux deux endroits.
+ETUDES_ADMISES = (
+    "drees.solidarites-sante.gouv.fr", "insee.fr", "europa.eu", "arcom.fr", "cnil.fr", "ameli.fr", "has-sante.fr",
+    "santepubliquefrance.fr", "sante.gouv.fr", "ars.sante.fr", "irdes.fr", "credoc.fr", "economie.gouv.fr",
+    "ordre-chirurgiens-dentistes.fr", "legifrance.gouv.fr", "conseil-constitutionnel.fr", "service-public.fr",
+    "mediametrie.fr", "ifop.com", "ipsos.com", "elabe.fr", "odoxa.fr", "opinion-way.com",
+    "developers.google.com", "support.google.com", "blog.google", "blogs.bing.com", "doctolib.com", "doctolib.fr",
+    "statcounter.com",
+    "arxiv.org", "aclanthology.org", "dl.acm.org", "nih.gov", "cochranelibrary.com",
+    "fiducial.fr", "ahrefs.com", "semrush.com", "brightlocal.com", "whitespark.ca", "moz.com", "sterlingsky.ca",
+)
 
 
 def separer_en_tete(texte):
@@ -137,8 +151,8 @@ def verifier(chemin):
         termes = len(re.findall(r"^###\s", corps, re.M))
         if termes < 30:
             erreurs.append(f"{termes} termes ###, attendu au moins 30")
-    elif not 1100 <= mots <= 1750:
-        erreurs.append(f"{mots} mots dans le corps (attendu 1 200 à 1 600)")
+    elif not 800 <= mots <= 2000:
+        erreurs.append(f"{mots} mots dans le corps (attendu 800 à 2 000)")
     if re.search(r"^#\s", corps, re.M):
         erreurs.append("titre de niveau 1 (#) interdit, le titre vient de l'en-tête")
     if re.search(r"<[a-z][^>]*>", corps, re.I):
@@ -163,9 +177,23 @@ def verifier(chemin):
         if encarts != 1:
             erreurs.append(f"{encarts} encart(s), attendu exactement 1")
         h2 = len(re.findall(r"^##\s", principal, re.M))
-        if not 5 <= h2 <= 8:
-            erreurs.append(f"{h2} titres ##, attendu 5 à 8")
+        if not 3 <= h2 <= 10:
+            erreurs.append(f"{h2} titres ##, attendu 3 à 10")
     return slug, meta, mots, erreurs
+
+
+def controler_etude(meta, corps):
+    """Nouvel article : l'expérience publiée par d'autres, sur un site admis, citée en lien dans le texte.
+    Contrôlée seulement à la publication (les articles d'avant le 18/10/2026 n'ont pas ce champ)."""
+    adresse = meta.get("etude", "").strip()
+    if not adresse:
+        return ["en-tête : champ « etude » manquant (adresse de l'expérience publiée par d'autres, CONSIGNES.md)"]
+    hote = (urlsplit(adresse).hostname or "").lower()
+    if not adresse.startswith("https://") or not any(hote == d or hote.endswith("." + d) for d in ETUDES_ADMISES):
+        return [f"étude sur un site non admis ({hote or adresse}) : voir « Sources d'études admises » de CONSIGNES.md"]
+    if f"]({adresse})" not in corps:
+        return ["l'adresse de l'étude (champ « etude ») n'est pas en lien dans le texte"]
+    return []
 
 
 def charger_index():
@@ -413,6 +441,7 @@ def main():
         corps_article = separer_en_tete(texte)[1]
         if not (re.search(r"^\|.*\|\s*$", corps_article, re.M) or re.search(r"^\d+\.\s", corps_article, re.M)):
             erreurs.append("ni tableau ni liste numérotée : en ajouter un (étapes, comparaison ou liste de contrôle)")
+        erreurs += controler_etude(meta, corps_article)
     avec_nouveau = articles + [{"slug": slug, "date": aujourdhui(), "titre": meta.get("titre", "")}]
     erreurs += controler_liens(texte, avec_nouveau)
     publies = [a["slug"] for a in articles if a.get("genre") != "lexique" and visible(a)]
