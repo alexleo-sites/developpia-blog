@@ -96,7 +96,7 @@ Beaucoup de cabinets changent d'outil en espérant sortir devant. Ça ne marche 
 
 Un changement d'outil a aussi un coût caché : le temps de l'équipe. Il faut ressaisir des habitudes, informer les patients, vérifier les rappels. Comptez une période de recouvrement où les deux outils tournent ensemble, et ne coupez l'ancien qu'une fois l'export vérifié.
 
-La bonne question n'est donc pas « quel outil remplace celui-ci ? », mais « qu'est-ce qui manque vraiment à mon cabinet ? ». Si la réponse est « de la visibilité », la solution est ailleurs que dans l'agenda. Notre article sur la [rentabilité sans dépense](https://developpia.fr/blog/rentabilite-cabinet-dentaire-leviers-gratuits/) commence par là.
+La bonne question n'est donc pas « quel outil remplace celui-ci ? », mais « qu'est-ce qui manque vraiment à mon cabinet ? ». Si la réponse est « de la visibilité », la solution est ailleurs que dans l'agenda. Notre article sur la [rentabilité sans dépense](https://developpia.fr/blog/rentabilite-cabinet-dentaire-leviers-gratuits/) commence par là. Les repères publics sur [le chiffre d'affaires d'un cabinet dentaire](https://developpia.fr/blog/chiffre-affaires-cabinet-dentaire-reperes-publics/) aident à situer ces dépenses.
 
 ## Questions fréquentes
 

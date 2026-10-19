@@ -17,7 +17,7 @@ Il existe une autre partie de la rentabilité, plus discrète : l'argent qui se 
 
 La rentabilité, c'est ce qui reste au cabinet une fois toutes les charges payées, rapporté à ce qu'il encaisse. Un repère public existe : l'Observatoire Fiducial des chirurgiens-dentistes (septembre 2026) relève, sur 400 cabinets, des honoraires moyens de 361 647 € en 2025 et un résultat d'exploitation de 38 %.
 
-Ce chiffre est une moyenne. Il ne dit rien de votre cabinet, et il ne sert pas à vous comparer à un confrère. Il montre surtout une chose : la plus grande part de ce que le cabinet encaisse part en charges, et ces charges sont pour l'essentiel fixes. Une heure de fauteuil perdue ne fait donc pas baisser les charges. Elle fait seulement baisser ce qui reste.
+Ce chiffre est une moyenne. Il ne dit rien de votre cabinet, et il ne sert pas à vous comparer à un confrère. Il montre surtout une chose : la plus grande part de ce que le cabinet encaisse part en charges, et ces charges sont pour l'essentiel fixes. Une heure de fauteuil perdue ne fait donc pas baisser les charges. Elle fait seulement baisser ce qui reste. Le détail poste par poste de ce repère est dans notre article sur [le chiffre d'affaires d'un cabinet dentaire et ses repères publics](https://developpia.fr/blog/chiffre-affaires-cabinet-dentaire-reperes-publics/).
 
 Voilà pourquoi les leviers « qui ne coûtent rien » pèsent autant. Ils ne demandent pas de travailler plus. Ils demandent de ne plus perdre ce qui était déjà là.
 

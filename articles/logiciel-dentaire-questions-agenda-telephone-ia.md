@@ -96,7 +96,7 @@ Une démonstration montre ce que l'éditeur veut montrer. Prenez la main pendant
 4. **Demandez la liste des devis remis le mois dernier, sans suite.** Même raison, pour les relances.
 5. **Demandez un exemple d'export** d'un dossier fictif, et ouvrez-le sur un autre ordinateur.
 
-Le cabinet de la Halle, notre exemple fictif, a fait ce test avec deux éditeurs. L'un a réussi les cinq étapes. L'autre n'a pas su sortir la liste des devis, et l'export n'existait qu'en PDF. Le choix s'est fait en dix minutes.
+Le cabinet de la Halle, notre exemple fictif, a fait ce test avec deux éditeurs. L'un a réussi les cinq étapes. L'autre n'a pas su sortir la liste des devis, et l'export n'existait qu'en PDF. Le choix s'est fait en dix minutes. Pour situer le poids d'un logiciel parmi les autres charges, voir [le chiffre d'affaires d'un cabinet dentaire et ses repères publics](https://developpia.fr/blog/chiffre-affaires-cabinet-dentaire-reperes-publics/).
 
 Si vous gardez votre logiciel actuel, le même test vous dit ce qu'il vous manque. Et la question suivante devient celle de votre organisation : notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/) aide à décider qui répond au téléphone, et comment.
 

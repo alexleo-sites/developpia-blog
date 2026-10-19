@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "chiffre-affaires-cabinet-dentaire-reperes-publics",
+   "titre": "Chiffre d'affaires d'un cabinet dentaire : les repères publics, et comment les lire",
+   "description": "Chiffre d'affaires d'un cabinet dentaire : ce que mesurent les repères publics, où part chaque euro encaissé et un tableau à remplir avec votre comptable.",
+   "date": "2026-10-19",
+   "lecture": "6 min",
+   "sujets": [
+    "vie du cabinet",
+    "mesurer",
+    "décider"
+   ],
+   "resume": "Les repères publics du chiffre d'affaires d'un cabinet dentaire (Fiducial, DREES) expliqués simplement, la répartition des charges en tableau et la fiche à remplir avec votre comptable pour situer votre cabinet."
+  },
+  {
    "slug": "alternative-doctolib-cabinet-dentaire-que-comparer",
    "titre": "Alternative à Doctolib pour un cabinet dentaire : ce qu'il faut comparer avant de changer",
    "description": "Alternative à Doctolib pour un cabinet dentaire : les six points à comparer, un tableau de contrôle et ce que le changement ne règle pas.",
@@ -12,7 +25,8 @@
     "décider",
     "vie du cabinet"
    ],
-   "resume": "Les six points à comparer avant de remplacer ou de compléter l'outil de rendez-vous en ligne du cabinet, le tableau de contrôle à remplir en démonstration et ce qu'un changement d'outil ne règle pas."
+   "resume": "Les six points à comparer avant de remplacer ou de compléter l'outil de rendez-vous en ligne du cabinet, le tableau de contrôle à remplir en démonstration et ce qu'un changement d'outil ne règle pas.",
+   "modifie": "2026-10-19"
   },
   {
    "slug": "logiciel-dentaire-questions-agenda-telephone-ia",
@@ -28,7 +42,7 @@
     "décider"
    ],
    "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration.",
-   "modifie": "2026-10-17"
+   "modifie": "2026-10-19"
   },
   {
    "slug": "rgpd-cabinet-dentaire-registre-affiche-site",
@@ -58,7 +72,7 @@
     "décider"
    ],
    "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.",
-   "modifie": "2026-10-17"
+   "modifie": "2026-10-19"
   },
   {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
