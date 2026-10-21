@@ -17,7 +17,7 @@ Le logiciel dentaire, c'est le programme qui tient le dossier des patients, l'ag
 
 Parce que le logiciel n'est plus seul. Il y a quelques années, il suffisait qu'il tienne bien le dossier et la facturation. Aujourd'hui, d'autres outils doivent lui parler : la prise de rendez-vous en ligne, les rappels par SMS, l'assistant téléphonique, parfois un outil de dictée. Si vous pensez changer d'outil de rendez-vous, voici [les critères pour comparer une alternative à Doctolib](https://developpia.fr/blog/alternative-doctolib-cabinet-dentaire-que-comparer/).
 
-Un logiciel « ouvert » accepte ces échanges. Il laisse un autre outil lire les créneaux libres et y inscrire un rendez-vous, avec votre accord. Un logiciel « fermé » garde tout pour lui : chaque nouvel outil devient alors une seconde saisie pour l'assistante.
+Un logiciel « ouvert » accepte ces échanges. Il laisse un autre outil lire les créneaux libres et y inscrire un rendez-vous, avec votre accord. Un logiciel « fermé » garde tout pour lui : chaque nouvel outil devient alors une seconde saisie pour l'assistante. Ce temps de saisie se compte dès [la fiche de poste d'une assistante dentaire](https://developpia.fr/blog/fiche-poste-assistante-dentaire-modele-annonce/), dans la part du temps donnée à l'accueil.
 
 La plupart des comparatifs en ligne listent des fonctions : agenda, facturation, imagerie, télétransmission des feuilles de soins. Ces fonctions, presque tous les logiciels les ont. La vraie différence se joue sur trois points qu'on regarde rarement : ce que le logiciel laisse faire aux autres outils, ce qu'il fait des données de santé, et la façon d'en sortir.
 

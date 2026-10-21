@@ -86,7 +86,7 @@ Six fuites, c'est trop pour tout corriger en même temps. Le plus utile est de m
 
 La plupart de ces leviers se corrigent avec une habitude : une liste tenue, un appel le jeudi, un agenda redécoupé. Ils ne coûtent que de l'attention.
 
-Le problème apparaît quand l'attention manque. L'assistante est au fauteuil, le téléphone sonne, la liste des devis attend. Deux tâches se confient alors facilement, parce qu'elles se répètent et ne demandent pas de jugement médical :
+Le problème apparaît quand l'attention manque. L'assistante est au fauteuil, le téléphone sonne, la liste des devis attend : c'est pourquoi [la fiche de poste d'une assistante dentaire](https://developpia.fr/blog/fiche-poste-assistante-dentaire-modele-annonce/) doit dire ce qui passe en premier. Deux tâches se confient alors facilement, parce qu'elles se répètent et ne demandent pas de jugement médical :
 
 - **répondre au téléphone** pendant les soins et hors des horaires, ce que fait un [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) relié à l'agenda ;
 - **relancer** les devis, les contrôles et les rendez-vous à reprendre.

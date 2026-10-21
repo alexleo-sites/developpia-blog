@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "fiche-poste-assistante-dentaire-modele-annonce",
+   "titre": "Fiche de poste d'une assistante dentaire : le modèle, et le texte de l'annonce",
+   "description": "Un modèle de fiche de poste d'assistante dentaire rubrique par rubrique, le texte d'annonce à adapter, ce qu'on peut confier à des outils et la relecture.",
+   "date": "2026-10-21",
+   "lecture": "7 min",
+   "sujets": [
+    "vie du cabinet",
+    "téléphone",
+    "rendez-vous",
+    "décider"
+   ],
+   "resume": "Le modèle de fiche de poste d'une assistante dentaire en tableau, le cadre à respecter, les chiffres de l'Insee sur le métier, la part du travail qu'on peut confier à des outils et le texte de l'annonce à reprendre."
+  },
+  {
    "slug": "chiffre-affaires-cabinet-dentaire-reperes-publics",
    "titre": "Chiffre d'affaires d'un cabinet dentaire : les repères publics, et comment les lire",
    "description": "Chiffre d'affaires d'un cabinet dentaire : ce que mesurent les repères publics, où part chaque euro encaissé et un tableau à remplir avec votre comptable.",
@@ -42,7 +56,7 @@
     "décider"
    ],
    "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration.",
-   "modifie": "2026-10-19"
+   "modifie": "2026-10-21"
   },
   {
    "slug": "rgpd-cabinet-dentaire-registre-affiche-site",
@@ -72,7 +86,7 @@
     "décider"
    ],
    "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.",
-   "modifie": "2026-10-19"
+   "modifie": "2026-10-21"
   },
   {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
