@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "photos-avant-apres-dentiste-ce-que-disent-les-textes",
+   "titre": "Photos avant et après sur un site de dentiste : ce que disent vraiment les textes",
+   "description": "Ce que le code, l'Ordre et le Luxembourg écrivent sur les photos avant et après, ce qu'en pense le public selon une étude, et une vérification en dix minutes.",
+   "date": "2026-10-23",
+   "lecture": "7 min",
+   "sujets": [
+    "cadre de l'Ordre",
+    "site du cabinet",
+    "réseaux sociaux",
+    "par type de cabinet"
+   ],
+   "resume": "Le statut exact des photos avant et après pour un dentiste en France (code, recommandations de l'Ordre, secret professionnel), la règle du Luxembourg, l'étude Meira sur 446 personnes, le tableau des situations du plus sûr au plus exposé et la vérification en dix minutes."
+  },
+  {
    "slug": "fiche-poste-assistante-dentaire-modele-annonce",
    "titre": "Fiche de poste d'une assistante dentaire : le modèle, et le texte de l'annonce",
    "description": "Un modèle de fiche de poste d'assistante dentaire rubrique par rubrique, le texte d'annonce à adapter, ce qu'on peut confier à des outils et la relecture.",
@@ -396,7 +410,7 @@
    ],
    "resume": "Les articles du code de déontologie qui encadrent un compte de cabinet, cités mot pour mot, la force exacte des trois sources de l'Ordre, et la liste de ce qui n'est écrit nulle part.",
    "ordre": 6,
-   "modifie": "2026-09-28"
+   "modifie": "2026-10-23"
   },
   {
    "slug": "dentiste-influenceur-ce-que-l-ordre-autorise",
@@ -410,7 +424,7 @@
    ],
    "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
    "ordre": 4,
-   "modifie": "2026-09-29"
+   "modifie": "2026-10-23"
   },
   {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",

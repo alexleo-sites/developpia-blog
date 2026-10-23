@@ -84,7 +84,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Honoraires sur le site du cabinet : ce que la loi impose et comment les présenter | affichage honoraires dentiste site internet | l'obligation, les cinq actes, la façon claire de les montrer (publié le 2026-09-12, honoraires-site-cabinet-dentaire-obligation-presentation)
 - [x] Avis Google et cabinet dentaire : ce que dit vraiment le code de déontologie | avis google dentiste ordre | ce qui est écrit, ce que l'Ordre demande, la conduite prudente (publié le 2026-09-12, avis-google-cabinet-dentaire-code-deontologie)
 - [x] « Spécialiste » ou pas : les mentions que vous avez le droit d'afficher | dentiste spécialiste mention site | les trois spécialités, les DU, la formulation juste (publié le 2026-09-12, mentions-autorisees-site-dentiste-titres-diplomes-specialites)
-- [ ] Photos avant et après sur un site de dentiste : pourquoi l'Ordre les juge trompeuses | photos avant après dentiste | ce qu'on montre à la place
+- [x] Photos avant et après sur un site de dentiste : pourquoi l'Ordre les juge trompeuses | photos avant après dentiste | ce qu'on montre à la place (publié le 2026-10-23, photos-avant-apres-dentiste-ce-que-disent-les-textes)
 - [ ] ÉCARTÉ (08/10 : doublon du guide « ce que l'Ordre autorise » et des articles déontologie, publicité interdite et marketing dentaire) · La charte de communication de l'Ordre expliquée point par point | charte communication ordre chirurgiens dentistes | lecture simple de chaque point
 - [ ] ÉCARTÉ (08/10 : doublon des articles plaque professionnelle et reprise, et du guide « Doctolib devant mon site ») · Le nom du cabinet et le nom du praticien : ce qui se cherche, ce qui se trouve | nom cabinet dentaire google | cohérence du nom partout
 

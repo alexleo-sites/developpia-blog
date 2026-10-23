@@ -88,7 +88,7 @@ Sept points se vérifient avant toute mise en ligne, dans cet ordre.
 6. Aucun témoignage de patient, aucune note, aucune étoile affichée.
 7. Validation écrite du praticien avant publication, car c'est lui qui répond devant l'Ordre.
 
-Le premier point est le plus strict. Le secret professionnel, posé par les articles R.4127-206 et R.4127-208, est un principe dont le patient ne peut pas délier le praticien.
+Le premier point est le plus strict. Le secret professionnel, posé par les articles R.4127-206 et R.4127-208, est un principe dont le patient ne peut pas délier le praticien. Les [photos avant et après d'un dentiste](https://developpia.fr/blog/photos-avant-apres-dentiste-ce-que-disent-les-textes/) suivent la même règle dès que le patient est reconnaissable.
 
 ## Informer sans devenir influenceur
 
