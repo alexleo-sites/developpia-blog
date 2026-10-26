@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "vitesse-site-dentiste-verifier-telephone",
+   "titre": "Vitesse du site d'un dentiste : la vérifier sur téléphone en cinq minutes",
+   "description": "Mesurer la vitesse de votre site de dentiste : le test gratuit de Google, les trois chiffres et leurs seuils officiels, puis six gestes sur téléphone.",
+   "date": "2026-10-26",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "mesurer"
+   ],
+   "resume": "Comment vérifier la vitesse et l'affichage sur téléphone du site d'un cabinet dentaire : le test PageSpeed Insights, les trois signaux de Google et leurs seuils, l'étude Ahrefs sur 43,66 millions de pages, six gestes sur téléphone et le tableau des causes."
+  },
+  {
    "slug": "photos-avant-apres-dentiste-ce-que-disent-les-textes",
    "titre": "Photos avant et après sur un site de dentiste : ce que disent vraiment les textes",
    "description": "Ce que le code, l'Ordre et le Luxembourg écrivent sur les photos avant et après, ce qu'en pense le public selon une étude, et une vérification en dix minutes.",
@@ -141,7 +153,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-17"
+   "modifie": "2026-10-26"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
@@ -305,7 +317,7 @@
     "décider"
    ],
    "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même.",
-   "modifie": "2026-10-17"
+   "modifie": "2026-10-26"
   },
   {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",
