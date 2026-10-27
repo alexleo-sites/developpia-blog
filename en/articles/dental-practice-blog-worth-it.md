@@ -100,7 +100,7 @@ If the website itself is in question, our article on [redesigning a dental pract
 
 ### Is a blog essential for a dental practice's SEO?
 
-No. A practice can rank well on Google with a complete website, one page per treatment and an up-to-date Google Business Profile. A blog adds patients who have a question before they start looking for a dentist. It comes after the treatment pages, never instead of them.
+No. [Dental SEO](https://en.developpia.fr/dental-seo/) rests first on a complete website, one page per treatment and an up-to-date Google Business Profile: a practice can rank well on Google without a blog. A blog adds patients who have a question before they start looking for a dentist. It comes after the treatment pages, never instead of them.
 
 ### How many articles a month should a dental practice blog publish?
 

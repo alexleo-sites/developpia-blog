@@ -99,7 +99,7 @@ Si le site lui-même pose question, notre article sur [refaire le site d'un cabi
 
 ### Un blog est-il indispensable pour le référencement d'un cabinet dentaire ?
 
-Non. Un cabinet peut être bien trouvé sur Google avec un site complet, une page par soin et une fiche Google à jour. Le blog apporte en plus des patients qui se posent une question avant de chercher un praticien. Il vient après les pages de soins, jamais à leur place.
+Non. Le [référencement dentiste](https://developpia.fr/referencement-dentiste/) repose d'abord sur un site complet, une page par soin et une fiche Google à jour : un cabinet peut être bien trouvé sur Google sans blog. Le blog apporte en plus des patients qui se posent une question avant de chercher un praticien. Il vient après les pages de soins, jamais à leur place.
 
 ### Combien d'articles faut-il publier par mois sur le blog d'un cabinet ?
 

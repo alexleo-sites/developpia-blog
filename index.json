@@ -125,7 +125,8 @@
     "cohérence des coordonnées",
     "Google Maps"
    ],
-   "resume": "Les annuaires utiles à un cabinet dentaire classés en quatre familles, la fiche de référence à tenir, ceux qu'il vaut mieux ignorer et la vérification en une soirée."
+   "resume": "Les annuaires utiles à un cabinet dentaire classés en quatre familles, la fiche de référence à tenir, ceux qu'il vaut mieux ignorer et la vérification en une soirée.",
+   "modifie": "2026-10-27"
   },
   {
    "slug": "statistiques-fiche-google-cabinet-dentaire",
@@ -317,7 +318,7 @@
     "décider"
    ],
    "resume": "Le test en quatre questions avant d'ouvrir un blog, le tableau des sujets qui servent et de ceux qui ne servent à rien, le rythme tenable, la ligne de l'Ordre et la vérification à faire soi-même.",
-   "modifie": "2026-10-26"
+   "modifie": "2026-10-27"
   },
   {
    "slug": "fiche-google-cabinet-dentaire-plusieurs-praticiens",
