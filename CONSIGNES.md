@@ -206,6 +206,7 @@ Chiffres du métier et données :
 
 ## Interdits absolus
 
+- Jamais le prénom, le nom, la photo ou le parcours d'une personne de DeveloppIA (ni fondateurs, ni équipe nommée) : seulement « DeveloppIA », « nous » ou « notre équipe » (décision du 28/10/2026).
 - Un prix ou un tarif de DeveloppIA.
 - Une promesse de position (« premier sur Google », « en tête en 3 mois »), même conditionnelle.
 - Un témoignage de dentiste, de patient, nominatif ou anonyme.
