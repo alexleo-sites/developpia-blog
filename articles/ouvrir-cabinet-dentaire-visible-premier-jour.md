@@ -49,7 +49,7 @@ Ce que la fiche doit contenir, champ par champ, est repris sur notre page [fiche
 
 ## Le site du cabinet : quelques pages justes plutôt qu'un grand site en retard
 
-Le jour de l'ouverture, le site n'a pas besoin d'être complet. Il doit être juste.
+Le jour de l'ouverture, le site n'a pas besoin d'être complet. Il doit être juste, et écrit avec [les mots clés que tapent les patients d'un dentiste](https://developpia.fr/blog/mots-cles-dentiste-mots-des-patients/) plutôt qu'avec ceux du métier.
 
 Les pages à avoir en ligne le premier jour :
 

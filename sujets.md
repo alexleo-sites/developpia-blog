@@ -96,7 +96,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [ ] ÉCARTÉ (doublon : article « douze informations » et sujet « prise de rendez-vous en ligne ») · Le parcours du patient sur votre site : de la recherche au rendez-vous | site dentiste prise de rendez-vous | chaque étape, chaque perte possible
 - [ ] ÉCARTÉ (doublon : articles « une page par soin » et « implantologue ») · Page implantologie : la structure qui répond aux questions des patients | page implantologie site dentiste | déroulé, durée, suites, alternatives, honoraires
 - [ ] ÉCARTÉ (fusionné dans le sujet esthétique de la partie 0) · Facettes et esthétique dentaire : informer sans faire de la réclame | site dentiste esthétique facettes | la ligne entre information et publicité
-- [ ] Blanchiment, aligneurs, mâchoire complète : les mots que les patients tapent vraiment | mots clés dentiste | vocabulaire des patients contre vocabulaire des praticiens
+- [x] Blanchiment, aligneurs, mâchoire complète : les mots que les patients tapent vraiment | mots clés dentiste | vocabulaire des patients contre vocabulaire des praticiens (publié le 2026-10-28, mots-cles-dentiste-mots-des-patients)
 
 ## C. Google et Google Maps
 

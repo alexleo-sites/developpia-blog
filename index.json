@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "mots-cles-dentiste-mots-des-patients",
+   "titre": "Mots clés de dentiste : les mots que les patients tapent vraiment, soin par soin",
+   "description": "Les mots clés qu'un patient tape pour trouver un dentiste, face à ceux du métier : le tableau soin par soin, la méthode gratuite et où placer chaque mot.",
+   "date": "2026-10-28",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "visibilité",
+    "mesurer",
+    "par type de cabinet"
+   ],
+   "resume": "Le tableau des mots du praticien face aux mots des patients pour huit familles de soins, l'étude Ahrefs sur les petites recherches, la méthode en six étapes pour trouver les mots de vos patients et la place de chaque mot sur le site et la fiche Google."
+  },
+  {
    "slug": "vitesse-site-dentiste-verifier-telephone",
    "titre": "Vitesse du site d'un dentiste : la vérifier sur téléphone en cinq minutes",
    "description": "Mesurer la vitesse de votre site de dentiste : le test gratuit de Google, les trois chiffres et leurs seuils officiels, puis six gestes sur téléphone.",
@@ -24,7 +38,8 @@
     "réseaux sociaux",
     "par type de cabinet"
    ],
-   "resume": "Le statut exact des photos avant et après pour un dentiste en France (code, recommandations de l'Ordre, secret professionnel), la règle du Luxembourg, l'étude Meira sur 446 personnes, le tableau des situations du plus sûr au plus exposé et la vérification en dix minutes."
+   "resume": "Le statut exact des photos avant et après pour un dentiste en France (code, recommandations de l'Ordre, secret professionnel), la règle du Luxembourg, l'étude Meira sur 446 personnes, le tableau des situations du plus sûr au plus exposé et la vérification en dix minutes.",
+   "modifie": "2026-10-28"
   },
   {
    "slug": "fiche-poste-assistante-dentaire-modele-annonce",
@@ -154,7 +169,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-26"
+   "modifie": "2026-10-28"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
