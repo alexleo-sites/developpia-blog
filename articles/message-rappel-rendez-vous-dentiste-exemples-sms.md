@@ -4,6 +4,7 @@ titre_court: Message de rappel de rendez-vous dentiste : exemples
 description: Six exemples de message de rappel de rendez-vous chez le dentiste à recopier (veille, premier rendez-vous, devis), le bon moment et les règles CNIL.
 accroche: Un bon message de rappel de rendez-vous chez le dentiste tient en deux lignes et fait gagner des heures de fauteuil. Voici six exemples de SMS prêts à reprendre, le moment idéal pour chacun, ce qu'il ne faut jamais y écrire et une vérification en cinq minutes de vos propres messages.
 date: 2026-10-08
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, rendez-vous, téléphone
 resume: Six exemples de SMS de rappel pour un cabinet dentaire (avant-veille, veille, jour même, premier rendez-vous, devis, contrôle), le tableau des moments d'envoi, les règles de la CNIL et la vérification de vos messages.
@@ -104,7 +105,7 @@ Trois façons de recevoir les annulations sans dépendre du téléphone :
 
 - un lien vers l'agenda en ligne, qui permet d'annuler sans appeler ;
 - une réponse par SMS, si votre outil la lit et met l'agenda à jour ;
-- un assistant qui décroche quand l'équipe est au fauteuil. Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) prend les annulations et propose la place libérée selon vos règles.
+- une personne ou un outil qui décroche quand l'équipe est au fauteuil : secrétaire, télésecrétariat ou assistant téléphonique, comparés dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 
 Ce que vit le patient au bout du fil est détaillé dans notre article sur [l'accueil téléphonique d'un cabinet dentaire](https://developpia.fr/blog/accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend/).
 
@@ -118,7 +119,7 @@ Avant de changer quoi que ce soit, regardez ce que reçoivent vraiment vos patie
 4. **Appelez ce numéro à 8 h 30 un jour de semaine.** Si personne ne décroche et qu'aucun message n'est possible, l'annulation n'arrivera pas.
 5. **Comptez les messages reçus.** Si l'agenda en ligne et le logiciel du cabinet envoient chacun un rappel, gardez-en un seul.
 
-Ces cinq points corrigés, il reste à mesurer ce que vos absences vous coûtent vraiment. Notre [calculateur des rendez-vous manqués](https://developpia.fr/calculateur-rendez-vous-manques/) les traduit en heures de fauteuil. Et si vous voulez que ces rappels, comme ceux des devis et des contrôles, partent sans y penser, nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient des textes que vous validez avant tout envoi.
+Ces cinq points corrigés, regardez aussi ce que trouve le patient qui veut déplacer son rendez-vous sans attendre votre message : des horaires justes et un lien de rendez-vous visible sur [le site internet du cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) et sur sa fiche Google lui évitent d'appeler. Pour voir ensuite ce qu'un patient de plus par semaine change pour le cabinet, faites le calcul avec notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/).
 
 Une fois les rappels en place, la question suivante se pose d'elle-même : quelles autres tâches du cabinet peuvent être confiées, sans rien perdre du lien avec les patients.
 

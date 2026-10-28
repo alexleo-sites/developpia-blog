@@ -4,6 +4,7 @@ titre_court: Ouvrir un cabinet dentaire : visible dès le premier jour
 description: Nom, fiche Google, site, téléphone, rendez-vous : le calendrier à suivre avant d'ouvrir votre cabinet dentaire, de six mois avant au troisième mois après.
 accroche: Ouvrir un cabinet dentaire, c'est aussi ouvrir une adresse que personne ne connaît encore, ni les patients ni Google. Voici ce qu'il faut préparer en ligne avant l'ouverture, dans quel ordre, et la vérification à faire le premier jour depuis votre téléphone.
 date: 2026-10-09
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, site du cabinet, Google Maps, visibilité
 resume: Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.
@@ -75,7 +76,7 @@ Pour un cabinet neuf, l'enjeu est simple : chaque appel manqué est un patient q
 Trois choses à régler avant l'ouverture :
 
 - **Le message d'accueil.** Le nom du cabinet, les horaires, et ce qu'il faut faire le dimanche en cas d'urgence.
-- **Qui décroche pendant les soins.** L'assistante, un télésecrétariat ou notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/), qui répond quand l'équipe est au fauteuil.
+- **Qui décroche pendant les soins.** L'assistante, un télésecrétariat ou un assistant téléphonique, qui répond quand l'équipe est au fauteuil. Les trois solutions sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 - **Le lien de rendez-vous.** Le bouton du site et celui de la fiche mènent directement à l'agenda en ligne, sans page intermédiaire. Les règles pour construire cet agenda dès le départ sont dans notre article sur [l'organisation de l'agenda d'un cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/).
 
 ## Ce que l'Ordre permet pour annoncer l'ouverture

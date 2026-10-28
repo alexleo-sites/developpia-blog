@@ -4,6 +4,7 @@ titre_court: Organisation de l'agenda d'un cabinet dentaire
 description: Plages d'urgence, premières visites, rappels : les règles d'organisation de l'agenda d'un cabinet dentaire et une vérification en quatre semaines.
 accroche: L'organisation de l'agenda d'un cabinet dentaire décide de vos journées bien plus que le nombre de patients. Voici les règles simples qui évitent les trous et les débordements, une semaine type à recopier, et une vérification en quatre semaines pour savoir ce qui coince chez vous.
 date: 2026-10-08
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, téléphone, rendez-vous
 resume: Les règles d'organisation de l'agenda d'un cabinet dentaire (urgences, premières consultations, soins longs, rendez-vous en ligne, rappels), la semaine type en tableau et la vérification en quatre semaines.
@@ -73,7 +74,7 @@ Ce qui se confie bien, c'est ce qui se répète :
 - envoyer le rappel de la veille et recevoir les annulations ;
 - relancer les patients qui n'ont pas repris rendez-vous après un devis ou un contrôle. Ces devis et ces contrôles oubliés font partie des [leviers de rentabilité d'un cabinet dentaire qui ne coûtent rien](https://developpia.fr/blog/rentabilite-cabinet-dentaire-leviers-gratuits/).
 
-Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) consulte l'agenda du praticien concerné, applique la conduite que vous avez fixée pour les urgences et vous résume chaque appel. Nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient les rappels et les relances avec des textes que vous validez. Les différentes façons de faire répondre le téléphone sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
+Un assistant téléphonique ou un télésecrétariat peut consulter l'agenda du praticien concerné, appliquer la conduite que vous avez fixée pour les urgences et vous résumer chaque appel, si votre logiciel le permet : voyez les [questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/). Ce qu'un outil d'IA peut prendre, et ce qui reste à l'équipe, est détaillé dans notre article sur [l'IA au cabinet dentaire](https://developpia.fr/blog/ia-cabinet-dentaire-ce-qui-sert-vraiment/). Les différentes façons de faire répondre le téléphone sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 
 ## La vérification en quatre semaines
 
@@ -84,7 +85,7 @@ Avant de changer quoi que ce soit, regardez ce que fait vraiment votre agenda. C
 3. **Semaine 3 : mesurer le délai.** Pour chaque nouveau patient, notez la date de l'appel et la date du rendez-vous obtenu. Comparez avec la médiane de 24 jours mesurée par la DREES sans symptômes : si vous faites moins bien, vos plages de première consultation sont trop rares.
 4. **Semaine 4 : compter les appels sans réponse.** Votre opérateur ou votre standard indique souvent les appels manqués. Chacun peut être un rendez-vous perdu ou une annulation jamais reçue.
 
-Avec ces quatre chiffres, vous savez où agir en premier. Notre [calculateur des rendez-vous manqués](https://developpia.fr/calculateur-rendez-vous-manques/) transforme les deux derniers en heures de fauteuil et en honoraires perdus.
+Avec ces quatre chiffres, vous savez où agir en premier. Pour les absences et les appels sans réponse, multipliez le temps perdu par vos honoraires horaires : vous obtenez un ordre de grandeur de ce qu'ils coûtent. Et si l'agenda se remplit mal faute de nouveaux patients, notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/) montre ce qu'un patient de plus par semaine change pour le cabinet.
 
 Un agenda bien réglé libère du temps. La prochaine étape consiste à décider ce que l'équipe garde pour elle, et ce qu'elle peut confier sans rien perdre du lien avec les patients.
 

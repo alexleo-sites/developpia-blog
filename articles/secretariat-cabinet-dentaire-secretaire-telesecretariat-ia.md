@@ -4,6 +4,7 @@ titre_court: Secrétariat d'un cabinet dentaire : comment choisir
 description: Les critères qui départagent secrétaire, télésecrétariat et IA pour le secrétariat du cabinet dentaire, et les dix questions à poser avant de signer.
 accroche: Le secrétariat d'un cabinet dentaire peut reposer sur une secrétaire au cabinet, un télésecrétariat à distance ou un assistant qui fonctionne avec l'intelligence artificielle. Voici les critères qui tranchent vraiment entre les trois, le tableau pour les comparer d'un coup d'œil, et les dix questions à poser avant de signer quoi que ce soit.
 date: 2026-10-05
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, décider
 resume: Secrétaire, télésecrétariat ou assistant IA : les cinq critères qui tranchent, le tableau de comparaison, les règles sur les données de santé et les dix questions à poser avant de signer.
@@ -95,11 +96,11 @@ Une réponse floue à la question 3, 7 ou 8 suffit à écarter une solution. Les
 
 Il suffit d'une semaine de comptage. Relevez chaque soir le nombre d'appels manqués que votre ligne enregistre, à quelle heure ils tombent, et combien ont été rappelés. Faites aussi appeler le cabinet par un proche, à trois moments différents, en jouant un nouveau patient.
 
-Si les appels manqués se concentrent sur la pause de midi ou pendant les soins longs, un renvoi sur ces seules heures peut suffire. S'ils tombent toute la journée, le problème vient de la charge de travail, pas des horaires. Notre [calculateur des rendez-vous manqués et des appels perdus](https://developpia.fr/calculateur-rendez-vous-manques/) traduit ce relevé en heures de fauteuil.
+Si les appels manqués se concentrent sur la pause de midi ou pendant les soins longs, un renvoi sur ces seules heures peut suffire. S'ils tombent toute la journée, le problème vient de la charge de travail, pas des horaires. Chaque appel jamais rappelé peut être un patient perdu : notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/) montre ce qu'un patient de plus par semaine change pour le cabinet.
 
 Ce comptage sert aussi à juger le reste de votre communication. Un patient qui vous trouve sur Google mais n'obtient personne ne compte nulle part : c'est pourquoi les appels font partie des [quatre chiffres qui mesurent le résultat d'un référencement dentaire](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/). Pensez enfin à afficher les heures où l'on vous joint sur le site et sur la [fiche Google du cabinet](https://developpia.fr/fiche-google-dentiste/).
 
-Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) garde votre numéro, se signale comme IA, propose un créneau libre et passe la main à l'équipe pour une urgence. Après l'appel, les [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) s'occupent des devis en attente et des contrôles oubliés. Le bon secrétariat est celui qui laisse votre équipe soigner pendant que chaque patient repart avec une date.
+Avant de choisir, vérifiez aussi que votre agenda peut être relié à l'outil retenu : les [questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/) le disent. Pour les devis en attente et les contrôles oubliés, nos [exemples de message de rappel de rendez-vous](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/) donnent des textes prêts à adapter. Le bon secrétariat est celui qui laisse votre équipe soigner pendant que chaque patient repart avec une date.
 
 ## Questions fréquentes
 

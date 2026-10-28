@@ -9,8 +9,15 @@ ne respecte pas une seule règle de la partie « Interdits » ne se publie pas.
 Aux chirurgiens-dentistes libéraux en France (aussi Belgique, Suisse, Luxembourg), en
 particulier les cabinets qui posent des implants et font de l'esthétique dentaire.
 Depuis le 04/10/2026, on leur parle aussi de la vie du cabinet (téléphone, agenda, rendez-vous
-manqués, gestion, ouverture, obligations) : DeveloppIA vend aussi des services qui font gagner du
-temps et de l'argent au cabinet (gestion, assistant téléphonique IA).
+manqués, gestion, ouverture, obligations) : ce sont des questions qu'ils tapent vraiment, et chaque
+article les ramène, sans forcer, à ce que DeveloppIA fait : aider le cabinet à être trouvé (Google,
+Google Maps et la fiche Google, le site, les IA comme ChatGPT, les réseaux sociaux).
+Depuis le 28/10/2026, DeveloppIA ne propose plus d'assistant téléphonique, de relances automatiques
+des patients ni de calculateur des rendez-vous manqués. On peut parler de l'assistant téléphonique
+IA, du télésecrétariat ou des rappels par SMS comme d'options qui existent sur le marché, mais
+jamais comme des outils à nous : pas de « notre assistant », « nos relances », « nous mettons en
+place », aucune phrase qui présente DeveloppIA comme leur fournisseur, et aucun lien vers leurs
+anciennes pages (elles renvoient ailleurs).
 Ils sont pressés, méfiants envers les vendeurs, et ils ont peur de l'Ordre. On leur
 parle comme un confrère bien informé : vouvoiement, phrases courtes, mots simples,
 zéro jargon sans explication. Chaque article doit leur apprendre quelque chose de
@@ -29,7 +36,7 @@ concret qu'ils peuvent vérifier ou appliquer eux-mêmes.
 - Une recherche qu'aucune autre page du site ne vise déjà (titres de `index.json` et pages de
   « Nos pages à lier »). Les recherches commerciales, « création site internet dentiste »,
   « agence SEO dentiste », « agence de communication dentiste », « référencement dentiste », « fiche Google dentiste », « référencement
-  IA dentiste », « réseaux sociaux cabinet dentaire », « instagram cabinet dentaire », « assistant téléphonique IA cabinet dentaire », « télésecrétariat dentaire IA », « relances automatiques cabinet dentaire », « relance devis dentiste », « rappel patient dentiste », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
+  IA dentiste », « réseaux sociaux cabinet dentaire », « instagram cabinet dentaire », appartiennent aux pages d'offre : un article ne les prend jamais pour titre, il
   renvoie vers la page.
 - Au moins un élément que les premiers résultats de Google sur cette recherche n'ont pas : un
   exemple chiffré avec sa source, un tableau, une marche à suivre, une vérification que le
@@ -244,9 +251,7 @@ toute nouvelle source s'ajoute aux deux endroits, jamais un site d'agence concur
 - https://developpia.fr/fiche-google-dentiste/ (Fiche Google de dentiste)
 - https://developpia.fr/referencement-ia-dentiste/ (Référencement dans les IA)
 - https://developpia.fr/reseaux-sociaux-cabinet-dentaire/ (Réseaux sociaux du cabinet dentaire)
-- https://developpia.fr/assistant-telephonique-cabinet-dentaire/ (Assistant téléphonique IA pour cabinet dentaire : la page d'offre à lier pour tout sujet sur le téléphone, le secrétariat, les appels manqués, l'agenda)
-- https://developpia.fr/relances-automatiques-cabinet-dentaire/ (Relances automatiques des patients : la page d'offre à lier pour tout sujet sur les devis non signés, le rappel du contrôle annuel ou du détartrage, les rendez-vous à reprendre, le rappel de la veille)
-- https://developpia.fr/calculateur-rendez-vous-manques/ (outil gratuit : ce que coûtent les rendez-vous non honorés et les appels manqués)
+- https://developpia.fr/simulateur-de-rentabilite/ (outil gratuit : ce qu'un patient de plus par semaine change pour le cabinet, à partir de sources publiques citées ; à lier quand l'article parle des patients perdus ou de ce que rapporte d'être mieux trouvé)
 - https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/
 - https://developpia.fr/guides/doctolib-devant-mon-site/
 - https://developpia.fr/guides/apercus-ia-google-dentiste/

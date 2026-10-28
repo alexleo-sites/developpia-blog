@@ -4,6 +4,7 @@ titre_court: Rendez-vous non honoré chez le dentiste : que faire
 description: Les chiffres Doctolib du rendez-vous non honoré chez le dentiste, ce que la loi interdit de facturer et une méthode en cinq étapes pour réduire les absences.
 accroche: Le rendez-vous non honoré chez le dentiste coûte une heure de fauteuil vide et, parfois, un patient qui ne reviendra pas. Voici ce que disent les chiffres publics, ce que la loi vous permet vraiment, et une méthode simple pour mesurer puis réduire les absences dans votre propre cabinet.
 date: 2026-10-06
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, mesurer
 resume: Les chiffres Doctolib sur les dentistes, pourquoi un rendez-vous manqué ne se facture pas, ce qu'on peut afficher, le tableau des causes et la méthode en cinq étapes pour réduire les absences.
@@ -76,15 +77,15 @@ Refaites la mesure le mois suivant. Si le taux baisse, la méthode fonctionne. S
 
 Un rendez-vous manqué commence souvent par un appel sans réponse. La DREES, le service de statistiques du ministère de la Santé, a montré que [22 % des demandes de rendez-vous ratées l'étaient faute de joindre le professionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf) (étude publiée en 2018, toutes professions). Ce qui vaut pour prendre un rendez-vous vaut aussi pour l'annuler.
 
-Pendant un soin, l'équipe ne peut pas décrocher. Les solutions pour qu'une personne ou un programme réponde à sa place sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) décroche quand l'équipe est au fauteuil, note une annulation et propose le créneau libéré à un autre patient. Il garde votre numéro actuel.
+Pendant un soin, l'équipe ne peut pas décrocher. Les solutions pour qu'une personne ou un programme réponde à sa place sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Un outil ne peut proposer le créneau libéré à un autre patient que s'il voit l'agenda : les [questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/) vous disent si c'est possible chez vous.
 
-Le rappel de la veille et la relance des patients qui n'ont pas repris rendez-vous sont un autre volet. Nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient ces messages courts, sans contenu commercial, avec des textes que vous validez avant tout envoi.
+Le rappel de la veille et la relance des patients qui n'ont pas repris rendez-vous sont un autre volet. Nos [exemples de message de rappel de rendez-vous](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/) donnent des textes courts, sans contenu commercial, à adapter à votre cabinet.
 
 ## Ce que coûte une absence à votre cabinet
 
 Un fauteuil vide coûte le temps du praticien et de l'assistante, sans aucun honoraire en face. Le calcul dépend de la durée du rendez-vous, de vos honoraires horaires et du nombre d'absences par semaine.
 
-Plutôt qu'une moyenne nationale qui ne vous ressemble pas, faites le calcul avec vos propres chiffres. Notre [calculateur des rendez-vous manqués](https://developpia.fr/calculateur-rendez-vous-manques/) le fait en une minute, à partir du taux mesuré à l'étape 1. Il ajoute aussi le coût des appels manqués, souvent plus élevé qu'on ne le pense.
+Plutôt qu'une moyenne nationale qui ne vous ressemble pas, faites le calcul avec vos propres chiffres : le nombre d'absences de la semaine, tiré du taux mesuré à l'étape 1, multiplié par la durée moyenne d'un rendez-vous, puis par vos honoraires horaires. Ajoutez les appels manqués, souvent plus coûteux qu'on ne le pense. Pour l'autre sens du calcul, ce qu'un patient de plus par semaine change pour le cabinet, voyez notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/).
 
 Ce chiffre sert surtout à décider. Si vos absences coûtent peu, une affiche et des rappels suffisent. Si elles pèsent lourd, il devient utile de confier une partie du téléphone et des rappels, et de suivre le taux chaque mois, comme on suit le [résultat du référencement d'un cabinet dentaire](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/) en appels et en rendez-vous.
 

@@ -4,6 +4,7 @@ titre_court: Chiffre d'affaires d'un cabinet dentaire : repères publics
 description: Chiffre d'affaires d'un cabinet dentaire : ce que mesurent les repères publics, où part chaque euro encaissé et un tableau à remplir avec votre comptable.
 accroche: Le chiffre d'affaires d'un cabinet dentaire se compare vite à ce que l'on entend chez les confrères, sans savoir ce que chaque chiffre mesure. Voici les repères publics, ce qu'ils disent et ce qu'ils ne disent pas, avec un tableau pour situer vos propres charges.
 date: 2026-10-19
+maj: 2026-10-28
 lecture: 6 min
 sujets: vie du cabinet, mesurer, décider
 resume: Les repères publics du chiffre d'affaires d'un cabinet dentaire (Fiducial, DREES) expliqués simplement, la répartition des charges en tableau et la fiche à remplir avec votre comptable pour situer votre cabinet.
@@ -84,7 +85,7 @@ Cette fiche donne un point de départ honnête. Elle ne dit pas quoi décider : 
 
 Un cabinet n'augmente pas son chiffre d'affaires en facturant plus par acte : les honoraires sont encadrés par la convention, et le code de déontologie interdit d'inciter à des soins inutiles (article R.4127-215-1). Il augmente surtout en perdant moins : un patient qui trouve le cabinet, un appel qui obtient une réponse, un devis qui reçoit un suivi. Le premier maillon, c'est la [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) : c'est elle que le patient voit avant d'appeler.
 
-Pour estimer ce que valent vos appels manqués et vos absences, le [calculateur des rendez-vous manqués](https://developpia.fr/calculateur-rendez-vous-manques/) part de vos propres chiffres. Quand le téléphone sonne pendant un soin, un [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) peut répondre à votre place, et les [relances automatiques](https://developpia.fr/relances-automatiques-cabinet-dentaire/) suivent les devis restés sans réponse. Dans les deux cas, le praticien reste responsable des données de ses patients : [le RGPD au cabinet dentaire](https://developpia.fr/blog/rgpd-cabinet-dentaire-registre-affiche-site/) rappelle ce qu'il faut vérifier.
+Pour estimer ce que quelques patients de plus par semaine changeraient à ces repères, le [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/) s'appuie sur des sources publiques citées. Un patient qui ne trouve pas le cabinet n'appelle jamais : [les statistiques de la fiche Google](https://developpia.fr/blog/statistiques-fiche-google-cabinet-dentaire/) disent chaque mois combien de patients vous voient et vous appellent. Quand le téléphone sonne pendant un soin, les solutions pour décrocher sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Dans tous les cas, le praticien reste responsable des données de ses patients : [le RGPD au cabinet dentaire](https://developpia.fr/blog/rgpd-cabinet-dentaire-registre-affiche-site/) rappelle ce qu'il faut vérifier.
 
 La prochaine étape est simple : sortez votre dernier bilan, remplissez la première colonne de la fiche, et vous saurez en une heure où se trouve votre plus grand écart.
 

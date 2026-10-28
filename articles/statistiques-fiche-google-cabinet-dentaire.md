@@ -4,6 +4,7 @@ titre_court: Statistiques de la fiche Google d'un cabinet dentaire
 description: Vues, appels, itinéraires, recherches : ce que mesure chaque statistique de la fiche Google du dentiste, ce qu'elle oublie et la lecture du mois en dix minutes.
 accroche: Les statistiques de la fiche Google d'un cabinet dentaire tiennent sur un seul écran, mais chaque chiffre compte une chose différente. Voici ce que mesure chacun, ce qu'il ne mesure pas, et la lecture de dix minutes à faire chaque début de mois.
 date: 2026-10-12
+maj: 2026-10-28
 lecture: 7 min
 sujets: Google Maps, mesurer
 resume: Les statistiques de la fiche Google d'un cabinet dentaire expliquées une par une (vues, appels, itinéraires, clics vers le site, recherches), le tableau de lecture, la routine du mois et les vérifications quand un chiffre baisse.
@@ -86,7 +87,7 @@ Une baisse n'est pas toujours une mauvaise nouvelle, mais elle mérite trois min
 
 Si les vues baissent, vérifiez d'abord que la fiche est toujours en ligne et que ses horaires sont justes, jours fériés compris. Regardez ensuite sa catégorie principale : elle doit être « Dentiste » ou la spécialité reconnue du praticien. L'article sur [la façon dont Google choisit les trois cabinets de la carte](https://developpia.fr/blog/dentiste-ville-google-maps-trois-cabinets/) détaille ce qui fait monter ou descendre une fiche.
 
-Si les appels baissent alors que les vues tiennent, regardez le numéro affiché. Un ancien numéro, un standard qui sonne dans le vide ou un message d'absence trop long découragent le patient avant même qu'il appuie. Les appels manqués se règlent alors au cabinet, et la page [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) montre comment ne plus en perdre. Vérifiez aussi que ce numéro est le même dans les annuaires : [quels annuaires comptent pour le référencement d'un dentiste](https://developpia.fr/blog/annuaire-dentiste-referencement-lesquels-comptent/) donne le tri et la méthode.
+Si les appels baissent alors que les vues tiennent, regardez le numéro affiché. Un ancien numéro, un standard qui sonne dans le vide ou un message d'absence trop long découragent le patient avant même qu'il appuie. Les appels manqués se règlent alors au cabinet : les solutions pour qu'un appel ne sonne plus dans le vide sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Vérifiez aussi que ce numéro est le même dans les annuaires : [quels annuaires comptent pour le référencement d'un dentiste](https://developpia.fr/blog/annuaire-dentiste-referencement-lesquels-comptent/) donne le tri et la méthode.
 
 Si les clics vers le site baissent, ouvrez votre site sur un téléphone. Une page lente ou un lien de rendez-vous caché suffit à faire repartir le patient vers la fiche du cabinet voisin.
 

@@ -4,6 +4,7 @@ titre_court: Logiciel dentaire : les questions à poser avant de choisir
 description: Avant de choisir ou de garder un logiciel dentaire : les questions sur l'agenda, le téléphone, l'IA, l'export des données, et un test à faire en démonstration.
 accroche: Un logiciel dentaire se choisit pour dix ans, et on le juge souvent sur une démonstration de vingt minutes. Voici les questions qui comptent vraiment pour l'agenda, le téléphone et l'IA, le tableau des réponses à exiger et un test simple à faire vous-même avant de signer.
 date: 2026-10-15
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, rendez-vous, téléphone, les IA, décider
 resume: Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration.
@@ -50,9 +51,9 @@ La dernière réponse compte beaucoup. Certains éditeurs ne s'ouvrent qu'à leu
 
 Le téléphone sonne pendant un soin, l'assistante est au fauteuil. Selon la DREES, [22 % des demandes de rendez-vous ratées l'étaient faute de joindre le professionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/2020-08/er1085-2.pdf), et dans 32 % des échecs le patient renonçait (étude de 2018, toutes professions). Un outil qui répond à votre place n'est utile que s'il voit le vrai agenda.
 
-Avec un logiciel ouvert, un [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) propose un créneau réel, le pose dans l'agenda et laisse un résumé de l'appel. Avec un logiciel fermé, il note un message, et l'assistante rappelle plus tard. C'est mieux que rien, mais le patient raccroche sans rendez-vous.
+Avec un logiciel ouvert, un assistant téléphonique propose un créneau réel, le pose dans l'agenda et laisse un résumé de l'appel. Avec un logiciel fermé, il note un message, et l'assistante rappelle plus tard. C'est mieux que rien, mais le patient raccroche sans rendez-vous. Ce que ce patient attend au bout du fil est décrit dans notre article sur [l'accueil téléphonique d'un cabinet dentaire](https://developpia.fr/blog/accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend/).
 
-Même logique pour les rappels. Le message de la veille, la relance d'un devis ou du contrôle annuel partent de la liste des rendez-vous et des devis. Si le logiciel sait fournir cette liste à un autre outil, les [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) se font sans ressaisie. Sinon, quelqu'un recopie, et la tâche finit par sauter les semaines chargées.
+Même logique pour les rappels. Le message de la veille, la relance d'un devis ou du contrôle annuel partent de la liste des rendez-vous et des devis. Si le logiciel sait fournir cette liste à un autre outil, les rappels et les relances partent sans ressaisie, avec des textes comme nos [exemples de message de rappel de rendez-vous](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/). Sinon, quelqu'un recopie, et la tâche finit par sauter les semaines chargées.
 
 > **La question qui résume tout**
 > Demandez à l'éditeur : « Si je veux brancher demain un autre outil sur mon agenda, qu'est-ce que vous me permettez de faire, et à quelles conditions ? »

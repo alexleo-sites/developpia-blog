@@ -53,7 +53,8 @@
     "rendez-vous",
     "décider"
    ],
-   "resume": "Le modèle de fiche de poste d'une assistante dentaire en tableau, le cadre à respecter, les chiffres de l'Insee sur le métier, la part du travail qu'on peut confier à des outils et le texte de l'annonce à reprendre."
+   "resume": "Le modèle de fiche de poste d'une assistante dentaire en tableau, le cadre à respecter, les chiffres de l'Insee sur le métier, la part du travail qu'on peut confier à des outils et le texte de l'annonce à reprendre.",
+   "maj": "2026-10-28"
   },
   {
    "slug": "chiffre-affaires-cabinet-dentaire-reperes-publics",
@@ -66,7 +67,8 @@
     "mesurer",
     "décider"
    ],
-   "resume": "Les repères publics du chiffre d'affaires d'un cabinet dentaire (Fiducial, DREES) expliqués simplement, la répartition des charges en tableau et la fiche à remplir avec votre comptable pour situer votre cabinet."
+   "resume": "Les repères publics du chiffre d'affaires d'un cabinet dentaire (Fiducial, DREES) expliqués simplement, la répartition des charges en tableau et la fiche à remplir avec votre comptable pour situer votre cabinet.",
+   "maj": "2026-10-28"
   },
   {
    "slug": "alternative-doctolib-cabinet-dentaire-que-comparer",
@@ -81,7 +83,8 @@
     "vie du cabinet"
    ],
    "resume": "Les six points à comparer avant de remplacer ou de compléter l'outil de rendez-vous en ligne du cabinet, le tableau de contrôle à remplir en démonstration et ce qu'un changement d'outil ne règle pas.",
-   "modifie": "2026-10-19"
+   "modifie": "2026-10-19",
+   "maj": "2026-10-28"
   },
   {
    "slug": "logiciel-dentaire-questions-agenda-telephone-ia",
@@ -97,7 +100,8 @@
     "décider"
    ],
    "resume": "Les questions à poser à l'éditeur d'un logiciel dentaire sur le dossier patient, l'agenda, le téléphone, l'IA et la sortie des données, le tableau des bonnes et des mauvaises réponses et le test en cinq étapes à faire pendant la démonstration.",
-   "modifie": "2026-10-21"
+   "modifie": "2026-10-21",
+   "maj": "2026-10-28"
   },
   {
    "slug": "rgpd-cabinet-dentaire-registre-affiche-site",
@@ -111,7 +115,8 @@
     "site du cabinet",
     "rendez-vous"
    ],
-   "resume": "Le RGPD au cabinet dentaire expliqué simplement : registre des traitements, information des patients, durée de conservation du dossier, site internet, outils de téléphone, de rappel et d'IA, avec un tableau des responsabilités et un contrôle en dix points."
+   "resume": "Le RGPD au cabinet dentaire expliqué simplement : registre des traitements, information des patients, durée de conservation du dossier, site internet, outils de téléphone, de rappel et d'IA, avec un tableau des responsabilités et un contrôle en dix points.",
+   "maj": "2026-10-28"
   },
   {
    "slug": "rentabilite-cabinet-dentaire-leviers-gratuits",
@@ -127,7 +132,8 @@
     "décider"
    ],
    "resume": "Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.",
-   "modifie": "2026-10-21"
+   "modifie": "2026-10-21",
+   "maj": "2026-10-28"
   },
   {
    "slug": "annuaire-dentiste-referencement-lesquels-comptent",
@@ -154,7 +160,8 @@
     "mesurer"
    ],
    "resume": "Les statistiques de la fiche Google d'un cabinet dentaire expliquées une par une (vues, appels, itinéraires, clics vers le site, recherches), le tableau de lecture, la routine du mois et les vérifications quand un chiffre baisse.",
-   "modifie": "2026-10-13"
+   "modifie": "2026-10-13",
+   "maj": "2026-10-28"
   },
   {
    "slug": "ouvrir-cabinet-dentaire-visible-premier-jour",
@@ -169,7 +176,8 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-28"
+   "modifie": "2026-10-28",
+   "maj": "2026-10-28"
   },
   {
    "slug": "organisation-agenda-cabinet-dentaire-regles",
@@ -183,7 +191,8 @@
     "rendez-vous"
    ],
    "resume": "Les règles d'organisation de l'agenda d'un cabinet dentaire (urgences, premières consultations, soins longs, rendez-vous en ligne, rappels), la semaine type en tableau et la vérification en quatre semaines.",
-   "modifie": "2026-10-13"
+   "modifie": "2026-10-13",
+   "maj": "2026-10-28"
   },
   {
    "slug": "message-rappel-rendez-vous-dentiste-exemples-sms",
@@ -197,7 +206,8 @@
     "téléphone"
    ],
    "resume": "Six exemples de SMS de rappel pour un cabinet dentaire (avant-veille, veille, jour même, premier rendez-vous, devis, contrôle), le tableau des moments d'envoi, les règles de la CNIL et la vérification de vos messages.",
-   "modifie": "2026-10-13"
+   "modifie": "2026-10-13",
+   "maj": "2026-10-28"
   },
   {
    "slug": "plaque-professionnelle-dentiste-reglementation",
@@ -237,7 +247,8 @@
     "vie du cabinet",
     "mesurer"
    ],
-   "resume": "Les chiffres Doctolib sur les dentistes, pourquoi un rendez-vous manqué ne se facture pas, ce qu'on peut afficher, le tableau des causes et la méthode en cinq étapes pour réduire les absences."
+   "resume": "Les chiffres Doctolib sur les dentistes, pourquoi un rendez-vous manqué ne se facture pas, ce qu'on peut afficher, le tableau des causes et la méthode en cinq étapes pour réduire les absences.",
+   "maj": "2026-10-28"
   },
   {
    "slug": "ia-cabinet-dentaire-ce-qui-sert-vraiment",
@@ -251,7 +262,8 @@
     "décider"
    ],
    "resume": "Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil.",
-   "modifie": "2026-10-15"
+   "modifie": "2026-10-15",
+   "maj": "2026-10-28"
   },
   {
    "slug": "secretariat-cabinet-dentaire-secretaire-telesecretariat-ia",
@@ -264,7 +276,8 @@
     "décider"
    ],
    "resume": "Secrétaire, télésecrétariat ou assistant IA : les cinq critères qui tranchent, le tableau de comparaison, les règles sur les données de santé et les dix questions à poser avant de signer.",
-   "modifie": "2026-10-06"
+   "modifie": "2026-10-06",
+   "maj": "2026-10-28"
   },
   {
    "slug": "accueil-telephonique-cabinet-dentaire-ce-que-le-patient-attend",
@@ -279,7 +292,8 @@
     "mesurer"
    ],
    "resume": "Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.",
-   "modifie": "2026-10-12"
+   "modifie": "2026-10-12",
+   "maj": "2026-10-28"
   },
   {
    "slug": "referencement-dentiste-luxembourg-regles",

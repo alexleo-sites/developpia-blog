@@ -4,6 +4,7 @@ titre_court: Alternative à Doctolib pour un cabinet dentaire
 description: Alternative à Doctolib pour un cabinet dentaire : les six points à comparer, un tableau de contrôle et ce que le changement ne règle pas.
 accroche: Chercher une alternative à Doctolib pour un cabinet dentaire, c'est souvent chercher autre chose : un agenda plus simple, des données mieux protégées ou un site qui ressort devant. Voici les six points à comparer, un tableau à remplir pendant la démonstration et ce que le changement ne règle pas.
 date: 2026-10-17
+maj: 2026-10-28
 lecture: 7 min
 sujets: rendez-vous, site du cabinet, décider, vie du cabinet
 resume: Les six points à comparer avant de remplacer ou de compléter l'outil de rendez-vous en ligne du cabinet, le tableau de contrôle à remplir en démonstration et ce qu'un changement d'outil ne règle pas.
@@ -33,7 +34,7 @@ Quel que soit le nom de l'outil, six questions suffisent. Posez-les telles quell
 3. **Les données.** Où sont-elles stockées, et par qui ? Le prestataire est-il certifié pour héberger des données de santé ?
 4. **La sortie.** Pouvez-vous récupérer la liste de vos patients et leurs rendez-vous, dans un fichier lisible, le jour où vous partez ?
 5. **La page publique.** L'outil crée-t-il une page à votre nom ? Peut-on la compléter, y mettre votre site, vos horaires, vos soins ?
-6. **Le téléphone.** L'agenda reste-t-il lisible par un assistant qui répond aux appels pendant les soins ? Voir [l'assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/).
+6. **Le téléphone.** L'agenda reste-t-il lisible par un assistant qui répond aux appels pendant les soins ? Les façons de faire répondre le téléphone sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 
 Les points 3 et 4 sont ceux que l'on oublie. Ce sont pourtant ceux qui coûtent le plus cher si l'on se trompe.
 

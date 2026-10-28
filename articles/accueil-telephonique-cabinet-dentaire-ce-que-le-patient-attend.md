@@ -4,6 +4,7 @@ titre_court: Accueil téléphonique d'un cabinet dentaire : l'essentiel
 description: Accueil téléphonique du cabinet dentaire : ce qu'attend le patient, les chiffres de la DREES sur les appels perdus et un test en cinq appels à faire.
 accroche: L'accueil téléphonique d'un cabinet dentaire décide souvent si un patient prend rendez-vous ou appelle ailleurs. Voici ce que le patient attend quand il compose votre numéro, ce que disent les chiffres publics sur les appels perdus, et un test simple pour mesurer votre propre accueil en une semaine.
 date: 2026-10-05
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, site du cabinet, Google Maps, mesurer
 resume: Ce que le patient attend au téléphone, les chiffres de la DREES sur les appels sans réponse, le tableau des appels courants, les urgences, et le test en cinq appels à faire soi-même.
@@ -82,7 +83,7 @@ Voici comment mesurer votre accueil. Demandez à un proche de jouer le patient, 
 
 Pour chaque appel, notez trois choses : décroché ou non, date proposée ou non, consigne donnée ou non. Cinq appels, quinze cases. Si plus de trois cases restent vides, le problème n'est pas votre visibilité : c'est votre accueil.
 
-Faites aussi le compte inverse. Votre ligne garde-t-elle la trace des appels manqués ? Combien en voyez-vous sur une semaine normale ? Ce chiffre est souvent le premier résultat à suivre, comme nous l'expliquons dans l'article sur [la façon de mesurer le résultat du référencement d'un cabinet dentaire](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/). Notre [calculateur des rendez-vous manqués et des appels perdus](https://developpia.fr/calculateur-rendez-vous-manques/) vous aide à traduire ce chiffre en heures de fauteuil.
+Faites aussi le compte inverse. Votre ligne garde-t-elle la trace des appels manqués ? Combien en voyez-vous sur une semaine normale ? Ce chiffre est souvent le premier résultat à suivre, comme nous l'expliquons dans l'article sur [la façon de mesurer le résultat du référencement d'un cabinet dentaire](https://developpia.fr/blog/resultat-referencement-dentiste-combien-de-patients/). Chaque appel décroché peut devenir un patient de plus : notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/) montre ce qu'un patient de plus par semaine change pour le cabinet.
 
 ## Qui répond quand l'équipe soigne ?
 
@@ -93,7 +94,7 @@ Quelle que soit la solution, deux règles restent les mêmes :
 - **Le secret professionnel.** Le dentiste veille à ce que ses assistants le respectent ([article R.4127-207 du code de la santé publique](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006190548/)). Avec un prestataire, le dentiste reste responsable des données, et le prestataire est son sous-traitant.
 - **La transparence avec le patient.** Depuis le 2 août 2026, une IA qui dialogue avec le public doit être conçue pour signaler qu'elle est une IA (règlement européen sur l'IA, article 50). Le patient doit savoir à qui il parle.
 
-Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) décroche quand l'équipe est au fauteuil, propose un rendez-vous, repère les urgences et passe la main à l'équipe quand il le faut. Il garde votre numéro actuel. Pour les patients qui ne viennent pas ou oublient leur contrôle, les [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) prennent le relais après l'appel.
+Quelle que soit la solution, elle ne sert que si le patient compose le bon numéro au bon moment. Avant de choisir, vérifiez que le numéro et les horaires d'appel sont les mêmes sur la fiche Google et sur [le site internet du cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/). Demandez aussi à l'éditeur de votre agenda s'il peut être relié à un outil extérieur : les [questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/) vous y aident.
 
 Le bon choix dépend de votre volume d'appels et de votre équipe. Le test en cinq appels donne la base pour en parler, et le [test gratuit du référencement de votre cabinet](https://developpia.fr/tester-mon-referencement/) vous montre combien de patients vous trouvent avant même d'appeler.
 

@@ -4,6 +4,7 @@ titre_court: Rentabilité d'un cabinet dentaire : 6 leviers gratuits
 description: Rentabilité du cabinet dentaire : six fuites à corriger sans rien acheter (téléphone, absences, devis, contrôles, agenda) et le relevé d'une semaine.
 accroche: La rentabilité d'un cabinet dentaire ne dépend pas seulement des honoraires et des charges. Une partie se perd chaque semaine dans des heures déjà payées : un appel sans réponse, un fauteuil vide, un devis oublié. Voici les six fuites les plus courantes et la semaine de relevé qui vous dit laquelle corriger en premier.
 date: 2026-10-13
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, téléphone, rendez-vous, mesurer, décider
 resume: Les six leviers de rentabilité d'un cabinet dentaire qui ne demandent aucune dépense (téléphone, absences, devis, contrôles, agenda, patients qui cherchent le cabinet), le tableau des mesures et le relevé d'une semaine pour choisir par où commencer.
@@ -51,7 +52,7 @@ Ce qu'on peut faire, sans rien acheter :
 - faire appeler ces patients par l'assistante, avec une seule question : « Avez-vous des questions sur votre devis ? » ;
 - noter la réponse, et sortir le devis de la liste quand le patient a décidé, dans un sens ou dans l'autre.
 
-Il ne s'agit pas de pousser le patient. Le code de déontologie interdit d'inciter à des soins inutiles (article R.4127-215-1). Il s'agit de répondre à une question qu'il n'a pas osé poser. Quand la liste devient trop longue pour être suivie à la main, elle peut être confiée : c'est le rôle des [relances automatiques d'un cabinet dentaire](https://developpia.fr/relances-automatiques-cabinet-dentaire/), qui envoient un message de suivi validé par le praticien.
+Il ne s'agit pas de pousser le patient. Le code de déontologie interdit d'inciter à des soins inutiles (article R.4127-215-1). Il s'agit de répondre à une question qu'il n'a pas osé poser. Quand la liste devient trop longue pour être suivie à la main, elle peut être confiée à un outil qui envoie un message de suivi validé par le praticien, dans les règles de la CNIL rappelées dans notre article sur [le RGPD au cabinet dentaire](https://developpia.fr/blog/rgpd-cabinet-dentaire-registre-affiche-site/).
 
 ## Les contrôles annuels : les patients qu'on perd sans bruit
 
@@ -80,7 +81,7 @@ Six fuites, c'est trop pour tout corriger en même temps. Le plus utile est de m
 4. **Jeudi : les contrôles.** Faites sortir par votre logiciel le nombre de patients sans visite depuis plus d'un an.
 5. **Vendredi : l'agenda et la fiche.** Additionnez les trous de moins de trente minutes de la semaine. Puis ouvrez les statistiques de la fiche Google et notez les vues et les appels du mois.
 
-À la fin de la semaine, traduisez chaque fuite en heures de fauteuil. Notre [calculateur des rendez-vous manqués](https://developpia.fr/calculateur-rendez-vous-manques/) le fait pour les absences et les appels perdus, à partir de vos propres chiffres. La fuite qui coûte le plus d'heures est celle à corriger en premier. Les autres attendront le mois suivant.
+À la fin de la semaine, traduisez chaque fuite en heures de fauteuil, puis en honoraires avec votre tarif horaire moyen. Pour la fuite de visibilité, les patients qui ne trouvent pas le cabinet, notre [simulateur de rentabilité pour cabinet dentaire](https://developpia.fr/simulateur-de-rentabilite/) montre ce qu'un patient de plus par semaine change. La fuite qui coûte le plus d'heures est celle à corriger en premier. Les autres attendront le mois suivant.
 
 ## Ce qu'on fait soi-même, et ce qu'on peut confier
 
@@ -88,7 +89,7 @@ La plupart de ces leviers se corrigent avec une habitude : une liste tenue, un a
 
 Le problème apparaît quand l'attention manque. L'assistante est au fauteuil, le téléphone sonne, la liste des devis attend : c'est pourquoi [la fiche de poste d'une assistante dentaire](https://developpia.fr/blog/fiche-poste-assistante-dentaire-modele-annonce/) doit dire ce qui passe en premier. Deux tâches se confient alors facilement, parce qu'elles se répètent et ne demandent pas de jugement médical :
 
-- **répondre au téléphone** pendant les soins et hors des horaires, ce que fait un [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) relié à l'agenda ;
+- **répondre au téléphone** pendant les soins et hors des horaires, par un télésecrétariat ou un assistant téléphonique relié à l'agenda (les options sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/)) ;
 - **relancer** les devis, les contrôles et les rendez-vous à reprendre.
 
 Dans les deux cas, le praticien reste responsable des données de ses patients, et le prestataire qui les stocke doit être certifié hébergeur de données de santé (article L.1111-8 du code de la santé publique). Ce que l'IA peut faire au cabinet, et ce qu'il faut vérifier avant de signer, est détaillé dans notre article sur [l'IA au cabinet dentaire](https://developpia.fr/blog/ia-cabinet-dentaire-ce-qui-sert-vraiment/).

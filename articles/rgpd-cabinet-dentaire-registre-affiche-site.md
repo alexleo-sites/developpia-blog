@@ -4,6 +4,7 @@ titre_court: RGPD au cabinet dentaire : affiche, registre, site
 description: Le RGPD au cabinet dentaire en pratique : le registre, les durées de conservation, ce que dit le site, les outils à vérifier, et un contrôle en dix points.
 accroche: Le RGPD au cabinet dentaire tient en peu de choses : un registre, une information claire des patients, des durées de conservation et des prestataires bien choisis. Cet article vous donne la liste exacte, outil par outil, et un contrôle en dix points à faire vous-même en une demi-heure.
 date: 2026-10-14
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, cadre de l'Ordre, site du cabinet, rendez-vous
 resume: Le RGPD au cabinet dentaire expliqué simplement : registre des traitements, information des patients, durée de conservation du dossier, site internet, outils de téléphone, de rappel et d'IA, avec un tableau des responsabilités et un contrôle en dix points.
@@ -68,7 +69,7 @@ Dès qu'un outil extérieur touche aux données des patients, le dentiste reste 
 
 Trois points méritent un mot de plus. Le rappel par SMS repose sur l'intérêt légitime du cabinet, pas sur le consentement : notre article sur [les exemples de SMS de rappel de rendez-vous](https://developpia.fr/blog/message-rappel-rendez-vous-dentiste-exemples-sms/) donne les textes et les règles. Avec la version 2 de la certification HDS, les données doivent être hébergées dans l'Espace économique européen, et les hébergeurs déjà certifiés devaient être en conformité au 16 mai 2026 (ministère de l'Économie, 22 mai 2024). Enfin, depuis le 2 août 2026, une IA qui dialogue avec le public doit être conçue pour dire qu'elle est une IA (règlement européen sur l'IA, article 50).
 
-Les questions à poser à un prestataire de téléphone sont reprises dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) est présenté avec ces mêmes points.
+Les questions à poser à un prestataire de téléphone sont reprises dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). Pour un assistant qui fonctionne avec l'IA, la grille en huit questions de notre article sur [l'IA au cabinet dentaire](https://developpia.fr/blog/ia-cabinet-dentaire-ce-qui-sert-vraiment/) les complète.
 
 > **La règle à retenir**
 > Pour chaque outil qui voit vos patients, vous devez pouvoir répondre à trois questions : quelles données, chez qui, et pour combien de temps.

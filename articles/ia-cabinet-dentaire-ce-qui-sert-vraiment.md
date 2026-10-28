@@ -4,6 +4,7 @@ titre_court: IA au cabinet dentaire : ce qui sert vraiment
 description: Téléphone, rappels, comptes rendus, présence dans ChatGPT : ce que l'IA fait bien au cabinet dentaire, ses limites légales et la grille pour choisir un outil.
 accroche: L'IA au cabinet dentaire n'est plus une idée de salon professionnel : des outils répondent déjà au téléphone, envoient les rappels et rédigent des notes. Voici les quatre usages qui font gagner du temps, ce que la loi impose sur les données de santé, et une grille simple pour juger un outil avant de signer.
 date: 2026-10-06
+maj: 2026-10-28
 lecture: 7 min
 sujets: vie du cabinet, les IA, décider
 resume: Les quatre usages de l'IA qui servent au cabinet dentaire, le tableau de ce qu'on peut confier et de ce qui reste au praticien, les règles sur les données de santé et la grille en huit questions pour choisir un outil.
@@ -74,7 +75,7 @@ Posez ces questions à tout fournisseur, par écrit. Une réponse floue sur l'un
 7. Puis-je relire et modifier les textes des rappels avant tout envoi ?
 8. Si j'arrête, est-ce que je garde mon numéro et récupère mes données ?
 
-Les autres critères, comme les heures couvertes et le coût total, sont détaillés dans notre comparaison du [secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). La question 6 dépend surtout de votre agenda : voyez [les questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/). Notre [assistant téléphonique pour cabinet dentaire](https://developpia.fr/assistant-telephonique-cabinet-dentaire/) répond pendant les soins, à midi et le soir, avec le numéro que vous avez déjà. Pour les messages de la veille et les devis à relancer, nos [relances automatiques des patients](https://developpia.fr/relances-automatiques-cabinet-dentaire/) envoient des textes que vous validez avant tout envoi.
+Les autres critères, comme les heures couvertes et le coût total, sont détaillés dans notre comparaison du [secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/). La question 6 dépend surtout de votre agenda : voyez [les questions à poser sur votre logiciel dentaire](https://developpia.fr/blog/logiciel-dentaire-questions-agenda-telephone-ia/). Pour les questions 1 et 2, notre article sur le [RGPD au cabinet dentaire](https://developpia.fr/blog/rgpd-cabinet-dentaire-registre-affiche-site/) rappelle ce que le registre doit dire de chaque outil. Pour la question 7, gardez en tête le but des rappels : prévenir le [rendez-vous non honoré chez le dentiste](https://developpia.fr/blog/rendez-vous-non-honore-dentiste-prevenir-loi/), sans jamais glisser de contenu commercial.
 
 ## L'autre IA : celle que vos patients interrogent
 
