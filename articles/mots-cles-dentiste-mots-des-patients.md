@@ -74,7 +74,7 @@ Un mot clé ne sert que s'il est écrit au bon endroit. Le principe reste celui 
 - **La ville et les quartiers** apparaissent naturellement, dans l'adresse du cabinet et dans une phrase sur l'accès.
 - **La fiche Google** reprend les mots du patient dans la liste des services et dans la description. Notre page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) détaille chaque champ.
 
-Une erreur revient souvent : répéter le mot clé dix fois dans la page. Google le repère, le patient aussi, et le texte devient illisible. Une phrase naturelle qui répond à la question vaut mieux que cinq répétitions. Notre page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) montre comment ces pages s'articulent dans l'ensemble du site.
+Une erreur revient souvent : répéter le mot clé dix fois dans la page. Google le repère, le patient aussi, et le texte devient illisible. Une phrase naturelle qui répond à la question vaut mieux que cinq répétitions. Notre page [site internet de cabinet dentaire](https://developpia.fr/site-internet-cabinet-dentaire/) montre comment ces pages s'articulent dans l'ensemble du site. Les mots se jouent dans le texte visible : [les données structurées d'un dentiste](https://developpia.fr/blog/donnees-structurees-dentiste-a-quoi-ca-sert/), ce code invisible, décrivent le cabinet mais ne les remplacent pas.
 
 ## Les mots que vous ne reprenez pas, même si les patients les tapent
 

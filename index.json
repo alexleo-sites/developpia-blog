@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "donnees-structurees-dentiste-a-quoi-ca-sert",
+   "titre": "Données structurées d'un dentiste : à quoi elles servent vraiment, et comment les vérifier",
+   "description": "Ce que Google écrit sur les données structurées pour un dentiste, ce qu'une étude sur 1 885 pages a mesuré, les champs utiles et le test en dix minutes.",
+   "date": "2026-10-30",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "les IA",
+    "mesurer",
+    "visibilité"
+   ],
+   "resume": "Ce que sont les données structurées pour un cabinet dentaire, ce que Google écrit à leur sujet, l'étude Ahrefs sur 1 885 pages, le tableau des champs à remplir ou à laisser vides, et la vérification en six étapes."
+  },
+  {
    "slug": "mots-cles-dentiste-mots-des-patients",
    "titre": "Mots clés de dentiste : les mots que les patients tapent vraiment, soin par soin",
    "description": "Les mots clés qu'un patient tape pour trouver un dentiste, face à ceux du métier : le tableau soin par soin, la méthode gratuite et où placer chaque mot.",
@@ -12,7 +26,8 @@
     "mesurer",
     "par type de cabinet"
    ],
-   "resume": "Le tableau des mots du praticien face aux mots des patients pour huit familles de soins, l'étude Ahrefs sur les petites recherches, la méthode en six étapes pour trouver les mots de vos patients et la place de chaque mot sur le site et la fiche Google."
+   "resume": "Le tableau des mots du praticien face aux mots des patients pour huit familles de soins, l'étude Ahrefs sur les petites recherches, la méthode en six étapes pour trouver les mots de vos patients et la place de chaque mot sur le site et la fiche Google.",
+   "modifie": "2026-10-30"
   },
   {
    "slug": "vitesse-site-dentiste-verifier-telephone",
@@ -176,7 +191,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-28",
+   "modifie": "2026-10-30",
    "maj": "2026-10-28"
   },
   {

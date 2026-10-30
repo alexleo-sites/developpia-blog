@@ -111,7 +111,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Comment les IA lisent un site de dentiste, et pourquoi le vôtre est peut-être invisible | site dentiste ia invisible | JavaScript, robots, Cloudflare (publié le 2026-09-12, ia-lisent-site-dentiste-invisible)
 - [ ] ÉCARTÉ (doublon de l'article « comment les IA lisent un site de dentiste ») · Cloudflare, robots.txt et robots des IA : le réglage qui rend un cabinet invisible | robots.txt ia cabinet dentaire | vérifier en deux minutes
 - [ ] ÉCARTÉ (doublon de la page /referencement-ia-dentiste/ et du guide /guides/comment-les-ia-choisissent-un-dentiste/) · Perplexity, Gemini, ChatGPT : trois façons différentes de recommander un dentiste | ia recommander dentiste | ce que chacune lit
-- [ ] Données structurées pour un cabinet dentaire : à quoi ça sert vraiment | données structurées dentiste | ce que ça fait, ce que ça ne fait pas
+- [x] Données structurées pour un cabinet dentaire : à quoi ça sert vraiment | données structurées dentiste | ce que ça fait, ce que ça ne fait pas (publié le 2026-10-30, donnees-structurees-dentiste-a-quoi-ca-sert)
 
 ## E. Mesurer
 
