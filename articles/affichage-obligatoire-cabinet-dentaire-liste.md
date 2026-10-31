@@ -1,7 +1,7 @@
 ---
 titre: Affichage obligatoire au cabinet dentaire : la liste à jour, texte par texte
-titre_court: Affichage obligatoire au cabinet dentaire : la liste
-description: Honoraires, phrase sur la facturation, devis, plaque, données des patients, salariés : chaque affiche due au cabinet, son texte et la vérification à faire.
+titre_court: Affichage obligatoire cabinet dentaire 2026 : la liste
+description: Honoraires, conventionnement, facturation, devis écrit : l'affichage obligatoire du cabinet dentaire, le texte qui l'impose et un tableau à cocher.
 accroche: L'affichage obligatoire au cabinet dentaire tient en quelques feuilles, mais un oubli peut coûter cher. Voici la liste à jour avec le texte qui impose chaque affiche, un tableau à cocher pour votre salle d'attente, et la vérification qui garde la même information sur le mur, le site et la fiche Google.
 date: 2026-10-07
 lecture: 7 min

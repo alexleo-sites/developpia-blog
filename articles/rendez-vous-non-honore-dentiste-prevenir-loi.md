@@ -1,7 +1,7 @@
 ---
 titre: Rendez-vous non honoré chez le dentiste : le prévenir, et ce que la loi permet
-titre_court: Rendez-vous non honoré chez le dentiste : que faire
-description: Les chiffres Doctolib du rendez-vous non honoré chez le dentiste, ce que la loi interdit de facturer et une méthode en cinq étapes pour réduire les absences.
+titre_court: Rendez-vous non honoré dentiste : 5 étapes pour l'éviter
+description: Un dentiste conventionné ne peut pas facturer un rendez-vous non honoré. Ce que la loi permet, et une méthode en cinq étapes pour réduire les absences.
 accroche: Le rendez-vous non honoré chez le dentiste coûte une heure de fauteuil vide et, parfois, un patient qui ne reviendra pas. Voici ce que disent les chiffres publics, ce que la loi vous permet vraiment, et une méthode simple pour mesurer puis réduire les absences dans votre propre cabinet.
 date: 2026-10-06
 maj: 2026-10-28

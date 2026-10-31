@@ -1,7 +1,7 @@
 ---
 titre: Plaque professionnelle de dentiste : ce que dit la réglementation en 2026
-titre_court: Plaque professionnelle de dentiste : la réglementation
-description: La plaque professionnelle du dentiste expliquée : mentions permises, conventionnement, vitrophanie, logo de l'Ordre, déménagement, et la liste à vérifier.
+titre_court: Plaque professionnelle dentiste : ce qui est autorisé
+description: Nom, téléphone, horaires, conventionnement, spécialité : ce que la plaque professionnelle du dentiste peut porter, avec les précisions de l'Ordre de juin 2026.
 accroche: La plaque professionnelle du dentiste obéit à un texte court, souvent mal cité. Voici ce que la réglementation permet vraiment depuis 2020, ce que l'Ordre a précisé en juin 2026, les idées fausses à oublier et une vérification en dix minutes devant votre porte.
 date: 2026-10-07
 lecture: 7 min
