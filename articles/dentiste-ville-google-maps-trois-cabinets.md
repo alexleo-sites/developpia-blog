@@ -97,7 +97,7 @@ Ce tableau montre que le cabinet reste dans les trois depuis trois points de la 
 
 Trois idées reviennent souvent. Aucune ne fonctionne, et deux sont interdites.
 
-**Payer.** Google écrit sur la même page d'aide qu'aucun paiement ne permet d'obtenir une place dans le classement local. Les annonces payantes sont affichées à part, avec la mention « Sponsorisé ». Pour un chirurgien-dentiste, la question ne se pose pas : l'article R.4127-217 II du code de la santé publique interdit d'obtenir un référencement prioritaire, contre paiement ou par tout autre moyen, « payant ou non » selon l'Ordre. Notre article sur la [publicité interdite aux dentistes](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/) détaille ce cadre.
+**Payer.** Google écrit sur la même page d'aide qu'aucun paiement ne permet d'obtenir une place dans le classement local. Les annonces payantes sont affichées à part, avec la mention « Sponsorisé ». Pour un chirurgien-dentiste, la question ne se pose pas : l'article R.4127-217 II du code de la santé publique interdit d'obtenir un référencement prioritaire, contre paiement ou par tout autre moyen, « payant ou non » selon l'Ordre. Notre article sur la [publicité des dentistes](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/) détaille ce cadre.
 
 **Multiplier les fiches.** Une fiche pour le cabinet, et une par praticien si vous le souhaitez. Jamais une fiche à une adresse où aucun patient n'est reçu, ni une seconde fiche du même cabinet. Les [règles de Google sur la représentation d'un établissement](https://support.google.com/business/answer/3038177?hl=fr) l'interdisent, et une fiche en infraction peut être suspendue.
 

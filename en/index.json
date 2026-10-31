@@ -64,6 +64,7 @@
    ],
    "resume": "Ten posts a dental practice can publish on Instagram, why each one complies, and the common advice that puts the dentist in breach.",
    "ordre": 2,
+   "modifie": "2026-10-31",
    "fr": "que-publier-instagram-cabinet-dentaire"
   },
   {
@@ -120,6 +121,7 @@
    ],
    "resume": "The Dental Council's framework for a dentist influencer: yes in a strictly private capacity, yes with conditions in a professional capacity, no as soon as one of the listed practices appears.",
    "ordre": 4,
+   "modifie": "2026-10-31",
    "fr": "dentiste-influenceur-ce-que-l-ordre-autorise"
   },
   {
@@ -147,6 +149,7 @@
     "deciding"
    ],
    "resume": "Five questions to find out whether to redesign a dental practice website or fix it, with the decision table, the fifteen-minute check and the order of operations if you do redesign.",
+   "modifie": "2026-10-31",
    "fr": "refaire-site-cabinet-dentaire-comment-decider"
   },
   {
@@ -187,6 +190,7 @@
    ],
    "resume": "The twelve things a patient looks for on a dentist's website, in their order, each with where it belongs and the common mistake, followed by a ten-minute test.",
    "ordre": 14,
+   "modifie": "2026-10-31",
    "fr": "douze-informations-patient-site-dentiste"
   },
   {
@@ -214,6 +218,7 @@
    ],
    "resume": "Seven common mistakes on dental practice websites, each with a one-minute test, what it costs and the fix.",
    "ordre": 2,
+   "modifie": "2026-10-31",
    "fr": "sept-erreurs-sites-cabinets-dentaires"
   },
   {
@@ -227,6 +232,7 @@
    ],
    "resume": "What a treatment page must contain, in order, a sample outline for a fictional practice, and the eight to ten pages a general or implant practice should have.",
    "ordre": 10,
+   "modifie": "2026-10-31",
    "fr": "une-page-par-soin-site-dentiste"
   },
   {
@@ -241,8 +247,8 @@
    ],
    "resume": "Five questions, three AI tools, one scoring grid: the method to measure for yourself how present your practice is in ChatGPT, Gemini and Perplexity.",
    "ordre": 3,
-   "fr": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes",
-   "modifie": "2026-10-05"
+   "modifie": "2026-10-05",
+   "fr": "cabinet-dentaire-chatgpt-verifier-en-dix-minutes"
   },
   {
    "slug": "how-long-dental-seo-takes",
@@ -256,6 +262,7 @@
    ],
    "resume": "What moves fast, what takes months and what is in no one's hands in a dental practice's SEO, plus the markers to track progress without waiting on a ranking.",
    "ordre": 5,
+   "modifie": "2026-10-31",
    "fr": "delai-resultat-referencement-dentiste"
   },
   {
@@ -271,6 +278,7 @@
    "resume": "What the code of ethics says about Google reviews, the Dental Council's position, a cautious line of conduct and two replies compared for a fictional practice.",
    "maj": "2026-09-19",
    "ordre": 7,
+   "modifie": "2026-10-31",
    "fr": "avis-google-cabinet-dentaire-code-deontologie"
   },
   {
@@ -284,6 +292,7 @@
    ],
    "resume": "Google's three official criteria for the map, what they mean for a dental practice, and a method to check your ranking from three spots in your city.",
    "ordre": 11,
+   "modifie": "2026-10-31",
    "fr": "dentiste-ville-google-maps-trois-cabinets"
   },
   {
@@ -298,6 +307,7 @@
    ],
    "resume": "Seven visibility levers allowed by the code of ethics, each with the rule, the concrete action and the mistake to avoid.",
    "ordre": 1,
+   "modifie": "2026-10-31",
    "fr": "publicite-interdite-dentistes-leviers-autorises"
   },
   {
@@ -311,10 +321,11 @@
     "deciding"
    ],
    "resume": "The vocabulary of dental SEO, from your Google Business Profile to AI crawlers, each term defined in one paragraph, with what it changes for your practice.",
+   "maj": "2026-10-31",
    "genre": "lexique",
    "ordre": 15,
-   "fr": "lexique-referencement-dentaire",
-   "maj": "2026-10-31"
+   "modifie": "2026-10-31",
+   "fr": "lexique-referencement-dentaire"
   },
   {
    "slug": "dental-seo-agency-freelancer-or-diy",
@@ -341,6 +352,7 @@
    ],
    "resume": "What changes when the treatment is an implant: the complete implant page, pages for each situation, the word \"implant\" everywhere, your place in AI answers and the Dental Council rules.",
    "ordre": 6,
+   "modifie": "2026-10-31",
    "fr": "referencement-implantologue-cent-implants-par-an"
   },
   {

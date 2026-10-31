@@ -50,7 +50,7 @@ Quelqu'un qui vous promet un résultat à une date fixe prétend donc maîtriser
 
 ## Pourquoi l'Ordre interdit de promettre une position
 
-Le code de déontologie des chirurgiens-dentistes ne se contente pas d'interdire la publicité. Depuis le décret n° 2020-1658 du 22 décembre 2020, l'article R.4127-217 du code de la santé publique interdit au praticien d'obtenir, contre paiement ou par tout autre moyen, un référencement numérique qui ferait apparaître ses informations en priorité dans les résultats de recherche. L'Ordre résume ce point en deux mots : « payant ou non ». Le texte du décret est [sur Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959).
+Le code de déontologie des chirurgiens-dentistes encadre aussi le référencement. Depuis le décret n° 2020-1658 du 22 décembre 2020, l'article R.4127-217 du code de la santé publique interdit au praticien d'obtenir, contre paiement ou par tout autre moyen, un référencement numérique qui ferait apparaître ses informations en priorité dans les résultats de recherche. L'Ordre résume ce point en deux mots : « payant ou non ». Le texte du décret est [sur Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959).
 
 Un prestataire qui vous promet « premier en 30 jours » vous met donc dans une situation délicate. Soit la promesse est creuse, et vous payez pour une phrase. Soit elle repose sur un moyen d'obtenir un placement prioritaire, et c'est le praticien, pas le prestataire, que le code engage. Dans les deux cas, la promesse est le signe qu'il faut passer son chemin. Les bonnes questions à poser sont dans l'article [choisir entre une agence, un indépendant ou le faire soi-même](https://developpia.fr/blog/agence-independant-ou-soi-meme-referencement-dentiste/).
 

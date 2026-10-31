@@ -19,7 +19,7 @@ Oui. La loi du 22 avril 2019 relative à la qualité de la pratique des soins de
 
 Cette ouverture vient d'une affaire belge. Un dentiste flamand était poursuivi pour avoir fait connaître son cabinet par une enseigne, un site et des annonces dans la presse. Le 4 mai 2017, la Cour de justice de l'Union européenne a jugé, dans l'affaire C-339/15, qu'une interdiction générale et absolue de toute publicité pour des soins dentaires est contraire au droit européen. Son [communiqué officiel](https://curia.europa.eu/jcms/upload/docs/application/pdf/2017-05/cp170045fr.pdf) précise qu'un pays garde le droit d'encadrer les formes de cette communication, pour protéger la santé publique et la dignité de la profession.
 
-La Belgique encadre donc, sans interdire. La France a suivi le même chemin en 2020, comme le raconte notre article sur [la publicité interdite aux dentistes et les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
+La Belgique encadre donc, sans interdire. La France a suivi le même chemin en 2020, comme le raconte notre article sur [la publicité des dentistes et les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
 
 ## Ce que la loi qualité permet d'écrire
 

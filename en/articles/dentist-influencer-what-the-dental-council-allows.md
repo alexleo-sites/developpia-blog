@@ -103,7 +103,7 @@ On the dentist's side, the work is counted in tasks. A 30 to 40 second voice mem
 
 We commit to three things, and each can be checked line by line. We cite the texts, code articles, recommendations and Dental Council newsletters, with a link to the source. We also say what is not written down: paid posts are not named in any Dental Council text; the ban is inferred from the prohibition on commercial practice and from the list of permitted media. And no post goes out without your written sign-off. The details are on our [social media for dental practices](https://en.developpia.fr/social-media-dental-practice/) page.
 
-That leaves the underlying question of what you are allowed to do to become visible: it is covered lever by lever in our article on the [dentist advertising ban and the levers that are allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/). And before presenting your background on camera, reread the [titles, degrees and other information you are allowed to display](https://en.developpia.fr/blog/titles-degrees-specialties-on-a-dentist-website/): the wording required by the Dental Council applies when you speak, too.
+That leaves the underlying question of what you are allowed to do to become visible: it is covered lever by lever in our article on the [dentist advertising rules and the levers that are allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/). And before presenting your background on camera, reread the [titles, degrees and other information you are allowed to display](https://en.developpia.fr/blog/titles-degrees-specialties-on-a-dentist-website/): the wording required by the Dental Council applies when you speak, too.
 
 ## Frequently asked questions
 

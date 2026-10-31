@@ -98,7 +98,7 @@ This table shows that the practice stays in the top three from three spots in th
 
 Three ideas come up often. None of them works, and two are forbidden.
 
-**Paying.** Google states on the same help page that no payment can buy a place in the local ranking. Paid ads are shown separately, labeled "Sponsored". For a dentist, the question does not even arise: Article R.4127-217 II of the French Public Health Code (code de la santé publique) prohibits obtaining priority placement in listings, for payment or by any other means, "paid or not" according to the Dental Council. Our article on the [advertising ban for dentists](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/) details these rules.
+**Paying.** Google states on the same help page that no payment can buy a place in the local ranking. Paid ads are shown separately, labeled "Sponsored". For a dentist, the question does not even arise: Article R.4127-217 II of the French Public Health Code (code de la santé publique) prohibits obtaining priority placement in listings, for payment or by any other means, "paid or not" according to the Dental Council. Our article on the [advertising rules for dentists](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/) details these rules.
 
 **Multiplying profiles.** One profile for the practice, and one per dentist if you wish. Never a profile at an address where no patients are seen, and never a second profile for the same practice. [Google's guidelines for representing your business](https://support.google.com/business/answer/3038177?hl=en) forbid it, and a profile in violation can be suspended.
 

@@ -1,8 +1,8 @@
 ---
 titre: Is advertising banned for dentists? The seven levers you are still allowed to use
-titre_court: Dentist advertising ban: the levers still allowed
+titre_court: Dentist advertising rules: the levers still allowed
 description: Is advertising banned for dentists? The 2020 decree removed the general ban. The seven visibility levers a dental practice is still allowed to use.
-accroche: Advertising has no longer been banned for dental surgeons since December 2020: what remains off-limits is far more specific, and everything else counts as information. This article reviews, lever by lever, what your practice is allowed to do to be found.
+accroche: The general ban on advertising left the dentists' code in December 2020: what remains off-limits is far more specific, and information is allowed. This article reviews, lever by lever, what your practice is allowed to do to be found.
 date: 2026-09-12
 lecture: 7 min
 sujets: Dental Council rules, visibility
@@ -17,7 +17,7 @@ Many practices live with a simple idea: "advertising is banned for us, so we can
 What is off-limits fits in a few lines:
 
 - paid ads on Google (the Google Ads service);
-- paid posts on social media;
+- paid posts on social media: no text names them, but the Dental Council writes that paid communication exposes a dentist to disciplinary proceedings;
 - time-limited discounts and welcome gifts;
 - buying a priority listing, "paid or not" according to the Dental Council (article R.4127-217 II);
 - patient testimonials and comparisons with other dentists (article R.4127-215-1).
@@ -41,7 +41,7 @@ Everything else counts as information. That is where your visibility is decided,
 
 **What to do.** A "Fees" page that lists these procedures, with an amount or a range, and a sentence reminding patients that the treatment estimate sets the final amount. It reassures the patient and gives an answer to Google and to AI tools, which get many questions about the cost of treatment.
 
-**The common mistake.** Hiding fees for fear of the Dental Council, when displaying them is a legal duty. Or, the other way around, presenting them as promotion: a discount valid until the end of the month, a crossed-out price, a comparison with "elsewhere". An amount written plainly, in a list, is information. The same amount in a banner with a countdown is advertising.
+**The common mistake.** Hiding fees for fear of the Dental Council, when displaying them is a legal duty. Or, the other way around, presenting them as promotion: a discount valid until the end of the month, a crossed-out price, a comparison with "elsewhere". An amount written plainly, in a list, is information. The same amount in a banner with a countdown is running the practice as a business.
 
 ## Lever 3: the Google Business Profile, without a review campaign
 
@@ -93,7 +93,7 @@ No. Article R.4127-217 II forbids obtaining a priority listing, whether through 
 
 ### Is a practice Facebook or Instagram page advertising?
 
-Not in itself. The 2020 decree allows informing the public by any means, and a page that explains your treatments or introduces your team remains information. The same limits apply: no patient testimonials, no comparisons, no before-and-after photos. Paying to boost a post turns it into advertising.
+Not in itself. The 2020 decree allows informing the public by any means, and a page that explains your treatments or introduces your team remains information. The same limits apply: no patient testimonials, no comparisons, no image that implies a guaranteed result. Paying to boost a post exposes the dentist: no text names it, and the Dental Council warns against paid communication.
 
 ### Is Doctolib enough to make a practice visible?
 

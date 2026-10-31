@@ -17,7 +17,7 @@ This article goes through the texts one by one. It says what they forbid, what t
 
 ## What the texts really say
 
-The dentists' code of ethics is part of the French Public Health Code. Since the decree of December 22, 2020, it allows informing the public and still forbids advertising. We have detailed this dividing line in the guide [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/), then lever by lever in the article [the advertising ban for dentists: what is allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/).
+The dentists' code of ethics is part of the French Public Health Code. Since the decree of December 22, 2020, it allows informing the public and no longer contains a general ban on advertising: what stays off limits is specific. We have detailed this dividing line in the guide [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/), then lever by lever in the article [advertising rules for dentists: what is allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/).
 
 On reviews, the key text is [article R.4127-215-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042743767). It says your communication must be fair and honest. It adds that it must not rely on third-party testimonials, or on comparisons with other dentists, or encourage unnecessary treatment.
 

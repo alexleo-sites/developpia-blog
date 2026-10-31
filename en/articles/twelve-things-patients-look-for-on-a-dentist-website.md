@@ -51,9 +51,9 @@ Our [dental practice website](https://en.developpia.fr/dental-practice-website/)
 > **The one thing to remember**
 > A patient does not call a practice they have not understood. Twelve clear answers, each in its place, are worth more than any design flourish.
 
-## The rules: information yes, advertising no
+## The rules: information yes, running a business no
 
-Everything above is information. Decree no. 2020-1658 of December 22, 2020 allows it. What it still prohibits is specific: buying a priority placement in search results (R.4127-217 II) and advertising for a third party (R.4127-225). Article R.4127-215-1 draws the line: communication must be fair and honest, with no third-party testimonials, no comparison with other dentists and no encouragement of unnecessary treatment. On your website, that means: no patient reviews, even sincere ones, no "the only practice in town to offer," and no before-and-after photos, which the Dental Council considers misleading.
+Everything above is information. Decree no. 2020-1658 of December 22, 2020 allows it. What it still prohibits is specific: buying a priority placement in search results (R.4127-217 II) and advertising for a third party (R.4127-225). Article R.4127-215-1 draws the line: communication must be fair and honest, with no third-party testimonials, no comparison with other dentists and no encouragement of unnecessary treatment. On your website, that means: no patient reviews, even sincere ones, and no "the only practice in town to offer." Before-and-after photos call for caution: no article of the code names them, but the Dental Council writes that they would tend to suggest a guaranteed result.
 
 These rules take nothing away from the twelve things. Your background, your fees, your premises and the way you work are enough to reassure patients, because they are true and verifiable. The guide [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/) goes through every page, with the rule that applies to each one.
 

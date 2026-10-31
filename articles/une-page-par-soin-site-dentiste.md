@@ -125,4 +125,4 @@ La longueur qu'il faut pour répondre aux neuf questions du patient : à qui s'a
 
 ### Puis-je décrire mes implants sans faire de publicité ?
 
-Oui. Le décret du 22 décembre 2020 autorise l'information sur votre activité, et la description d'un soin en fait partie. La limite est le ton : vous décrivez ce que vous faites, les suites, les limites et les honoraires, sans témoignage, sans avant et après, sans phrase qui pousse au soin. En cas de doute, votre conseil départemental de l'Ordre peut relire la page.
+Oui. Le décret du 22 décembre 2020 autorise l'information sur votre activité, et la description d'un soin en fait partie. La limite est le ton : vous décrivez ce que vous faites, les suites, les limites et les honoraires, sans témoignage, sans image qui laisse croire à un résultat certain, sans phrase qui pousse au soin. En cas de doute, votre conseil départemental de l'Ordre peut relire la page.

@@ -50,9 +50,9 @@ La page [site internet de cabinet dentaire](https://developpia.fr/site-internet-
 > **La phrase à retenir**
 > Un patient n'appelle pas un cabinet qu'il n'a pas compris. Douze réponses claires, chacune à sa place, valent mieux que n'importe quel effet de style.
 
-## Le cadre : informer oui, faire de la publicité non
+## Le cadre : informer oui, exercer comme un commerce non
 
-Tout ce qui précède est de l'information. Le décret n° 2020-1658 du 22 décembre 2020 l'autorise. Ce qu'il laisse interdit est précis : acheter une place prioritaire dans les résultats (R.4127-217 II) et faire de la publicité pour un tiers (R.4127-225). L'article R.4127-215-1 fixe la ligne : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles. Sur votre site, cela veut dire : pas d'avis de patients, même sincères, pas de « seul cabinet de la ville à proposer », pas de photos avant/après, que l'Ordre juge trompeuses.
+Tout ce qui précède est de l'information. Le décret n° 2020-1658 du 22 décembre 2020 l'autorise. Ce qu'il laisse interdit est précis : acheter une place prioritaire dans les résultats (R.4127-217 II) et faire de la publicité pour un tiers (R.4127-225). L'article R.4127-215-1 fixe la ligne : une communication loyale et honnête, sans témoignage de tiers, sans comparaison avec des confrères, sans incitation à des soins inutiles. Sur votre site, cela veut dire : pas d'avis de patients, même sincères, et pas de « seul cabinet de la ville à proposer ». Les photos avant/après demandent de la prudence : aucun article du code ne les nomme, mais l'Ordre écrit qu'elles tendraient à suggérer un résultat certain.
 
 Ce cadre n'enlève rien aux douze informations. Votre parcours, vos honoraires, vos locaux et votre façon de travailler suffisent à rassurer, parce qu'ils sont vrais et vérifiables. Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) passe chaque page en revue, avec la règle qui s'applique à chacune.
 

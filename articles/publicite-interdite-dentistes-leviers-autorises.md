@@ -2,7 +2,7 @@
 titre: Publicité interdite aux dentistes ? Les sept leviers qui restent autorisés
 titre_court: Publicité interdite aux dentistes ? Les leviers autorisés
 description: Publicité interdite aux dentistes : le décret de 2020 a retiré l'interdiction générale. Les sept leviers de visibilité qu'un cabinet garde le droit d'utiliser.
-accroche: La publicité n'est plus interdite aux chirurgiens-dentistes depuis décembre 2020 : ce qui reste fermé est bien plus précis, et tout le reste relève de l'information. Cet article passe en revue, levier par levier, ce que votre cabinet a le droit de faire pour être trouvé.
+accroche: L'interdiction générale de la publicité a quitté le code des chirurgiens-dentistes en décembre 2020 : ce qui reste fermé est bien plus précis, et l'information est autorisée. Cet article passe en revue, levier par levier, ce que votre cabinet a le droit de faire pour être trouvé.
 date: 2026-09-12
 lecture: 7 min
 sujets: cadre de l'Ordre, visibilité
@@ -16,7 +16,7 @@ Le [décret n° 2020-1658 du 22 décembre 2020](https://www.legifrance.gouv.fr/j
 Ce qui est fermé tient en quelques lignes :
 
 - les annonces payantes sur Google (le service Google Ads) ;
-- les publications payées sur les réseaux sociaux ;
+- les publications payées sur les réseaux sociaux : aucun texte ne les nomme, mais l'Ordre écrit qu'une communication payante expose à des poursuites disciplinaires ;
 - les réductions limitées dans le temps et les cadeaux de bienvenue ;
 - l'achat d'un référencement prioritaire, « payant ou non » selon l'Ordre (article R.4127-217 II) ;
 - les témoignages de patients et les comparaisons avec des confrères (article R.4127-215-1).
@@ -40,7 +40,7 @@ Tout le reste relève de l'information. C'est là que se joue votre visibilité,
 
 **Ce qu'on fait.** Une page « Honoraires » qui reprend ces actes, avec un montant ou une fourchette, et une phrase qui rappelle que le devis fixe le montant final. Elle rassure le patient et donne une réponse à Google et aux IA, qui reçoivent beaucoup de questions sur le prix des soins.
 
-**L'erreur fréquente.** Cacher les honoraires par peur de l'Ordre, alors que leur affichage est une obligation. Ou, à l'inverse, les présenter comme une réclame : une réduction valable jusqu'à la fin du mois, un montant barré, une comparaison avec « ailleurs ». Un montant écrit simplement, dans une liste, est une information. Le même montant dans une bannière avec un compte à rebours est une publicité.
+**L'erreur fréquente.** Cacher les honoraires par peur de l'Ordre, alors que leur affichage est une obligation. Ou, à l'inverse, les présenter comme une réclame : une réduction valable jusqu'à la fin du mois, un montant barré, une comparaison avec « ailleurs ». Un montant écrit simplement, dans une liste, est une information. Le même montant dans une bannière avec un compte à rebours relève du commerce.
 
 ## Levier 3 : la fiche Google, sans campagne d'avis
 
@@ -92,7 +92,7 @@ Non, l'article R.4127-217 II interdit d'obtenir un référencement prioritaire, 
 
 ### Une page Facebook ou Instagram de cabinet est-elle de la publicité ?
 
-Pas en soi. Le décret de 2020 autorise l'information du public par tout moyen, et une page qui explique vos soins ou présente votre équipe reste une information. Les mêmes limites s'appliquent : pas de témoignage de patient, pas de comparaison, pas de photo avant et après. Payer pour diffuser une publication devient de la publicité.
+Pas en soi. Le décret de 2020 autorise l'information du public par tout moyen, et une page qui explique vos soins ou présente votre équipe reste une information. Les mêmes limites s'appliquent : pas de témoignage de patient, pas de comparaison, pas de photo qui laisse croire à un résultat certain. Payer pour diffuser une publication expose le praticien : aucun texte ne la nomme, et l'Ordre met en garde contre la communication payante.
 
 ### Doctolib suffit-il pour rendre un cabinet visible ?
 

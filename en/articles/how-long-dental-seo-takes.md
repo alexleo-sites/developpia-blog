@@ -51,7 +51,7 @@ Anyone who promises you a result by a fixed date is therefore claiming control o
 
 ## Why the Dental Council forbids promising a ranking
 
-The dentists' code of ethics does more than ban advertising. Since decree no. 2020-1658 of December 22, 2020, article R.4127-217 of the French Public Health Code forbids a dentist from obtaining, for payment or by any other means, a digital listing that would make their information appear first in search results. The French Dental Council (Ordre national des chirurgiens-dentistes) sums this point up in a short phrase: "paid or not". The text of the decree is [on Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959).
+The dentists' code of ethics also regulates SEO. Since decree no. 2020-1658 of December 22, 2020, article R.4127-217 of the French Public Health Code forbids a dentist from obtaining, for payment or by any other means, a digital listing that would make their information appear first in search results. The French Dental Council (Ordre national des chirurgiens-dentistes) sums this point up in a short phrase: "paid or not". The text of the decree is [on Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042730959).
 
 A provider who promises you "number one in 30 days" is therefore putting you in an awkward position. Either the promise is empty, and you are paying for a sentence. Or it relies on a way of obtaining priority placement, and it is the dentist, not the provider, who is bound by the code. Either way, the promise is a sign to walk away. The right questions to ask are in the article [choosing between an agency, a freelancer or doing it yourself](https://en.developpia.fr/blog/dental-seo-agency-freelancer-or-diy/).
 
