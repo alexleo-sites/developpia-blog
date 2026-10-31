@@ -9,9 +9,13 @@ sujets: glossary, deciding
 resume: The vocabulary of dental SEO, from your Google Business Profile to AI crawlers, each term defined in one paragraph, with what it changes for your practice.
 genre: lexique
 fr: lexique-referencement-dentaire
+maj: 2026-10-31
 ---
 
 When you talk SEO with a dentist, the technical words come up fast: title tag, prominence, crawling, structured data. This glossary explains them one by one, in plain English. Each definition also says what the term changes, in practice, for a dental practice. Read it in one go, or come back to it the day a report or a provider uses a word you don't know.
+
+> **Want to improve your practice's SEO?**
+> This glossary explains the vocabulary. Our [dental SEO](/dental-seo/) page shows how a practice gets found on Google, on the map and in AI answers.
 
 The terms are listed alphabetically by their English name, in letter groups. When the French word is the one you will actually come across, the French term is given in parentheses, because that is the form you will see it in. The rules of the French Dental Council (Ordre national des chirurgiens-dentistes) have their place in the list, alongside Google's vocabulary: on a dentist's website, the two are read together.
 

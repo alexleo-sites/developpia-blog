@@ -8,9 +8,13 @@ lecture: 15 min
 sujets: lexique, décider
 resume: Les mots du référencement dentaire, de la fiche Google aux robots d'IA, définis en un paragraphe chacun, avec ce qu'ils changent pour votre cabinet.
 genre: lexique
+maj: 2026-10-31
 ---
 
 Quand on parle de référencement avec un chirurgien-dentiste, les mots techniques arrivent vite : balise titre, proéminence, exploration, données structurées. Ce lexique les explique un par un, en français simple. Chaque définition dit aussi ce que le mot change, concrètement, pour un cabinet dentaire. Lisez-le d'une traite, ou revenez-y le jour où un rapport ou un prestataire emploie un mot inconnu.
+
+> **Vous voulez améliorer le référencement de votre cabinet ?**
+> Ce lexique explique les mots. Notre page [référencement dentiste](/referencement-dentiste/) montre comment un cabinet se fait trouver sur Google, sur la carte et dans les IA.
 
 Les termes sont classés par ordre alphabétique, en groupes de lettres. Les mots anglais sont donnés entre parenthèses, après leur équivalent français, parce que vous les croiserez sous cette forme. Les règles de l'Ordre ont leur place dans la liste, au même titre que les mots de Google : sur un site de dentiste, les deux se lisent ensemble.
 
