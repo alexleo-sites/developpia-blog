@@ -73,7 +73,7 @@ The fix: a single reference version, written on a sheet of paper and copied iden
 
 The test: look on your website for a sentence in quotation marks signed with a first name, a star rating, or a photo of a smile "before" next to an "after." If you find one, remove it today.
 
-Why it exposes you: article R.4127-215-1 requires communication that is fair and honest, with no third-party testimonials. A Google review copied onto your website is a third-party testimonial. The Dental Council considers before-and-after photos misleading, and they are prohibited in Luxembourg. The guide [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/) spells out the line.
+Why it exposes you: article R.4127-215-1 requires communication that is fair and honest, with no third-party testimonials. A Google review copied onto your website is a third-party testimonial. Before-and-after photos, which no article of the code names, are cited by the Dental Council in the conditional: they would tend to suggest a guaranteed result. They are prohibited in Luxembourg. The guide [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/) spells out the line.
 
 Why it costs: you think you are reassuring patients, but you take a risk for zero gain. The reviews already exist on your Google Business Profile, and patients read them there. Copying them adds nothing, and a fellow dentist can report the site.
 

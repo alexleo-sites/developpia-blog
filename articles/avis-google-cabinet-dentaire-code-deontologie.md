@@ -16,7 +16,7 @@ Cet article reprend les textes un par un. Il dit ce qu'ils interdisent, ce qu'il
 
 ## Ce que les textes disent vraiment
 
-Le code de déontologie des chirurgiens-dentistes fait partie du code de la santé publique. Depuis le décret du 22 décembre 2020, il autorise l'information du public et il interdit toujours la publicité. Nous avons détaillé ce partage dans le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/), puis levier par levier dans l'article [publicité interdite aux dentistes : les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
+Le code de déontologie des chirurgiens-dentistes fait partie du code de la santé publique. Depuis le décret du 22 décembre 2020, il autorise l'information du public et il ne contient plus d'interdiction générale de la publicité : ce qui reste fermé est précis. Nous avons détaillé ce partage dans le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/), puis levier par levier dans l'article [publicité des dentistes : les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
 
 Sur les avis, le texte central est l'[article R.4127-215-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042743767). Il dit que votre communication doit être loyale et honnête. Il ajoute qu'elle ne doit pas s'appuyer sur des témoignages de tiers, ni sur des comparaisons avec des confrères, ni inciter à des soins inutiles.
 

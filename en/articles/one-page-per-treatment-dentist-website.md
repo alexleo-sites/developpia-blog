@@ -126,4 +126,4 @@ As long as it takes to answer the patient's nine questions: who the treatment is
 
 ### Can I describe my implant work without advertising?
 
-Yes. The decree of December 22, 2020 allows information about your practice, and describing a treatment is part of that. The limit is the tone: you describe what you do, recovery, limits and fees, with no testimonials, no before-and-after photos and no sentence that pushes toward treatment. If in doubt, your local (departmental) Dental Council can review the page.
+Yes. The decree of December 22, 2020 allows information about your practice, and describing a treatment is part of that. The limit is the tone: you describe what you do, recovery, limits and fees, with no testimonials, no image that implies a guaranteed result and no sentence that pushes toward treatment. If in doubt, your local (departmental) Dental Council can review the page.

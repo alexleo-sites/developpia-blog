@@ -349,7 +349,7 @@
     "par type de cabinet"
    ],
    "resume": "Le cadre belge de l'information professionnelle, le tableau des différences avec la France, les titres à afficher, les langues du site et de la fiche Google, et la vérification en dix minutes.",
-   "modifie": "2026-10-02"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "blog-cabinet-dentaire-utile-ou-perte-de-temps",
@@ -426,7 +426,8 @@
     "cadre de l'Ordre"
    ],
    "resume": "Dix publications qu'un cabinet dentaire peut publier sur Instagram, la raison de leur conformité, et les conseils courants qui mettent le praticien en faute.",
-   "ordre": 2
+   "ordre": 2,
+   "modifie": "2026-10-31"
   },
   {
    "slug": "page-facebook-cabinet-dentaire",
@@ -481,7 +482,7 @@
    ],
    "resume": "La grille de l'Ordre pour un dentiste influenceur : oui à titre strictement privé, oui sous condition à titre professionnel, non dès qu'un des procédés listés apparaît.",
    "ordre": 4,
-   "modifie": "2026-10-23"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "refaire-site-cabinet-dentaire-comment-decider",
@@ -494,7 +495,7 @@
     "décider"
    ],
    "resume": "Cinq questions pour savoir s'il faut refaire le site d'un cabinet dentaire ou le corriger, avec le tableau de décision, la vérification en quinze minutes et l'ordre des opérations en cas de refonte.",
-   "modifie": "2026-09-28"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "demenagement-cabinet-dentaire-google-marche-a-suivre",
@@ -519,7 +520,8 @@
     "site du cabinet"
    ],
    "resume": "Ce qu'une page de soin doit contenir, dans l'ordre, un plan type sur un cabinet fictif, et les huit à dix pages qu'un cabinet de soins courants ou d'implantologie devrait avoir.",
-   "ordre": 10
+   "ordre": 10,
+   "modifie": "2026-10-31"
   },
   {
    "slug": "sept-erreurs-sites-cabinets-dentaires",
@@ -532,7 +534,7 @@
     "décider"
    ],
    "resume": "Sept erreurs courantes sur les sites de cabinets dentaires, avec pour chacune le test d'une minute, ce qu'elle coûte et la correction.",
-   "modifie": "2026-09-28",
+   "modifie": "2026-10-31",
    "ordre": 2
   },
   {
@@ -561,7 +563,7 @@
    ],
    "resume": "Ce qui change quand l'acte est un implant : la page implantologie complète, les pages par situation, le mot « implant » partout, la place dans les IA et le cadre de l'Ordre.",
    "ordre": 6,
-   "modifie": "2026-09-18"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "publicite-interdite-dentistes-leviers-autorises",
@@ -575,7 +577,7 @@
    ],
    "resume": "Sept leviers de visibilité autorisés par le code de déontologie, avec pour chacun la règle, le geste concret et l'erreur à éviter.",
    "ordre": 1,
-   "modifie": "2026-09-29"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "mentions-autorisees-site-dentiste-titres-diplomes-specialites",
@@ -603,7 +605,7 @@
    "resume": "Les mots du référencement dentaire, de la fiche Google aux robots d'IA, définis en un paragraphe chacun, avec ce qu'ils changent pour votre cabinet.",
    "genre": "lexique",
    "ordre": 15,
-   "modifie": "2026-09-18",
+   "modifie": "2026-10-31",
    "maj": "2026-10-31"
   },
   {
@@ -645,7 +647,7 @@
    ],
    "resume": "Les douze informations qu'un patient cherche sur le site d'un dentiste, dans son ordre, avec pour chacune l'emplacement, l'erreur fréquente, puis un test de dix minutes.",
    "ordre": 14,
-   "modifie": "2026-09-18"
+   "modifie": "2026-10-31"
   },
   {
    "slug": "dentiste-ville-google-maps-trois-cabinets",
@@ -657,7 +659,7 @@
     "Google Maps"
    ],
    "resume": "Les trois critères officiels de Google pour la carte, ce qu'ils veulent dire pour un cabinet dentaire, et la méthode pour vérifier sa place à trois endroits de sa ville.",
-   "modifie": "2026-10-12",
+   "modifie": "2026-10-31",
    "ordre": 11
   },
   {
@@ -671,7 +673,7 @@
     "mesurer"
    ],
    "resume": "Ce qui va vite, ce qui prend des mois et ce qui ne dépend de personne dans le référencement d'un cabinet dentaire, et les repères pour suivre l'avancement sans attendre une position.",
-   "modifie": "2026-09-18",
+   "modifie": "2026-10-31",
    "ordre": 5
   },
   {
@@ -699,7 +701,7 @@
     "Google Maps"
    ],
    "resume": "Ce que le code de déontologie dit des avis Google, la position de l'Ordre, une ligne de conduite prudente et deux réponses comparées sur un cabinet fictif.",
-   "modifie": "2026-10-01",
+   "modifie": "2026-10-31",
    "ordre": 7,
    "maj": "2026-09-19"
   },

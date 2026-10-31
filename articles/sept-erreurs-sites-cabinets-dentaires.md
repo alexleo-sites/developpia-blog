@@ -72,7 +72,7 @@ La correction : une seule version de référence, écrite sur une feuille, et re
 
 Le test : cherchez sur votre site une phrase entre guillemets signée d'un prénom, une note en étoiles, ou une photo de sourire « avant » à côté d'un « après ». Si vous en trouvez une, retirez-la aujourd'hui.
 
-Pourquoi elle expose : l'article R.4127-215-1 impose une communication loyale et honnête, sans témoignage de tiers. Un avis Google recopié sur votre site est un témoignage de tiers. Les photos avant et après sont jugées trompeuses par l'Ordre, et elles sont interdites au Luxembourg. Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) détaille la ligne.
+Pourquoi elle expose : l'article R.4127-215-1 impose une communication loyale et honnête, sans témoignage de tiers. Un avis Google recopié sur votre site est un témoignage de tiers. Les photos avant et après, qu'aucun article du code ne nomme, sont citées par l'Ordre au conditionnel : elles tendraient à suggérer un résultat certain. Elles sont interdites au Luxembourg. Le guide [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) détaille la ligne.
 
 Pourquoi elle coûte : on croit rassurer, on prend un risque pour un gain nul. Les avis existent déjà sur votre fiche Google, le patient les y lit. Les recopier n'ajoute rien, et un confrère peut signaler le site.
 

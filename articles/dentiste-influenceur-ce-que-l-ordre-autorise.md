@@ -102,7 +102,7 @@ Du côté du praticien, le travail se compte en tâches. Un mémo vocal de trent
 
 Trois choses nous engagent, et elles sont vérifiables ligne à ligne. Nous citons les textes, articles du code, recommandations et Lettres de l'Ordre, avec le lien vers la source. Nous disons aussi ce qui n'est pas écrit : la publication payée n'est nommée dans aucun texte de l'Ordre, son interdiction se déduit de l'interdiction du commerce et des supports admis. Et aucune publication ne part sans votre validation écrite. Le détail est sur notre page [réseaux sociaux du cabinet dentaire](https://developpia.fr/reseaux-sociaux-cabinet-dentaire/).
 
-Reste la question de fond, ce qui est permis pour se rendre visible : elle se traite levier par levier dans notre article sur la [publicité interdite aux dentistes et les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/). Et avant de présenter votre parcours face caméra, relisez les [mentions que vous avez le droit d'afficher, titres et diplômes](https://developpia.fr/blog/mentions-autorisees-site-dentiste-titres-diplomes-specialites/) : les formules imposées par l'Ordre valent aussi à l'oral.
+Reste la question de fond, ce qui est permis pour se rendre visible : elle se traite levier par levier dans notre article sur la [publicité des dentistes et les leviers autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/). Et avant de présenter votre parcours face caméra, relisez les [mentions que vous avez le droit d'afficher, titres et diplômes](https://developpia.fr/blog/mentions-autorisees-site-dentiste-titres-diplomes-specialites/) : les formules imposées par l'Ordre valent aussi à l'oral.
 
 ## Questions fréquentes
 

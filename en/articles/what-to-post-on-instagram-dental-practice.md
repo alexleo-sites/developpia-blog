@@ -22,7 +22,7 @@ A dentist can post anything that informs, and nothing that sells. That is the li
 
 The same article sets three limits, and they are what rule out the popular ideas. Communication "does not make use of third-party testimonials." It includes no comparison with other dentists or facilities. It "does not encourage unnecessary use of preventive or treatment procedures."
 
-No article of the code names Instagram, Facebook or TikTok. The Dental Council regulates content; it does not approve any platform. Decree No. 2020-1658 of December 22, 2020 broadened what counts as information and kept the ban on advertising, as explained in our guide on [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/) and our article on the [visibility levers that remain allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/).
+No article of the code names Instagram, Facebook or TikTok. The Dental Council regulates content; it does not approve any platform. Decree No. 2020-1658 of December 22, 2020 broadened what counts as information and removed the general ban on advertising from the code, without opening the door to paid communication, as explained in our guide on [what the Dental Council allows on a dentist website](https://en.developpia.fr/guides/what-the-dental-council-allows-on-a-dentist-website/) and our article on the [visibility levers that remain allowed](https://en.developpia.fr/blog/dentist-advertising-ban-what-is-allowed/).
 
 ## Ten allowed posts, with the reason each one complies
 

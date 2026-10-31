@@ -21,7 +21,7 @@ Un chirurgien-dentiste peut publier tout ce qui informe, et rien qui vende. C'es
 
 Le même article pose trois limites, et ce sont elles qui ferment les idées répandues. La communication « ne fait pas appel à des témoignages de tiers ». Elle ne comporte pas de comparaison avec d'autres praticiens ou établissements. Elle « n'incite pas à un recours inutile à des actes de prévention ou de soins ».
 
-Aucun article du code ne nomme Instagram, Facebook ou TikTok. L'Ordre encadre le contenu, il ne valide aucune plateforme. Le décret n° 2020-1658 du 22 décembre 2020 a élargi l'information et maintenu l'interdiction de la publicité, comme l'expliquent notre guide sur [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) et notre article sur les [leviers de visibilité qui restent autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
+Aucun article du code ne nomme Instagram, Facebook ou TikTok. L'Ordre encadre le contenu, il ne valide aucune plateforme. Le décret n° 2020-1658 du 22 décembre 2020 a élargi l'information et retiré du code l'interdiction générale de la publicité, sans ouvrir la communication payante, comme l'expliquent notre guide sur [ce que l'Ordre autorise sur un site de dentiste](https://developpia.fr/guides/ce-que-l-ordre-autorise-sur-un-site-de-dentiste/) et notre article sur les [leviers de visibilité qui restent autorisés](https://developpia.fr/blog/publicite-interdite-dentistes-leviers-autorises/).
 
 ## Dix publications autorisées, avec la raison de leur conformité
 
