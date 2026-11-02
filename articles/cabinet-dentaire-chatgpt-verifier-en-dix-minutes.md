@@ -1,7 +1,7 @@
 ---
 titre: Votre cabinet dentaire apparaît-il dans ChatGPT ? La méthode en dix minutes pour le vérifier
-titre_court: ChatGPT mentionne-t-il votre cabinet dentaire ? Le vérifier
-description: Vérifier si ChatGPT mentionne votre cabinet dentaire : cinq questions, trois IA et une grille de lecture, en dix minutes et sans application payante.
+titre_court: ChatGPT cite-t-il votre cabinet dentaire ? Test en 10 min
+description: Cinq questions à poser à ChatGPT, Gemini et Perplexity, une grille pour noter qui est cité et un calcul en pourcentage : la méthode gratuite, en dix minutes.
 accroche: Quand un patient demande un dentiste à ChatGPT, l'IA répond avec deux ou trois noms. Vous pouvez savoir si le vôtre en fait partie, en dix minutes et sans rien payer. Voici les cinq questions à poser, la grille pour noter les réponses et le calcul qui donne un chiffre honnête.
 date: 2026-09-12
 lecture: 7 min
