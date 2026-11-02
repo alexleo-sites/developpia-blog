@@ -117,7 +117,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 
 - [ ] ÉCARTÉ (08/10 : remplacé par « Statistiques de la fiche Google », PRIORITÉ C1, et doublon de l'article résultat du référencement) · Les cinq chiffres à regarder chaque mois pour un cabinet dentaire | statistiques site dentiste | la lecture en dix minutes
 - [ ] ÉCARTÉ (doublon du guide /guides/doctolib-devant-mon-site/) · Recherche de votre nom : pourquoi Doctolib passe devant, et comment reprendre la première place | nom dentiste doctolib avant site | la mécanique, la correction
-- [ ] Search Console pour un cabinet dentaire : lire les trois rapports utiles | search console dentiste | rapport par rapport
+- [x] Search Console pour un cabinet dentaire : lire les trois rapports utiles | search console dentiste | rapport par rapport (publié le 2026-11-02, search-console-dentiste-trois-rapports-utiles)
 
 ## F. Par type de cabinet
 

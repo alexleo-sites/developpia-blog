@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "search-console-dentiste-trois-rapports-utiles",
+   "titre": "Search Console pour un dentiste : les trois rapports utiles, et comment les lire en dix minutes par mois",
+   "description": "Les trois rapports de la Search Console qui comptent pour un dentiste, le tableau de lecture, l'étude sur 14 milliards de pages et la routine du mois.",
+   "date": "2026-11-02",
+   "lecture": "7 min",
+   "sujets": [
+    "mesurer",
+    "site du cabinet",
+    "visibilité",
+    "les IA"
+   ],
+   "resume": "Les trois rapports de la Search Console qui comptent pour un cabinet dentaire (performances, indexation des pages, IA générative), le tableau de lecture de chaque colonne, l'étude Ahrefs sur 14 milliards de pages, la routine du mois en six étapes et ce que l'outil ne mesure pas."
+  },
+  {
    "slug": "donnees-structurees-dentiste-a-quoi-ca-sert",
    "titre": "Données structurées d'un dentiste : à quoi elles servent vraiment, et comment les vérifier",
    "description": "Ce que Google écrit sur les données structurées pour un dentiste, ce qu'une étude sur 1 885 pages a mesuré, les champs utiles et le test en dix minutes.",
@@ -12,7 +26,8 @@
     "mesurer",
     "visibilité"
    ],
-   "resume": "Ce que sont les données structurées pour un cabinet dentaire, ce que Google écrit à leur sujet, l'étude Ahrefs sur 1 885 pages, le tableau des champs à remplir ou à laisser vides, et la vérification en six étapes."
+   "resume": "Ce que sont les données structurées pour un cabinet dentaire, ce que Google écrit à leur sujet, l'étude Ahrefs sur 1 885 pages, le tableau des champs à remplir ou à laisser vides, et la vérification en six étapes.",
+   "modifie": "2026-11-02"
   },
   {
    "slug": "mots-cles-dentiste-mots-des-patients",
@@ -27,7 +42,7 @@
     "par type de cabinet"
    ],
    "resume": "Le tableau des mots du praticien face aux mots des patients pour huit familles de soins, l'étude Ahrefs sur les petites recherches, la méthode en six étapes pour trouver les mots de vos patients et la place de chaque mot sur le site et la fiche Google.",
-   "modifie": "2026-10-30"
+   "modifie": "2026-11-02"
   },
   {
    "slug": "vitesse-site-dentiste-verifier-telephone",
