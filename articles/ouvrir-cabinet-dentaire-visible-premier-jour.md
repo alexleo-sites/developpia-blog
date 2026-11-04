@@ -56,7 +56,7 @@ Les pages à avoir en ligne le premier jour :
 
 - l'accueil, avec le nom du cabinet, l'adresse, le téléphone et les horaires ;
 - le praticien et l'équipe, avec les titres autorisés ;
-- une page par grand soin que vous pratiquez, même courte ;
+- une page par grand soin que vous pratiquez, même courte, et deux pour l'orthodontie, comme l'explique [le référencement d'un orthodontiste](https://developpia.fr/blog/referencement-orthodontiste-parents-adultes/) ;
 - les honoraires et les modes de paiement, que l'article R.4127-240 impose d'indiquer, comme le détaille notre article sur [les honoraires sur le site du cabinet dentaire](https://developpia.fr/blog/honoraires-site-cabinet-dentaire-obligation-presentation/) ;
 - l'accès : étage, code, transports, stationnement, accès en fauteuil roulant ;
 - le bouton de prise de rendez-vous et le numéro qu'on peut toucher pour appeler.

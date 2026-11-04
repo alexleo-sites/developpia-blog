@@ -1,6 +1,19 @@
 {
  "articles": [
   {
+   "slug": "referencement-orthodontiste-parents-adultes",
+   "titre": "Référencement d'un orthodontiste : les recherches des parents et celles des adultes",
+   "description": "Ce que tapent les parents et les adultes qui cherchent un orthodontiste, l'étude sur 5 988 enfants, et les deux pages à écrire pour être trouvé par chacun.",
+   "date": "2026-11-04",
+   "lecture": "7 min",
+   "sujets": [
+    "par type de cabinet",
+    "site du cabinet",
+    "visibilité"
+   ],
+   "resume": "Les deux publics d'un cabinet d'orthodontie (parents et adultes), le tableau de leurs recherches, l'étude INSERM sur 5 988 enfants, le contenu de la page des parents et de celle des adultes, et la vérification en six étapes."
+  },
+  {
    "slug": "search-console-dentiste-trois-rapports-utiles",
    "titre": "Search Console pour un dentiste : les trois rapports utiles, et comment les lire en dix minutes par mois",
    "description": "Les trois rapports de la Search Console qui comptent pour un dentiste, le tableau de lecture, l'étude sur 14 milliards de pages et la routine du mois.",
@@ -42,7 +55,7 @@
     "par type de cabinet"
    ],
    "resume": "Le tableau des mots du praticien face aux mots des patients pour huit familles de soins, l'étude Ahrefs sur les petites recherches, la méthode en six étapes pour trouver les mots de vos patients et la place de chaque mot sur le site et la fiche Google.",
-   "modifie": "2026-11-02"
+   "modifie": "2026-11-04"
   },
   {
    "slug": "vitesse-site-dentiste-verifier-telephone",
@@ -206,7 +219,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-10-30",
+   "modifie": "2026-11-04",
    "maj": "2026-10-28"
   },
   {

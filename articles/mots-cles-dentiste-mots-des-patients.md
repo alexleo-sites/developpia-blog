@@ -37,7 +37,7 @@ Voici huit familles de soins, avec le mot que vous employez et ceux qu'un patien
 | Orthodontie par aligneurs | appareil invisible, gouttières dents adulte | Durée, est-ce que ça se voit |
 | Odontologie pédiatrique | dentiste pour enfant, carie de lait, première visite enfant | À quel âge venir, comment rassurer l'enfant |
 
-Deux familles ont déjà leur article sur le blog. Pour les facettes et le blanchiment, le tableau détaillé se trouve dans notre article sur [le référencement d'un cabinet d'esthétique dentaire](https://developpia.fr/blog/referencement-esthetique-dentaire-se-faire-trouver/). Pour les implants, l'article sur [le référencement d'un implantologue](https://developpia.fr/blog/referencement-implantologue-cent-implants-par-an/) explique pourquoi le mot « implant » doit apparaître partout.
+Deux familles ont déjà leur article sur le blog. Pour les facettes et le blanchiment, le tableau détaillé se trouve dans notre article sur [le référencement d'un cabinet d'esthétique dentaire](https://developpia.fr/blog/referencement-esthetique-dentaire-se-faire-trouver/). Pour les implants, l'article sur [le référencement d'un implantologue](https://developpia.fr/blog/referencement-implantologue-cent-implants-par-an/) explique pourquoi le mot « implant » doit apparaître partout. Pour l'orthodontie, [le référencement d'un orthodontiste](https://developpia.fr/blog/referencement-orthodontiste-parents-adultes/) sépare les recherches des parents et celles des adultes.
 
 ## Les petites recherches font le gros du volume
 
