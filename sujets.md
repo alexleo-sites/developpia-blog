@@ -123,7 +123,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 
 - [x] Implantologue : le référencement d'un cabinet qui pose cent implants par an | référencement implantologue | ce qui change quand l'acte est cher (publié le 2026-09-12, referencement-implantologue-cent-implants-par-an)
 - [x] Orthodontie et aligneurs : les recherches des parents et des adultes | référencement orthodontiste | deux publics, deux pages (publié le 2026-11-04, referencement-orthodontiste-parents-adultes)
-- [ ] Centre dentaire ou cabinet libéral : deux référencements différents | référencement centre dentaire | contraintes de chaque forme
+- [x] Centre dentaire ou cabinet libéral : deux référencements différents | référencement centre dentaire | contraintes de chaque forme (publié le 2026-11-06, referencement-centre-dentaire-cabinet-liberal)
 - [ ] ÉCARTÉ (remplacé par les trois articles pays de la partie 0) · Dentiste en Belgique, en Suisse, au Luxembourg : les règles changent | référencement dentiste belgique suisse luxembourg | ce qui reste vrai, ce qui diffère
 
 ## G. Décider

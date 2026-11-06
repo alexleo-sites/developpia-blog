@@ -74,7 +74,7 @@ Beaucoup d'adultes tapent le nom d'une marque de gouttières. Vous pouvez dire q
 
 Deux pages ne suffisent pas si personne n'y arrive. Elles s'inscrivent dans la logique d'[une page par soin](https://developpia.fr/blog/une-page-par-soin-site-dentiste/) : chacune vise une recherche et y répond en entier. Votre page d'accueil renvoie vers les deux, avec un lien clair : « Pour votre enfant » et « Pour vous, adulte ».
 
-La fiche Google, c'est l'encadré avec la carte, les horaires et le bouton Appeler qui s'affiche quand on tape le nom du cabinet. Dans sa liste de services, ajoutez les deux publics avec les mots des patients : « orthodontie enfant et adolescent », « gouttières adulte ». Notre page sur [la fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) détaille chaque champ. Si vous utilisez un agenda en ligne, nommez aussi les motifs de rendez-vous de la même façon.
+La fiche Google, c'est l'encadré avec la carte, les horaires et le bouton Appeler qui s'affiche quand on tape le nom du cabinet. Dans sa liste de services, ajoutez les deux publics avec les mots des patients : « orthodontie enfant et adolescent », « gouttières adulte ». Notre page sur [la fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) détaille chaque champ. Si vous utilisez un agenda en ligne, nommez aussi les motifs de rendez-vous de la même façon. Si vous exercez dans un centre de santé, les règles sont plus strictes : notre article sur [le référencement d'un centre dentaire](https://developpia.fr/blog/referencement-centre-dentaire-cabinet-liberal/) les détaille.
 
 La vérification, à faire vous-même en vingt minutes :
 

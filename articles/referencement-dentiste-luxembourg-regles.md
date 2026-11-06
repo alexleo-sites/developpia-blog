@@ -82,7 +82,7 @@ Pour la carte, Google applique au Luxembourg les mêmes critères qu'ailleurs : 
 - **Les annuaires.** L'article 13 de la charte autorise les annuaires, papier ou numériques, avec vos coordonnées, l'accès au cabinet et un lien vers votre site. Il interdit d'y acheter une place prioritaire. Le nom, l'adresse et le téléphone y sont identiques, à la lettre près, à ceux de la fiche Google.
 - **Le nom du cabinet.** Il reste sobre. La charte écarte toute communication qui présenterait le cabinet comme un commerce.
 
-La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) décrit les champs à remplir. La page [référencement dentiste](https://developpia.fr/referencement-dentiste/) explique comment nous écrivons chaque site dans le cadre du pays du cabinet, Luxembourg compris.
+La page [fiche Google de dentiste](https://developpia.fr/fiche-google-dentiste/) décrit les champs à remplir. La page [référencement dentiste](https://developpia.fr/referencement-dentiste/) explique comment nous écrivons chaque site dans le cadre du pays du cabinet, Luxembourg compris. En France, un centre de santé suit d'autres règles que le cabinet libéral, résumées dans notre article sur [le référencement d'un centre dentaire](https://developpia.fr/blog/referencement-centre-dentaire-cabinet-liberal/).
 
 ## Les liens et les marques : une règle à connaître
 

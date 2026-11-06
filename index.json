@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "referencement-centre-dentaire-cabinet-liberal",
+   "titre": "Référencement d'un centre dentaire : ce qui change par rapport à un cabinet libéral",
+   "description": "Ce que la loi interdit à un centre de santé dentaire, ce que Google attend de sa fiche et de ses praticiens, et le tableau qui compare centre et cabinet.",
+   "date": "2026-11-06",
+   "lecture": "7 min",
+   "sujets": [
+    "par type de cabinet",
+    "fiche Google",
+    "site du cabinet",
+    "cadre de l'Ordre"
+   ],
+   "resume": "Les deux cadres juridiques (centre de santé et cabinet libéral), l'étude Whitespark sur 47 experts et 187 critères, le tableau des différences, la fiche Google du centre et de ses praticiens, le site et la vérification en sept points."
+  },
+  {
    "slug": "referencement-orthodontiste-parents-adultes",
    "titre": "Référencement d'un orthodontiste : les recherches des parents et celles des adultes",
    "description": "Ce que tapent les parents et les adultes qui cherchent un orthodontiste, l'étude sur 5 988 enfants, et les deux pages à écrire pour être trouvé par chacun.",
@@ -11,7 +25,8 @@
     "site du cabinet",
     "visibilité"
    ],
-   "resume": "Les deux publics d'un cabinet d'orthodontie (parents et adultes), le tableau de leurs recherches, l'étude INSERM sur 5 988 enfants, le contenu de la page des parents et de celle des adultes, et la vérification en six étapes."
+   "resume": "Les deux publics d'un cabinet d'orthodontie (parents et adultes), le tableau de leurs recherches, l'étude INSERM sur 5 988 enfants, le contenu de la page des parents et de celle des adultes, et la vérification en six étapes.",
+   "modifie": "2026-11-06"
   },
   {
    "slug": "search-console-dentiste-trois-rapports-utiles",
@@ -350,7 +365,8 @@
     "visibilité",
     "par type de cabinet"
    ],
-   "resume": "La charte du Collège médical point par point, le tableau des différences avec la France, les photos avant et après, les titres, les langues et annuaires, et la vérification en dix minutes."
+   "resume": "La charte du Collège médical point par point, le tableau des différences avec la France, les photos avant et après, les titres, les langues et annuaires, et la vérification en dix minutes.",
+   "modifie": "2026-11-06"
   },
   {
    "slug": "referencement-dentiste-suisse-romande-regles",
