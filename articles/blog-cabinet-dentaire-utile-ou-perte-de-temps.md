@@ -26,7 +26,7 @@ L'intérêt existe donc. Il dépend entièrement de ce qu'on écrit, et de l'ét
 Répondez à ces quatre questions dans l'ordre. Un seul « non » suffit à remettre le blog à plus tard.
 
 1. **Chaque soin que vous voulez développer a-t-il sa propre page sur le site ?** Implant, facettes, aligneurs, prothèse complète : une page chacun, complète. Notre article sur [une page par soin sur un site de dentiste](https://developpia.fr/blog/une-page-par-soin-site-dentiste/) explique pourquoi elle passe avant tout le reste.
-2. **Vos honoraires, votre équipe et vos informations pratiques sont-ils en ligne ?** Un patient qui arrive par un article et ne trouve pas ces informations repart.
+2. **Vos honoraires, votre équipe et vos informations pratiques sont-ils en ligne ?** Un patient qui arrive par un article et ne trouve pas ces informations repart. Pour des patients anglophones, ces pages passent aussi avant le blog, comme l'explique notre article sur [le site de dentiste en anglais](https://developpia.fr/blog/site-dentiste-anglais-plusieurs-langues/).
 3. **Le site se lit-il sans script, sur téléphone, et s'affiche-t-il vite ?** Les robots d'OpenAI, d'Anthropic et de Perplexity ne lisent pas le JavaScript. Un article affiché par script leur reste invisible. Pour la rapidité, le test de [la vitesse du site d'un dentiste sur téléphone](https://developpia.fr/blog/vitesse-site-dentiste-verifier-telephone/) prend cinq minutes.
 4. **Quelqu'un peut-il relire chaque article, au cabinet, avant sa publication ?** Le texte engage le praticien devant l'Ordre, quel que soit son auteur.
 

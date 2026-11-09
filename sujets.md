@@ -134,7 +134,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 
 ## H. Sujets ajoutés le 12/09 (pour tenir six mois à deux articles par semaine)
 
-- [ ] Le site du cabinet doit-il être en plusieurs langues ? | site dentiste anglais | quand ça sert, comment le faire sans doublon
+- [x] Le site du cabinet doit-il être en plusieurs langues ? | site dentiste anglais | quand ça sert, comment le faire sans doublon (publié le 2026-11-09, site-dentiste-anglais-plusieurs-langues)
 - [ ] ÉCARTÉ (08/10 : doublon des articles douze informations, accueil téléphonique et résultat du référencement) · Le téléphone du cabinet sur le site : cliquable, visible, et mesuré | bouton appel site dentiste | l'appel est le premier résultat à compter
 - [ ] Urgence dentaire : la page que les patients cherchent le week-end | urgence dentaire site cabinet | ce qu'elle dit, ce qu'elle ne promet pas
 - [ ] La page « première visite » : rassurer avant le premier rendez-vous | première consultation dentiste site | déroulé, documents, durée

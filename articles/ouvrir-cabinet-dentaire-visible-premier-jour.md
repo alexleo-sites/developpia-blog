@@ -58,7 +58,7 @@ Les pages à avoir en ligne le premier jour :
 - le praticien et l'équipe, avec les titres autorisés ;
 - une page par grand soin que vous pratiquez, même courte, et deux pour l'orthodontie, comme l'explique [le référencement d'un orthodontiste](https://developpia.fr/blog/referencement-orthodontiste-parents-adultes/) ;
 - les honoraires et les modes de paiement, que l'article R.4127-240 impose d'indiquer, comme le détaille notre article sur [les honoraires sur le site du cabinet dentaire](https://developpia.fr/blog/honoraires-site-cabinet-dentaire-obligation-presentation/) ;
-- l'accès : étage, code, transports, stationnement, accès en fauteuil roulant ;
+- l'accès : étage, code, transports, stationnement, accès en fauteuil roulant, et si vos patients parlent anglais, voyez [quand un site de dentiste en anglais est utile](https://developpia.fr/blog/site-dentiste-anglais-plusieurs-langues/) ;
 - le bouton de prise de rendez-vous et le numéro qu'on peut toucher pour appeler.
 
 Pour choisir l'outil derrière ce bouton, voyez [l'alternative à Doctolib pour un cabinet dentaire et ce qu'il faut comparer](https://developpia.fr/blog/alternative-doctolib-cabinet-dentaire-que-comparer/).
