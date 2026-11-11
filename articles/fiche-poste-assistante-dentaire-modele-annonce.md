@@ -52,7 +52,7 @@ Voici les rubriques à reprendre, avec un exemple rempli pour le cabinet fictif 
 | Diplôme demandé | Le titre exigé ou accepté | Titre d'assistant dentaire, ou formation en cours en alternance |
 | Point d'étape | Quand on relit la fiche ensemble | À un mois, puis chaque année |
 
-La rubrique la plus utile est souvent « ce qui passe en premier ». C'est elle qui répond à la scène du lundi matin. Si vous ne savez pas la remplir, c'est que l'organisation du cabinet n'est pas encore décidée : les règles de notre article sur [l'organisation de l'agenda d'un cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/) aident à trancher, en particulier sur les plages d'urgence.
+La rubrique la plus utile est souvent « ce qui passe en premier ». C'est elle qui répond à la scène du lundi matin. Si vous ne savez pas la remplir, c'est que l'organisation du cabinet n'est pas encore décidée : les règles de notre article sur [l'organisation de l'agenda d'un cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/) aident à trancher, en particulier sur les plages d'urgence. Ce que le site doit dire au patient qui a mal est détaillé dans notre article sur [la page urgence dentaire du site du cabinet](https://developpia.fr/blog/urgence-dentaire-site-cabinet-page-week-end/).
 
 > **La phrase à retenir**
 > Une bonne fiche de poste dit d'abord ce qui passe en premier quand tout arrive en même temps : c'est la question que la nouvelle assistante se pose dès sa première heure.

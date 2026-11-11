@@ -75,7 +75,7 @@ Pour un cabinet neuf, l'enjeu est simple : chaque appel manqué est un patient q
 
 Trois choses à régler avant l'ouverture :
 
-- **Le message d'accueil.** Le nom du cabinet, les horaires, et ce qu'il faut faire le dimanche en cas d'urgence.
+- **Le message d'accueil.** Le nom du cabinet, les horaires, et ce qu'il faut faire le dimanche en cas d'urgence. Le site le redit sur [la page urgence dentaire du site du cabinet](https://developpia.fr/blog/urgence-dentaire-site-cabinet-page-week-end/).
 - **Qui décroche pendant les soins.** L'assistante, un télésecrétariat ou un assistant téléphonique, qui répond quand l'équipe est au fauteuil. Les trois solutions sont comparées dans notre article sur [le secrétariat d'un cabinet dentaire](https://developpia.fr/blog/secretariat-cabinet-dentaire-secretaire-telesecretariat-ia/).
 - **Le lien de rendez-vous.** Le bouton du site et celui de la fiche mènent directement à l'agenda en ligne, sans page intermédiaire. Les règles pour construire cet agenda dès le départ sont dans notre article sur [l'organisation de l'agenda d'un cabinet dentaire](https://developpia.fr/blog/organisation-agenda-cabinet-dentaire-regles/).
 

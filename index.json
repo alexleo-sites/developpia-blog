@@ -1,6 +1,20 @@
 {
  "articles": [
   {
+   "slug": "urgence-dentaire-site-cabinet-page-week-end",
+   "titre": "Urgence dentaire sur le site du cabinet : la page que les patients cherchent le week-end",
+   "description": "Le plan de la page urgence dentaire du site du cabinet, ce qu'elle dit le dimanche, les formules à éviter et la vérification à faire sur téléphone.",
+   "date": "2026-11-11",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "vie du cabinet",
+    "téléphone",
+    "Google Maps"
+   ],
+   "resume": "Qui cherche une urgence dentaire et quand, l'enquête de la DREES sur 40 000 personnes, le plan de la page en tableau, ce qu'il faut écrire pour le dimanche et les jours fériés, les formules à éviter et la vérification en sept étapes."
+  },
+  {
    "slug": "site-dentiste-anglais-plusieurs-langues",
    "titre": "Site de dentiste en anglais : quand c'est utile, et comment le faire sans erreur",
    "description": "Qui cherche un dentiste en anglais, les pages à traduire d'abord, les réglages que Google demande et la vérification à faire vous-même en cinq minutes.",
@@ -125,7 +139,8 @@
     "décider"
    ],
    "resume": "Le modèle de fiche de poste d'une assistante dentaire en tableau, le cadre à respecter, les chiffres de l'Insee sur le métier, la part du travail qu'on peut confier à des outils et le texte de l'annonce à reprendre.",
-   "maj": "2026-10-28"
+   "maj": "2026-10-28",
+   "modifie": "2026-11-11"
   },
   {
    "slug": "chiffre-affaires-cabinet-dentaire-reperes-publics",
@@ -247,7 +262,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-11-09",
+   "modifie": "2026-11-11",
    "maj": "2026-10-28"
   },
   {
