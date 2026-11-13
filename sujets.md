@@ -137,7 +137,7 @@ trois derniers : les pays où nous cherchons aussi des clients.
 - [x] Le site du cabinet doit-il être en plusieurs langues ? | site dentiste anglais | quand ça sert, comment le faire sans doublon (publié le 2026-11-09, site-dentiste-anglais-plusieurs-langues)
 - [ ] ÉCARTÉ (08/10 : doublon des articles douze informations, accueil téléphonique et résultat du référencement) · Le téléphone du cabinet sur le site : cliquable, visible, et mesuré | bouton appel site dentiste | l'appel est le premier résultat à compter
 - [x] Urgence dentaire : la page que les patients cherchent le week-end | urgence dentaire site cabinet | ce qu'elle dit, ce qu'elle ne promet pas (publié le 2026-11-11, urgence-dentaire-site-cabinet-page-week-end)
-- [ ] La page « première visite » : rassurer avant le premier rendez-vous | première consultation dentiste site | déroulé, documents, durée
+- [x] La page « première visite » : rassurer avant le premier rendez-vous | première consultation dentiste site | déroulé, documents, durée (publié le 2026-11-13, premiere-consultation-dentiste-page-site)
 - [ ] Les photos du cabinet : ce qui est utile, ce qui est interdit | photos site cabinet dentaire | locaux, équipe, matériel ; les avant/après ont leur propre article
 - [ ] Le nom de domaine du cabinet : le choisir, le garder, ne jamais le perdre | nom de domaine cabinet dentaire | propriété, renouvellement, changement de prestataire
 - [ ] ÉCARTÉ (08/10 : fusionné dans « Alternative à Doctolib », PRIORITÉ B2) · Doctolib, Maiia, Clicrdv : le lien de prise de rendez-vous et le référencement | prise de rendez-vous en ligne dentiste référencement | rôle de l'outil, place sur le site

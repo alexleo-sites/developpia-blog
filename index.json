@@ -1,6 +1,18 @@
 {
  "articles": [
   {
+   "slug": "premiere-consultation-dentiste-page-site",
+   "titre": "Première consultation chez le dentiste : la page du site qui rassure avant le rendez-vous",
+   "description": "Ce que la page première consultation du site d'un dentiste doit dire : déroulé, documents, durée, honoraires, et la vérification à faire vous-même.",
+   "date": "2026-11-13",
+   "lecture": "7 min",
+   "sujets": [
+    "site du cabinet",
+    "vie du cabinet"
+   ],
+   "resume": "Ce que se demande un nouveau patient avant la première consultation, l'enquête nationale sur 2 725 adultes et la peur du dentiste, le plan de la page en tableau, les mots qui rassurent sans promettre, et la vérification en six étapes."
+  },
+  {
    "slug": "urgence-dentaire-site-cabinet-page-week-end",
    "titre": "Urgence dentaire sur le site du cabinet : la page que les patients cherchent le week-end",
    "description": "Le plan de la page urgence dentaire du site du cabinet, ce qu'elle dit le dimanche, les formules à éviter et la vérification à faire sur téléphone.",
@@ -12,7 +24,8 @@
     "téléphone",
     "Google Maps"
    ],
-   "resume": "Qui cherche une urgence dentaire et quand, l'enquête de la DREES sur 40 000 personnes, le plan de la page en tableau, ce qu'il faut écrire pour le dimanche et les jours fériés, les formules à éviter et la vérification en sept étapes."
+   "resume": "Qui cherche une urgence dentaire et quand, l'enquête de la DREES sur 40 000 personnes, le plan de la page en tableau, ce qu'il faut écrire pour le dimanche et les jours fériés, les formules à éviter et la vérification en sept étapes.",
+   "modifie": "2026-11-13"
   },
   {
    "slug": "site-dentiste-anglais-plusieurs-langues",
@@ -262,7 +275,7 @@
     "visibilité"
    ],
    "resume": "Ce qu'un praticien qui ouvre son cabinet dentaire doit préparer en ligne avant l'ouverture (nom, fiche Google, site, téléphone, prise de rendez-vous), le calendrier en tableau et la vérification du premier jour.",
-   "modifie": "2026-11-11",
+   "modifie": "2026-11-13",
    "maj": "2026-10-28"
   },
   {

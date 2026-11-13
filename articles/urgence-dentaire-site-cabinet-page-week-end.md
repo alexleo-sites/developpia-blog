@@ -21,7 +21,7 @@ Deux personnes, qui n'attendent pas la même chose.
 - **Votre patient habituel**, un soir ou un dimanche. Il connaît le cabinet, il veut savoir quoi faire maintenant, puisque vous êtes fermé.
 - **Une personne qui ne vous connaît pas** : elle vient d'emménager, elle est en déplacement, ou son dentiste ne peut pas la recevoir avant plusieurs jours. Elle cherche un cabinet qui la prendra vite.
 
-Les deux sont sur leur téléphone, et les deux ont mal. Ils lisent trois lignes, pas trente. Ils veulent trois réponses : est-ce que vous recevez les urgences, à quel numéro, et que faire si le cabinet est fermé. C'est le dixième point de notre liste des [douze informations qu'un patient cherche sur le site d'un dentiste](https://developpia.fr/blog/douze-informations-patient-site-dentiste/) : ici, on écrit la page elle-même.
+Les deux sont sur leur téléphone, et les deux ont mal. Ils lisent trois lignes, pas trente. Ils veulent trois réponses : est-ce que vous recevez les urgences, à quel numéro, et que faire si le cabinet est fermé. C'est le dixième point de notre liste des [douze informations qu'un patient cherche sur le site d'un dentiste](https://developpia.fr/blog/douze-informations-patient-site-dentiste/) : ici, on écrit la page elle-même. Le patient qui prend un premier rendez-vous sans urgence a lui aussi la sienne : [la page première consultation du site d'un dentiste](https://developpia.fr/blog/premiere-consultation-dentiste-page-site/).
 
 ## Ce que mesure l'enquête de la DREES sur 40 000 personnes
 
